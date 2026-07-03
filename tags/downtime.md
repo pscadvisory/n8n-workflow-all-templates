@@ -1,4 +1,4 @@
-# downtime : 7
+# downtime : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6645|[6645_Multi-channel_Website_Downtime_Alerts_with_UptimeRobot__Slack__WhatsApp___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6645_Multi-channel_Website_Downtime_Alerts_with_UptimeRobot__Slack__WhatsApp___Notion.json)|
 |6747|[6747_API_Uptime_Monitoring_with_WhatsApp_Alerts___Google_Sheets_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6747_API_Uptime_Monitoring_with_WhatsApp_Alerts___Google_Sheets_Management.json)|
 |11763|[11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json)|
+|16470|[16470_Notify_website_downtime_via_email_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16470_Notify_website_downtime_via_email_and_Telegram_alerts.json)|

@@ -1,4 +1,4 @@
-# aggregate : 17
+# aggregate : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |13839|[13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json)|
 |14806|[14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json)|
 |14996|[14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json)|
+|15783|[15783_Aggregate_SAP_news__score_with_OpenAI__and_post_summaries_to_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15783_Aggregate_SAP_news__score_with_OpenAI__and_post_summaries_to_Microsoft_Teams.json)|
+|16338|[16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json)|

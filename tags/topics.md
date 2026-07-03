@@ -1,4 +1,4 @@
-# topics : 14
+# topics : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |13608|[13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json)|
 |14257|[14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json)|
 |14380|[14380_Map_which_AI_search_topics_each_domain_owns_with_SE_Ranking_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14380_Map_which_AI_search_topics_each_domain_owns_with_SE_Ranking_and_GPT.json)|
+|15102|[15102_Create_weekly_AI_WordPress_posts_with_images_from_SharePoint_topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15102_Create_weekly_AI_WordPress_posts_with_images_from_SharePoint_topics.json)|
+|15950|[15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json)|
+|15988|[15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json)|

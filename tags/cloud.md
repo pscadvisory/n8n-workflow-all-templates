@@ -1,4 +1,4 @@
-# cloud : 30
+# cloud : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |13320|[13320_Monitor_multi-cloud_costs_and_enforce_policies_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13320_Monitor_multi-cloud_costs_and_enforce_policies_with_OpenAI_and_Slack_alerts.json)|
 |14003|[14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json)|
 |14975|[14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json)|
+|16198|[16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json)|
+|16589|[16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json)|

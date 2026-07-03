@@ -1,4 +1,4 @@
-# about : 24
+# about : 26
 
 |id|file|
 |----|----|
@@ -26,3 +26,5 @@
 |12507|[12507_Build_person_OSINT_profiles_using_Humantic_AI__Hunter__CourtListener_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12507_Build_person_OSINT_profiles_using_Humantic_AI__Hunter__CourtListener_and_GPT-5.json)|
 |12757|[12757_Ask_questions_about_past_meetings_using_voice_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12757_Ask_questions_about_past_meetings_using_voice_with_OpenAI_and_Pinecone.json)|
 |12841|[12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json)|
+|16697|[16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json)|
+|16780|[16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json)|

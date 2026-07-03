@@ -1,4 +1,4 @@
-# optimize : 28
+# optimize : 33
 
 |id|file|
 |----|----|
@@ -30,3 +30,8 @@
 |14211|[14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json)|
 |14462|[14462_Monitor_and_optimize_carbon_emissions_for_ESG_with_GPT_4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14462_Monitor_and_optimize_carbon_emissions_for_ESG_with_GPT_4o__Slack_and_Google_Sheets.json)|
 |14464|[14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json)|
+|15119|[15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json)|
+|15552|[15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json)|
+|15673|[15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json)|
+|16110|[16110_Optimize_inactive_Microsoft_365_premium_licenses_with_Graph_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16110_Optimize_inactive_Microsoft_365_premium_licenses_with_Graph_and_Teams.json)|
+|16342|[16342_Optimize_maritime_routes_and_disruption_response_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16342_Optimize_maritime_routes_and_disruption_response_with_OpenAI_and_Slack.json)|

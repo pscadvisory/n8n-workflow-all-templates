@@ -1,4 +1,4 @@
-# distribution : 21
+# distribution : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |11996|[11996_Social_media_auto-posting_to_Instagram__Facebook___LinkedIn_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11996_Social_media_auto-posting_to_Instagram__Facebook___LinkedIn_from_Google_Sheets.json)|
 |12159|[12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json)|
 |13725|[13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json)|
+|16367|[16367_Analyze_commodity_portfolio_diversification_with_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16367_Analyze_commodity_portfolio_diversification_with_Sheets__Gemini__and_Gmail.json)|
+|16480|[16480_Send_Stripe_payment_invoices_with_Gmail__Google_Drive__and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16480_Send_Stripe_payment_invoices_with_Gmail__Google_Drive__and_WhatsApp.json)|

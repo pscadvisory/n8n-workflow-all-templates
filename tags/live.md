@@ -1,4 +1,4 @@
-# live : 20
+# live : 24
 
 |id|file|
 |----|----|
@@ -22,3 +22,7 @@
 |14368|[14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14368_Generate_real-time_IPL_commentary_from_CricAPI_data_with_GPT-4o.json)|
 |14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
 |14672|[14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14672_Extract_live_stream_highlights_using_WayinVideo_AI_Clipping_API_and_Google_Drive.json)|
+|15678|[15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|16039|[16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json)|
+|16308|[16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json)|

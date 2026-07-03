@@ -1,4 +1,4 @@
-# queue : 8
+# queue : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |1047|[1047_Send_location_updates_of_the_ISS_every_minute_to_a_queue_in_AWS_SQS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1047_Send_location_updates_of_the_ISS_every_minute_to_a_queue_in_AWS_SQS.json)|
 |9345|[9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json)|
 |9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
+|16185|[16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json)|
+|16434|[16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json)|

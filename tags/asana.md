@@ -1,4 +1,4 @@
-# asana : 27
+# asana : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |12498|[12498_Analyze_stock_sentiment_with_GPT-4o_and_create_Asana_tasks_with_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12498_Analyze_stock_sentiment_with_GPT-4o_and_create_Asana_tasks_with_Slack_alerts.json)|
 |13490|[13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json)|
 |13689|[13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json)|
+|16227|[16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json)|
+|16270|[16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json)|

@@ -1,4 +1,4 @@
-# auditor : 7
+# auditor : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |13683|[13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13683_Audit_contract_governance_risk_with_OpenAI__Slack_and_email_routing.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
 |14423|[14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14423_Audit_workflow_credential_usage_to_Google_Sheets_using_Google_Drive_and_SQLite3.json)|
+|15945|[15945_Audit_SaaS_subscription_waste_from_Gmail_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15945_Audit_SaaS_subscription_waste_from_Gmail_with_GPT-4.1-mini_and_Google_Sheets.json)|
+|16658|[16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json)|

@@ -1,4 +1,4 @@
-# faceless : 5
+# faceless : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6014|[6014_Create_Faceless_Videos_with_Gemini__ElevenLabs__Leonardo_AI___Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6014_Create_Faceless_Videos_with_Gemini__ElevenLabs__Leonardo_AI___Shotstack.json)|
 |8290|[8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json)|
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
+|16358|[16358_Create_daily_faceless_YouTube_Shorts_with_Groq__SamAutomation_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16358_Create_daily_faceless_YouTube_Shorts_with_Groq__SamAutomation_and_Google_Sheets.json)|

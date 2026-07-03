@@ -1,4 +1,4 @@
-# nurture : 15
+# nurture : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |13979|[13979_Score_and_nurture_HubSpot_leads_with_Clearbit_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13979_Score_and_nurture_HubSpot_leads_with_Clearbit_and_Gemini_AI.json)|
 |14355|[14355_Nurture_and_email_leads_from_Google_Sheets_with_GPT_4.1_Mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14355_Nurture_and_email_leads_from_Google_Sheets_with_GPT_4.1_Mini_and_Gmail.json)|
 |14614|[14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json)|
+|15536|[15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json)|
+|15616|[15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json)|

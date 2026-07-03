@@ -1,4 +1,4 @@
-# commercial : 4
+# commercial : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |7132|[7132_Automate_Commercial_Insurance_Submissions_with_Google_Suite__PDF___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7132_Automate_Commercial_Insurance_Submissions_with_Google_Suite__PDF___Email.json)|
 |11927|[11927_Automate_commercial_real_estate_monitoring_with_ScrapeGraphAI__Notion_and_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11927_Automate_commercial_real_estate_monitoring_with_ScrapeGraphAI__Notion_and_Mailchimp.json)|
 |12233|[12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json)|
+|15819|[15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json)|

@@ -1,4 +1,4 @@
-# trading : 23
+# trading : 25
 
 |id|file|
 |----|----|
@@ -25,3 +25,5 @@
 |11461|[11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json)|
 |13651|[13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json)|
 |14235|[14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json)|
+|15679|[15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json)|
+|15844|[15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json)|

@@ -1,4 +1,4 @@
-# doc : 15
+# doc : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |8461|[8461_Create_Ideal_Customer_Profile_from_Websites_Content_to_Google_Doc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8461_Create_Ideal_Customer_Profile_from_Websites_Content_to_Google_Doc.json)|
 |9933|[9933_Multi-Format_Document_Processing_for_RAG_Chatbot_with_Google_Drive___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9933_Multi-Format_Document_Processing_for_RAG_Chatbot_with_Google_Drive___Supabase.json)|
 |9934|[9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json)|
+|15145|[15145_Generate_24s_engaging_conspiracy_doc_reels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15145_Generate_24s_engaging_conspiracy_doc_reels.json)|
+|15985|[15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json)|
+|16658|[16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json)|

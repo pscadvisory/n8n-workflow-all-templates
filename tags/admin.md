@@ -1,4 +1,4 @@
-# admin : 6
+# admin : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6002|[6002_Track_OpenAI_Admin_API_Usage_and_Costs_Automatically_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6002_Track_OpenAI_Admin_API_Usage_and_Costs_Automatically_with_Google_Sheets.json)|
 |9203|[9203_Add_User_Authorization_Layer_to_Your_Telegram_Bot_with_Admin_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9203_Add_User_Authorization_Layer_to_Your_Telegram_Bot_with_Admin_Alerts.json)|
 |11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|
+|15936|[15936_Send_admin_email_alerts_for_paid_Sharetribe_transactions_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15936_Send_admin_email_alerts_for_paid_Sharetribe_transactions_with_Gmail.json)|

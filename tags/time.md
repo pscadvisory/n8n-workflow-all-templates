@@ -1,4 +1,4 @@
-# time : 126
+# time : 134
 
 |id|file|
 |----|----|
@@ -128,3 +128,11 @@
 |14511|[14511_Send_weekly_TMetric_time_reports_to_employees_on_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14511_Send_weekly_TMetric_time_reports_to_employees_on_Slack.json)|
 |14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
 |14935|[14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14935_Sync_Zoho_CRM_contacts_with_Beex_Contact_Center_in_real_time.json)|
+|15094|[15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json)|
+|15097|[15097_Send_Fireflies_meeting_talk-time_dominance_reports_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15097_Send_Fireflies_meeting_talk-time_dominance_reports_to_Telegram.json)|
+|15278|[15278_Manage_portfolio_assets_via_webhook_with_Google_Sheets_and_real-time_totals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15278_Manage_portfolio_assets_via_webhook_with_Google_Sheets_and_real-time_totals.json)|
+|15451|[15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json)|
+|15552|[15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json)|
+|15572|[15572_Coordinate_robot_swarms_with_OpenAI_GPT-5_and_real-time_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15572_Coordinate_robot_swarms_with_OpenAI_GPT-5_and_real-time_Slack_alerts.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15925|[15925_Monitor_website_uptime_and_send_alerts_via_Uptime_Robot__Claude__and_email_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15925_Monitor_website_uptime_and_send_alerts_via_Uptime_Robot__Claude__and_email_chat.json)|

@@ -1,4 +1,4 @@
-# competitive : 9
+# competitive : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9903|[9903_Competitive_Price_Monitoring___Alerts_with_Bright_Data__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9903_Competitive_Price_Monitoring___Alerts_with_Bright_Data__Sheets___Slack.json)|
 |10205|[10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json)|
 |11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|
+|15475|[15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json)|

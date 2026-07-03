@@ -1,4 +1,4 @@
-# intelligent : 63
+# intelligent : 65
 
 |id|file|
 |----|----|
@@ -65,3 +65,5 @@
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15377|[15377_Intelligent_Support_Triage___Auto-Response_Engine_with_Jotform__Airtable__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15377_Intelligent_Support_Triage___Auto-Response_Engine_with_Jotform__Airtable__Gemini.json)|
+|15754|[15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json)|

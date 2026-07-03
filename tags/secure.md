@@ -1,4 +1,4 @@
-# secure : 18
+# secure : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|
 |12661|[12661_Secure_and_classify_legal_documents_with_OpenAI__Airtable_and_HTML_to_PDF.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12661_Secure_and_classify_legal_documents_with_OpenAI__Airtable_and_HTML_to_PDF.json)|
 |14486|[14486_Secure_AI_agent_webhook_with_HMAC__replay_protection__and_OpenAI_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14486_Secure_AI_agent_webhook_with_HMAC__replay_protection__and_OpenAI_GPT-5.json)|
+|15797|[15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json)|

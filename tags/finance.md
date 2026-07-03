@@ -1,4 +1,4 @@
-# finance : 23
+# finance : 26
 
 |id|file|
 |----|----|
@@ -25,3 +25,6 @@
 |12547|[12547_Route_and_review_finance_documents_from_Google_Drive_with_AI__Notion__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12547_Route_and_review_finance_documents_from_Google_Drive_with_AI__Notion__Gmail__Slack__and_Google_Sheets.json)|
 |13272|[13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json)|
 |14762|[14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json)|
+|15066|[15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json)|
+|15068|[15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json)|
+|15679|[15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json)|

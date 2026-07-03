@@ -1,4 +1,4 @@
-# database : 112
+# database : 115
 
 |id|file|
 |----|----|
@@ -114,3 +114,6 @@
 |14304|[14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json)|
 |14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
 |14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|
+|15256|[15256_Send_weekly_SQL_Server_health_reports_via_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15256_Send_weekly_SQL_Server_health_reports_via_email.json)|
+|16800|[16800_Normalize_and_backfill_Notion_database_properties_with_rules_and_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16800_Normalize_and_backfill_Notion_database_properties_with_rules_and_logging.json)|
+|16801|[16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json)|

@@ -1,4 +1,4 @@
-# stripe : 66
+# stripe : 77
 
 |id|file|
 |----|----|
@@ -68,3 +68,14 @@
 |13980|[13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json)|
 |13982|[13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json)|
 |14761|[14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json)|
+|15464|[15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json)|
+|15726|[15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json)|
+|15791|[15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json)|
+|15812|[15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json)|
+|15873|[15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json)|
+|15932|[15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|
+|16083|[16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json)|
+|16333|[16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json)|
+|16480|[16480_Send_Stripe_payment_invoices_with_Gmail__Google_Drive__and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16480_Send_Stripe_payment_invoices_with_Gmail__Google_Drive__and_WhatsApp.json)|
+|16754|[16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json)|

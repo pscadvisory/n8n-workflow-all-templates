@@ -1,4 +1,4 @@
-# kie : 19
+# kie : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |13367|[13367_Generate_Images_on_Telegram_____from_Text_and_Voice_using_Grok_Imagine___Kie_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13367_Generate_Images_on_Telegram_____from_Text_and_Voice_using_Grok_Imagine___Kie_AI.json)|
 |13888|[13888_Generate_Viral_AI_Motion_Video____using_Kling_2.6_Kie_AI___Auto-Post_to_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13888_Generate_Viral_AI_Motion_Video____using_Kling_2.6_Kie_AI___Auto-Post_to_TikTok.json)|
 |14000|[14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14000_Generate_research-backed_infographics_with_GPT-4__kie.ai__and_Gmail.json)|
+|16439|[16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json)|

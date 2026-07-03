@@ -1,4 +1,4 @@
-# zillow : 8
+# zillow : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |9182|[9182_Extract_Zillow_Property_Data_to_Google_Sheets_with_Scrape.do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9182_Extract_Zillow_Property_Data_to_Google_Sheets_with_Scrape.do.json)|
 |9335|[9335_Analyze_Real_Estate_Investment_Potential__Zillow_Properties_to_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9335_Analyze_Real_Estate_Investment_Potential__Zillow_Properties_to_Google_Sheets_with_GPT-4o.json)|
 |11130|[11130_Scrape_Property_Listings_from_Zillow_with_Olostep_API_and_Store_in_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11130_Scrape_Property_Listings_from_Zillow_with_Olostep_API_and_Store_in_Data_Tables.json)|
+|15472|[15472_Compare_rental_estimates_from_Zillow__HUD_FMR_and_Rentometer_with_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15472_Compare_rental_estimates_from_Zillow__HUD_FMR_and_Rentometer_with_GPT-4.1.json)|
+|15477|[15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json)|

@@ -1,4 +1,4 @@
-# ats : 5
+# ats : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |9332|[9332_Automate_LinkedIn_Job_Postings_from_Recrutei_ATS_with_GPT-4o_Content_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9332_Automate_LinkedIn_Job_Postings_from_Recrutei_ATS_with_GPT-4o_Content_Generation.json)|
 |12040|[12040_Launch_job_vacancies_from_ATS_to_Google_Calendar__ClickUp_and_LinkedIn_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12040_Launch_job_vacancies_from_ATS_to_Google_Calendar__ClickUp_and_LinkedIn_with_GPT-4o.json)|
 |12076|[12076_Manage_recruitment_tasks_in_Slack_with_Recrutei_ATS___GPT-4_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12076_Manage_recruitment_tasks_in_Slack_with_Recrutei_ATS___GPT-4_Agent.json)|
+|15942|[15942_Analyze_resume_PDFs_for_ATS_fit_with_OpenRouter_GPT_via_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15942_Analyze_resume_PDFs_for_ATS_fit_with_OpenRouter_GPT_via_webhook.json)|

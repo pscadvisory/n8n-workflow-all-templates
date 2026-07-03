@@ -1,4 +1,4 @@
-# shopping : 14
+# shopping : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |13836|[13836_Monitor_competitor_prices_with_Google_Shopping_and_Google_Sheets__alert_via_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13836_Monitor_competitor_prices_with_Google_Shopping_and_Google_Sheets__alert_via_Slack_and_Gmail.json)|
 |14095|[14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json)|
 |14330|[14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json)|
+|16436|[16436_Track_Google_Shopping_price_alerts_with_ScraperAPI__Airtable_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16436_Track_Google_Shopping_price_alerts_with_ScraperAPI__Airtable_and_Gmail.json)|

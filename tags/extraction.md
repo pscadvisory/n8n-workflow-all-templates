@@ -1,4 +1,4 @@
-# extraction : 57
+# extraction : 61
 
 |id|file|
 |----|----|
@@ -59,3 +59,7 @@
 |14390|[14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14390_Generate_multi-pass_Seedance_AI_roto_mattes_with_QC_and_Nuke_handoff.json)|
 |14957|[14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json)|
 |14974|[14974_Monitor_Austrian_public_tenders_daily_with_easybits_PDF_extraction_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14974_Monitor_Austrian_public_tenders_daily_with_easybits_PDF_extraction_and_Slack_alerts.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15460|[15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json)|
+|15896|[15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json)|
+|15995|[15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json)|

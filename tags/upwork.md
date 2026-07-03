@@ -1,4 +1,4 @@
-# upwork : 24
+# upwork : 27
 
 |id|file|
 |----|----|
@@ -26,3 +26,6 @@
 |12952|[12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json)|
 |13870|[13870_Generate_Upwork_proposals_with_GPT-4o-mini__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13870_Generate_Upwork_proposals_with_GPT-4o-mini__Airtable_and_Slack.json)|
 |14215|[14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json)|
+|15193|[15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|16038|[16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json)|

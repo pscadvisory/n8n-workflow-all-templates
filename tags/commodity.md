@@ -1,0 +1,13 @@
+# commodity : 9
+
+|id|file|
+|----|----|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
+|15333|[15333_Track_commodity_portfolio_drift_with_Google_Sheets__Gemini_AI_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15333_Track_commodity_portfolio_drift_with_Google_Sheets__Gemini_AI_and_Gmail_alerts.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|15954|[15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json)|
+|16260|[16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json)|
+|16265|[16265_Track_commodity_news_sentiment_with_Groq__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16265_Track_commodity_news_sentiment_with_Groq__Google_Sheets__and_Slack.json)|
+|16303|[16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|
+|16367|[16367_Analyze_commodity_portfolio_diversification_with_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16367_Analyze_commodity_portfolio_diversification_with_Sheets__Gemini__and_Gmail.json)|

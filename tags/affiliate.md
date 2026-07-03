@@ -1,4 +1,4 @@
-# affiliate : 8
+# affiliate : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |10176|[10176_Affiliate_Competitor_Tracking___Analysis_with_AI__Bright_Data__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10176_Affiliate_Competitor_Tracking___Analysis_with_AI__Bright_Data__Sheets___Slack.json)|
 |10372|[10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json)|
 |12437|[12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json)|
+|15130|[15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json)|
+|15639|[15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json)|

@@ -1,4 +1,4 @@
-# documents : 90
+# documents : 97
 
 |id|file|
 |----|----|
@@ -92,3 +92,10 @@
 |14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
 |14327|[14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14327_Extract_data_from_Dropbox_documents_with_DocuPipe_and_post_to_Slack.json)|
 |14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15365|[15365_Classify_and_route_uploaded_documents_to_Google_Drive_with_an_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15365_Classify_and_route_uploaded_documents_to_Google_Drive_with_an_AI_agent.json)|
+|15790|[15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json)|
+|15866|[15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json)|
+|16181|[16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json)|
+|16625|[16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|

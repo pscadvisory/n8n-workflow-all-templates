@@ -1,4 +1,4 @@
-# event : 73
+# event : 76
 
 |id|file|
 |----|----|
@@ -75,3 +75,6 @@
 |14656|[14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json)|
 |14705|[14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json)|
 |14708|[14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14708_Send_post-event_session_digest_emails_with_WayinVideo__OpenAI_and_Gmail.json)|
+|15992|[15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json)|
+|16097|[16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json)|
+|16697|[16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json)|

@@ -1,4 +1,4 @@
-# webhooks : 33
+# webhooks : 43
 
 |id|file|
 |----|----|
@@ -35,3 +35,13 @@
 |13452|[13452_Export_Glasp_highlights_to_Notion__Slack__Google_Sheets__or_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13452_Export_Glasp_highlights_to_Notion__Slack__Google_Sheets__or_webhooks.json)|
 |13491|[13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json)|
 |13932|[13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json)|
+|15268|[15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json)|
+|15992|[15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json)|
+|15995|[15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json)|
+|16044|[16044_Route_inbound_emails_by_alias_with_EmailConnect.eu_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16044_Route_inbound_emails_by_alias_with_EmailConnect.eu_webhooks.json)|
+|16066|[16066_Schedule_X_posts__threads__images_and_polls_with_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16066_Schedule_X_posts__threads__images_and_polls_with_webhooks.json)|
+|16294|[16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json)|
+|16300|[16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json)|
+|16370|[16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json)|
+|16553|[16553_Proxy_OpenAI-style_chat_completions_to_Gemini_with_async_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16553_Proxy_OpenAI-style_chat_completions_to_Gemini_with_async_webhooks.json)|
+|16647|[16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json)|

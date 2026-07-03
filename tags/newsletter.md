@@ -1,4 +1,4 @@
-# newsletter : 48
+# newsletter : 55
 
 |id|file|
 |----|----|
@@ -50,3 +50,10 @@
 |13293|[13293_Enrich_newsletter_subscribers_with_cross-platform_social_data_and_tag_in_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13293_Enrich_newsletter_subscribers_with_cross-platform_social_data_and_tag_in_Mailchimp.json)|
 |14012|[14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json)|
 |14412|[14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json)|
+|15136|[15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json)|
+|15392|[15392_Send_a_weekly_AI_written_WordPress_blog_digest_via_Gmail_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15392_Send_a_weekly_AI_written_WordPress_blog_digest_via_Gmail_using_GPT-4o.json)|
+|16364|[16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json)|
+|16498|[16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|
+|16586|[16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json)|
+|16675|[16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json)|

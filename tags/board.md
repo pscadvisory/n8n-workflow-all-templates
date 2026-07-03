@@ -1,4 +1,4 @@
-# board : 12
+# board : 15
 
 |id|file|
 |----|----|
@@ -14,3 +14,6 @@
 |13873|[13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json)|
 |13898|[13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json)|
 |14891|[14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json)|
+|15082|[15082_Monitor_semiconductor_board_reliability_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15082_Monitor_semiconductor_board_reliability_with_OpenAI_and_Slack_alerts.json)|
+|15755|[15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json)|
+|16236|[16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json)|

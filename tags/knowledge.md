@@ -1,4 +1,4 @@
-# knowledge : 76
+# knowledge : 88
 
 |id|file|
 |----|----|
@@ -78,3 +78,15 @@
 |13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
 |14168|[14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json)|
 |14454|[14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json)|
+|15270|[15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json)|
+|15358|[15358_Create_Notion_knowledge_pages_from_webinars_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15358_Create_Notion_knowledge_pages_from_webinars_with_WayinVideo_and_GPT-4o-mini.json)|
+|15570|[15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json)|
+|15707|[15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json)|
+|15778|[15778_Chat_with_your_business_knowledge_base_using_Google_Gemini_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15778_Chat_with_your_business_knowledge_base_using_Google_Gemini_and_Qdrant.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|16117|[16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json)|
+|16136|[16136_Answer_voice_queries_from_a_webhook_over_Google_Drive_docs_using_GPT-4o-mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16136_Answer_voice_queries_from_a_webhook_over_Google_Drive_docs_using_GPT-4o-mini_and_Supabase.json)|
+|16175|[16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json)|
+|16231|[16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json)|
+|16258|[16258_Build_a_RAG_knowledge_base_from_PDFs_with_Gemini__Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16258_Build_a_RAG_knowledge_base_from_PDFs_with_Gemini__Supabase_and_Google_Sheets.json)|
+|16336|[16336_Answer_support_questions_from_a_knowledge_base_with_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16336_Answer_support_questions_from_a_knowledge_base_with_OpenAI_GPT-4o-mini.json)|

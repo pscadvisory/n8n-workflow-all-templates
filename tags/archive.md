@@ -1,4 +1,4 @@
-# archive : 18
+# archive : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |12655|[12655_Compress_and_archive_old_Google_Drive_PDFs_to_AWS_S3_cold_storage_with_Slack_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12655_Compress_and_archive_old_Google_Drive_PDFs_to_AWS_S3_cold_storage_with_Slack_reports.json)|
 |13544|[13544_Archive_HR_and_legal_documents_with_UploadToURL__Google_Drive_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13544_Archive_HR_and_legal_documents_with_UploadToURL__Google_Drive_and_Airtable.json)|
 |14005|[14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14005_Archive_Outlook_email_attachments_to_DATEV_DMS_and_notify_Slack.json)|
+|15524|[15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json)|
+|15793|[15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json)|
+|16801|[16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json)|

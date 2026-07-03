@@ -1,4 +1,4 @@
-# journal : 10
+# journal : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |12337|[12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json)|
 |13073|[13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json)|
 |14265|[14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json)|
+|15652|[15652_Convert_Telegram_voice_notes_into_markdown_journals_with_Groq_Whisper_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15652_Convert_Telegram_voice_notes_into_markdown_journals_with_Groq_Whisper_and_Gemini.json)|
+|15948|[15948_Generate_weekly_habit_and_mood_insights_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15948_Generate_weekly_habit_and_mood_insights_with_Google_Sheets_and_OpenAI.json)|

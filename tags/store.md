@@ -1,4 +1,4 @@
-# store : 102
+# store : 111
 
 |id|file|
 |----|----|
@@ -104,3 +104,12 @@
 |14344|[14344_Scrape_WooCommerce_store_leads_with_ScraperCity_and_sync_verified_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14344_Scrape_WooCommerce_store_leads_with_ScraperCity_and_sync_verified_contacts_to_Airtable.json)|
 |14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|15166|[15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json)|
+|15177|[15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json)|
+|15522|[15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json)|
+|15738|[15738_Build_a_RAG_chatbot_using_Google_Gemini_and_a_Supabase_vector_store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15738_Build_a_RAG_chatbot_using_Google_Gemini_and_a_Supabase_vector_store.json)|
+|16050|[16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json)|
+|16117|[16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json)|
+|16231|[16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json)|
+|16313|[16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json)|
+|16370|[16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json)|

@@ -1,4 +1,4 @@
-# fal : 36
+# fal : 39
 
 |id|file|
 |----|----|
@@ -38,3 +38,6 @@
 |12318|[12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12318_Generate_and_schedule_themed_social_posts_with_Notion__OpenAI__Fal.ai_and_Postiz.json)|
 |12867|[12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12867_Auto-dub_Viral_Instagram_and_TikTok_videos___with_Fal_AI_ElevenLabs_dubbing.json)|
 |14372|[14372_Create_daily_historical_AI_videos_with_Gemini__fal.ai__Telegram_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14372_Create_daily_historical_AI_videos_with_Gemini__fal.ai__Telegram_and_YouTube.json)|
+|16114|[16114_Generate_new_video_audio_and_merge_the_final_result_with_Fal.run_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16114_Generate_new_video_audio_and_merge_the_final_result_with_Fal.run_and_Google_Drive.json)|
+|16309|[16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json)|
+|16508|[16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json)|

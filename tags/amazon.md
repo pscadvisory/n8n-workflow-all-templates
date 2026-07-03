@@ -1,4 +1,4 @@
-# amazon : 34
+# amazon : 39
 
 |id|file|
 |----|----|
@@ -36,3 +36,8 @@
 |13587|[13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |13588|[13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json)|
 |14330|[14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json)|
+|15380|[15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json)|
+|15609|[15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json)|
+|15639|[15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json)|
+|15656|[15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json)|
+|16399|[16399_Fetch_and_parse_Amazon_SP-API_reports_into_structured_TSV_rows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16399_Fetch_and_parse_Amazon_SP-API_reports_into_structured_TSV_rows.json)|

@@ -1,4 +1,4 @@
-# fireflies : 12
+# fireflies : 20
 
 |id|file|
 |----|----|
@@ -14,3 +14,11 @@
 |14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
 |15013|[15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json)|
 |15040|[15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json)|
+|15069|[15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json)|
+|15070|[15070_Monitor_client_meeting_health_with_Fireflies__GPT-4o-mini__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15070_Monitor_client_meeting_health_with_Fireflies__GPT-4o-mini__Google_Sheets_and_Slack_alerts.json)|
+|15093|[15093_Send_weekly_Fireflies_meeting_reports_to_Gmail_and_log_metrics_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15093_Send_weekly_Fireflies_meeting_reports_to_Gmail_and_log_metrics_in_Google_Sheets.json)|
+|15094|[15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json)|
+|15097|[15097_Send_Fireflies_meeting_talk-time_dominance_reports_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15097_Send_Fireflies_meeting_talk-time_dominance_reports_to_Telegram.json)|
+|15099|[15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json)|
+|15106|[15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json)|
+|16410|[16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json)|

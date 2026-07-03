@@ -1,4 +1,4 @@
-# updates : 123
+# updates : 134
 
 |id|file|
 |----|----|
@@ -125,3 +125,14 @@
 |13873|[13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json)|
 |14136|[14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json)|
 |14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|
+|15065|[15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json)|
+|15173|[15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json)|
+|15451|[15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json)|
+|15540|[15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json)|
+|15562|[15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json)|
+|15622|[15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json)|
+|15964|[15964_Post_daily_Verge_tech_updates_to_LinkedIn_with_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15964_Post_daily_Verge_tech_updates_to_LinkedIn_with_Gemini_and_Airtable.json)|
+|15980|[15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json)|
+|15982|[15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json)|
+|16392|[16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json)|
+|16496|[16496_Track_Slack_EOD_updates_and_post_executive_summaries_with_Google_Sheets_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16496_Track_Slack_EOD_updates_and_post_executive_summaries_with_Google_Sheets_and_Gemini.json)|

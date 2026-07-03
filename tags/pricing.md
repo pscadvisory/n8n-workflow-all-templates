@@ -1,4 +1,4 @@
-# pricing : 15
+# pricing : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |14414|[14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json)|
 |14469|[14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14469_Detect_underpriced_MLS_properties_with_GPT_and_alert_via_Gmail_and_Slack.json)|
 |14982|[14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json)|
+|15887|[15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json)|
+|15893|[15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json)|
+|16737|[16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json)|

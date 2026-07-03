@@ -1,4 +1,4 @@
-# notifier : 9
+# notifier : 14
 
 |id|file|
 |----|----|
@@ -11,3 +11,8 @@
 |6360|[6360_Automated_Recruitment_Status_Updates_via_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6360_Automated_Recruitment_Status_Updates_via_Slack_Notifications.json)|
 |8645|[8645_Summarize_Google_Docs___PDFs_with_GPT-4_and_Send_to_Slack_or_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8645_Summarize_Google_Docs___PDFs_with_GPT-4_and_Send_to_Slack_or_Email.json)|
 |14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
+|15700|[15700_Send_a_daily_prioritized_CVE_digest_from_NVD_to_Slack_and_Gmail_with_EPSS_and_CISA_KEV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15700_Send_a_daily_prioritized_CVE_digest_from_NVD_to_Slack_and_Gmail_with_EPSS_and_CISA_KEV.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16359|[16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json)|
+|16402|[16402_Route_CI_CD_failure_alerts_with_OpenAI__Slack__Linear__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16402_Route_CI_CD_failure_alerts_with_OpenAI__Slack__Linear__Sheets_and_Gmail.json)|
+|16780|[16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json)|

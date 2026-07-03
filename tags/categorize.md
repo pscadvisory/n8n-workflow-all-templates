@@ -1,4 +1,4 @@
-# categorize : 21
+# categorize : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |9983|[9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json)|
 |10952|[10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10952_Automated_Daily_AI_News_Digest__Scrape__Categorize___Save_to_Google_Sheets.json)|
 |12671|[12671_Route_and_categorize_Gmail_emails_to_Slack_with_Llama_3_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12671_Route_and_categorize_Gmail_emails_to_Slack_with_Llama_3_via_OpenRouter.json)|
+|15094|[15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json)|
+|16592|[16592_Categorize_emails_and_draft_Gmail_replies_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16592_Categorize_emails_and_draft_Gmail_replies_with_Groq_and_Google_Sheets.json)|

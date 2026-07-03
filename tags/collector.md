@@ -1,4 +1,4 @@
-# collector : 11
+# collector : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
 |11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|
 |14916|[14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json)|
+|15321|[15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json)|
+|16442|[16442_Summarize_daily_standups_from_Google_Sheets_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16442_Summarize_daily_standups_from_Google_Sheets_with_Gemini_and_Slack.json)|

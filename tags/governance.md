@@ -1,4 +1,4 @@
-# governance : 24
+# governance : 26
 
 |id|file|
 |----|----|
@@ -26,3 +26,5 @@
 |14438|[14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json)|
 |14441|[14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15879|[15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json)|
+|15922|[15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json)|

@@ -1,4 +1,4 @@
-# tax : 20
+# tax : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |12735|[12735_Forecast_and_report_multi-channel_tax_liabilities_with_OpenAI__Gmail__Sheets_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12735_Forecast_and_report_multi-channel_tax_liabilities_with_OpenAI__Gmail__Sheets_and_Airtable.json)|
 |12790|[12790_Monitor_revenue_tax_compliance_and_auto-correct_anomalies_with_Anthropic__MagicCSV__Gmail_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12790_Monitor_revenue_tax_compliance_and_auto-correct_anomalies_with_Anthropic__MagicCSV__Gmail_and_WhatsApp.json)|
 |13909|[13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json)|
+|15846|[15846_Generate_tax_compliance_checklists_from_RSS_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15846_Generate_tax_compliance_checklists_from_RSS_with_Gemini_and_Google_Sheets.json)|

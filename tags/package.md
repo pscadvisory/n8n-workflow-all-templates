@@ -1,4 +1,4 @@
-# package : 8
+# package : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |12620|[12620_Match_sponsors_to_event_packages_with_Google_Sheets__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12620_Match_sponsors_to_event_packages_with_Google_Sheets__GPT-4o_and_Gmail.json)|
 |13945|[13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13945_Track_npm_package_downloads_with_Telegram_commands_and_reports.json)|
 |14911|[14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json)|
+|15227|[15227_Generate_YouTube_scripts_and_full_SEO_package_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15227_Generate_YouTube_scripts_and_full_SEO_package_with_GPT-4o-mini_and_Gmail.json)|
+|15410|[15410_AI-Powered_NPM_Package_Intelligence_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15410_AI-Powered_NPM_Package_Intelligence_Agent.json)|

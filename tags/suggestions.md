@@ -1,4 +1,4 @@
-# suggestions : 9
+# suggestions : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |9375|[9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json)|
 |10270|[10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json)|
 |12767|[12767_Analyze_website_SEO_and_log_AI_recommendations_to_Google_Sheets_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12767_Analyze_website_SEO_and_log_AI_recommendations_to_Google_Sheets_with_OpenAI.json)|
+|15305|[15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json)|
+|15385|[15385_Analyze_Google_Ads_search_terms_and_get_negative_keyword_suggestions_with_OpenAI_GPT-5.4-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15385_Analyze_Google_Ads_search_terms_and_get_negative_keyword_suggestions_with_OpenAI_GPT-5.4-mini.json)|
+|15817|[15817_Get_Xiaohongshu_keyword_suggestions_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15817_Get_Xiaohongshu_keyword_suggestions_with_JustOneAPI.json)|

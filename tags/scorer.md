@@ -1,4 +1,4 @@
-# scorer : 4
+# scorer : 6
 
 |id|file|
 |----|----|
@@ -6,3 +6,5 @@
 |12618|[12618_RSVP_s_lead_scoring_for_Events__GPT-4o-mini___HubSpot_Sync___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12618_RSVP_s_lead_scoring_for_Events__GPT-4o-mini___HubSpot_Sync___Slack_Alerts.json)|
 |13185|[13185_Scrape_LinkedIn_comments_and_score_lead_intent_using_ConnectSafely__Azure_OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13185_Scrape_LinkedIn_comments_and_score_lead_intent_using_ConnectSafely__Azure_OpenAI__and_Google_Sheets.json)|
 |13686|[13686_Score_property_investments_using_Claude__Anthropic___Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13686_Score_property_investments_using_Claude__Anthropic___Google_Sheets_and_Slack.json)|
+|16326|[16326_Score_and_route_BANT_leads_with_Groq__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16326_Score_and_route_BANT_leads_with_Groq__Slack_and_email.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|

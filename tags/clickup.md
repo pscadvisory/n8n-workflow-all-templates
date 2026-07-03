@@ -1,4 +1,4 @@
-# clickup : 55
+# clickup : 67
 
 |id|file|
 |----|----|
@@ -57,3 +57,15 @@
 |14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
 |14152|[14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json)|
 |14959|[14959_Track_Zoom_attendance_and_create_AI_summaries_with_Google_Sheets__ClickUp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14959_Track_Zoom_attendance_and_create_AI_summaries_with_Google_Sheets__ClickUp_and_Telegram.json)|
+|15069|[15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json)|
+|15114|[15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|
+|15169|[15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json)|
+|15553|[15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json)|
+|15818|[15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json)|
+|15873|[15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json)|
+|15874|[15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json)|
+|15877|[15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json)|
+|16509|[16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16765|[16765_Create_daily_ClickUp_task_reports_with_OpenRouter_o3-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16765_Create_daily_ClickUp_task_reports_with_OpenRouter_o3-mini.json)|

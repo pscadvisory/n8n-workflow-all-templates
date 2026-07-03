@@ -1,4 +1,4 @@
-# classifier : 15
+# classifier : 21
 
 |id|file|
 |----|----|
@@ -17,3 +17,9 @@
 |8426|[8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json)|
 |12132|[12132_Extract_website_intelligence___classify_ecommerce_URLs_with_Gemini___Firecrawl_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12132_Extract_website_intelligence___classify_ecommerce_URLs_with_Gemini___Firecrawl_to_Google_Sheets.json)|
 |14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
+|15133|[15133_Evaluate_a_support_ticket_classifier_with_OpenAI_GPT-4o-mini_and_n8n_evaluations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15133_Evaluate_a_support_ticket_classifier_with_OpenAI_GPT-4o-mini_and_n8n_evaluations.json)|
+|15277|[15277_Detect_client_portfolio_news_impact_with_Gemini_AI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15277_Detect_client_portfolio_news_impact_with_Gemini_AI__Gmail__and_Google_Sheets.json)|
+|15522|[15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json)|
+|15939|[15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json)|
+|15955|[15955_Classify_support_emails_and_send_replies_with_Claude__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15955_Classify_support_emails_and_send_replies_with_Claude__Gmail__Slack_and_Sheets.json)|
+|16289|[16289_Classify_cold_email_replies_and_triage_Gmail_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16289_Classify_cold_email_replies_and_triage_Gmail_with_Claude_and_Slack.json)|

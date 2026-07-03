@@ -1,4 +1,4 @@
-# input : 11
+# input : 15
 
 |id|file|
 |----|----|
@@ -13,3 +13,7 @@
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
 |10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
 |14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|16102|[16102_Generate_and_verify_email_patterns_from_chat_input_with_Reoon_Email_Verifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16102_Generate_and_verify_email_patterns_from_chat_input_with_Reoon_Email_Verifier.json)|
+|16642|[16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json)|
+|16724|[16724_Manage_KlickTipp_contact_tags_with_GPT-5-mini_via_chat_input.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16724_Manage_KlickTipp_contact_tags_with_GPT-5-mini_via_chat_input.json)|

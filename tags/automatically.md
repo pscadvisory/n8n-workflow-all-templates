@@ -1,4 +1,4 @@
-# automatically : 182
+# automatically : 191
 
 |id|file|
 |----|----|
@@ -184,3 +184,12 @@
 |14538|[14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json)|
 |14673|[14673_Send_scheduled_IELTS_grammar__writing_and_reading_practice_via_Telegram_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14673_Send_scheduled_IELTS_grammar__writing_and_reading_practice_via_Telegram_with_Gemini_AI.json)|
 |14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|
+|15101|[15101_Create_daily_prayer_and_sunnah_fasting_reminders_in_Google_Calendar_using_Aladhan_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15101_Create_daily_prayer_and_sunnah_fasting_reminders_in_Google_Calendar_using_Aladhan_API.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|
+|15248|[15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json)|
+|15259|[15259_Generate_invoice_PDFs_from_Google_Sheets_with_DocuPotion_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15259_Generate_invoice_PDFs_from_Google_Sheets_with_DocuPotion_and_Drive.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|15349|[15349_Send_Webflow_form_leads_to_Google_Sheets_with_email_and_WhatsApp_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15349_Send_Webflow_form_leads_to_Google_Sheets_with_email_and_WhatsApp_alerts.json)|
+|15456|[15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json)|
+|16439|[16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json)|
+|16448|[16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json)|

@@ -1,4 +1,4 @@
-# ecommerce : 13
+# ecommerce : 18
 
 |id|file|
 |----|----|
@@ -15,3 +15,8 @@
 |12193|[12193_E-commerce_product_mockups_from_images_with_OpenAI_DALL-E__remove.bg_and_G-Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12193_E-commerce_product_mockups_from_images_with_OpenAI_DALL-E__remove.bg_and_G-Drive.json)|
 |13503|[13503_Manage_WooCommerce_store_operations_via_AI_Telegram_bot_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13503_Manage_WooCommerce_store_operations_via_AI_Telegram_bot_with_OpenRouter.json)|
 |13819|[13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13819_Monitor_ecommerce_reviews_with_MrScraper__GPT-4o-mini__Slack_and_Notion.json)|
+|15405|[15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json)|
+|15460|[15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json)|
+|15855|[15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json)|
+|16354|[16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|

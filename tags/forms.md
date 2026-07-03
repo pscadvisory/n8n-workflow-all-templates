@@ -1,4 +1,4 @@
-# forms : 67
+# forms : 74
 
 |id|file|
 |----|----|
@@ -69,3 +69,10 @@
 |14292|[14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json)|
 |14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
 |14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|
+|15575|[15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json)|
+|15835|[15835_Triage_customer_support_tickets_from_Gmail_and_forms_with_OpenAI__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15835_Triage_customer_support_tickets_from_Gmail_and_forms_with_OpenAI__Slack_and_Sheets.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16108|[16108_Onboard_new_clients_from_forms_with_OpenAI__Google_Sheets__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16108_Onboard_new_clients_from_forms_with_OpenAI__Google_Sheets__Gmail__and_Slack.json)|
+|16137|[16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json)|
+|16153|[16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json)|
+|16290|[16290_Qualify_inbound_leads_from_forms_with_Claude__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16290_Qualify_inbound_leads_from_forms_with_Claude__Google_Sheets__Slack_and_Gmail.json)|

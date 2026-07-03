@@ -1,4 +1,4 @@
-# promotion : 11
+# promotion : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |13351|[13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json)|
 |13414|[13414_Send_bulk_WhatsApp_promos_for_new_Shopify_products_with_OpenAI_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13414_Send_bulk_WhatsApp_promos_for_new_Shopify_products_with_OpenAI_and_Sheets.json)|
 |13432|[13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json)|
+|16435|[16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json)|

@@ -1,4 +1,4 @@
-# tailored : 5
+# tailored : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |6767|[6767_Generate_Tailored_Interview_Questions_with_GPT-4_Based_on_CV__JD__and_Round.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6767_Generate_Tailored_Interview_Questions_with_GPT-4_Based_on_CV__JD__and_Round.json)|
 |7702|[7702_Latest_Tailored_Economic_News_For_Business.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7702_Latest_Tailored_Economic_News_For_Business.json)|
 |8487|[8487_Find_Perfect_Jobs___Generate_Tailored_Cover_Letters_with_Gemini___Google_Jobs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8487_Find_Perfect_Jobs___Generate_Tailored_Cover_Letters_with_Gemini___Google_Jobs.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|
+|16560|[16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json)|

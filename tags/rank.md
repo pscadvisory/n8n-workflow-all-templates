@@ -1,4 +1,4 @@
-# rank : 8
+# rank : 12
 
 |id|file|
 |----|----|
@@ -10,3 +10,7 @@
 |8036|[8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json)|
 |8272|[8272_Dynamic_MCP_Server_Selection_with_OpenAI_GPT-4.1_and_Contextual_AI_Reranker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8272_Dynamic_MCP_Server_Selection_with_OpenAI_GPT-4.1_and_Contextual_AI_Reranker.json)|
 |8519|[8519_Google_Play_Store_and_SerpApi_App_Rank___Rating_Monitor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8519_Google_Play_Store_and_SerpApi_App_Rank___Rating_Monitor.json)|
+|15155|[15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json)|
+|15167|[15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|
+|16096|[16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json)|
+|16720|[16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json)|

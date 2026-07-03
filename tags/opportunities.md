@@ -1,4 +1,4 @@
-# opportunities : 18
+# opportunities : 22
 
 |id|file|
 |----|----|
@@ -20,3 +20,7 @@
 |13801|[13801_Discover_daily_business_opportunities_with_Google_Gemini__Sheets_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13801_Discover_daily_business_opportunities_with_Google_Gemini__Sheets_and_Telegram.json)|
 |14924|[14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json)|
 |14993|[14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json)|
+|15841|[15841_Score_RSS_social_posts_for_opportunities_with_OpenAI_and_send_Slack___Notion_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15841_Score_RSS_social_posts_for_opportunities_with_OpenAI_and_send_Slack___Notion_alerts.json)|
+|16243|[16243_Score_sales_outreach_opportunities_from_RSS_feeds_with_Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16243_Score_sales_outreach_opportunities_from_RSS_feeds_with_Claude_and_Gmail.json)|
+|16525|[16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json)|
+|16714|[16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json)|

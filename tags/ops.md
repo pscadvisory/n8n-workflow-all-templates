@@ -1,4 +1,4 @@
-# ops : 6
+# ops : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |4455|[4455_Shopify_Multi-Module_Automation_with_GPT-4o__Langchain_Agents___Integrations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4455_Shopify_Multi-Module_Automation_with_GPT-4o__Langchain_Agents___Integrations.json)|
 |12686|[12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json)|
 |12970|[12970_Schedule_and_confirm_revenue_ops_meetings_with_Pipedrive__Google_Calendar_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12970_Schedule_and_confirm_revenue_ops_meetings_with_Pipedrive__Google_Calendar_and_Slack.json)|
+|16433|[16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json)|

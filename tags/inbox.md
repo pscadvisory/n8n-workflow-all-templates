@@ -1,4 +1,4 @@
-# inbox : 31
+# inbox : 40
 
 |id|file|
 |----|----|
@@ -33,3 +33,12 @@
 |13203|[13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json)|
 |13989|[13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json)|
 |14852|[14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14852_Triage_Gmail_inbox__draft_replies__and_alert_urgent_emails_with_Claude_and_Slack.json)|
+|15224|[15224_Organize_Gmail_inbox_with_Groq_AI__Google_Sheets_and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15224_Organize_Gmail_inbox_with_Groq_AI__Google_Sheets_and_Google_Tasks.json)|
+|15245|[15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json)|
+|15366|[15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json)|
+|15797|[15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json)|
+|15865|[15865_Host_an_AI_Gmail_reply_approval_inbox_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15865_Host_an_AI_Gmail_reply_approval_inbox_with_OpenAI_and_CustomJS.json)|
+|15953|[15953_Triage_Gmail_emails__draft_AI_replies__and_log_to_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15953_Triage_Gmail_emails__draft_AI_replies__and_log_to_Google_Sheets_with_GPT-4o.json)|
+|16135|[16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json)|
+|16271|[16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json)|
+|16448|[16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json)|

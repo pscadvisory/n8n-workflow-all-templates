@@ -1,4 +1,4 @@
-# crypto : 47
+# crypto : 52
 
 |id|file|
 |----|----|
@@ -49,3 +49,8 @@
 |12796|[12796_Track_CoinMarketCap_crypto_sector_pumps_with_Gemini_AI_and_send_digests_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12796_Track_CoinMarketCap_crypto_sector_pumps_with_Gemini_AI_and_send_digests_to_Discord.json)|
 |14676|[14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14676_Send_a_daily_AI_crypto_news_digest_from_Brave_Search_to_Telegram_with_GPT-4.1-mini.json)|
 |15042|[15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15042_Track_multi-chain_crypto_portfolios_and_analyze_risk_with_Gemini_and_QuickNode.json)|
+|15461|[15461_Send_daily_crypto_market_insights_with_Google_Gemini_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15461_Send_daily_crypto_market_insights_with_Google_Gemini_to_Telegram.json)|
+|15844|[15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16061|[16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json)|
+|16764|[16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json)|

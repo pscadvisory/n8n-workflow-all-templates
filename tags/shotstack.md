@@ -1,4 +1,4 @@
-# shotstack : 6
+# shotstack : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |11724|[11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json)|
 |12392|[12392_Create_YouTube_videos_with_OpenAI_scripts__ElevenLabs_voice__Pixabay_and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12392_Create_YouTube_videos_with_OpenAI_scripts__ElevenLabs_voice__Pixabay_and_Shotstack.json)|
 |14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|
+|15639|[15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json)|
+|16201|[16201_Create_daily_AI_news_YouTube_Shorts_with_Groq__VoiceRSS__Pexels_and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16201_Create_daily_AI_news_YouTube_Shorts_with_Groq__VoiceRSS__Pexels_and_Shotstack.json)|

@@ -1,4 +1,4 @@
-# engagement : 39
+# engagement : 46
 
 |id|file|
 |----|----|
@@ -41,3 +41,10 @@
 |13462|[13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json)|
 |13518|[13518_Re-engage_HubSpot_leads_using_Azure_OpenAI_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13518_Re-engage_HubSpot_leads_using_Azure_OpenAI_GPT-4o__Gmail_and_Slack.json)|
 |14014|[14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json)|
+|15122|[15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|
+|16287|[16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16423|[16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json)|
+|16525|[16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json)|
+|16770|[16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json)|

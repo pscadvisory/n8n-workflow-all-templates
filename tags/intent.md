@@ -1,4 +1,4 @@
-# intent : 16
+# intent : 19
 
 |id|file|
 |----|----|
@@ -18,3 +18,6 @@
 |14178|[14178_Route_Gmail_emails_to_Slack_by_intent_using_OpenAI_and_log_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14178_Route_Gmail_emails_to_Slack_by_intent_using_OpenAI_and_log_to_Sheets.json)|
 |14291|[14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14291_Guide_students_with_an_AI_tutor_chatbot_using_RAG__intent_classification_and_GPT-4o-mini.json)|
 |14348|[14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json)|
+|15418|[15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json)|
+|15927|[15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json)|
+|16304|[16304_Classify_Gmail_intents_with_Google_Gemini__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16304_Classify_Gmail_intents_with_Google_Gemini__Slack_and_Google_Sheets.json)|

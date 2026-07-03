@@ -1,4 +1,4 @@
-# scrapegraphai : 50
+# scrapegraphai : 51
 
 |id|file|
 |----|----|
@@ -52,3 +52,4 @@
 |12654|[12654_Scrape_Trustpilot_reviews___with_ScrapegraphAI_and_OpenAI_Reputation_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12654_Scrape_Trustpilot_reviews___with_ScrapegraphAI_and_OpenAI_Reputation_analysis.json)|
 |12782|[12782_Automated_Feedaty_Review_Scraper___using_ScrapegraphAI___Gemini_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12782_Automated_Feedaty_Review_Scraper___using_ScrapegraphAI___Gemini_3.json)|
 |13812|[13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|

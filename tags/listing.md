@@ -1,4 +1,4 @@
-# listing : 11
+# listing : 14
 
 |id|file|
 |----|----|
@@ -13,3 +13,6 @@
 |11927|[11927_Automate_commercial_real_estate_monitoring_with_ScrapeGraphAI__Notion_and_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11927_Automate_commercial_real_estate_monitoring_with_ScrapeGraphAI__Notion_and_Mailchimp.json)|
 |12233|[12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json)|
 |13657|[13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13657_Automate_Real_Estate_Listing_Scraper____with_ScrapeGraph_AI_and_Google_Sheets.json)|
+|15510|[15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json)|
+|16420|[16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json)|
+|16449|[16449_Audit_competitor_Etsy_catalogs_and_track_listing_changes_with_Etsy_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16449_Audit_competitor_Etsy_catalogs_and_track_listing_changes_with_Etsy_API.json)|

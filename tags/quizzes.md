@@ -1,4 +1,4 @@
-# quizzes : 5
+# quizzes : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |13655|[13655_Run_WhatsApp_quizzes_and_track_student_progress_with_Wati__GPT-4.1_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13655_Run_WhatsApp_quizzes_and_track_student_progress_with_Wati__GPT-4.1_and_Sheets.json)|
 |14526|[14526_Create_onboarding_video_quizzes_using_WayinVideo__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14526_Create_onboarding_video_quizzes_using_WayinVideo__GPT-4o-mini_and_Google_Sheets.json)|
 |14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|
+|15512|[15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json)|
+|15999|[15999_Create_chapter-wise_notes_and_MCQ_quizzes_from_YouTube_with_WayinVideo__GPT-4o-mini__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15999_Create_chapter-wise_notes_and_MCQ_quizzes_from_YouTube_with_WayinVideo__GPT-4o-mini__Google_Sheets__and_Gmail.json)|
+|16692|[16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json)|

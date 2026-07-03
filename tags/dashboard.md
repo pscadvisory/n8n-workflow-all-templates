@@ -1,4 +1,4 @@
-# dashboard : 33
+# dashboard : 34
 
 |id|file|
 |----|----|
@@ -35,3 +35,4 @@
 |13545|[13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json)|
 |13665|[13665_Monitor__PROD__workflows_in_real_time_with_the_n8n_Public_API_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13665_Monitor__PROD__workflows_in_real_time_with_the_n8n_Public_API_dashboard.json)|
 |14068|[14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json)|
+|16376|[16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json)|

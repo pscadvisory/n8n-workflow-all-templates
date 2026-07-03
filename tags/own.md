@@ -1,4 +1,4 @@
-# own : 19
+# own : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |4694|[4694_AI_Agent_that_updates_its_own_rules_to_modify_behavior.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4694_AI_Agent_that_updates_its_own_rules_to_modify_behavior.json)|
 |7215|[7215_Personal_Knowledgebase_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7215_Personal_Knowledgebase_AI_Agent.json)|
 |9660|[9660_Host_Your_Own_JWT_Authentication_System_with_Data_Tables_and_Token_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9660_Host_Your_Own_JWT_Authentication_System_with_Data_Tables_and_Token_Management.json)|
+|15225|[15225_AI-powered_system_for_Creating___Executing_your_own_Claude_Skills___with_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15225_AI-powered_system_for_Creating___Executing_your_own_Claude_Skills___with_GitHub.json)|
+|15910|[15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json)|

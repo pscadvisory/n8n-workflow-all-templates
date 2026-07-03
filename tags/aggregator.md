@@ -1,4 +1,4 @@
-# aggregator : 17
+# aggregator : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |12073|[12073_Healthcare_policy_monitoring_with_ScrapeGraphAI__Pipedrive_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12073_Healthcare_policy_monitoring_with_ScrapeGraphAI__Pipedrive_and_email_alerts.json)|
 |12233|[12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12233_Aggregate_commercial_property_listings_with_ScrapeGraphAI__Baserow_and_Teams.json)|
 |12989|[12989_Aggregate_error_alerts_and_send_consolidated_reports_via_Email_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12989_Aggregate_error_alerts_and_send_consolidated_reports_via_Email_and_Jira.json)|
+|16338|[16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json)|
+|16369|[16369_Send_a_daily_AI_news_RSS_digest_with_GPT-4o__Gmail__and_Microsoft_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16369_Send_a_daily_AI_news_RSS_digest_with_GPT-4o__Gmail__and_Microsoft_Excel.json)|

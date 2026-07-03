@@ -1,4 +1,4 @@
-# serpapi : 59
+# serpapi : 69
 
 |id|file|
 |----|----|
@@ -61,3 +61,13 @@
 |14063|[14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json)|
 |14358|[14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json)|
 |14361|[14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14361_Generate_live_cricket_score_commentary_using_SerpAPI__GPT-4o-mini__and_Telegram.json)|
+|15534|[15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json)|
+|15671|[15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json)|
+|15851|[15851_Monitor_negative_news_for_watchlist_companies_with_Google_Sheets__SerpAPI__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15851_Monitor_negative_news_for_watchlist_companies_with_Google_Sheets__SerpAPI__Groq__and_Gmail.json)|
+|15922|[15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json)|
+|15938|[15938_Enrich_Google_Maps_business_leads_with_emails_using_SerpApi_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15938_Enrich_Google_Maps_business_leads_with_emails_using_SerpApi_and_Airtable.json)|
+|16142|[16142_Enrich_Google_Sheets_leads_via_LinkedIn__SerpAPI__Claude_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16142_Enrich_Google_Sheets_leads_via_LinkedIn__SerpAPI__Claude_and_Apify.json)|
+|16223|[16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json)|
+|16237|[16237_Extract_B2B_lead_emails_from_Google_results_with_SerpApi__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16237_Extract_B2B_lead_emails_from_Google_results_with_SerpApi__Apify_and_Claude.json)|
+|16316|[16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json)|
+|16335|[16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json)|

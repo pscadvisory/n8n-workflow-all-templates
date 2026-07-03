@@ -1,4 +1,4 @@
-# zoom : 31
+# zoom : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
 |14959|[14959_Track_Zoom_attendance_and_create_AI_summaries_with_Google_Sheets__ClickUp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14959_Track_Zoom_attendance_and_create_AI_summaries_with_Google_Sheets__ClickUp_and_Telegram.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|15818|[15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json)|

@@ -1,4 +1,4 @@
-# flash : 26
+# flash : 32
 
 |id|file|
 |----|----|
@@ -28,3 +28,9 @@
 |10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|
 |11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|
 |12178|[12178_Discover_viral_social_media_trends_with_Gemini_Flash___Apify_scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12178_Discover_viral_social_media_trends_with_Gemini_Flash___Apify_scraping.json)|
+|15284|[15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json)|
+|15473|[15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json)|
+|15474|[15474_Generate_content_authority_roadmaps_using_Olostep__Gemini_2.5_Flash_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15474_Generate_content_authority_roadmaps_using_Olostep__Gemini_2.5_Flash_and_Google_Drive.json)|
+|15475|[15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json)|
+|16223|[16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json)|
+|16789|[16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json)|

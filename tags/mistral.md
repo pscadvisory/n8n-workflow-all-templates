@@ -1,4 +1,4 @@
-# mistral : 57
+# mistral : 65
 
 |id|file|
 |----|----|
@@ -59,3 +59,11 @@
 |13681|[13681_Generate_and_schedule_LinkedIn_posts_with_Google_Sheets__OpenAI__Gemini_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13681_Generate_and_schedule_LinkedIn_posts_with_Google_Sheets__OpenAI__Gemini_and_Mistral.json)|
 |13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
 |14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15220|[15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json)|
+|15311|[15311_Auto-reply_to_Udemy_student_Q_A_with_Mistral_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15311_Auto-reply_to_Udemy_student_Q_A_with_Mistral_AI_and_Google_Sheets.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|
+|15854|[15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json)|
+|16330|[16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

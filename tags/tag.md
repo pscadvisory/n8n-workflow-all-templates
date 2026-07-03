@@ -1,4 +1,4 @@
-# tag : 20
+# tag : 23
 
 |id|file|
 |----|----|
@@ -22,3 +22,6 @@
 |14381|[14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json)|
 |14502|[14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json)|
 |14531|[14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json)|
+|15354|[15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json)|
+|15939|[15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|

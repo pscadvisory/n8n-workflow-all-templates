@@ -1,4 +1,4 @@
-# translation : 24
+# translation : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |12384|[12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json)|
 |12748|[12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json)|
 |13543|[13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json)|
+|16139|[16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json)|

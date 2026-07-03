@@ -1,4 +1,4 @@
-# landing : 10
+# landing : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |10447|[10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json)|
 |11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|
 |12196|[12196_Generate_SEO_landing_page_content_with_GPT-4__Reddit__YouTube_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12196_Generate_SEO_landing_page_content_with_GPT-4__Reddit__YouTube_and_Google_Sheets.json)|
+|15167|[15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|

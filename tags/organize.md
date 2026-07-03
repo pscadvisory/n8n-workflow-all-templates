@@ -1,4 +1,4 @@
-# organize : 22
+# organize : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |14148|[14148_Organize_handwritten_memos_from_LINE_using_Gemini_OCR__Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14148_Organize_handwritten_memos_from_LINE_using_Gemini_OCR__Drive_and_Sheets.json)|
 |15037|[15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json)|
 |15038|[15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json)|
+|15224|[15224_Organize_Gmail_inbox_with_Groq_AI__Google_Sheets_and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15224_Organize_Gmail_inbox_with_Groq_AI__Google_Sheets_and_Google_Tasks.json)|
+|15866|[15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json)|

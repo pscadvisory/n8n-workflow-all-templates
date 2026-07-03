@@ -1,4 +1,4 @@
-# chatgpt : 50
+# chatgpt : 58
 
 |id|file|
 |----|----|
@@ -52,3 +52,11 @@
 |13458|[13458_Query_Airtable_data_from_ChatGPT_using_an_MCP_server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13458_Query_Airtable_data_from_ChatGPT_using_an_MCP_server.json)|
 |14059|[14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json)|
 |14496|[14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json)|
+|15067|[15067_Extract_and_log_invoice_data_to_Google_Sheets_with_Ainoflow_and_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15067_Extract_and_log_invoice_data_to_Google_Sheets_with_Ainoflow_and_ChatGPT.json)|
+|16508|[16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json)|
+|16509|[16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|
+|16596|[16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16622|[16622_Send_portfolio_risk_reports_from_Google_Sheets_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16622_Send_portfolio_risk_reports_from_Google_Sheets_with_OpenAI_and_Gmail.json)|
+|16643|[16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json)|
+|16653|[16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json)|

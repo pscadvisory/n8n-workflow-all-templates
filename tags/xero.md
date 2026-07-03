@@ -1,4 +1,4 @@
-# xero : 11
+# xero : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |12648|[12648_Send_automated_payment_reminders_for_Xero_invoices_via_Outlook_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12648_Send_automated_payment_reminders_for_Xero_invoices_via_Outlook_email.json)|
 |12662|[12662_Automate_3-way_invoice_matching_from_Gmail_to_Xero_with_Slack_and_Teams_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12662_Automate_3-way_invoice_matching_from_Gmail_to_Xero_with_Slack_and_Teams_alerts.json)|
 |12695|[12695_Automate_Xero_invoices_and_payments_using_webhooks__PostgreSQL_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12695_Automate_Xero_invoices_and_payments_using_webhooks__PostgreSQL_and_WhatsApp.json)|
+|16467|[16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json)|
+|16787|[16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json)|

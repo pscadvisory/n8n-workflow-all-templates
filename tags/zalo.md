@@ -1,4 +1,4 @@
-# zalo : 5
+# zalo : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |8675|[8675_Automated_Zalo_OA_Token_Management_with_OAuth_and_Webhook_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8675_Automated_Zalo_OA_Token_Management_with_OAuth_and_Webhook_Integration.json)|
 |14815|[14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json)|
 |14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|
+|16440|[16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json)|

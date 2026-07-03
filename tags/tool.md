@@ -1,4 +1,4 @@
-# tool : 194
+# tool : 198
 
 |id|file|
 |----|----|
@@ -196,3 +196,7 @@
 |13592|[13592_Orchestrate_enterprise_MCP_AI_tool_access_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13592_Orchestrate_enterprise_MCP_AI_tool_access_with_Claude_and_Google_Sheets.json)|
 |14099|[14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|15949|[15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16734|[16734_Generate_rich_character_bibles_for_writers_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16734_Generate_rich_character_bibles_for_writers_with_GPT-4.1_and_Google_Sheets.json)|

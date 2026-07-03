@@ -1,4 +1,4 @@
-# dates : 7
+# dates : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |7177|[7177_Pharmacy_Inventory_Alerts_for_Low_Stock___Expiring_Medicine_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7177_Pharmacy_Inventory_Alerts_for_Low_Stock___Expiring_Medicine_with_Google_Sheets.json)|
 |7864|[7864_Track_Policy_Expiry_Dates_and_Ownership_with_Google_Sheets_and_Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7864_Track_Policy_Expiry_Dates_and_Ownership_with_Google_Sheets_and_Gmail_Notifications.json)|
 |13211|[13211_Track_domain_expiry_dates_with_Google_Sheets_and_WHOIS_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13211_Track_domain_expiry_dates_with_Google_Sheets_and_WHOIS_API.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|16474|[16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json)|

@@ -1,4 +1,4 @@
-# suspicious : 7
+# suspicious : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7926|[7926_Check_Suspicious_Links_via_Telegram_with_GPT-4_Analysis_of_VirusTotal___urlscan.io_Results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7926_Check_Suspicious_Links_via_Telegram_with_GPT-4_Analysis_of_VirusTotal___urlscan.io_Results.json)|
 |11488|[11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json)|
 |13581|[13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json)|
+|15741|[15741_Monitor_suspicious_transactions_using_Google_Sheets__Groq_AI_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15741_Monitor_suspicious_transactions_using_Google_Sheets__Groq_AI_and_Gmail_alerts.json)|

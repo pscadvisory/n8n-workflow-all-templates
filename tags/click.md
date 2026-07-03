@@ -1,4 +1,4 @@
-# click : 9
+# click : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |10072|[10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json)|
 |13538|[13538_Detect_toxic_backlinks_and_build_a_disavow_file_with_DataForSEO__Google_Drive__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13538_Detect_toxic_backlinks_and_build_a_disavow_file_with_DataForSEO__Google_Drive__and_Gmail.json)|
 |14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
+|16498|[16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json)|

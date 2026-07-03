@@ -1,4 +1,4 @@
-# written : 6
+# written : 9
 
 |id|file|
 |----|----|
@@ -8,3 +8,6 @@
 |5988|[5988_Bilingual_Newsletters_with_GPT-4o__AI_Images___Videos_for_HubSpot___SP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5988_Bilingual_Newsletters_with_GPT-4o__AI_Images___Videos_for_HubSpot___SP.json)|
 |12541|[12541_Analyze_customer_feedback_and_send_AI-written_replies_with_GPT-4_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12541_Analyze_customer_feedback_and_send_AI-written_replies_with_GPT-4_and_Gmail.json)|
 |14525|[14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json)|
+|15392|[15392_Send_a_weekly_AI_written_WordPress_blog_digest_via_Gmail_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15392_Send_a_weekly_AI_written_WordPress_blog_digest_via_Gmail_using_GPT-4o.json)|
+|15574|[15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json)|
+|15973|[15973_Send_AI-written_invoice_emails_and_payment_reminders_with_Google_Sheets__Gmail__Telegram_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15973_Send_AI-written_invoice_emails_and_payment_reminders_with_Google_Sheets__Gmail__Telegram_and_Groq.json)|

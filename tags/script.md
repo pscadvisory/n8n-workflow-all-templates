@@ -1,4 +1,4 @@
-# script : 11
+# script : 14
 
 |id|file|
 |----|----|
@@ -13,3 +13,6 @@
 |12384|[12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12384_Convert_Japanese_scripts_to_multilingual_speech_with_GPT-4_and_ElevenLabs.json)|
 |13093|[13093_Generate_Google_Sheets_test_script_from_Pega_Agile_Studio_user_stories_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13093_Generate_Google_Sheets_test_script_from_Pega_Agile_Studio_user_stories_with_Gemini_AI.json)|
 |13807|[13807_Generate_multi-scene_AI_videos_from_scripts_with_Claude__Stability_AI_and_Runway.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13807_Generate_multi-scene_AI_videos_from_scripts_with_Claude__Stability_AI_and_Runway.json)|
+|15832|[15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|

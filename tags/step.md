@@ -1,4 +1,4 @@
-# step : 13
+# step : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |12633|[12633_Automate_multi-step_onboarding_emails_from_Notion_leads_via_Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12633_Automate_multi-step_onboarding_emails_from_Notion_leads_via_Gmail_and_Telegram.json)|
 |12954|[12954_Receipt_Processing_AI_Agent__with_step_by_step_video.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12954_Receipt_Processing_AI_Agent__with_step_by_step_video.json)|
 |12955|[12955_Email_AI_Agent__with_step_by_step_video.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12955_Email_AI_Agent__with_step_by_step_video.json)|
+|16002|[16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json)|
+|16714|[16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json)|

@@ -1,4 +1,4 @@
-# promote : 4
+# promote : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |2564|[2564_Automatically_promote_your_YouTube_video_on_X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2564_Automatically_promote_your_YouTube_video_on_X.json)|
 |4433|[4433_Promote_YouTube_Videos_on_Reddit_with_AI-Generated_Comments_and_Email_Digest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4433_Promote_YouTube_Videos_on_Reddit_with_AI-Generated_Comments_and_Email_Digest.json)|
 |14971|[14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json)|
+|16435|[16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json)|

@@ -1,4 +1,4 @@
-# visualize : 4
+# visualize : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |2559|[2559_Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2559_Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json)|
 |3529|[3529_Token_Estim8r_UI___Visualize_Token_Usage_analytics_Dashboard_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3529_Token_Estim8r_UI___Visualize_Token_Usage_analytics_Dashboard_in_n8n.json)|
 |6489|[6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|

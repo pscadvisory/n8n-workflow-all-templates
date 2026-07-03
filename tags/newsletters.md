@@ -1,4 +1,4 @@
-# newsletters : 17
+# newsletters : 21
 
 |id|file|
 |----|----|
@@ -19,3 +19,7 @@
 |14412|[14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json)|
 |14525|[14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14525_Publish_AI-written_newsletters_and_LinkedIn_posts_from_WordPress_with_Gemini__Google_Sheets_and_Gmail.json)|
 |14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|
+|15655|[15655_Turn_YouTube_videos_into_weekly_email_newsletters_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15655_Turn_YouTube_videos_into_weekly_email_newsletters_with_WayinVideo_and_GPT-4o-mini.json)|
+|16498|[16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|
+|16675|[16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json)|

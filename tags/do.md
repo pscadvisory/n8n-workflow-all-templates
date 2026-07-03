@@ -1,4 +1,4 @@
-# do : 16
+# do : 20
 
 |id|file|
 |----|----|
@@ -18,3 +18,7 @@
 |10186|[10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json)|
 |11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
 |11817|[11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json)|
+|15170|[15170_Create_Notion_to-do_items_from_Telegram_voice_notes_using_Groq_Whisper_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15170_Create_Notion_to-do_items_from_Telegram_voice_notes_using_Groq_Whisper_AI.json)|
+|15509|[15509_Create_a_daily_Jira_to-do_email_with_Gmail_and_OpenRouter_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15509_Create_a_daily_Jira_to-do_email_with_Gmail_and_OpenRouter_GPT.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|
+|15896|[15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json)|

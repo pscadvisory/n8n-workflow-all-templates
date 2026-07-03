@@ -1,4 +1,4 @@
-# help : 5
+# help : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |8753|[8753_Customer_Onboarding_Help_Requests__Typeform_to_Gmail___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8753_Customer_Onboarding_Help_Requests__Typeform_to_Gmail___Sheets.json)|
 |9785|[9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json)|
 |12876|[12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json)|
+|15228|[15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json)|

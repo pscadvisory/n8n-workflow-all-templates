@@ -1,4 +1,4 @@
-# dm : 10
+# dm : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |8066|[8066_Gemini-Powered_Facebook_Comment___DM_Assistant_with_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8066_Gemini-Powered_Facebook_Comment___DM_Assistant_with_Notion.json)|
 |11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|
 |12159|[12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16300|[16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json)|

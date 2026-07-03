@@ -1,4 +1,4 @@
-# detector : 18
+# detector : 25
 
 |id|file|
 |----|----|
@@ -20,3 +20,10 @@
 |13708|[13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json)|
 |14375|[14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json)|
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|15276|[15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json)|
+|15741|[15741_Monitor_suspicious_transactions_using_Google_Sheets__Groq_AI_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15741_Monitor_suspicious_transactions_using_Google_Sheets__Groq_AI_and_Gmail_alerts.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|
+|16197|[16197_Detect_payroll_discrepancies_with_Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16197_Detect_payroll_discrepancies_with_Google_Sheets__Slack_and_Gmail.json)|
+|16198|[16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json)|
+|16393|[16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json)|
+|16475|[16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json)|

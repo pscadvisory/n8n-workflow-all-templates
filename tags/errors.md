@@ -1,4 +1,4 @@
-# errors : 17
+# errors : 20
 
 |id|file|
 |----|----|
@@ -19,3 +19,6 @@
 |13789|[13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13789_Log_workflow_errors_to_Slack_and_Google_Sheets.json)|
 |13846|[13846_Monitor_workflow_errors_via_n8n_API_with_Gemini_analysis_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13846_Monitor_workflow_errors_via_n8n_API_with_Gemini_analysis_and_Telegram_alerts.json)|
 |14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|
+|15484|[15484_Diagnose_n8n_workflow_errors_with_Claude_AI__Supabase_and_Resend_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15484_Diagnose_n8n_workflow_errors_with_Claude_AI__Supabase_and_Resend_email_alerts.json)|
+|16646|[16646_Classify_workflow_errors_with_Claude_and_deduplicate_Jira_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16646_Classify_workflow_errors_with_Claude_and_deduplicate_Jira_and_Slack_alerts.json)|

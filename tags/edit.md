@@ -1,4 +1,4 @@
-# edit : 9
+# edit : 14
 
 |id|file|
 |----|----|
@@ -11,3 +11,8 @@
 |8577|[8577_Auto-Edit_Images_from_Google_Drive_with_Nano_Banana_and_Send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8577_Auto-Edit_Images_from_Google_Drive_with_Nano_Banana_and_Send_via_Gmail.json)|
 |8998|[8998_Edit_Images_with_Text_Prompts_using_Gemini_AI_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8998_Edit_Images_with_Text_Prompts_using_Gemini_AI_and_Telegram_Bot.json)|
 |9216|[9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json)|
+|15586|[15586_Generate_and_edit_images_with_Havis_AI_Nano_Banana_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15586_Generate_and_edit_images_with_Havis_AI_Nano_Banana_2.json)|
+|15759|[15759_Generate_and_Edit_Images_using_Havis_AI_and_GPT_Image_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15759_Generate_and_Edit_Images_using_Havis_AI_and_GPT_Image_2.json)|
+|15760|[15760_Generate_and_edit_images_using_Havis_AI_GPT_Image_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15760_Generate_and_edit_images_using_Havis_AI_GPT_Image_2.json)|
+|16555|[16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json)|
+|16789|[16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json)|

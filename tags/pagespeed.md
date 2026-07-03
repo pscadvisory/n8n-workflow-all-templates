@@ -1,4 +1,4 @@
-# pagespeed : 5
+# pagespeed : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |6730|[6730_Audit___Monitor_SEO_Performance_with_GPT-4_Advisor__PageSpeed_Insights___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6730_Audit___Monitor_SEO_Performance_with_GPT-4_Advisor__PageSpeed_Insights___Slack_Alerts.json)|
 |8328|[8328_Monitor_website_performance_with_PageSpeed_Insights_and_send_alerts_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8328_Monitor_website_performance_with_PageSpeed_Insights_and_send_alerts_to_Google_Sheets.json)|
 |13009|[13009_Monitor_website_performance_with_Google_PageSpeed__Sheets_and_multi-channel_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13009_Monitor_website_performance_with_Google_PageSpeed__Sheets_and_multi-channel_alerts.json)|
+|15252|[15252_Run_automated_SEO_audits_with_Screaming_Frog_CLI__PageSpeed__PDF_and_Excel_fixes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15252_Run_automated_SEO_audits_with_Screaming_Frog_CLI__PageSpeed__PDF_and_Excel_fixes.json)|
+|15548|[15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json)|
+|15911|[15911_Monitor_Core_Web_Vitals_at_scale_with_PageSpeed_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15911_Monitor_Core_Web_Vitals_at_scale_with_PageSpeed_API_and_Google_Sheets.json)|

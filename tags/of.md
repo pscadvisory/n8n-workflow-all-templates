@@ -1,4 +1,4 @@
-# of : 138
+# of : 149
 
 |id|file|
 |----|----|
@@ -140,3 +140,14 @@
 |14309|[14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json)|
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
 |14706|[14706_Send_positive_Facebook_reactions_to_Airtable_and_Slack_for_a_Wall_of_Love.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14706_Send_positive_Facebook_reactions_to_Airtable_and_Slack_for_a_Wall_of_Love.json)|
+|15122|[15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json)|
+|15168|[15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|
+|15742|[15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|
+|16049|[16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|
+|16433|[16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json)|
+|16719|[16719_Route_medical_equipment_form_leads_to_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16719_Route_medical_equipment_form_leads_to_Google_Sheets_and_Slack.json)|
+|16753|[16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json)|
+|16754|[16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json)|

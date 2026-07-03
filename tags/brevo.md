@@ -1,4 +1,4 @@
-# brevo : 9
+# brevo : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |9364|[9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9364_Inserting_Brevo_Contact_Reports_into_NocoDB.json)|
 |13639|[13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json)|
 |14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|
+|15085|[15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json)|
+|15156|[15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json)|
+|16192|[16192_Run_AI_voice_outreach_from_Airtable_with_Bolna__Groq__Brevo_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16192_Run_AI_voice_outreach_from_Airtable_with_Bolna__Groq__Brevo_and_Twilio.json)|

@@ -1,4 +1,4 @@
-# tavily : 36
+# tavily : 42
 
 |id|file|
 |----|----|
@@ -38,3 +38,9 @@
 |12858|[12858_Generate_Blog_Posts_on_Autopilot_with_GPT_5__Tavily_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12858_Generate_Blog_Posts_on_Autopilot_with_GPT_5__Tavily_and_WordPress.json)|
 |13271|[13271_Chat_Hub_Web_Search_Agent_with_Tavily_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13271_Chat_Hub_Web_Search_Agent_with_Tavily_Search.json)|
 |14412|[14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14412_Generate_and_send_AI_newsletters_with_OpenAI__Tavily__Google_Sheets_and_Gmail.json)|
+|15156|[15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json)|
+|15514|[15514_Generate_multi-agent_research_reports_with_Tavily__Groq__Notion_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15514_Generate_multi-agent_research_reports_with_Tavily__Groq__Notion_and_Supabase.json)|
+|16551|[16551_Send_daily_LinkedIn_post_drafts_with_Tavily__Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16551_Send_daily_LinkedIn_post_drafts_with_Tavily__Groq_Llama_3.3_and_Gmail.json)|
+|16577|[16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json)|
+|16662|[16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json)|
+|16676|[16676_Create_blog_drafts__images__and_LinkedIn_posts_with_Tavily__Gemini__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16676_Create_blog_drafts__images__and_LinkedIn_posts_with_Tavily__Gemini__and_OpenAI.json)|

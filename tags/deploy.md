@@ -1,4 +1,4 @@
-# deploy : 18
+# deploy : 22
 
 |id|file|
 |----|----|
@@ -20,3 +20,7 @@
 |10447|[10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json)|
 |13781|[13781_Train_and_deploy_ML_models_with_Claude_and_Slack_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13781_Train_and_deploy_ML_models_with_Claude_and_Slack_approval.json)|
 |13823|[13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json)|
+|15359|[15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json)|
+|15795|[15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16764|[16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json)|

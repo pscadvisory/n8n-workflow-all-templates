@@ -1,4 +1,4 @@
-# multilingual : 28
+# multilingual : 32
 
 |id|file|
 |----|----|
@@ -30,3 +30,7 @@
 |13940|[13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13940_Triage_and_reply_to_multilingual_support_tickets_with_Anthropic_Claude.json)|
 |14662|[14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json)|
 |14707|[14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json)|
+|15360|[15360_Generate_multilingual_social_content_with_GPT-4o__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15360_Generate_multilingual_social_content_with_GPT-4o__Telegram_and_Google_Sheets.json)|
+|15500|[15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json)|
+|16387|[16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json)|
+|16427|[16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json)|

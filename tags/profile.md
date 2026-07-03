@@ -1,4 +1,4 @@
-# profile : 59
+# profile : 70
 
 |id|file|
 |----|----|
@@ -61,3 +61,14 @@
 |13669|[13669_Get_LinkedIn_profile_data_via_TexAU_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13669_Get_LinkedIn_profile_data_via_TexAU_API.json)|
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
 |13974|[13974_Retrieve_a_LinkedIn_contact_s_name_from_a_profile_URL_with_LinkUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13974_Retrieve_a_LinkedIn_contact_s_name_from_a_profile_URL_with_LinkUp.json)|
+|15075|[15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json)|
+|15569|[15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json)|
+|15643|[15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json)|
+|15739|[15739_Search_Xiaohongshu_users_by_keyword_and_get_profile_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15739_Search_Xiaohongshu_users_by_keyword_and_get_profile_details_with_JustOneAPI.json)|
+|15880|[15880_Search_Douyin_users_by_keyword_and_fetch_profile_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15880_Search_Douyin_users_by_keyword_and_fetch_profile_details_with_JustOneAPI.json)|
+|16012|[16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json)|
+|16100|[16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json)|
+|16148|[16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json)|
+|16225|[16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json)|
+|16318|[16318_Publish_weekly_Google_Business_Profile_posts_using_Perplexity_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16318_Publish_weekly_Google_Business_Profile_posts_using_Perplexity_and_Supabase.json)|
+|16530|[16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json)|

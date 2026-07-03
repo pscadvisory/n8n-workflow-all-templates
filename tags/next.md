@@ -1,4 +1,4 @@
-# next : 7
+# next : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9771|[9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json)|
 |9983|[9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json)|
 |14264|[14264_Generate_personalized_trip_recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14264_Generate_personalized_trip_recommendations_with_Claude_AI_and_Google_Sheets.json)|
+|16714|[16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json)|

@@ -1,4 +1,4 @@
-# transcription : 29
+# transcription : 33
 
 |id|file|
 |----|----|
@@ -31,3 +31,7 @@
 |12934|[12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json)|
 |13073|[13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13073_Create_an_auto-journal_from_WhatsApp_with_AI_transcription.json)|
 |14799|[14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json)|
+|15048|[15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|15927|[15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|

@@ -1,4 +1,4 @@
-# sms : 52
+# sms : 63
 
 |id|file|
 |----|----|
@@ -54,3 +54,14 @@
 |13062|[13062_Send_candidate_outcome_emails_and_SMS_and_notify_referrers_with_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13062_Send_candidate_outcome_emails_and_SMS_and_notify_referrers_with_Airtable.json)|
 |13386|[13386_Wake_up_on_time_using_Google_Maps_traffic__Twilio_SMS__and_iOS_Shortcuts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13386_Wake_up_on_time_using_Google_Maps_traffic__Twilio_SMS__and_iOS_Shortcuts.json)|
 |13651|[13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json)|
+|15080|[15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json)|
+|15228|[15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json)|
+|15323|[15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json)|
+|15431|[15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json)|
+|15469|[15469_Get_daily_meeting_SMS_reminders_from_Google_Calendar_with_GPT-4o-mini_and_Alive5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15469_Get_daily_meeting_SMS_reminders_from_Google_Calendar_with_GPT-4o-mini_and_Alive5.json)|
+|15577|[15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json)|
+|15864|[15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json)|
+|16124|[16124_Send_transactional_SMS_with_the_OVHcloud_SMS_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16124_Send_transactional_SMS_with_the_OVHcloud_SMS_API.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16760|[16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json)|

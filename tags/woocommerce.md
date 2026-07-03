@@ -1,4 +1,4 @@
-# woocommerce : 76
+# woocommerce : 78
 
 |id|file|
 |----|----|
@@ -78,3 +78,5 @@
 |14531|[14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json)|
 |14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|
 |14897|[14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json)|
+|15617|[15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json)|
+|15855|[15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json)|

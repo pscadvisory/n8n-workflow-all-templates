@@ -1,4 +1,4 @@
-# entries : 12
+# entries : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|
 |13497|[13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json)|
 |14496|[14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14496_Record_Odoo_accounting_entries_from_Telegram_using_ChatGPT__GPT-4o-mini.json)|
+|16787|[16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json)|

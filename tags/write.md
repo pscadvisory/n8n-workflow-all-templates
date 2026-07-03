@@ -1,4 +1,4 @@
-# write : 13
+# write : 17
 
 |id|file|
 |----|----|
@@ -15,3 +15,7 @@
 |12323|[12323_Score_job_applications_and_write_AI_feedback_with_OpenAI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12323_Score_job_applications_and_write_AI_feedback_with_OpenAI_and_Notion.json)|
 |12342|[12342_Write_personalized_cold_emails_from_LinkedIn_leads_with_Wiza.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12342_Write_personalized_cold_emails_from_LinkedIn_leads_with_Wiza.json)|
 |13924|[13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13924_Write_daily_tech_news_with_OpenAI_using_RSS_feeds_and_WordPress.json)|
+|15160|[15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|16213|[16213_Enrich_new_leads_and_write_personalized_icebreakers_with_Google_Sheets_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16213_Enrich_new_leads_and_write_personalized_icebreakers_with_Google_Sheets_and_Claude.json)|
+|16249|[16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json)|

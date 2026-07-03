@@ -1,4 +1,4 @@
-# llm : 61
+# llm : 69
 
 |id|file|
 |----|----|
@@ -63,3 +63,11 @@
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
 |14536|[14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json)|
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|15220|[15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json)|
+|15670|[15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json)|
+|15913|[15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json)|
+|15951|[15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json)|
+|16181|[16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|
+|16488|[16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json)|
+|16570|[16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json)|

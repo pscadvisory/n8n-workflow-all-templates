@@ -1,4 +1,4 @@
-# ssl : 12
+# ssl : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |7689|[7689_Generate_SSL_TLS_Certificate_Expiry_Reports_with_AWS_ACM_and_AI_for_Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7689_Generate_SSL_TLS_Certificate_Expiry_Reports_with_AWS_ACM_and_AI_for_Slack___Email.json)|
 |12221|[12221_Monitor_SSL_certificates_for_brand-impersonating_domains_with_crt.sh__Urlscan.io_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12221_Monitor_SSL_certificates_for_brand-impersonating_domains_with_crt.sh__Urlscan.io_and_Slack.json)|
 |12607|[12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json)|
+|15312|[15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json)|
+|16196|[16196_Monitor_SSL_certificate_expiry_with_Google_Sheets__Slack__Gmail_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16196_Monitor_SSL_certificate_expiry_with_Google_Sheets__Slack__Gmail_and_Jira.json)|

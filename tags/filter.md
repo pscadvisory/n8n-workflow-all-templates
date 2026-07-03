@@ -1,4 +1,4 @@
-# filter : 22
+# filter : 26
 
 |id|file|
 |----|----|
@@ -24,3 +24,7 @@
 |13903|[13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json)|
 |14028|[14028_Filter_spam_from_webhook_form_submissions_using_honeypot_and_timing_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14028_Filter_spam_from_webhook_form_submissions_using_honeypot_and_timing_checks.json)|
 |14991|[14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json)|
+|15226|[15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json)|
+|15431|[15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json)|
+|16075|[16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json)|
+|16467|[16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json)|

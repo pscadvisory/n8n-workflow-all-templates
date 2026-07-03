@@ -1,4 +1,4 @@
-# academic : 17
+# academic : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |13430|[13430_Monitor_academic_integrity_signals_with_GPT-4o__email_alerts_and_case_archiving.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13430_Monitor_academic_integrity_signals_with_GPT-4o__email_alerts_and_case_archiving.json)|
 |13432|[13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json)|
 |13680|[13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json)|
+|15564|[15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json)|

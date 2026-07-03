@@ -1,4 +1,4 @@
-# proposal : 22
+# proposal : 32
 
 |id|file|
 |----|----|
@@ -24,3 +24,13 @@
 |13869|[13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json)|
 |14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
 |14982|[14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json)|
+|15072|[15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json)|
+|15322|[15322_Generate_RFP_proposal_drafts_from_Google_Drive_with_Groq_AI__Salesforce_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15322_Generate_RFP_proposal_drafts_from_Google_Drive_with_Groq_AI__Salesforce_and_Slack.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|15894|[15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json)|
+|15984|[15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16170|[16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json)|
+|16173|[16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json)|
+|16426|[16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json)|
+|16596|[16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json)|

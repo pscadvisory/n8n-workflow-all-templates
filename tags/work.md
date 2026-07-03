@@ -1,4 +1,4 @@
-# work : 7
+# work : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8643|[8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json)|
 |10430|[10430_Automate_Employee_Birthdays___Work_Anniversaries_with_Google_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10430_Automate_Employee_Birthdays___Work_Anniversaries_with_Google_Gemini_and_Slack.json)|
 |10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|
+|16374|[16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json)|

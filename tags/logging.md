@@ -1,4 +1,4 @@
-# logging : 47
+# logging : 55
 
 |id|file|
 |----|----|
@@ -49,3 +49,11 @@
 |14388|[14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14388_Generate_multi-variation_FX_concept_clips_with_Seedance_AI__Google_Drive__Notion_and_Slack.json)|
 |14416|[14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15273|[15273_Handle_retail_payment_failures_with_retry_emails__Slack_alerts_and_Supabase_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15273_Handle_retail_payment_failures_with_retry_emails__Slack_alerts_and_Supabase_logging.json)|
+|15359|[15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json)|
+|15726|[15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json)|
+|15793|[15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json)|
+|16079|[16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json)|
+|16659|[16659_Reply_to_Instagram_comments_with_Groq__Telegram_approval__and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16659_Reply_to_Instagram_comments_with_Groq__Telegram_approval__and_Google_Sheets_logging.json)|
+|16764|[16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json)|
+|16800|[16800_Normalize_and_backfill_Notion_database_properties_with_rules_and_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16800_Normalize_and_backfill_Notion_database_properties_with_rules_and_logging.json)|

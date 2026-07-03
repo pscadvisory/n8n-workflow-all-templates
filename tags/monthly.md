@@ -1,4 +1,4 @@
-# monthly : 26
+# monthly : 32
 
 |id|file|
 |----|----|
@@ -28,3 +28,9 @@
 |12646|[12646_Track_monthly_OpenAI_token_usage_with_Google_Sheets_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12646_Track_monthly_OpenAI_token_usage_with_Google_Sheets_and_Gmail_reports.json)|
 |13497|[13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json)|
 |13725|[13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13725_Generate_monthly_AI_financial_reports_with_OpenAI_and_email_Slack_distribution.json)|
+|15327|[15327_Generate_monthly_AI_SEO_content_with_Gemini_for_WordPress__LinkedIn_and_socials.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15327_Generate_monthly_AI_SEO_content_with_Gemini_for_WordPress__LinkedIn_and_socials.json)|
+|15651|[15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json)|
+|15988|[15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json)|
+|16328|[16328_Send_monthly_P_L_email_reports_with_Google_Sheets__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16328_Send_monthly_P_L_email_reports_with_Google_Sheets__GPT-4o-mini_and_Gmail.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|
+|16538|[16538_Generate_monthly_BigQuery_KPI_PDF_reports_with_Claude__Google_Docs__Outlook_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16538_Generate_monthly_BigQuery_KPI_PDF_reports_with_Claude__Google_Docs__Outlook_and_Teams.json)|

@@ -1,4 +1,4 @@
-# summarizer : 32
+# summarizer : 33
 
 |id|file|
 |----|----|
@@ -34,3 +34,4 @@
 |12934|[12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json)|
 |13889|[13889_Summarize_YouTube_videos_and_generate_thumbnails_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13889_Summarize_YouTube_videos_and_generate_thumbnails_using_Anthropic_and_deAPI.json)|
 |14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
+|16122|[16122_Summarize_and_translate_YouTube_videos_with_SupaData_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16122_Summarize_and_translate_YouTube_videos_with_SupaData_and_OpenAI.json)|

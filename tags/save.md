@@ -1,4 +1,4 @@
-# save : 113
+# save : 122
 
 |id|file|
 |----|----|
@@ -115,3 +115,12 @@
 |14710|[14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json)|
 |14895|[14895_Structure_AI_meeting_notes_with_GPT-4o-mini_and_save_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14895_Structure_AI_meeting_notes_with_GPT-4o-mini_and_save_to_Google_Drive.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|15096|[15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json)|
+|15160|[15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json)|
+|15308|[15308_Save_business_card_contacts_from_LINE_photos_to_Google_Sheets_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15308_Save_business_card_contacts_from_LINE_photos_to_Google_Sheets_using_Gemini.json)|
+|15378|[15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json)|
+|15485|[15485_Classify_SES_project_emails_with_GPT-4.1_mini_and_save_from_Gmail_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15485_Classify_SES_project_emails_with_GPT-4.1_mini_and_save_from_Gmail_to_Sheets.json)|
+|15663|[15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json)|
+|15752|[15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json)|
+|16063|[16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json)|
+|16424|[16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json)|

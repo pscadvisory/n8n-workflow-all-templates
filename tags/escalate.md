@@ -1,4 +1,4 @@
-# escalate : 10
+# escalate : 16
 
 |id|file|
 |----|----|
@@ -12,3 +12,9 @@
 |14292|[14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json)|
 |14530|[14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json)|
 |14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
+|15658|[15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json)|
+|15659|[15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json)|
+|16053|[16053_Handle_chat_support_and_escalate_unresolved_tickets_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16053_Handle_chat_support_and_escalate_unresolved_tickets_with_Google_Gemini_and_Gmail.json)|
+|16235|[16235_Triage_support_emails_with_EmailConnect__Notion_KB__and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16235_Triage_support_emails_with_EmailConnect__Notion_KB__and_OpenRouter.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|

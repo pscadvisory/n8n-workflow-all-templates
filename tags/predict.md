@@ -1,4 +1,4 @@
-# predict : 19
+# predict : 24
 
 |id|file|
 |----|----|
@@ -21,3 +21,8 @@
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
 |14143|[14143_Predict_Shopify_stockouts_with_GPT-4o_and_email_suppliers_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14143_Predict_Shopify_stockouts_with_GPT-4o_and_email_suppliers_via_Gmail.json)|
 |14414|[14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|15108|[15108_Predict_no-show_risk_and_route_reminders_with_Google_Calendar__Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15108_Predict_no-show_risk_and_route_reminders_with_Google_Calendar__Sheets__Slack_and_OpenAI.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|16185|[16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json)|
+|16306|[16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json)|

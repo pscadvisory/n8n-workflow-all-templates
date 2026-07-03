@@ -1,4 +1,4 @@
-# analytics : 73
+# analytics : 79
 
 |id|file|
 |----|----|
@@ -75,3 +75,9 @@
 |14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
 |14433|[14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14433_Orchestrate_sustainability_lifecycle_analytics_with_GPT-4o__Slack__Gmail_and_Google_Docs.json)|
 |14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|
+|15651|[15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json)|
+|15897|[15897_Send_weekly_social_analytics_reports_with_LinkedIn__X__Instagram__Google_Sheets_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15897_Send_weekly_social_analytics_reports_with_LinkedIn__X__Instagram__Google_Sheets_and_GPT-4o.json)|
+|15948|[15948_Generate_weekly_habit_and_mood_insights_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15948_Generate_weekly_habit_and_mood_insights_with_Google_Sheets_and_OpenAI.json)|
+|16521|[16521_Send_a_weekly_Plausible_analytics_digest_to_Telegram_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16521_Send_a_weekly_Plausible_analytics_digest_to_Telegram_chat.json)|
+|16585|[16585_Monitor_warehouse_receiving_performance_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16585_Monitor_warehouse_receiving_performance_with_Google_Sheets__Gemini__and_Gmail.json)|
+|16742|[16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json)|

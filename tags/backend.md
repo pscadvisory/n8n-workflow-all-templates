@@ -1,4 +1,4 @@
-# backend : 10
+# backend : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |4015|[4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json)|
 |4645|[4645_Create_AI-Powered_Website_Chatbot_with_Langflow_Backend_and_Custom_Branding.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4645_Create_AI-Powered_Website_Chatbot_with_Langflow_Backend_and_Custom_Branding.json)|
 |9280|[9280_Event_Ticketing_Backend__Auto_QR_Tickets_with_Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9280_Event_Ticketing_Backend__Auto_QR_Tickets_with_Google_Sheets___Gmail.json)|
+|15226|[15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json)|

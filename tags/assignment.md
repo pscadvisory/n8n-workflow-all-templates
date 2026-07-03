@@ -1,4 +1,4 @@
-# assignment : 17
+# assignment : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |11746|[11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json)|
 |12731|[12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json)|
 |12739|[12739_Create_consulting_client_onboarding_tasks_with_GPT-4__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12739_Create_consulting_client_onboarding_tasks_with_GPT-4__Google_Sheets_and_Slack.json)|
+|15660|[15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json)|
+|16121|[16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json)|

@@ -1,4 +1,4 @@
-# audio : 69
+# audio : 77
 
 |id|file|
 |----|----|
@@ -71,3 +71,11 @@
 |14574|[14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json)|
 |14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|
 |14975|[14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json)|
+|15096|[15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json)|
+|15499|[15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|
+|16114|[16114_Generate_new_video_audio_and_merge_the_final_result_with_Fal.run_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16114_Generate_new_video_audio_and_merge_the_final_result_with_Fal.run_and_Google_Drive.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|
+|16642|[16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|
+|16735|[16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json)|

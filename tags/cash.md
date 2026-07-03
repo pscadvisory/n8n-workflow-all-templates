@@ -1,4 +1,4 @@
-# cash : 5
+# cash : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |10109|[10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json)|
 |11903|[11903_Multi-source_tax___cash_flow_forecasting_with_GPT-4__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11903_Multi-source_tax___cash_flow_forecasting_with_GPT-4__Gmail_and_Google_Sheets.json)|
 |13420|[13420_Analyze_invoices_and_predict_cash_flow_with_Gemini__Google_Sheets__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13420_Analyze_invoices_and_predict_cash_flow_with_Gemini__Google_Sheets__Gmail__and_Slack.json)|
+|15061|[15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json)|

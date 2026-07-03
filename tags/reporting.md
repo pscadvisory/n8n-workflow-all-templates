@@ -1,4 +1,4 @@
-# reporting : 74
+# reporting : 81
 
 |id|file|
 |----|----|
@@ -76,3 +76,10 @@
 |14464|[14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json)|
 |14543|[14543_Monitor_APK_uploads_and_run_MobSF_analysis_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14543_Monitor_APK_uploads_and_run_MobSF_analysis_with_OpenAI_and_Slack_alerts.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15083|[15083_Analyze_daily_metrics_with_multi-agent_GPT-4o__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15083_Analyze_daily_metrics_with_multi-agent_GPT-4o__Google_Sheets__Slack_and_Gmail.json)|
+|15573|[15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json)|
+|15651|[15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json)|
+|15670|[15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json)|
+|15693|[15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json)|
+|15696|[15696_Monitor_daily_traffic_spikes_with_Databox__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15696_Monitor_daily_traffic_spikes_with_Databox__OpenAI_and_Slack.json)|
+|15806|[15806_Analyze_YouTube_comments_with_OpenAI_and_send_reports_via_email_and_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15806_Analyze_YouTube_comments_with_OpenAI_and_send_reports_via_email_and_chat.json)|

@@ -1,4 +1,4 @@
-# channel : 117
+# channel : 122
 
 |id|file|
 |----|----|
@@ -119,3 +119,8 @@
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
 |13717|[13717_Run_a_self-hosted_multi-channel_AI_assistant_with_Claude__Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13717_Run_a_self-hosted_multi-channel_AI_assistant_with_Claude__Gemini_and_Gmail.json)|
 |13764|[13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15616|[15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json)|
+|16359|[16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json)|
+|16545|[16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|

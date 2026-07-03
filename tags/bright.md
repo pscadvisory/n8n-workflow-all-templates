@@ -1,4 +1,4 @@
-# bright : 154
+# bright : 161
 
 |id|file|
 |----|----|
@@ -156,3 +156,10 @@
 |14014|[14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14014_Analyze_competitor_Instagram_engagement_with_Bright_Data_and_GPT-5.4.json)|
 |14015|[14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json)|
 |14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|
+|15247|[15247_Enrich_new_Airtable_leads_from_LinkedIn_using_Bright_Data__GPT-5-mini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15247_Enrich_new_Airtable_leads_from_LinkedIn_using_Bright_Data__GPT-5-mini_and_Slack.json)|
+|15260|[15260_Research_web_content_with_Claude_Opus_4.7_and_Bright_Data_to_post_Slack_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15260_Research_web_content_with_Claude_Opus_4.7_and_Bright_Data_to_post_Slack_reports.json)|
+|15483|[15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json)|
+|15533|[15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json)|
+|16413|[16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json)|
+|16675|[16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json)|
+|16683|[16683_Score_LinkedIn_leads_in_Google_Sheets_with_Bright_Data_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16683_Score_LinkedIn_leads_in_Google_Sheets_with_Bright_Data_and_Claude.json)|

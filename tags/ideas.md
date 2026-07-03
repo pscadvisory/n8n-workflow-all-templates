@@ -1,4 +1,4 @@
-# ideas : 53
+# ideas : 66
 
 |id|file|
 |----|----|
@@ -55,3 +55,16 @@
 |14778|[14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json)|
 |14898|[14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json)|
 |15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|
+|15066|[15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15335|[15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json)|
+|15520|[15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json)|
+|15808|[15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json)|
+|16115|[16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json)|
+|16159|[16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json)|
+|16236|[16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json)|
+|16381|[16381_Generate_blog_content_ideas_with_Google_Sheets__RSS_feeds_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16381_Generate_blog_content_ideas_with_Google_Sheets__RSS_feeds_and_OpenAI.json)|
+|16508|[16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json)|
+|16513|[16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json)|
+|16576|[16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json)|
+|16759|[16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json)|

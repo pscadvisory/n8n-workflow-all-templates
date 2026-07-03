@@ -1,4 +1,4 @@
-# ocr : 77
+# ocr : 88
 
 |id|file|
 |----|----|
@@ -79,3 +79,14 @@
 |14210|[14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json)|
 |14272|[14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json)|
 |14502|[14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json)|
+|15174|[15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json)|
+|15220|[15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json)|
+|15232|[15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json)|
+|15564|[15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|
+|15854|[15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json)|
+|15937|[15937_Extract_invoice_data_with_Google_Gemini__Google_Sheets__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15937_Extract_invoice_data_with_Google_Gemini__Google_Sheets__and_Telegram.json)|
+|15956|[15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json)|
+|16172|[16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json)|
+|16350|[16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json)|
+|16394|[16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json)|

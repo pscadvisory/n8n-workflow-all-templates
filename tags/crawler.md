@@ -1,4 +1,4 @@
-# crawler : 5
+# crawler : 7
 
 |id|file|
 |----|----|
@@ -7,3 +7,5 @@
 |8852|[8852_Domain-Specific_Web_Content_Crawler_with_Depth_Control___Text_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8852_Domain-Specific_Web_Content_Crawler_with_Depth_Control___Text_Extraction.json)|
 |9594|[9594_Web_Crawler__Convert_Websites_to_AI-Ready_Markdown_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9594_Web_Crawler__Convert_Websites_to_AI-Ready_Markdown_in_Google_Sheets.json)|
 |13436|[13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json)|
+|15412|[15412_AI_Job_Crawler_with_Suitability_Scoring.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15412_AI_Job_Crawler_with_Suitability_Scoring.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|

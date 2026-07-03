@@ -1,4 +1,4 @@
-# deepl : 13
+# deepl : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
 |11910|[11910_Translate_multilingual_content_with_DeepL__GPT-4__WordPress__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11910_Translate_multilingual_content_with_DeepL__GPT-4__WordPress__Slack_and_Sheets.json)|
 |13543|[13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json)|
+|15500|[15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# site : 14
+# site : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |10216|[10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json)|
 |11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|
 |11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|

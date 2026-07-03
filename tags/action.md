@@ -1,4 +1,4 @@
-# action : 13
+# action : 21
 
 |id|file|
 |----|----|
@@ -15,3 +15,11 @@
 |13126|[13126_Summarize_Gmail_emails_with_Gemini_and_send_an_HTML_action_digest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13126_Summarize_Gmail_emails_with_Gemini_and_send_an_HTML_action_digest.json)|
 |13136|[13136_Sync_Fathom_meeting_summaries_and_action_items_with_GoHighLevel_contacts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13136_Sync_Fathom_meeting_summaries_and_action_items_with_GoHighLevel_contacts.json)|
 |13771|[13771_Summarize_meeting_recordings_and_create_Notion_action_items_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13771_Summarize_meeting_recordings_and_create_Notion_action_items_with_Gemini_AI.json)|
+|15069|[15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15069_Turn_meeting_action_items_into_ClickUp_tasks_with_Fireflies__GPT-4o-mini_and_Telegram.json)|
+|15114|[15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json)|
+|15336|[15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json)|
+|15499|[15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json)|
+|15974|[15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json)|
+|15995|[15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json)|
+|16227|[16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json)|
+|16322|[16322_Track_meeting_action_items_with_Claude__Linear__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16322_Track_meeting_action_items_with_Claude__Linear__Slack_and_Gmail.json)|

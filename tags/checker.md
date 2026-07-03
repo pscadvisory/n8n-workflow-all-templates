@@ -1,4 +1,4 @@
-# checker : 23
+# checker : 29
 
 |id|file|
 |----|----|
@@ -25,3 +25,9 @@
 |13449|[13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json)|
 |13691|[13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13691_Validate_customs_clearance_documents_with_Claude_AI__Google_Drive_and_Slack.json)|
 |14180|[14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|15061|[15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json)|
+|15887|[15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|
+|16458|[16458_Check_prescription_safety_and_drug_interactions_with_GPT-4o__Sheets__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16458_Check_prescription_safety_and_drug_interactions_with_GPT-4o__Sheets__and_Telegram.json)|
+|16470|[16470_Notify_website_downtime_via_email_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16470_Notify_website_downtime_via_email_and_Telegram_alerts.json)|
+|16693|[16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json)|

@@ -1,4 +1,4 @@
-# free : 31
+# free : 35
 
 |id|file|
 |----|----|
@@ -33,3 +33,7 @@
 |12524|[12524_Sync_AWS_billing_invoices_with_FreeAgent_and_PostgreSQL_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12524_Sync_AWS_billing_invoices_with_FreeAgent_and_PostgreSQL_tracking.json)|
 |13411|[13411_Get_enriched_location__weather__and_timezone_data_using_free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13411_Get_enriched_location__weather__and_timezone_data_using_free_APIs.json)|
 |14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|
+|15187|[15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json)|
+|15577|[15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json)|
+|15997|[15997_Send_a_daily_AI_news_digest_email_with_Google_News__OpenRouter__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15997_Send_a_daily_AI_news_digest_email_with_Google_News__OpenRouter__and_Gmail.json)|
+|16364|[16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# scan : 11
+# scan : 17
 
 |id|file|
 |----|----|
@@ -13,3 +13,9 @@
 |13654|[13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json)|
 |13900|[13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13900_Scan_code_repositories_for_governance_issues_with_GPT-4o_and_severity-based_reports.json)|
 |14212|[14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json)|
+|15192|[15192_Scan_biotech_news_for_catalyst_trades_with_FinBERT__Alpaca__and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15192_Scan_biotech_news_for_catalyst_trades_with_FinBERT__Alpaca__and_Gemini.json)|
+|15207|[15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json)|
+|15530|[15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json)|
+|15701|[15701_Scan_business_cards_with_Gemini_AI_and_log_contacts_to_Google_Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15701_Scan_business_cards_with_Gemini_AI_and_log_contacts_to_Google_Sheets_and_Calendar.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|
+|15758|[15758_Scan_receipt_images_from_Google_Drive_with_Gemini_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15758_Scan_receipt_images_from_Google_Drive_with_Gemini_and_log_to_Google_Sheets.json)|

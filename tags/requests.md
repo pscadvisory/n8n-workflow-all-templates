@@ -1,4 +1,4 @@
-# requests : 54
+# requests : 66
 
 |id|file|
 |----|----|
@@ -56,3 +56,15 @@
 |14471|[14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json)|
 |14513|[14513_Send_invoice_approval_requests_to_Slack_using_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14513_Send_invoice_approval_requests_to_Slack_using_easybits_Extractor.json)|
 |14524|[14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json)|
+|15051|[15051_Classify_and_route_DevOps_chat_requests_with_Mattermost_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15051_Classify_and_route_DevOps_chat_requests_with_Mattermost_and_Claude.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|15500|[15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json)|
+|15614|[15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json)|
+|15949|[15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json)|
+|16174|[16174_Route_API_requests_via_webhook_with_retries_and_backup_endpoints.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16174_Route_API_requests_via_webhook_with_retries_and_backup_endpoints.json)|
+|16188|[16188_Triage_inbound_form_requests_with_OpenAI__Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16188_Triage_inbound_form_requests_with_OpenAI__Slack__Gmail_and_Google_Sheets.json)|
+|16194|[16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|
+|16663|[16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

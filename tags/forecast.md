@@ -1,4 +1,4 @@
-# forecast : 16
+# forecast : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |13961|[13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json)|
 |13982|[13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13982_Forecast_sales_trends_and_weekly_reports_with_Stripe__Sheets__Slack__and_Gemini_AI.json)|
 |15027|[15027_Forecast_property_CAPEX_and_ROI_weekly_using_Google_Sheets_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15027_Forecast_property_CAPEX_and_ROI_weekly_using_Google_Sheets_and_GPT-4o.json)|
+|15706|[15706_Forecast_inventory_and_auto-generate_reorders_with_Google_Sheets__GPT-4o_mini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15706_Forecast_inventory_and_auto-generate_reorders_with_Google_Sheets__GPT-4o_mini_and_Slack.json)|

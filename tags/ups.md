@@ -1,4 +1,4 @@
-# ups : 33
+# ups : 40
 
 |id|file|
 |----|----|
@@ -35,3 +35,10 @@
 |14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
 |14813|[14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json)|
 |14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|
+|15969|[15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16004|[16004_Send_HubSpot_deal_follow-ups_with_Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16004_Send_HubSpot_deal_follow-ups_with_Gmail__Slack__and_Google_Sheets.json)|
+|16065|[16065_Draft_AI_follow-up_email_drafts_for_stale_estimates_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16065_Draft_AI_follow-up_email_drafts_for_stale_estimates_with_Claude_and_Google_Sheets.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|
+|16338|[16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json)|
+|16672|[16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json)|

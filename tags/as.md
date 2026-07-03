@@ -1,4 +1,4 @@
-# as : 39
+# as : 47
 
 |id|file|
 |----|----|
@@ -41,3 +41,11 @@
 |14227|[14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14227_Send_AI_website_audits_with_GPT-4.1_and_Gmail_as_a_lead_magnet.json)|
 |14863|[14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json)|
 |15038|[15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json)|
+|15168|[15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json)|
+|15242|[15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|15951|[15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16236|[16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json)|
+|16310|[16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json)|
+|16570|[16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json)|

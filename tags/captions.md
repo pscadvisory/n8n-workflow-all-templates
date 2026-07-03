@@ -1,4 +1,4 @@
-# captions : 29
+# captions : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |14658|[14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json)|
 |14923|[14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json)|
 |14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|
+|15440|[15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|

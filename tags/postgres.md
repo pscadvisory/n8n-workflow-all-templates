@@ -1,4 +1,4 @@
-# postgres : 59
+# postgres : 66
 
 |id|file|
 |----|----|
@@ -61,3 +61,10 @@
 |14823|[14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json)|
 |14990|[14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json)|
 |14995|[14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json)|
+|15129|[15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json)|
+|15359|[15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json)|
+|15390|[15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json)|
+|16094|[16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|
+|16663|[16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|

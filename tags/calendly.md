@@ -1,4 +1,4 @@
-# calendly : 30
+# calendly : 34
 
 |id|file|
 |----|----|
@@ -32,3 +32,7 @@
 |12079|[12079_Handle_Calendly_bookings__cancellations_and_reschedules_with_Gmail__Google_Calendar__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12079_Handle_Calendly_bookings__cancellations_and_reschedules_with_Gmail__Google_Calendar__Sheets_and_Slack.json)|
 |12271|[12271_Schedule_and_track_interviews_using_Calendly__Zoom__Asana__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12271_Schedule_and_track_interviews_using_Calendly__Zoom__Asana__and_Gmail.json)|
 |12530|[12530_Send_AI_sales_proposals_and_Stripe_payment_links_after_Calendly_calls.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12530_Send_AI_sales_proposals_and_Stripe_payment_links_after_Calendly_calls.json)|
+|15293|[15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json)|
+|15536|[15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json)|
+|15874|[15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json)|
+|16195|[16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json)|

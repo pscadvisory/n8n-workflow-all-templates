@@ -1,4 +1,4 @@
-# viral : 72
+# viral : 74
 
 |id|file|
 |----|----|
@@ -74,3 +74,5 @@
 |13952|[13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json)|
 |14031|[14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14031_Generate_TikTok_and_Instagram_reel_clips_from_YouTube_videos_with_Vizard_AI.json)|
 |14266|[14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|

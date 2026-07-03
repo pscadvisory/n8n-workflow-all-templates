@@ -1,4 +1,4 @@
-# wan : 6
+# wan : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8907|[8907_UGC_Video_Generation_with_Wan_2.5_on_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8907_UGC_Video_Generation_with_Wan_2.5_on_Replicate.json)|
 |9541|[9541_Create_Deepfake_Videos_by_Swapping_Faces_with_Fal.ai_Wan_2.2_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9541_Create_Deepfake_Videos_by_Swapping_Faces_with_Fal.ai_Wan_2.2_and_AWS_S3.json)|
 |12253|[12253_Generate_text-__image-__and_video-to-video_clips_with_WAN_2.6_via_KIE.AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12253_Generate_text-__image-__and_video-to-video_clips_with_WAN_2.6_via_KIE.AI.json)|
+|16776|[16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json)|

@@ -1,4 +1,4 @@
-# application : 23
+# application : 26
 
 |id|file|
 |----|----|
@@ -25,3 +25,6 @@
 |14267|[14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json)|
 |14667|[14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json)|
 |14924|[14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json)|
+|15389|[15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json)|
+|15463|[15463_Track_daily_job_applications_from_Gmail_to_Google_Sheets_via_GPT-4o-mini_with_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15463_Track_daily_job_applications_from_Gmail_to_Google_Sheets_via_GPT-4o-mini_with_approval.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|

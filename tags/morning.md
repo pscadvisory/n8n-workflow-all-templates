@@ -1,4 +1,4 @@
-# morning : 6
+# morning : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |9410|[9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json)|
 |9819|[9819_Daily_Morning_Briefing_with_Google_Calendar__Weather__and_News_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9819_Daily_Morning_Briefing_with_Google_Calendar__Weather__and_News_to_Slack.json)|
 |13731|[13731_Send_a_personalized_WhatsApp_morning_brief_with_GPT-4o__Google_and_WATI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13731_Send_a_personalized_WhatsApp_morning_brief_with_GPT-4o__Google_and_WATI.json)|
+|15128|[15128_Get_a_morning_email_and_calendar_brief_with_Gmail__Google_Calendar__GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15128_Get_a_morning_email_and_calendar_brief_with_Gmail__Google_Calendar__GPT-4o-mini_and_Telegram.json)|
+|15913|[15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json)|

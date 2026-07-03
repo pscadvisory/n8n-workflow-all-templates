@@ -1,4 +1,4 @@
-# serp : 21
+# serp : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|
 |11809|[11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json)|
 |13737|[13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13737_Track_daily_Google_SERP_rankings_with_Decodo_and_Google_Sheets.json)|
+|16335|[16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json)|
+|16413|[16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json)|
+|16668|[16668_Monitor_AI_search_visibility_with_Talordata_SERP__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16668_Monitor_AI_search_visibility_with_Talordata_SERP__OpenAI__and_Google_Sheets.json)|

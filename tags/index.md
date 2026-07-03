@@ -1,4 +1,4 @@
-# index : 8
+# index : 13
 
 |id|file|
 |----|----|
@@ -10,3 +10,8 @@
 |7945|[7945_Index_Legal_Documents_for_Hybrid_Search_with_Qdrant__OpenAI___BM25.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7945_Index_Legal_Documents_for_Hybrid_Search_with_Qdrant__OpenAI___BM25.json)|
 |8445|[8445_Migrate_Pinecone_Index_to_Weaviate_Class_with_Airtable_Pagination.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8445_Migrate_Pinecone_Index_to_Weaviate_Class_with_Airtable_Pagination.json)|
 |8778|[8778_Workflow_for_Submitting_Changed_Sitemap_URLs_using_Google_Indexing_API_and_Bing_IndexNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8778_Workflow_for_Submitting_Changed_Sitemap_URLs_using_Google_Indexing_API_and_Bing_IndexNow.json)|
+|15158|[15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json)|
+|15274|[15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json)|
+|15415|[15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json)|
+|15456|[15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|

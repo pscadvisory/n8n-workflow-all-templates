@@ -1,4 +1,4 @@
-# podcast : 25
+# podcast : 29
 
 |id|file|
 |----|----|
@@ -27,3 +27,7 @@
 |12780|[12780_Generate_podcast_topic_ideas_from_RSS_feeds_with_Gemini__SerpAPI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12780_Generate_podcast_topic_ideas_from_RSS_feeds_with_Gemini__SerpAPI_and_Notion.json)|
 |14170|[14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14170_Summarize_Apple_podcast_episodes_with_ElevenLabs_and_GPT-5-MINI.json)|
 |14715|[14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json)|
+|15181|[15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json)|
+|15350|[15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json)|
+|15732|[15732_Generate_podcast_show_notes_and_timestamps_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15732_Generate_podcast_show_notes_and_timestamps_with_WayinVideo_and_GPT-4o-mini.json)|
+|16555|[16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json)|

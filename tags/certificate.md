@@ -1,4 +1,4 @@
-# certificate : 21
+# certificate : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |12607|[12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12607_Monitor_SSL_certificate_expiry_with_Google_Sheets_and_SMTP_email_alerts.json)|
 |13219|[13219_Generate_bulk_certificates_from_Google_Sheets_and_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13219_Generate_bulk_certificates_from_Google_Sheets_and_Google_Slides.json)|
 |14081|[14081_Generate_bulk_Google_Slides_certificates___as_PDFs_and_email_them_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14081_Generate_bulk_Google_Slides_certificates___as_PDFs_and_email_them_with_Gmail.json)|
+|15312|[15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json)|
+|15438|[15438_Issue_branded_certificate_PDFs_from_Google_Sheets_with_TemplateFox_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15438_Issue_branded_certificate_PDFs_from_Google_Sheets_with_TemplateFox_and_Gmail.json)|
+|16196|[16196_Monitor_SSL_certificate_expiry_with_Google_Sheets__Slack__Gmail_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16196_Monitor_SSL_certificate_expiry_with_Google_Sheets__Slack__Gmail_and_Jira.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|

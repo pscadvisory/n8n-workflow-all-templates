@@ -1,4 +1,4 @@
-# phone : 28
+# phone : 35
 
 |id|file|
 |----|----|
@@ -30,3 +30,10 @@
 |11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|
 |11655|[11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json)|
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
+|16038|[16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json)|
+|16075|[16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16520|[16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json)|
+|16571|[16571_Verify_emails_and_phone_numbers_in_Google_Sheets_with_ApexVerify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16571_Verify_emails_and_phone_numbers_in_Google_Sheets_with_ApexVerify.json)|
+|16733|[16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

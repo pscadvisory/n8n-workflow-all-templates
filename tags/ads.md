@@ -1,4 +1,4 @@
-# ads : 77
+# ads : 88
 
 |id|file|
 |----|----|
@@ -79,3 +79,14 @@
 |14321|[14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json)|
 |14449|[14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json)|
 |14721|[14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json)|
+|15149|[15149_Generate_metaphor-based_product_video_ads_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15149_Generate_metaphor-based_product_video_ads_Veo_3.json)|
+|15236|[15236_Generate_AI_ads_from_website_and_images_with_Claude_and_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15236_Generate_AI_ads_from_website_and_images_with_Claude_and_NanoBanana.json)|
+|15243|[15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json)|
+|15385|[15385_Analyze_Google_Ads_search_terms_and_get_negative_keyword_suggestions_with_OpenAI_GPT-5.4-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15385_Analyze_Google_Ads_search_terms_and_get_negative_keyword_suggestions_with_OpenAI_GPT-5.4-mini.json)|
+|15405|[15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json)|
+|16226|[16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json)|
+|16307|[16307_Detect_competitor_product_launches_from_ads_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16307_Detect_competitor_product_launches_from_ads_with_Google_Sheets_and_OpenAI.json)|
+|16310|[16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16413|[16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|

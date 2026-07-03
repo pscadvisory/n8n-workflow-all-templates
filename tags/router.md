@@ -1,4 +1,4 @@
-# router : 18
+# router : 31
 
 |id|file|
 |----|----|
@@ -20,3 +20,16 @@
 |14120|[14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json)|
 |14124|[14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json)|
 |14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
+|15120|[15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json)|
+|15366|[15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json)|
+|15500|[15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15500_Route_multilingual_support_requests_with_DeepL__GPT-3.5_and_Gmail.json)|
+|15630|[15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json)|
+|15830|[15830_Attach_a_fixed_Wouldliker_TikTok_sound_to_any_downstream_content_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15830_Attach_a_fixed_Wouldliker_TikTok_sound_to_any_downstream_content_workflow.json)|
+|15949|[15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15949_Route_customer_support_requests_to_AI_specialists_with_OpenRouter.json)|
+|16079|[16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json)|
+|16181|[16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json)|
+|16244|[16244_Route_law_firm_client_intakes_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16244_Route_law_firm_client_intakes_with_Claude_and_Google_Sheets.json)|
+|16274|[16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json)|
+|16275|[16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json)|
+|16326|[16326_Score_and_route_BANT_leads_with_Groq__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16326_Score_and_route_BANT_leads_with_Groq__Slack_and_email.json)|
+|16611|[16611_Score_and_route_inbound_leads_with_Claude__Airtable__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16611_Score_and_route_inbound_leads_with_Claude__Airtable__Slack__and_Gmail.json)|

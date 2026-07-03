@@ -1,4 +1,4 @@
-# assets : 9
+# assets : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |11965|[11965_Create_personalized_Loom_video_scripts_from_Upwork_jobs_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11965_Create_personalized_Loom_video_scripts_from_Upwork_jobs_with_Claude_AI.json)|
 |13825|[13825_Generate_visual_diagrams_and_content_assets_from_ideas_with_Claude_and_NapkinAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13825_Generate_visual_diagrams_and_content_assets_from_ideas_with_Claude_and_NapkinAI.json)|
 |14667|[14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json)|
+|15278|[15278_Manage_portfolio_assets_via_webhook_with_Google_Sheets_and_real-time_totals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15278_Manage_portfolio_assets_via_webhook_with_Google_Sheets_and_real-time_totals.json)|
+|15327|[15327_Generate_monthly_AI_SEO_content_with_Gemini_for_WordPress__LinkedIn_and_socials.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15327_Generate_monthly_AI_SEO_content_with_Gemini_for_WordPress__LinkedIn_and_socials.json)|
+|16400|[16400_Unpublish_NSFW_ImageKit_uploads_with_GPT-4o_Vision_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16400_Unpublish_NSFW_ImageKit_uploads_with_GPT-4o_Vision_via_OpenRouter.json)|

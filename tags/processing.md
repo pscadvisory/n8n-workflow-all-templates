@@ -1,4 +1,4 @@
-# processing : 76
+# processing : 80
 
 |id|file|
 |----|----|
@@ -78,3 +78,7 @@
 |13192|[13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json)|
 |13589|[13589_Automate_medical_claims_processing_with_GPT-4_multi-agent_orchestration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13589_Automate_medical_claims_processing_with_GPT-4_multi-agent_orchestration.json)|
 |13941|[13941_Mask_PII_in_documents_for_GDPR-safe_AI_processing_with_Postgres_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13941_Mask_PII_in_documents_for_GDPR-safe_AI_processing_with_Postgres_and_Claude.json)|
+|15726|[15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json)|
+|15790|[15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json)|
+|15937|[15937_Extract_invoice_data_with_Google_Gemini__Google_Sheets__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15937_Extract_invoice_data_with_Google_Gemini__Google_Sheets__and_Telegram.json)|
+|16771|[16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json)|

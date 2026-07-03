@@ -1,4 +1,4 @@
-# vendor : 10
+# vendor : 16
 
 |id|file|
 |----|----|
@@ -12,3 +12,9 @@
 |13615|[13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json)|
 |14440|[14440_Send_vendor_follow-up_emails_for_overdue_POs_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14440_Send_vendor_follow-up_emails_for_overdue_POs_with_Google_Sheets_and_Gmail.json)|
 |14573|[14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14573_Extract_invoice_data_from_PDF_with_Claude_AI_and_create_vendor_bill_in_Odoo_18.json)|
+|15982|[15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json)|
+|16267|[16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16401|[16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16473|[16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json)|
+|16596|[16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16737|[16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json)|

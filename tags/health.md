@@ -1,4 +1,4 @@
-# health : 35
+# health : 41
 
 |id|file|
 |----|----|
@@ -37,3 +37,9 @@
 |13646|[13646_Compare_LINE_palm_images_and_log_Gemini_health_insights_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13646_Compare_LINE_palm_images_and_log_Gemini_health_insights_to_Google_Sheets.json)|
 |14270|[14270_Monitor_n8n_workflow_health_daily_with_Watchflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14270_Monitor_n8n_workflow_health_daily_with_Watchflow.json)|
 |14931|[14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14931_Generate_a_weekly_business_health_report_from_Google_Sheets_with_Claude.json)|
+|15070|[15070_Monitor_client_meeting_health_with_Fireflies__GPT-4o-mini__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15070_Monitor_client_meeting_health_with_Fireflies__GPT-4o-mini__Google_Sheets_and_Slack_alerts.json)|
+|15256|[15256_Send_weekly_SQL_Server_health_reports_via_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15256_Send_weekly_SQL_Server_health_reports_via_email.json)|
+|16222|[16222_Analyze_Zabbix_infrastructure_health_with_Gemini_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16222_Analyze_Zabbix_infrastructure_health_with_Gemini_and_PostgreSQL.json)|
+|16365|[16365_Track_financial_health_with_Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16365_Track_financial_health_with_Groq__Google_Sheets_and_Slack.json)|
+|16376|[16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json)|
+|16716|[16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json)|

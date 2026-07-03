@@ -1,4 +1,4 @@
-# operations : 133
+# operations : 134
 
 |id|file|
 |----|----|
@@ -135,3 +135,4 @@
 |13709|[13709_Coordinate_smart_factory_operations_with_OpenAI_GPT-4.1-mini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13709_Coordinate_smart_factory_operations_with_OpenAI_GPT-4.1-mini_and_Slack_alerts.json)|
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
+|16655|[16655_Generate_daily_Etsy_sales_and_ledger_reports_via_Shop_Operations_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16655_Generate_daily_Etsy_sales_and_ledger_reports_via_Shop_Operations_API.json)|

@@ -1,4 +1,4 @@
-# cost : 28
+# cost : 36
 
 |id|file|
 |----|----|
@@ -30,3 +30,11 @@
 |14003|[14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json)|
 |14536|[14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15172|[15172_Send_daily_Brent_crude_oil_futures_prices_to_Telegram_with_0_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15172_Send_daily_Brent_crude_oil_futures_prices_to_Telegram_with_0_API_cost.json)|
+|15173|[15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json)|
+|15177|[15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json)|
+|15920|[15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json)|
+|16198|[16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16198_Detect_cloud_cost_spikes_with_Google_Sheets__Slack__Gmail__and_Jira.json)|
+|16251|[16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json)|
+|16426|[16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|

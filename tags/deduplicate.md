@@ -1,4 +1,4 @@
-# deduplicate : 6
+# deduplicate : 11
 
 |id|file|
 |----|----|
@@ -8,3 +8,8 @@
 |9748|[9748_Auto-Post_X_Videos_with_OpenRouter_AI_Captions___Google_Sheets_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9748_Auto-Post_X_Videos_with_OpenRouter_AI_Captions___Google_Sheets_Deduplication.json)|
 |12366|[12366_Validate__deduplicate__and_store_customers_via_API_with_Supabase__Slack__Telegram__and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12366_Validate__deduplicate__and_store_customers_via_API_with_Supabase__Slack__Telegram__and_email.json)|
 |13464|[13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json)|
+|15540|[15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json)|
+|16646|[16646_Classify_workflow_errors_with_Claude_and_deduplicate_Jira_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16646_Classify_workflow_errors_with_Claude_and_deduplicate_Jira_and_Slack_alerts.json)|
+|16647|[16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json)|
+|16748|[16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json)|
+|16801|[16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16801_Deduplicate_and_archive_Notion_database_rows_daily_with_an_audit_log.json)|

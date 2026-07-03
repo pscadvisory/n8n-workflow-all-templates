@@ -1,4 +1,4 @@
-# grok : 14
+# grok : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |13182|[13182_Grok_Imagine_Video_Chatbot_____Generate___Modify_Videos_via_Natural_Language.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13182_Grok_Imagine_Video_Chatbot_____Generate___Modify_Videos_via_Natural_Language.json)|
 |13367|[13367_Generate_Images_on_Telegram_____from_Text_and_Voice_using_Grok_Imagine___Kie_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13367_Generate_Images_on_Telegram_____from_Text_and_Voice_using_Grok_Imagine___Kie_AI.json)|
 |14079|[14079_Summarize_stock_market_signals_with_Alpaca__xAI_Grok__Telegram_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14079_Summarize_stock_market_signals_with_Alpaca__xAI_Grok__Telegram_and_WhatsApp.json)|
+|15587|[15587_Generate_AI_videos_using_Havis_AI_Grok_Imagine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15587_Generate_AI_videos_using_Havis_AI_Grok_Imagine.json)|
+|16121|[16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json)|
+|16349|[16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json)|

@@ -1,4 +1,4 @@
-# control : 40
+# control : 43
 
 |id|file|
 |----|----|
@@ -42,3 +42,6 @@
 |13869|[13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json)|
 |14705|[14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json)|
 |14925|[14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json)|
+|15566|[15566_Control_SwitchBot_devices_via_chat_with_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15566_Control_SwitchBot_devices_via_chat_with_OpenRouter_AI.json)|
+|15795|[15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json)|
+|16224|[16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json)|

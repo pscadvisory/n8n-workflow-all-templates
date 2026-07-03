@@ -1,4 +1,4 @@
-# deployment : 7
+# deployment : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7807|[7807_Generate_and_Deploy_Websites_with_Gemini_AI_and_Netlify_Auto-Deployment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7807_Generate_and_Deploy_Websites_with_Gemini_AI_and_Netlify_Auto-Deployment.json)|
 |9613|[9613_Kubernetes_Deployment___Pod_Monitoring_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9613_Kubernetes_Deployment___Pod_Monitoring_with_Telegram_Alerts.json)|
 |13823|[13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json)|
+|15795|[15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json)|

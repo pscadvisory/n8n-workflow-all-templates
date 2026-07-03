@@ -1,4 +1,4 @@
-# platform : 70
+# platform : 75
 
 |id|file|
 |----|----|
@@ -72,3 +72,8 @@
 |13895|[13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json)|
 |14432|[14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json)|
 |15014|[15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json)|
+|15381|[15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json)|
+|15678|[15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json)|
+|16245|[16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json)|
+|16558|[16558_Schedule_approved_Notion_content_calendar_posts_with_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16558_Schedule_approved_Notion_content_calendar_posts_with_Posta.json)|
+|16792|[16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json)|

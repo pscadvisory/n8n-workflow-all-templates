@@ -1,4 +1,4 @@
-# prices : 34
+# prices : 40
 
 |id|file|
 |----|----|
@@ -36,3 +36,9 @@
 |14516|[14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json)|
 |14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
 |14675|[14675_Track_competitor_prices_daily_with_ZenRows__OpenAI__Telegram__and_DataTables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14675_Track_competitor_prices_daily_with_ZenRows__OpenAI__Telegram__and_DataTables.json)|
+|15172|[15172_Send_daily_Brent_crude_oil_futures_prices_to_Telegram_with_0_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15172_Send_daily_Brent_crude_oil_futures_prices_to_Telegram_with_0_API_cost.json)|
+|15800|[15800_Monitor_Google_Flights_prices_with_Apify_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15800_Monitor_Google_Flights_prices_with_Apify_and_send_Slack_alerts.json)|
+|15947|[15947_Track_WTI_crude_futures_from_Oilprice.com_and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15947_Track_WTI_crude_futures_from_Oilprice.com_and_send_Telegram_alerts.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|
+|16409|[16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json)|
+|16420|[16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json)|

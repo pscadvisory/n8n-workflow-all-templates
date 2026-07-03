@@ -1,4 +1,4 @@
-# sharepoint : 16
+# sharepoint : 26
 
 |id|file|
 |----|----|
@@ -18,3 +18,13 @@
 |10749|[10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json)|
 |12495|[12495_Audit_SharePoint_Online_external_sharing_and_anonymous_links_with_Microsoft_Graph.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12495_Audit_SharePoint_Online_external_sharing_and_anonymous_links_with_Microsoft_Graph.json)|
 |14981|[14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json)|
+|15102|[15102_Create_weekly_AI_WordPress_posts_with_images_from_SharePoint_topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15102_Create_weekly_AI_WordPress_posts_with_images_from_SharePoint_topics.json)|
+|15628|[15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json)|
+|15793|[15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json)|
+|15896|[15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json)|
+|15922|[15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16106|[16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|
+|16194|[16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json)|

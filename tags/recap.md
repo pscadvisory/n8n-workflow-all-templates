@@ -1,4 +1,4 @@
-# recap : 12
+# recap : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |9432|[9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json)|
 |10063|[10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json)|
 |14656|[14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json)|
+|15099|[15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json)|
+|16700|[16700_Reconcile_daily_Google_Drive_CSV_exports_into_a_master_file_and_send_a_Slack_recap.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16700_Reconcile_daily_Google_Drive_CSV_exports_into_a_master_file_and_send_a_Slack_recap.json)|

@@ -1,4 +1,4 @@
-# scored : 4
+# scored : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |7567|[7567_Typeform_to_HubSpot__AI-Enriched___Scored_Leads_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7567_Typeform_to_HubSpot__AI-Enriched___Scored_Leads_with_GPT-4o-mini.json)|
 |11924|[11924_Generate_scored_B2B_leads_from_Google_Maps_websites_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11924_Generate_scored_B2B_leads_from_Google_Maps_websites_to_Google_Sheets.json)|
 |13466|[13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|

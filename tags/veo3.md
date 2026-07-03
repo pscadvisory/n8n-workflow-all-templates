@@ -1,4 +1,4 @@
-# veo3 : 37
+# veo3 : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |11575|[11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json)|
 |12122|[12122_Create_AI-powered_3D_product_videos_from_images_with_VEO3_for_Shopify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12122_Create_AI-powered_3D_product_videos_from_images_with_VEO3_for_Shopify.json)|
 |14554|[14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json)|
+|16508|[16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json)|

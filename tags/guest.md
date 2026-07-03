@@ -1,4 +1,4 @@
-# guest : 8
+# guest : 12
 
 |id|file|
 |----|----|
@@ -10,3 +10,7 @@
 |12948|[12948_Send_personalized_hotel_pre-arrival_messages_using_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12948_Send_personalized_hotel_pre-arrival_messages_using_OpenAI__Google_Sheets_and_Slack.json)|
 |12950|[12950_Generate_hotel_guest_upsell_recommendations_with_OpenAI__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12950_Generate_hotel_guest_upsell_recommendations_with_OpenAI__Sheets_and_Slack.json)|
 |13467|[13467_Handle_guest_inquiries_for_multiple_rentals_with_Pinecone_Assistant_and_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13467_Handle_guest_inquiries_for_multiple_rentals_with_Pinecone_Assistant_and_GPT-4.1.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|
+|16387|[16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json)|
+|16712|[16712_Run_a_hotel_WhatsApp_concierge_using_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16712_Run_a_hotel_WhatsApp_concierge_using_Google_Gemini_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# setup : 14
+# setup : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |9810|[9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json)|
 |12682|[12682_Text___Viral_Shorts___AI_Video_Studio_in_Telegram__w_Setup_Video.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12682_Text___Viral_Shorts___AI_Video_Studio_in_Telegram__w_Setup_Video.json)|
 |12952|[12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json)|
+|16002|[16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json)|
+|16005|[16005_Qualify_LinkedIn_leads_and_draft_outreach_with_Airtable__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16005_Qualify_LinkedIn_leads_and_draft_outreach_with_Airtable__Apify_and_Claude.json)|

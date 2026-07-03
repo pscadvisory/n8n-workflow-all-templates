@@ -1,4 +1,4 @@
-# detection : 71
+# detection : 80
 
 |id|file|
 |----|----|
@@ -73,3 +73,12 @@
 |14437|[14437_Monitor_IP_conflicts_and_governance_with_GPT-4o__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14437_Monitor_IP_conflicts_and_governance_with_GPT-4o__Slack__Gmail_and_Sheets.json)|
 |14441|[14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json)|
 |14897|[14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json)|
+|15251|[15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json)|
+|15359|[15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json)|
+|15419|[15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json)|
+|15565|[15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json)|
+|15725|[15725_Send_GPT-4o_follow-up_emails_to_leads_and_detect_replies_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15725_Send_GPT-4o_follow-up_emails_to_leads_and_detect_replies_with_Gmail.json)|
+|15883|[15883_Extract_TikTok_reaction_hooks_with_RenderIO_scene_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15883_Extract_TikTok_reaction_hooks_with_RenderIO_scene_detection.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|
+|16584|[16584_Detect_maverick_spend_and_alert_reviewers_via_Slack__Gmail__Sheets_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16584_Detect_maverick_spend_and_alert_reviewers_via_Slack__Gmail__Sheets_and_Gemini.json)|

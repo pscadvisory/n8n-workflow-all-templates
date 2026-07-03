@@ -1,4 +1,4 @@
-# prompt : 32
+# prompt : 40
 
 |id|file|
 |----|----|
@@ -34,3 +34,11 @@
 |12441|[12441_Generate_AI_search_driven_FAQ_insights_for_SEO_with_SE_Ranking_and_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12441_Generate_AI_search_driven_FAQ_insights_for_SEO_with_SE_Ranking_and_OpenAI_GPT-4.1-mini.json)|
 |13169|[13169_Extract_YouTube_video_clips_with_Claude_and_Apify_from_natural_language_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13169_Extract_YouTube_video_clips_with_Claude_and_Apify_from_natural_language_prompts.json)|
 |14191|[14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json)|
+|15774|[15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json)|
+|16049|[16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json)|
+|16063|[16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json)|
+|16455|[16455_Generate_presentation_decks_from_prompts_with_Encelade.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16455_Generate_presentation_decks_from_prompts_with_Encelade.json)|
+|16488|[16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json)|
+|16508|[16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16508_Generate_VEO3_videos_from_form_ideas_with_ChatGPT__fal.ai__Drive_and_Gmail.json)|
+|16570|[16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json)|
+|16772|[16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json)|

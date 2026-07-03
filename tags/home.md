@@ -1,4 +1,4 @@
-# home : 9
+# home : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |9010|[9010_Import_E.ON_W1000_Energy_Meter_Data_to_Home_Assistant_with_Spook_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9010_Import_E.ON_W1000_Energy_Meter_Data_to_Home_Assistant_with_Spook_Integration.json)|
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
 |14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
+|15263|[15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json)|
+|15393|[15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json)|
+|16439|[16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json)|

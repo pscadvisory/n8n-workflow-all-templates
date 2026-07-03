@@ -1,4 +1,4 @@
-# vapi : 35
+# vapi : 37
 
 |id|file|
 |----|----|
@@ -37,3 +37,5 @@
 |12956|[12956_Generate_AI_voice_receptionists_for_local_businesses_with_Claude__VAPI_and_Google_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12956_Generate_AI_voice_receptionists_for_local_businesses_with_Claude__VAPI_and_Google_Maps.json)|
 |13114|[13114_Make_outbound_sales_calls_from_Google_Sheets_using_a_VAPI_voice_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13114_Make_outbound_sales_calls_from_Google_Sheets_using_a_VAPI_voice_agent.json)|
 |13948|[13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13948_Qualify_inbound_leads_with_Vapi_voice_AI_and_log_results_to_Google_Sheets.json)|
+|16048|[16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

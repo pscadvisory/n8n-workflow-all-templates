@@ -1,4 +1,4 @@
-# candidate : 36
+# candidate : 42
 
 |id|file|
 |----|----|
@@ -38,3 +38,9 @@
 |13793|[13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13793_Enrich_LinkedIn_profiles_with_Apollo_and_display_candidate_pages_in_the_browser.json)|
 |13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
 |14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
+|15234|[15234_Monitor_candidate_email_SLA_breaches_with_Gmail_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15234_Monitor_candidate_email_SLA_breaches_with_Gmail_and_send_Slack_alerts.json)|
+|16030|[16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16099|[16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|16100|[16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json)|
+|16229|[16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json)|

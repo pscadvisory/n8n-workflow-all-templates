@@ -1,4 +1,4 @@
-# onedrive : 10
+# onedrive : 15
 
 |id|file|
 |----|----|
@@ -12,3 +12,8 @@
 |8451|[8451_Auto-Backup_n8n_Workflows_to_OneDrive_with_Cleanup___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8451_Auto-Backup_n8n_Workflows_to_OneDrive_with_Cleanup___Email_Notifications.json)|
 |10132|[10132_Nested_PDF_Analysis_with_Mistral_AI___OneDrive_for_Document_Summarization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10132_Nested_PDF_Analysis_with_Mistral_AI___OneDrive_for_Document_Summarization.json)|
 |10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|
+|15628|[15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json)|
+|15723|[15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json)|
+|15793|[15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|
+|16416|[16416_Power_Placetel_voice_answers_from_OneDrive_docs_with_OpenAI_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16416_Power_Placetel_voice_answers_from_OneDrive_docs_with_OpenAI_and_Groq.json)|

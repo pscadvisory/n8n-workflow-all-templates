@@ -1,4 +1,4 @@
-# issues : 36
+# issues : 44
 
 |id|file|
 |----|----|
@@ -38,3 +38,11 @@
 |14071|[14071_Start_an_AI_coding_agent_from_Linear_issues_with_CloudCLI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14071_Start_an_AI_coding_agent_from_Linear_issues_with_CloudCLI.json)|
 |14357|[14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json)|
 |14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
+|15104|[15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json)|
+|15169|[15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json)|
+|15251|[15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json)|
+|15305|[15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json)|
+|15755|[15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json)|
+|16035|[16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json)|
+|16121|[16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json)|
+|16748|[16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json)|

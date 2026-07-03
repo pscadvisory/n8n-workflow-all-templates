@@ -1,4 +1,4 @@
-# platforms : 37
+# platforms : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |13413|[13413_Share_new_Shopify_products_to_WordPress__Facebook__Instagram__LinkedIn_and_more_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13413_Share_new_Shopify_products_to_WordPress__Facebook__Instagram__LinkedIn_and_more_using_OpenAI.json)|
 |13471|[13471_Create_and_publish_AI_social_posts_to_multiple_platforms_using_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13471_Create_and_publish_AI_social_posts_to_multiple_platforms_using_Blotato.json)|
 |13528|[13528_Create_AI-driven_social_media_posts_and_publish_to_all_major_platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13528_Create_AI-driven_social_media_posts_and_publish_to_all_major_platforms.json)|
+|15639|[15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json)|

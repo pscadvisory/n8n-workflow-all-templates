@@ -1,4 +1,4 @@
-# sheet : 81
+# sheet : 91
 
 |id|file|
 |----|----|
@@ -83,3 +83,13 @@
 |13605|[13605_Create_AI_social_media_carousels_from_Google_Sheet_and_auto-publish_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13605_Create_AI_social_media_carousels_from_Google_Sheet_and_auto-publish_with_Blotato.json)|
 |13647|[13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13647_Extract_LinkedIn_search_results_into_a_Google_Sheet_with_SourceGeek.json)|
 |14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|
+|15465|[15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json)|
+|15528|[15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json)|
+|15699|[15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json)|
+|16099|[16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|16228|[16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json)|
+|16280|[16280_Generate_verified_local_leads_from_Google_Maps_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16280_Generate_verified_local_leads_from_Google_Maps_with_Apify_and_Google_Sheets.json)|
+|16331|[16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json)|
+|16348|[16348_Post_scheduled_social_content_from_Google_Sheets_to_Instagram__Facebook__and_LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16348_Post_scheduled_social_content_from_Google_Sheets_to_Instagram__Facebook__and_LinkedIn.json)|
+|16474|[16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json)|
+|16622|[16622_Send_portfolio_risk_reports_from_Google_Sheets_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16622_Send_portfolio_risk_reports_from_Google_Sheets_with_OpenAI_and_Gmail.json)|

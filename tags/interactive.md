@@ -1,4 +1,4 @@
-# interactive : 23
+# interactive : 25
 
 |id|file|
 |----|----|
@@ -25,3 +25,5 @@
 |11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
 |11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|
 |12151|[12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json)|
+|15512|[15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json)|
+|15575|[15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json)|

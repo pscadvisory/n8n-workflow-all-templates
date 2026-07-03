@@ -1,4 +1,4 @@
-# creator : 54
+# creator : 60
 
 |id|file|
 |----|----|
@@ -56,3 +56,9 @@
 |14088|[14088_Generate_AI-powered_investment_due_diligence_PDF_reports_with_OpenAI__LlamaParse_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14088_Generate_AI-powered_investment_due_diligence_PDF_reports_with_OpenAI__LlamaParse_and_Decodo.json)|
 |14191|[14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json)|
 |14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|
+|15075|[15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json)|
+|15429|[15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json)|
+|15643|[15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json)|
+|16012|[16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json)|
+|16014|[16014_Research_Kuaishou_creator_videos_from_a_keyword_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16014_Research_Kuaishou_creator_videos_from_a_keyword_with_JustOneAPI.json)|
+|16115|[16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json)|

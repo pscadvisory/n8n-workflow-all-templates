@@ -1,4 +1,4 @@
-# connection : 10
+# connection : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |11530|[11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json)|
 |13094|[13094_Send_LinkedIn_connection_requests_to_competitor_post_commenters_via_ConnectSafely.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13094_Send_LinkedIn_connection_requests_to_competitor_post_commenters_via_ConnectSafely.ai.json)|
 |14444|[14444_Send_personalized_LinkedIn_connection_requests_with_Google_Sheets_and_Unipile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14444_Send_personalized_LinkedIn_connection_requests_with_Google_Sheets_and_Unipile.json)|
+|15815|[15815_Send_LinkedIn_connection_invites_from_Airtable_via_Unipile_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15815_Send_LinkedIn_connection_invites_from_Airtable_via_Unipile_on_a_schedule.json)|

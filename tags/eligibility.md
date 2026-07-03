@@ -1,4 +1,4 @@
-# eligibility : 5
+# eligibility : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|
 |12268|[12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json)|
 |13690|[13690_Match_students_to_scholarships_with_Claude_AI__Airtable__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13690_Match_students_to_scholarships_with_Claude_AI__Airtable__and_Google_Sheets.json)|
+|16177|[16177_Generate_tender_eligibility_summaries_and_bid_checklists_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16177_Generate_tender_eligibility_summaries_and_bid_checklists_with_Gemini_and_Google_Sheets.json)|

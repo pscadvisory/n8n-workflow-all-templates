@@ -1,4 +1,4 @@
-# haiku : 4
+# haiku : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |6065|[6065_Conversational_Google_Calendar_Management_with_Claude_3.5_Haiku___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6065_Conversational_Google_Calendar_Management_with_Claude_3.5_Haiku___Telegram.json)|
 |13677|[13677_Watch_GitHub_releases_and_Docker_tags__analyze_changelogs_with_Claude_Haiku__and_send_update_digests_to_Slack__Discord__Telegram__and_ntfy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13677_Watch_GitHub_releases_and_Docker_tags__analyze_changelogs_with_Claude_Haiku__and_send_update_digests_to_Slack__Discord__Telegram__and_ntfy.json)|
 |14135|[14135_Track_expenses_via_chat_with_Claude_Haiku_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14135_Track_expenses_via_chat_with_Claude_Haiku_and_Google_Sheets.json)|
+|15902|[15902_Qualify_inbound_email_leads_with_Claude_Haiku__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15902_Qualify_inbound_email_leads_with_Claude_Haiku__Gmail__and_Google_Sheets.json)|

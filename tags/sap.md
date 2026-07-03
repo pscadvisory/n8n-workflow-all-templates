@@ -1,4 +1,4 @@
-# sap : 6
+# sap : 11
 
 |id|file|
 |----|----|
@@ -8,3 +8,8 @@
 |4932|[4932_SAP_Service_Layer_Login.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4932_SAP_Service_Layer_Login.json)|
 |5378|[5378_automating_SAP_B1_Journal_Entries_using_JSON__Google_Sheets__and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5378_automating_SAP_B1_Journal_Entries_using_JSON__Google_Sheets__and_GPT-4o.json)|
 |14509|[14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14509_Fetch_SAP_SuccessFactors_PerPerson_data_via_SAML_2.0_bearer_OAuth2_flow.json)|
+|15439|[15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json)|
+|15783|[15783_Aggregate_SAP_news__score_with_OpenAI__and_post_summaries_to_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15783_Aggregate_SAP_news__score_with_OpenAI__and_post_summaries_to_Microsoft_Teams.json)|
+|16468|[16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json)|
+|16589|[16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json)|
+|16705|[16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json)|

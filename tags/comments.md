@@ -1,4 +1,4 @@
-# comments : 51
+# comments : 64
 
 |id|file|
 |----|----|
@@ -53,3 +53,16 @@
 |14300|[14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14300_Analyze_Liveblocks_comment_attachments_with_Anthropic_Claude_AI.json)|
 |14711|[14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json)|
 |14893|[14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json)|
+|15175|[15175_Generate_AI_YouTube_comments_and_replies_from_a_video_URL_using_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15175_Generate_AI_YouTube_comments_and_replies_from_a_video_URL_using_GPT-4_and_Google_Sheets.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|15368|[15368_Scrape_LinkedIn_post_comments_into_Google_Sheets_with_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15368_Scrape_LinkedIn_post_comments_into_Google_Sheets_with_Apify.json)|
+|15465|[15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json)|
+|15806|[15806_Analyze_YouTube_comments_with_OpenAI_and_send_reports_via_email_and_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15806_Analyze_YouTube_comments_with_OpenAI_and_send_reports_via_email_and_chat.json)|
+|15809|[15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json)|
+|15885|[15885_Get_Douyin_video_comments_and_replies_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15885_Get_Douyin_video_comments_and_replies_with_JustOneAPI.json)|
+|16043|[16043_Collect_and_structure_Kuaishou_video_comments_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16043_Collect_and_structure_Kuaishou_video_comments_with_JustOneAPI.json)|
+|16300|[16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16659|[16659_Reply_to_Instagram_comments_with_Groq__Telegram_approval__and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16659_Reply_to_Instagram_comments_with_Groq__Telegram_approval__and_Google_Sheets_logging.json)|
+|16693|[16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json)|
+|16697|[16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json)|

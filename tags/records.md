@@ -1,4 +1,4 @@
-# records : 23
+# records : 29
 
 |id|file|
 |----|----|
@@ -25,3 +25,9 @@
 |13881|[13881_Generate_images_from_Airtable_records_with_Layerre_and_Canva.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13881_Generate_images_from_Airtable_records_with_Layerre_and_Canva.json)|
 |14034|[14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json)|
 |14179|[14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16223|[16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json)|
+|16417|[16417_Enrich_existing_HubSpot_company_records_with_Veridion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16417_Enrich_existing_HubSpot_company_records_with_Veridion.json)|
+|16467|[16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json)|
+|16468|[16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|

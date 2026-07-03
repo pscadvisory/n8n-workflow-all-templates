@@ -1,4 +1,4 @@
-# bridge : 6
+# bridge : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |10187|[10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json)|
 |10254|[10254_AI-Powered_Email_Forwarding_to_WhatsApp_with_Gmail__Outlook___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10254_AI-Powered_Email_Forwarding_to_WhatsApp_with_Gmail__Outlook___Google_Gemini.json)|
 |12876|[12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json)|
+|15264|[15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json)|
+|15786|[15786_Bridge_Gmail_and_iMessage_with_Blooio_and_log_conversations_to_Close.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15786_Bridge_Gmail_and_iMessage_with_Blooio_and_log_conversations_to_Close.json)|

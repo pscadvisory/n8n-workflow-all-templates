@@ -1,4 +1,4 @@
-# is : 39
+# is : 40
 
 |id|file|
 |----|----|
@@ -41,3 +41,4 @@
 |5400|[5400_The_title_is_very_good__clearly_conveying_the_template_s_purpose_while_mentioning_key_technologies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5400_The_title_is_very_good__clearly_conveying_the_template_s_purpose_while_mentioning_key_technologies.json)|
 |9705|[9705_Auto-reply_to__Where_Is_My_Order___Emails_with_Shopify__Gmail_and_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9705_Auto-reply_to__Where_Is_My_Order___Emails_with_Shopify__Gmail_and_OpenRouter_AI.json)|
 |10237|[10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json)|
+|16634|[16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json)|

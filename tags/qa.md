@@ -1,4 +1,4 @@
-# qa : 8
+# qa : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |11697|[11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json)|
 |13353|[13353_Ingest_and_enrich_Q_A_pairs_then_store_in_Data_Table__1_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13353_Ingest_and_enrich_Q_A_pairs_then_store_in_Data_Table__1_2.json)|
 |13354|[13354_Question_and_Answer_AI_Agent_Chatbot__2_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13354_Question_and_Answer_AI_Agent_Chatbot__2_2.json)|
+|15354|[15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json)|
+|16151|[16151_Monitor_quantum_fabrication_QA_with_multi-agent_OpenAI_GPT-5_and_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16151_Monitor_quantum_fabrication_QA_with_multi-agent_OpenAI_GPT-5_and_alerts.json)|

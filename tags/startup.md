@@ -1,4 +1,4 @@
-# startup : 12
+# startup : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |7480|[7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json)|
 |9503|[9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json)|
 |15006|[15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json)|
+|16513|[16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json)|
+|16759|[16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json)|

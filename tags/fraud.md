@@ -1,4 +1,4 @@
-# fraud : 11
+# fraud : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |13708|[13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13708_Detect_influencer_fraud_and_fake_followers_with_Instagram__X__TikTok_and_Claude.json)|
 |13774|[13774_Filter_fraudulent_leads_with_GPT-4o-mini__AbstractAPI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13774_Filter_fraudulent_leads_with_GPT-4o-mini__AbstractAPI__Google_Sheets_and_Slack.json)|
 |14897|[14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14897_Detect_WooCommerce_order_fraud_and_send_alerts_to_Slack.json)|
+|15419|[15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json)|

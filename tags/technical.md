@@ -1,4 +1,4 @@
-# technical : 26
+# technical : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |12811|[12811_Run_automated_technical_SEO_audits_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12811_Run_automated_technical_SEO_audits_with_SE_Ranking_and_Google_Sheets.json)|
 |12908|[12908_Generate_technical_n8n_workflow_reports_with_GPT-4.1_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12908_Generate_technical_n8n_workflow_reports_with_GPT-4.1_and_Google_Docs.json)|
 |13597|[13597_Assess_technical_documentation_compliance_with_GPT_4o_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13597_Assess_technical_documentation_compliance_with_GPT_4o_and_send_Slack_alerts.json)|
+|15844|[15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json)|
+|15952|[15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json)|
+|15989|[15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json)|

@@ -1,4 +1,4 @@
-# campaigns : 25
+# campaigns : 30
 
 |id|file|
 |----|----|
@@ -27,3 +27,8 @@
 |13477|[13477_Launch_WhatsApp_bulk_campaigns_from_Google_Sheets_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13477_Launch_WhatsApp_bulk_campaigns_from_Google_Sheets_with_MoltFlow.json)|
 |13732|[13732_Run_email_outreach_campaigns_from_Telegram_with_Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13732_Run_email_outreach_campaigns_from_Telegram_with_Gmail_and_Google_Sheets.json)|
 |14275|[14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json)|
+|15298|[15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|
+|15619|[15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json)|
+|15864|[15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|

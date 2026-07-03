@@ -1,4 +1,4 @@
-# meta : 57
+# meta : 63
 
 |id|file|
 |----|----|
@@ -59,3 +59,9 @@
 |13745|[13745_Generate_Meta_Ads_campaign_reports_in_Google_Sheets_and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13745_Generate_Meta_Ads_campaign_reports_in_Google_Sheets_and_send_Telegram_alerts.json)|
 |14011|[14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json)|
 |14721|[14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14721_Sync_Meta_Ads_insights_to_Google_Sheets_with_backfill_and_weekly_ETL.json)|
+|15130|[15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json)|
+|15206|[15206_Send_Instagram_auto_DMs_to_post_commenters_using_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15206_Send_Instagram_auto_DMs_to_post_commenters_using_Meta_Graph_API.json)|
+|16300|[16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16300_Reply_to_Instagram_and_Facebook_comments_via_Meta_webhooks_and_DMs.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|
+|16656|[16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json)|
+|16792|[16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json)|

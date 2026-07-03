@@ -1,4 +1,4 @@
-# advocacy : 5
+# advocacy : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6482|[6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json)|
 |6483|[6483_AI-Powered_Corporate_Research_System_for_Animal_Advocacy_Campaigns_with_Claude___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6483_AI-Powered_Corporate_Research_System_for_Animal_Advocacy_Campaigns_with_Claude___Gemini.json)|
 |6485|[6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json)|
+|15977|[15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json)|

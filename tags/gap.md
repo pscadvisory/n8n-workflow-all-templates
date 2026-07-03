@@ -1,4 +1,4 @@
-# gap : 9
+# gap : 13
 
 |id|file|
 |----|----|
@@ -11,3 +11,7 @@
 |11893|[11893_Automate_SEO_research___content_gap_analysis_with_GPT-4o__SerpAPI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11893_Automate_SEO_research___content_gap_analysis_with_GPT-4o__SerpAPI__and_Gmail.json)|
 |13508|[13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json)|
 |14956|[14956_Generate_competitor_content_gap_reports_in_Slack_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14956_Generate_competitor_content_gap_reports_in_Slack_with_GPT-4o-mini.json)|
+|15072|[15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16193|[16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|

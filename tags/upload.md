@@ -1,4 +1,4 @@
-# upload : 117
+# upload : 127
 
 |id|file|
 |----|----|
@@ -119,3 +119,13 @@
 |14827|[14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json)|
 |14863|[14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json)|
 |14928|[14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json)|
+|15100|[15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json)|
+|15245|[15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|15481|[15481_Generate_and_upload_AI_videos_with_Ozor_AI_and_Upload_Post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15481_Generate_and_upload_AI_videos_with_Ozor_AI_and_Upload_Post.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|
+|16419|[16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|
+|16596|[16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16596_Evaluate_vendor_proposal_PDFs_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16749|[16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json)|
+|16789|[16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16789_Edit_and_post_TikTok_videos_with_Gemini_Omni_Flash_and_OpenAI.json)|

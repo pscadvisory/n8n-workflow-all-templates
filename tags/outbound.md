@@ -1,4 +1,4 @@
-# outbound : 14
+# outbound : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |12526|[12526_Automate_outbound_AI_sales_calls_with_double-dial_using_Airtable_and_Vapi_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12526_Automate_outbound_AI_sales_calls_with_double-dial_using_Airtable_and_Vapi_AI.json)|
 |12856|[12856_Make_outbound_sales_calls_from_Google_Sheets_using_a_Retell_AI_voice_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12856_Make_outbound_sales_calls_from_Google_Sheets_using_a_Retell_AI_voice_agent.json)|
 |13114|[13114_Make_outbound_sales_calls_from_Google_Sheets_using_a_VAPI_voice_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13114_Make_outbound_sales_calls_from_Google_Sheets_using_a_VAPI_voice_agent.json)|
+|15903|[15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json)|
+|16048|[16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json)|
+|16291|[16291_Send_daily_outbound_performance_digests_with_Google_Sheets__Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16291_Send_daily_outbound_performance_digests_with_Google_Sheets__Claude_and_Gmail.json)|

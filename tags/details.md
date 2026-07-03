@@ -1,4 +1,4 @@
-# details : 21
+# details : 28
 
 |id|file|
 |----|----|
@@ -23,3 +23,10 @@
 |13800|[13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13800_Extract_product_details_from_search_result_URLs_with_MrScraper_and_Google_Sheets.json)|
 |13929|[13929_Look_up_contact_details_and_addresses_from_names_using_ScraperCity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13929_Look_up_contact_details_and_addresses_from_names_using_ScraperCity.json)|
 |14516|[14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json)|
+|15505|[15505_Get_Xiaohongshu_note_details_from_a_keyword_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15505_Get_Xiaohongshu_note_details_from_a_keyword_with_JustOneAPI.json)|
+|15739|[15739_Search_Xiaohongshu_users_by_keyword_and_get_profile_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15739_Search_Xiaohongshu_users_by_keyword_and_get_profile_details_with_JustOneAPI.json)|
+|15867|[15867_Get_Taobao_and_Tmall_shop_products_and_first_product_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15867_Get_Taobao_and_Tmall_shop_products_and_first_product_details_with_JustOneAPI.json)|
+|15880|[15880_Search_Douyin_users_by_keyword_and_fetch_profile_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15880_Search_Douyin_users_by_keyword_and_fetch_profile_details_with_JustOneAPI.json)|
+|15882|[15882_Get_Douyin_user_published_videos_and_first_video_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15882_Get_Douyin_user_published_videos_and_first_video_details_with_JustOneAPI.json)|
+|15971|[15971_Retrieve_Kuaishou_video_details_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15971_Retrieve_Kuaishou_video_details_from_keywords_with_JustOneAPI.json)|
+|16012|[16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json)|

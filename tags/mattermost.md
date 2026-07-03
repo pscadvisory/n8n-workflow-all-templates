@@ -1,4 +1,4 @@
-# mattermost : 24
+# mattermost : 31
 
 |id|file|
 |----|----|
@@ -26,3 +26,10 @@
 |12751|[12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json)|
 |12781|[12781_Send_daily_CRM_summary_reports_to_Mattermost_from_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12781_Send_daily_CRM_summary_reports_to_Mattermost_from_HubSpot.json)|
 |14347|[14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json)|
+|15051|[15051_Classify_and_route_DevOps_chat_requests_with_Mattermost_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15051_Classify_and_route_DevOps_chat_requests_with_Mattermost_and_Claude.json)|
+|15610|[15610_Investigate_CI_CD_incidents_in_Mattermost_with_an_OpenRouter_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15610_Investigate_CI_CD_incidents_in_Mattermost_with_an_OpenRouter_AI_agent.json)|
+|15611|[15611_Investigate_Mattermost_incident_reports_with_an_AI_SRE_assistant_using_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15611_Investigate_Mattermost_incident_reports_with_an_AI_SRE_assistant_using_OpenRouter.json)|
+|15612|[15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json)|
+|15614|[15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json)|
+|15629|[15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json)|
+|15740|[15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json)|

@@ -1,4 +1,4 @@
-# call : 61
+# call : 71
 
 |id|file|
 |----|----|
@@ -63,3 +63,13 @@
 |13593|[13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13593_Analyze_customer_sales_calls_and_update_CRM_with_Whisper_and_GPT-4.json)|
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
 |14331|[14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json)|
+|15421|[15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json)|
+|15422|[15422_Track_sales_call_objections_with_GPT-4o-mini_coaching_using_WayinVideo_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15422_Track_sales_call_objections_with_GPT-4o-mini_coaching_using_WayinVideo_and_Airtable.json)|
+|15434|[15434_Extract_earnings_call_highlights_with_GPT-4o-mini_and_WayinVideo_Find_Moments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15434_Extract_earnings_call_highlights_with_GPT-4o-mini_and_WayinVideo_Find_Moments.json)|
+|15779|[15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json)|
+|15810|[15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json)|
+|15990|[15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json)|
+|16048|[16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16598|[16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

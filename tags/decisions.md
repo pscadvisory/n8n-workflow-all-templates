@@ -1,4 +1,4 @@
-# decisions : 6
+# decisions : 11
 
 |id|file|
 |----|----|
@@ -8,3 +8,8 @@
 |13432|[13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13432_Validate_academic_promotion_decisions_with_GPT-4o__policy_rules__and_Gmail.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
 |14515|[14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14515_Log_invoice_approval_decisions_from_Slack_to_Google_Sheets.json)|
+|15896|[15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15896_Extract_meeting_decisions_and_tasks_with_Outlook__GPT-4o__SharePoint__and_To_Do.json)|
+|16152|[16152_Make_multi-agent_council_decisions_with_OpenAI_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16152_Make_multi-agent_council_decisions_with_OpenAI_GPT-5.json)|
+|16183|[16183_Simulate_business_decisions_with_Google_Sheets__GPT-4.1_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16183_Simulate_business_decisions_with_Google_Sheets__GPT-4.1_and_Slack.json)|
+|16227|[16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

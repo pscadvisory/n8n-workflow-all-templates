@@ -1,4 +1,4 @@
-# list : 30
+# list : 37
 
 |id|file|
 |----|----|
@@ -32,3 +32,10 @@
 |14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
 |14095|[14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json)|
 |14199|[14199_Generate_cold_email_icebreakers_and_subject_lines_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14199_Generate_cold_email_icebreakers_and_subject_lines_with_Google_Sheets_and_OpenAI.json)|
+|15085|[15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json)|
+|15170|[15170_Create_Notion_to-do_items_from_Telegram_voice_notes_using_Groq_Whisper_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15170_Create_Notion_to-do_items_from_Telegram_voice_notes_using_Groq_Whisper_AI.json)|
+|15359|[15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15359_Monitor_Klaviyo_list_decay_with_Postgres_logging_and_Gmail_reports.json)|
+|15383|[15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|
+|16733|[16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

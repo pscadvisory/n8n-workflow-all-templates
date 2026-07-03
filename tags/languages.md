@@ -1,4 +1,4 @@
-# languages : 7
+# languages : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7593|[7593_Auto-Translate_Blog_Content_to_Multiple_Languages_with_GPT-4o_and_Markdown.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7593_Auto-Translate_Blog_Content_to_Multiple_Languages_with_GPT-4o_and_Markdown.json)|
 |10264|[10264_Translate_documents_to_multiple_languages_with_Google_Drive_and_DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10264_Translate_documents_to_multiple_languages_with_Google_Drive_and_DeepL.json)|
 |10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|
+|15350|[15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json)|

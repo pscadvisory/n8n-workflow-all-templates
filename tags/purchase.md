@@ -1,4 +1,4 @@
-# purchase : 21
+# purchase : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |13274|[13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json)|
 |14144|[14144_Send_post-purchase_emails_from_Postgres_with_Gmail_and_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14144_Send_post-purchase_emails_from_Postgres_with_Gmail_and_Groq_AI.json)|
 |14829|[14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json)|
+|15812|[15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json)|
+|16172|[16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json)|
+|16404|[16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json)|

@@ -1,4 +1,4 @@
-# delivery : 79
+# delivery : 85
 
 |id|file|
 |----|----|
@@ -81,3 +81,9 @@
 |14387|[14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14387_Generate_clean_plates_and_automate_object_removal_with_Seedance_AI.json)|
 |14389|[14389_Generate_AI_matte_painting_video_variations_with_Seedance_for_VFX_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14389_Generate_AI_matte_painting_video_variations_with_Seedance_for_VFX_review.json)|
 |14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15237|[15237_Send_post-delivery_CSAT_surveys_and_log_responses_with_Gmail__Google_Sheets_and_Typeform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15237_Send_post-delivery_CSAT_surveys_and_log_responses_with_Gmail__Google_Sheets_and_Typeform.json)|
+|15258|[15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json)|
+|15464|[15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json)|
+|15673|[15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json)|
+|16154|[16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json)|

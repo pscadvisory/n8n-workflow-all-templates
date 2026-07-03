@@ -1,4 +1,4 @@
-# coordination : 4
+# coordination : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |13313|[13313_Monitor_AI_infrastructure_costs_and_route_budget_alerts_with_Claude__NVIDIA__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13313_Monitor_AI_infrastructure_costs_and_route_budget_alerts_with_Claude__NVIDIA__Slack__and_Gmail.json)|
 |13335|[13335_Analyze_public_consultation_data_and_coordinate_governance_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13335_Analyze_public_consultation_data_and_coordinate_governance_with_Claude_AI.json)|
 |13700|[13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json)|
+|15572|[15572_Coordinate_robot_swarms_with_OpenAI_GPT-5_and_real-time_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15572_Coordinate_robot_swarms_with_OpenAI_GPT-5_and_real-time_Slack_alerts.json)|

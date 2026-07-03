@@ -1,4 +1,4 @@
-# simple : 46
+# simple : 47
 
 |id|file|
 |----|----|
@@ -48,3 +48,4 @@
 |13792|[13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json)|
 |13984|[13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json)|
 |14898|[14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json)|
+|15899|[15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json)|

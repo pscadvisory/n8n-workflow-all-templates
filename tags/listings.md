@@ -1,4 +1,4 @@
-# listings : 23
+# listings : 32
 
 |id|file|
 |----|----|
@@ -25,3 +25,12 @@
 |13541|[13541_Create_e-commerce_listings_from_images_with_UploadToURL__GPT-4o__Shopify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13541_Create_e-commerce_listings_from_images_with_UploadToURL__GPT-4o__Shopify.json)|
 |13797|[13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json)|
 |13991|[13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json)|
+|15050|[15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json)|
+|15367|[15367_Scrape_Google_Maps_business_listings_into_Google_Sheets_with_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15367_Scrape_Google_Maps_business_listings_into_Google_Sheets_with_Apify.json)|
+|15480|[15480_Score_and_log_relevant_job_listings_using_Google_Gemini__JSearch_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15480_Score_and_log_relevant_job_listings_using_Google_Gemini__JSearch_and_Notion.json)|
+|15510|[15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json)|
+|15663|[15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json)|
+|15998|[15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json)|
+|16056|[16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json)|
+|16560|[16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json)|
+|16665|[16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json)|

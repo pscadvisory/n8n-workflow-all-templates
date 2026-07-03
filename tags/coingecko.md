@@ -1,4 +1,4 @@
-# coingecko : 23
+# coingecko : 26
 
 |id|file|
 |----|----|
@@ -25,3 +25,6 @@
 |11966|[11966_Crypto_volume_change_Discord_alerts__5-20___with_CoinGecko__Top_1000_coins.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11966_Crypto_volume_change_Discord_alerts__5-20___with_CoinGecko__Top_1000_coins.json)|
 |12548|[12548_Analyze_crypto_markets_with_CoinGecko_MCP_and_C1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12548_Analyze_crypto_markets_with_CoinGecko_MCP_and_C1.json)|
 |13651|[13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json)|
+|15562|[15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16061|[16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json)|

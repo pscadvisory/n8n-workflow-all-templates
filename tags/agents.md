@@ -1,4 +1,4 @@
-# agents : 114
+# agents : 123
 
 |id|file|
 |----|----|
@@ -116,3 +116,12 @@
 |13965|[13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13965_Route_AI_tasks_between_OpenAI_agents_with_confidence-based_email_fallback.json)|
 |14002|[14002_Detect_misinformation_and_manipulation_risks_with_GPT-4o_agents_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14002_Detect_misinformation_and_manipulation_risks_with_GPT-4o_agents_and_Google_Sheets.json)|
 |14009|[14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14009_Find_leads_from_LinkedIn_posts_using_Airtop_agents.json)|
+|15162|[15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json)|
+|15565|[15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json)|
+|15612|[15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json)|
+|15774|[15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json)|
+|15989|[15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json)|
+|16039|[16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16537|[16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

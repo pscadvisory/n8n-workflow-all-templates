@@ -1,4 +1,4 @@
-# any : 56
+# any : 62
 
 |id|file|
 |----|----|
@@ -58,3 +58,9 @@
 |13608|[13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13608_Research_web_topics_and_email_a_Claude_report_via_Gmail_using_SerpApi__Jina.ai_and_Firecrawl.json)|
 |14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
 |14205|[14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json)|
+|15458|[15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json)|
+|15585|[15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json)|
+|15830|[15830_Attach_a_fixed_Wouldliker_TikTok_sound_to_any_downstream_content_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15830_Attach_a_fixed_Wouldliker_TikTok_sound_to_any_downstream_content_workflow.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16245|[16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json)|
+|16501|[16501_Solve_image_CAPTCHAs_via_webhook_using_CaptchaSonic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16501_Solve_image_CAPTCHAs_via_webhook_using_CaptchaSonic.json)|

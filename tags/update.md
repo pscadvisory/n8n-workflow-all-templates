@@ -1,4 +1,4 @@
-# update : 121
+# update : 131
 
 |id|file|
 |----|----|
@@ -123,3 +123,13 @@
 |14304|[14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json)|
 |14588|[14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14588_Summarize_sales_calls_and_update_CRM_using_WayinVideo_and_GPT-4o-mini.json)|
 |14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15389|[15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json)|
+|15740|[15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16129|[16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json)|
+|16294|[16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16566|[16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json)|

@@ -1,4 +1,4 @@
-# impact : 5
+# impact : 9
 
 |id|file|
 |----|----|
@@ -7,3 +7,7 @@
 |11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
 |12037|[12037_Automate_contract_analysis___negotiation_with_GPT-4___financial_impact_assessment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12037_Automate_contract_analysis___negotiation_with_GPT-4___financial_impact_assessment.json)|
 |13587|[13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
+|15277|[15277_Detect_client_portfolio_news_impact_with_Gemini_AI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15277_Detect_client_portfolio_news_impact_with_Gemini_AI__Gmail__and_Google_Sheets.json)|
+|15336|[15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json)|
+|15671|[15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json)|
+|16260|[16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json)|

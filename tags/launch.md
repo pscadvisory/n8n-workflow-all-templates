@@ -1,4 +1,4 @@
-# launch : 7
+# launch : 12
 
 |id|file|
 |----|----|
@@ -9,3 +9,8 @@
 |12040|[12040_Launch_job_vacancies_from_ATS_to_Google_Calendar__ClickUp_and_LinkedIn_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12040_Launch_job_vacancies_from_ATS_to_Google_Calendar__ClickUp_and_LinkedIn_with_GPT-4o.json)|
 |12105|[12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json)|
 |13477|[13477_Launch_WhatsApp_bulk_campaigns_from_Google_Sheets_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13477_Launch_WhatsApp_bulk_campaigns_from_Google_Sheets_with_MoltFlow.json)|
+|16306|[16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json)|
+|16307|[16307_Detect_competitor_product_launches_from_ads_with_Google_Sheets_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16307_Detect_competitor_product_launches_from_ads_with_Google_Sheets_and_OpenAI.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16670|[16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json)|

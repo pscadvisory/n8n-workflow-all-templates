@@ -1,4 +1,4 @@
-# avatar : 20
+# avatar : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |11895|[11895_Generate_AI_avatar_videos_from_scripts_using_ElevenLabs_and_HeyGen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11895_Generate_AI_avatar_videos_from_scripts_using_ElevenLabs_and_HeyGen.json)|
 |13024|[13024_Create_and_publish_AI_avatar_short_videos_with_Gemini__HeyGen_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13024_Create_and_publish_AI_avatar_short_videos_with_Gemini__HeyGen_and_Google_Sheets.json)|
 |14190|[14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json)|
+|15750|[15750_Turn_RSS_feed_content_into_AI_avatar_videos_with_HeyGen__Claude__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15750_Turn_RSS_feed_content_into_AI_avatar_videos_with_HeyGen__Claude__and_PostPulse.json)|

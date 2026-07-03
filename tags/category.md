@@ -1,4 +1,4 @@
-# category : 8
+# category : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9002|[9002_Send_WooCommerce_New_Category_Alert_via_WhatsApp_Using_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9002_Send_WooCommerce_New_Category_Alert_via_WhatsApp_Using_Rapiwa_API.json)|
 |9318|[9318_Retrieve_and_Filter_Kagi_News_by_Category.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9318_Retrieve_and_Filter_Kagi_News_by_Category.json)|
 |13840|[13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13840_Analyze_WooCommerce_category_sales_over_time_with_Airtable_and_Slack.json)|
+|15251|[15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json)|

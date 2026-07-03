@@ -1,4 +1,4 @@
-# resumes : 21
+# resumes : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |14686|[14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json)|
 |14814|[14814_Score_WhatsApp_PDF_resumes_with_OpenAI_GPT-4o-mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14814_Score_WhatsApp_PDF_resumes_with_OpenAI_GPT-4o-mini_and_Supabase.json)|
 |14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|
+|16286|[16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|
+|16720|[16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json)|

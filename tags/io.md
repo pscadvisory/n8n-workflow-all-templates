@@ -1,4 +1,4 @@
-# io : 64
+# io : 65
 
 |id|file|
 |----|----|
@@ -66,3 +66,4 @@
 |14087|[14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json)|
 |14406|[14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14406_Scrape_Apollo.io_leads_with_ScraperCity_and_sync_enriched_contacts_to_Airtable.json)|
 |14453|[14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json)|
+|15557|[15557_Qualify_and_route_B2B_leads_with_GPT-4o-mini__Hunter.io__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15557_Qualify_and_route_B2B_leads_with_GPT-4o-mini__Hunter.io__Slack__Gmail_and_Sheets.json)|

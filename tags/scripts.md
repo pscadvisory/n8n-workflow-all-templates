@@ -1,4 +1,4 @@
-# scripts : 22
+# scripts : 25
 
 |id|file|
 |----|----|
@@ -24,3 +24,6 @@
 |13807|[13807_Generate_multi-scene_AI_videos_from_scripts_with_Claude__Stability_AI_and_Runway.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13807_Generate_multi-scene_AI_videos_from_scripts_with_Claude__Stability_AI_and_Runway.json)|
 |14804|[14804_Convert_Google_Sheets_scripts_into_HeyGen_AI_videos.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14804_Convert_Google_Sheets_scripts_into_HeyGen_AI_videos.json)|
 |14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|
+|15227|[15227_Generate_YouTube_scripts_and_full_SEO_package_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15227_Generate_YouTube_scripts_and_full_SEO_package_with_GPT-4o-mini_and_Gmail.json)|
+|15328|[15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|

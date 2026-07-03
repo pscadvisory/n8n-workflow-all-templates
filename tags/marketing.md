@@ -1,4 +1,4 @@
-# marketing : 72
+# marketing : 78
 
 |id|file|
 |----|----|
@@ -74,3 +74,9 @@
 |14099|[14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14099_Track_new_complementary-tool_adopters_with_PredictLeads__Google_Sheets__OpenAI_and_Gmail.json)|
 |14134|[14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json)|
 |15001|[15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json)|
+|15194|[15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json)|
+|15298|[15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json)|
+|15615|[15615_Send_behavior-based_marketing_emails_with_OpenAI_GPT-4o_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15615_Send_behavior-based_marketing_emails_with_OpenAI_GPT-4o_and_SendGrid.json)|
+|15619|[15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json)|
+|15864|[15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15864_Send_SMS_and_RCS_marketing_campaigns_from_Google_Sheets_with_RCSZilla.json)|
+|16670|[16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json)|

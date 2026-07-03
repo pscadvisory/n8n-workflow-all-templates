@@ -1,4 +1,4 @@
-# orders : 58
+# orders : 71
 
 |id|file|
 |----|----|
@@ -60,3 +60,16 @@
 |14365|[14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14365_Sync_new_Shopify_orders_to_Google_Sheets_with_GPT-4.1-mini_analysis.json)|
 |14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
 |14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15608|[15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json)|
+|15693|[15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json)|
+|16084|[16084_Send_payment_reminders_and_cancel_unpaid_Shopify_orders_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16084_Send_payment_reminders_and_cancel_unpaid_Shopify_orders_via_Gmail.json)|
+|16154|[16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json)|
+|16172|[16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json)|
+|16175|[16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16321|[16321_Generate_ZUGFeRD_Factur-X_e-invoices_from_webhook_orders_with_PolyDoc_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16321_Generate_ZUGFeRD_Factur-X_e-invoices_from_webhook_orders_with_PolyDoc_and_email.json)|
+|16475|[16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json)|
+|16589|[16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json)|
+|16770|[16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json)|
+|16771|[16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json)|

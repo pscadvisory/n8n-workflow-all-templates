@@ -1,4 +1,4 @@
-# machine : 18
+# machine : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |8136|[8136_LinkedIn_Content_Machine__Email-Approved_Posts_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8136_LinkedIn_Content_Machine__Email-Approved_Posts_with_Gemini_AI.json)|
 |9998|[9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json)|
 |10000|[10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json)|
+|15194|[15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json)|
+|16060|[16060_Repurpose_YouTube_videos_into_multichannel_content_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16060_Repurpose_YouTube_videos_into_multichannel_content_with_Gemini_and_Google_Sheets.json)|

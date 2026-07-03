@@ -1,4 +1,4 @@
-# changes : 33
+# changes : 45
 
 |id|file|
 |----|----|
@@ -35,3 +35,15 @@
 |13455|[13455_Monitor_website_changes_and_send_diff_alerts_via_Telegram_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13455_Monitor_website_changes_and_send_diff_alerts_via_Telegram_and_email.json)|
 |13716|[13716_Track_Excel_365_changes_and_approvals_with_Telegram_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13716_Track_Excel_365_changes_and_approvals_with_Telegram_and_Google_Sheets_logging.json)|
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
+|15129|[15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json)|
+|15429|[15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json)|
+|15439|[15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json)|
+|15483|[15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json)|
+|15884|[15884_Run_a_weekly_n8n_security_audit_and_email_changes_with_Supabase_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15884_Run_a_weekly_n8n_security_audit_and_email_changes_with_Supabase_and_Gmail.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16106|[16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json)|
+|16221|[16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json)|
+|16303|[16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json)|
+|16391|[16391_Monitor_website_changes_with_PolyDoc_screenshots_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16391_Monitor_website_changes_with_PolyDoc_screenshots_and_email_alerts.json)|
+|16449|[16449_Audit_competitor_Etsy_catalogs_and_track_listing_changes_with_Etsy_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16449_Audit_competitor_Etsy_catalogs_and_track_listing_changes_with_Etsy_API.json)|
+|16699|[16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json)|

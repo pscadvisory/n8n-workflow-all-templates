@@ -1,4 +1,4 @@
-# generation : 224
+# generation : 230
 
 |id|file|
 |----|----|
@@ -226,3 +226,9 @@
 |14266|[14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14266_Generate_AI_UGC_videos_with_HeyGen_and_post_to_Instagram_and_Facebook_daily.json)|
 |14859|[14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json)|
 |14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15653|[15653_Scrape_B2B_leads_from_Google_Maps_to_Google_Sheets_with_HasData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15653_Scrape_B2B_leads_from_Google_Maps_to_Google_Sheets_with_HasData.json)|
+|15697|[15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json)|
+|16313|[16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json)|
+|16345|[16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json)|
+|16517|[16517_Qualify_Product_Hunt_leads_with_Google_Gemini__Apify__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16517_Qualify_Product_Hunt_leads_with_Google_Gemini__Apify__and_Google_Sheets.json)|

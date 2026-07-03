@@ -1,4 +1,4 @@
-# reddit : 93
+# reddit : 101
 
 |id|file|
 |----|----|
@@ -95,3 +95,11 @@
 |14298|[14298_Monitor_Reddit_keyword_trends_and_email_reports_with_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14298_Monitor_Reddit_keyword_trends_and_email_reports_with_Apify.json)|
 |14854|[14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json)|
 |15006|[15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json)|
+|15136|[15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json)|
+|15187|[15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15357|[15357_Find_customer_insights_from_your_website_and_Reddit_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15357_Find_customer_insights_from_your_website_and_Reddit_with_Claude.json)|
+|15372|[15372_Generate_LinkedIn_carousel_content_from_Reddit_with_Claude_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15372_Generate_LinkedIn_carousel_content_from_Reddit_with_Claude_and_Airtable.json)|
+|16086|[16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json)|
+|16159|[16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json)|
+|16447|[16447_Send_weekly_Reddit_sentiment_digests_to_Notion_with_ScraperAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16447_Send_weekly_Reddit_sentiment_digests_to_Notion_with_ScraperAPI_and_OpenAI.json)|

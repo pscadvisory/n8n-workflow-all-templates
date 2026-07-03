@@ -1,4 +1,4 @@
-# two : 16
+# two : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|
 |12679|[12679_Sync_contacts_two-way_between_Zoho_CRM_and_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12679_Sync_contacts_two-way_between_Zoho_CRM_and_KlickTipp.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|15264|[15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json)|
+|15350|[15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json)|

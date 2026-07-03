@@ -1,4 +1,4 @@
-# document : 94
+# document : 101
 
 |id|file|
 |----|----|
@@ -96,3 +96,10 @@
 |14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
 |14827|[14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json)|
 |14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|
+|15751|[15751_Build_a_RAG_document_chatbot_with_Supabase_vector_search_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15751_Build_a_RAG_document_chatbot_with_Supabase_vector_search_and_OpenRouter.json)|
+|15790|[15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json)|
+|15956|[15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json)|
+|16119|[16119_Send_fleet_document_expiry_alerts_from_Google_Sheets_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16119_Send_fleet_document_expiry_alerts_from_Google_Sheets_via_Gmail.json)|
+|16389|[16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json)|
+|16597|[16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json)|
+|16798|[16798_Analyse_tender_PDFs_with_LlamaParse__Gemini__Supabase_and_WhatsApp_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16798_Analyse_tender_PDFs_with_LlamaParse__Gemini__Supabase_and_WhatsApp_chat.json)|

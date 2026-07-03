@@ -1,4 +1,4 @@
-# day : 21
+# day : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |11944|[11944_Automate_event_registration_and_reminder_emails_with_Forms__Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11944_Automate_event_registration_and_reminder_emails_with_Forms__Sheets___Gmail.json)|
 |13692|[13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json)|
 |14829|[14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json)|
+|15493|[15493_Turn_webinars_into_a_5-day_email_course_using_WayinVideo__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15493_Turn_webinars_into_a_5-day_email_course_using_WayinVideo__GPT-4o-mini__and_Google_Sheets.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|
+|16433|[16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json)|

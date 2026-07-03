@@ -1,4 +1,4 @@
-# letter : 6
+# letter : 9
 
 |id|file|
 |----|----|
@@ -8,3 +8,6 @@
 |7602|[7602_Automated_Cover_Letter_Generator_with_Indeed_Job_Scraping_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7602_Automated_Cover_Letter_Generator_with_Indeed_Job_Scraping_and_GPT-4o-mini.json)|
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
 |11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15623|[15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json)|

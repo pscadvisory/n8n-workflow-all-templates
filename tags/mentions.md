@@ -1,4 +1,4 @@
-# mentions : 18
+# mentions : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |12772|[12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json)|
 |13013|[13013_Route_Telegram_channel_posts_to_X__Threads__and_LinkedIn_using__mentions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13013_Route_Telegram_channel_posts_to_X__Threads__and_LinkedIn_using__mentions.json)|
 |13653|[13653_Monitor_brand_mentions_with_OpenAI_across_Twitter_X__Reddit__News__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13653_Monitor_brand_mentions_with_OpenAI_across_Twitter_X__Reddit__News__Airtable_and_Slack.json)|
+|16086|[16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json)|
+|16120|[16120_Monitor_and_classify_brand_mentions_from_Instagram_and_Google_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16120_Monitor_and_classify_brand_mentions_from_Instagram_and_Google_with_Gemini.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|

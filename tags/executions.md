@@ -1,4 +1,4 @@
-# executions : 6
+# executions : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6196|[6196_Sequential_Google_Sheets_Data_Processing_with_Execution_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6196_Sequential_Google_Sheets_Data_Processing_with_Execution_Control.json)|
 |9971|[9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json)|
 |13863|[13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json)|
+|16744|[16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json)|

@@ -1,4 +1,4 @@
-# department : 6
+# department : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6904|[6904_Comprehensive_Legal_Department_Automation_with_OpenAI_O3_CLO___Specialist_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6904_Comprehensive_Legal_Department_Automation_with_OpenAI_O3_CLO___Specialist_Agents.json)|
 |6911|[6911_Create_a_Complete_AI_Engineering_Department_with_OpenAI_O3_and_Specialized_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6911_Create_a_Complete_AI_Engineering_Department_with_OpenAI_O3_and_Specialized_Agents.json)|
 |6912|[6912_Data_Analytics_Department_with_AI_Team__CDO___Specialists_Using_OpenAI_O3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6912_Data_Analytics_Department_with_AI_Team__CDO___Specialists_Using_OpenAI_O3.json)|
+|15573|[15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json)|

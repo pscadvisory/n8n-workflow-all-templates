@@ -1,4 +1,4 @@
-# jotform : 80
+# jotform : 81
 
 |id|file|
 |----|----|
@@ -82,3 +82,4 @@
 |10397|[10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json)|
 |10617|[10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json)|
 |13018|[13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json)|
+|15377|[15377_Intelligent_Support_Triage___Auto-Response_Engine_with_Jotform__Airtable__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15377_Intelligent_Support_Triage___Auto-Response_Engine_with_Jotform__Airtable__Gemini.json)|

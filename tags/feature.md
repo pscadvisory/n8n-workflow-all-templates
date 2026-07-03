@@ -1,4 +1,4 @@
-# feature : 6
+# feature : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |7985|[7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json)|
 |11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|
 |12535|[12535_Generate_product_feature_announcements_from_Notion_to_Google_Docs_with_GPT-5_Mini_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12535_Generate_product_feature_announcements_from_Notion_to_Google_Docs_with_GPT-5_Mini_and_Claude.json)|
+|15233|[15233_Audit_Android_feature_flags_from_GitHub_with_Firebase_and_send_Slack_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15233_Audit_Android_feature_flags_from_GitHub_with_Firebase_and_send_Slack_reports.json)|
+|15482|[15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json)|

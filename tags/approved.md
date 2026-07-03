@@ -1,4 +1,4 @@
-# approved : 4
+# approved : 8
 
 |id|file|
 |----|----|
@@ -6,3 +6,7 @@
 |8655|[8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json)|
 |12298|[12298_Notify_Redmine_project_members_in_Slack_about_teammates__approved_Odoo_leave.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12298_Notify_Redmine_project_members_in_Slack_about_teammates__approved_Odoo_leave.json)|
 |13304|[13304_Schedule_approved_LinkedIn_page_posts_from_Google_Sheets_with_precise_timing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13304_Schedule_approved_LinkedIn_page_posts_from_Google_Sheets_with_precise_timing.json)|
+|15361|[15361_Moderate_Telegram_content_and_post_approved_items_to_Facebook_and_LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15361_Moderate_Telegram_content_and_post_approved_items_to_Facebook_and_LinkedIn.json)|
+|15977|[15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json)|
+|16457|[16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json)|
+|16558|[16558_Schedule_approved_Notion_content_calendar_posts_with_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16558_Schedule_approved_Notion_content_calendar_posts_with_Posta.json)|

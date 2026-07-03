@@ -1,4 +1,4 @@
-# posting : 40
+# posting : 42
 
 |id|file|
 |----|----|
@@ -42,3 +42,5 @@
 |12834|[12834_AI_Agents_Generate_Content___Automate_Posting_for_Beauty_Salon_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12834_AI_Agents_Generate_Content___Automate_Posting_for_Beauty_Salon_Social_Media.json)|
 |13952|[13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json)|
 |15033|[15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json)|
+|15699|[15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json)|
+|16707|[16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json)|

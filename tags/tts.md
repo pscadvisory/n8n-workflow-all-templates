@@ -1,4 +1,4 @@
-# tts : 26
+# tts : 30
 
 |id|file|
 |----|----|
@@ -28,3 +28,7 @@
 |14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
 |14975|[14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|15096|[15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|
+|16642|[16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json)|

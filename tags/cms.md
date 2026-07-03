@@ -1,4 +1,4 @@
-# cms : 6
+# cms : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7920|[7920_Full_Blog_Content_Automation_with_GPT-4__Claude___Ghost_CMS_Publisher.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7920_Full_Blog_Content_Automation_with_GPT-4__Claude___Ghost_CMS_Publisher.json)|
 |7935|[7935_Sync_Notion_Content_to_Webflow_CMS_as_Draft_Items_with_Status_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7935_Sync_Notion_Content_to_Webflow_CMS_as_Draft_Items_with_Status_Tracking.json)|
 |14471|[14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json)|
+|15158|[15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json)|

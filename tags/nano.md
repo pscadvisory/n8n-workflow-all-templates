@@ -1,4 +1,4 @@
-# nano : 57
+# nano : 61
 
 |id|file|
 |----|----|
@@ -59,3 +59,7 @@
 |12542|[12542_Create_Viral___AI_celebrity_selfies___with_Nano_Banana_Pro___upload_to_Instagram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12542_Create_Viral___AI_celebrity_selfies___with_Nano_Banana_Pro___upload_to_Instagram.json)|
 |12772|[12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12772_Monitor_brand_mentions_with_GPT-5_Nano__Brave_Search__Gmail_and_Google_Sheets.json)|
 |13778|[13778_Generate_hyper-realistic_images_from_Telegram_via_Gemini_Nano_Banana_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13778_Generate_hyper-realistic_images_from_Telegram_via_Gemini_Nano_Banana_2.json)|
+|15284|[15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json)|
+|15364|[15364_Post_daily_AI-generated_Instagram_images_from_Google_Sheets_with_GPT-4.1_Nano_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15364_Post_daily_AI-generated_Instagram_images_from_Google_Sheets_with_GPT-4.1_Nano_and_Google_Gemini.json)|
+|15586|[15586_Generate_and_edit_images_with_Havis_AI_Nano_Banana_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15586_Generate_and_edit_images_with_Havis_AI_Nano_Banana_2.json)|
+|16135|[16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json)|

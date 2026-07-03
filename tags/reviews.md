@@ -1,4 +1,4 @@
-# reviews : 53
+# reviews : 59
 
 |id|file|
 |----|----|
@@ -55,3 +55,9 @@
 |14629|[14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14629_Create_branded_social_proof_Instagram_posts_from_Airtable_reviews_with_Bannerbear_and_UploadToURL.json)|
 |14648|[14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json)|
 |14896|[14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14896_Monitor_Google_reviews_and_draft_GPT-4o-mini_replies_via_Gmail_daily.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|
+|15166|[15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json)|
+|15194|[15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json)|
+|15848|[15848_Get_Taobao_and_Tmall_product_reviews_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15848_Get_Taobao_and_Tmall_product_reviews_with_JustOneAPI.json)|
+|16018|[16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json)|
+|16051|[16051_Monitor_Google_Maps__Yelp_and_Tripadvisor_reviews_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16051_Monitor_Google_Maps__Yelp_and_Tripadvisor_reviews_with_Apify_and_Google_Sheets.json)|

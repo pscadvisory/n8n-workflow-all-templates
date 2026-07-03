@@ -1,4 +1,4 @@
-# grade : 4
+# grade : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |13701|[13701_Generate_institutional-grade_stock_price_targets_and_BUY_HOLD_SELL_signals_with_GPT-5__Gemini__Alpha_Vantage_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13701_Generate_institutional-grade_stock_price_targets_and_BUY_HOLD_SELL_signals_with_GPT-5__Gemini__Alpha_Vantage_and_Google_Sheets.json)|
 |13710|[13710_Grade_exam_answers_with_GPT_4.1_mini__plagiarism_checks__Slack_alerts_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13710_Grade_exam_answers_with_GPT_4.1_mini__plagiarism_checks__Slack_alerts_and_Google_Sheets_logging.json)|
 |13806|[13806_Grade_PDF_assignments_with_Google_Gemini_and_upload_reports_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13806_Grade_PDF_assignments_with_Google_Gemini_and_upload_reports_to_Google_Drive.json)|
+|16488|[16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json)|

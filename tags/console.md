@@ -1,4 +1,4 @@
-# console : 21
+# console : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |13838|[13838_Detect_content_decay_from_Google_Search_Console_and_alert_via_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13838_Detect_content_decay_from_Google_Search_Console_and_alert_via_Slack_and_email.json)|
 |14892|[14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14892_Send_weekly_SEO_keyword_email_reports_with_Google_Search_Console__GPT-4o-mini_and_Gmail.json)|
 |14991|[14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json)|
+|15651|[15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15651_Generate_monthly_SEO_analytics_reports_with_GA4__Search_Console__GPT-4.1_and_Slack_Teams.json)|
+|15691|[15691_AI-Powered_SEO_Cannibalization_Monitor__Databox__Google_Search_Console___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15691_AI-Powered_SEO_Cannibalization_Monitor__Databox__Google_Search_Console___Slack.json)|
+|16624|[16624_Send_daily_SEO_digest_from_Google_Search_Console_to_Discord_with_heartbeat_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16624_Send_daily_SEO_digest_from_Google_Search_Console_to_Discord_with_heartbeat_alerts.json)|

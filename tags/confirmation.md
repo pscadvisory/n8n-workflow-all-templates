@@ -1,4 +1,4 @@
-# confirmation : 14
+# confirmation : 18
 
 |id|file|
 |----|----|
@@ -16,3 +16,7 @@
 |10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|
 |12906|[12906_Match_WooCommerce_orders_to_new_Zendesk_tickets_and_send_confirmation_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12906_Match_WooCommerce_orders_to_new_Zendesk_tickets_and_send_confirmation_emails.json)|
 |13478|[13478_Send_Shopify_order_confirmations_via_WhatsApp_using_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13478_Send_Shopify_order_confirmations_via_WhatsApp_using_MoltFlow.json)|
+|15993|[15993_Send_Sharetribe_booking_confirmation_emails_with_calendar_invites_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15993_Send_Sharetribe_booking_confirmation_emails_with_calendar_invites_via_Gmail.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16605|[16605_Triage_telehealth_appointments_with_GPT-4o-mini__Telegram__Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16605_Triage_telehealth_appointments_with_GPT-4o-mini__Telegram__Google_Calendar.json)|

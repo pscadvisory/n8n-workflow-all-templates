@@ -1,4 +1,4 @@
-# autonomous : 15
+# autonomous : 24
 
 |id|file|
 |----|----|
@@ -17,3 +17,12 @@
 |12938|[12938_Answer_research_questions_using_OpenAI_GPT-4.1_and_arXiv_papers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12938_Answer_research_questions_using_OpenAI_GPT-4.1_and_arXiv_papers.json)|
 |13822|[13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json)|
 |14016|[14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14016_Analyze_sales_calls_with_GPT-4__Supabase_RAG__Slack_and_multi-CRM.json)|
+|15201|[15201_Generate_multi-agent_AI_research_reports_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15201_Generate_multi-agent_AI_research_reports_with_OpenAI_and_Google_Sheets.json)|
+|15686|[15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json)|
+|15696|[15696_Monitor_daily_traffic_spikes_with_Databox__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15696_Monitor_daily_traffic_spikes_with_Databox__OpenAI_and_Slack.json)|
+|16224|[16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json)|
+|16385|[16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json)|
+|16466|[16466_Publish_weekly_SMB_blog_posts_with_Perplexity__Claude__Gemini__Supabase__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16466_Publish_weekly_SMB_blog_posts_with_Perplexity__Claude__Gemini__Supabase__and_Gmail.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|
+|16662|[16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json)|
+|16666|[16666_Create_social_posts_from_RSS_with_OpenAI__LinkedIn__X__and_Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16666_Create_social_posts_from_RSS_with_OpenAI__LinkedIn__X__and_Bluesky.json)|

@@ -1,4 +1,4 @@
-# or : 63
+# or : 75
 
 |id|file|
 |----|----|
@@ -65,3 +65,15 @@
 |14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
 |14292|[14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14292_Triage_and_escalate_tenant_complaints_from_Gmail_or_forms_to_Slack_with_Claude_AI.json)|
 |14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|
+|15242|[15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json)|
+|15499|[15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json)|
+|15719|[15719_Send_bulk_MercadoPago_payment_links_from_Google_Sheets_via_Gmail__WhatsApp__or_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15719_Send_bulk_MercadoPago_payment_links_from_Google_Sheets_via_Gmail__WhatsApp__or_Telegram.json)|
+|16103|[16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json)|
+|16170|[16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json)|
+|16235|[16235_Triage_support_emails_with_EmailConnect__Notion_KB__and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16235_Triage_support_emails_with_EmailConnect__Notion_KB__and_OpenRouter.json)|
+|16246|[16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json)|
+|16330|[16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json)|
+|16345|[16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json)|
+|16383|[16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16701|[16701_Audit_Google_Drive_backup_freshness_with_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16701_Audit_Google_Drive_backup_freshness_with_Google_Sheets_and_Slack.json)|

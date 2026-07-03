@@ -1,4 +1,4 @@
-# pull : 15
+# pull : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |13563|[13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json)|
 |13652|[13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13652_Review_GitHub_pull_requests_with_AI_and_log_results_to_PostgreSQL_and_Slack.json)|
 |13694|[13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json)|
+|15107|[15107_Pull_bulk_domain_backlink_profiles_into_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15107_Pull_bulk_domain_backlink_profiles_into_Google_Sheets_with_DataForSEO.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

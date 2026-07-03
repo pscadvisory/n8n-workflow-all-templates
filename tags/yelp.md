@@ -1,4 +1,4 @@
-# yelp : 7
+# yelp : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |11410|[11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json)|
 |11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
 |12883|[12883_Send_instant_replies_to_new_Yelp_leads_with_LeadResponder.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12883_Send_instant_replies_to_new_Yelp_leads_with_LeadResponder.ai.json)|
+|16051|[16051_Monitor_Google_Maps__Yelp_and_Tripadvisor_reviews_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16051_Monitor_Google_Maps__Yelp_and_Tripadvisor_reviews_with_Apify_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# recommender : 5
+# recommender : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
 |10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
 |11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|
+|15081|[15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json)|

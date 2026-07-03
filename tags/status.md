@@ -1,4 +1,4 @@
-# status : 35
+# status : 43
 
 |id|file|
 |----|----|
@@ -37,3 +37,11 @@
 |14136|[14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json)|
 |14194|[14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json)|
 |14991|[14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json)|
+|15188|[15188_Track_Pennylane_invoice_payment_status_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15188_Track_Pennylane_invoice_payment_status_with_Slack_notifications.json)|
+|15269|[15269_Send_a_weekly_smenso_project_status_report_via_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15269_Send_a_weekly_smenso_project_status_report_via_email_with_Gmail.json)|
+|15299|[15299_Automatic_workflow_to_categorise_your_job_status.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15299_Automatic_workflow_to_categorise_your_job_status.json)|
+|15389|[15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15389_Auto-Update_job_application_status_from_Gmail_to_Google_Sheets.json)|
+|15982|[15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json)|
+|16294|[16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16555|[16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json)|

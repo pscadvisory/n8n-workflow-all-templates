@@ -1,4 +1,4 @@
-# elevenlabs : 80
+# elevenlabs : 85
 
 |id|file|
 |----|----|
@@ -82,3 +82,8 @@
 |14546|[14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json)|
 |14973|[14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14973_Turn_GitHub_releases_into_audio_updates_and_newsletters_with_OpenAI_and_ElevenLabs.json)|
 |14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|
+|15677|[15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json)|
+|15832|[15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json)|
+|15888|[15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json)|
+|16419|[16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json)|
+|16773|[16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json)|

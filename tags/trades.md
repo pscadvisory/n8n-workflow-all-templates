@@ -1,4 +1,4 @@
-# trades : 6
+# trades : 9
 
 |id|file|
 |----|----|
@@ -8,3 +8,6 @@
 |7240|[7240_Automate_Stock_Trades_with_AI-Driven_Technical_Analysis___Alpaca_Trading.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7240_Automate_Stock_Trades_with_AI-Driven_Technical_Analysis___Alpaca_Trading.json)|
 |12151|[12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12151_Log_daily_Interactive_Brokers_trades_to_a_Google_Sheets_journal.json)|
 |14252|[14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14252_Extract_Indonesian_stock__IDX__trades_from_Telegram_invoices_with_Gemini_AI.json)|
+|15192|[15192_Scan_biotech_news_for_catalyst_trades_with_FinBERT__Alpaca__and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15192_Scan_biotech_news_for_catalyst_trades_with_FinBERT__Alpaca__and_Gemini.json)|
+|15329|[15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json)|
+|15857|[15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json)|

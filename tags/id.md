@@ -1,4 +1,4 @@
-# id : 9
+# id : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |9245|[9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json)|
 |10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
 |12399|[12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|

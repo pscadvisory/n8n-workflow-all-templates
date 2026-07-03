@@ -1,4 +1,4 @@
-# clinic : 6
+# clinic : 9
 
 |id|file|
 |----|----|
@@ -8,3 +8,6 @@
 |9366|[9366_Automate_Medical_Appointments_with_ElevenLabs_Voice_Agent___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9366_Automate_Medical_Appointments_with_ElevenLabs_Voice_Agent___Google_Calendar.json)|
 |11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|
 |13864|[13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json)|
+|16601|[16601_Log_clinic_chatbot_inquiries_from_a_website_widget_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16601_Log_clinic_chatbot_inquiries_from_a_website_widget_with_OpenAI_and_Google_Sheets.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|
+|16680|[16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json)|

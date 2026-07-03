@@ -1,4 +1,4 @@
-# qdrant : 47
+# qdrant : 55
 
 |id|file|
 |----|----|
@@ -49,3 +49,11 @@
 |12827|[12827_Automate_systematic_literature_reviews_with_Google_Drive__GPT-4__Gemini__Qdrant_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12827_Automate_systematic_literature_reviews_with_Google_Drive__GPT-4__Gemini__Qdrant_and_Airtable.json)|
 |13422|[13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json)|
 |14268|[14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json)|
+|15081|[15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json)|
+|15242|[15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json)|
+|15415|[15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json)|
+|15629|[15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json)|
+|15778|[15778_Chat_with_your_business_knowledge_base_using_Google_Gemini_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15778_Chat_with_your_business_knowledge_base_using_Google_Gemini_and_Qdrant.json)|
+|15855|[15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json)|
+|16040|[16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|

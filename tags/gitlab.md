@@ -1,4 +1,4 @@
-# gitlab : 28
+# gitlab : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |14129|[14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14129_Analyze_GitLab_CI_job_failures_with_GPT-5.3_and_send_reports_to_Slack.json)|
 |14338|[14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json)|
 |14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
+|15354|[15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json)|

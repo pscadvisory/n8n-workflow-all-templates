@@ -1,4 +1,4 @@
-# capture : 41
+# capture : 50
 
 |id|file|
 |----|----|
@@ -43,3 +43,12 @@
 |14362|[14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json)|
 |14687|[14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14687_Capture_and_enrich_leads_with_GPT-4o__Postgres__Slack__Gmail_and_your_CRM.json)|
 |15044|[15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json)|
+|15520|[15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json)|
+|15982|[15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json)|
+|16092|[16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16232|[16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json)|
+|16256|[16256_Qualify_inbound_leads_with_OpenAI__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16256_Qualify_inbound_leads_with_OpenAI__Google_Sheets_and_Slack_alerts.json)|
+|16261|[16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json)|
+|16647|[16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json)|
+|16653|[16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json)|
+|16740|[16740_Capture_and_route_real_estate_leads_with_Google_Sheets__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16740_Capture_and_route_real_estate_leads_with_Google_Sheets__Gmail__and_Slack.json)|

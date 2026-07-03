@@ -1,4 +1,4 @@
-# folder : 25
+# folder : 27
 
 |id|file|
 |----|----|
@@ -27,3 +27,5 @@
 |11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|
 |13245|[13245_Back_up_n8n_workflows_to_Google_Drive_while_preserving_folder_structure.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13245_Back_up_n8n_workflows_to_Google_Drive_while_preserving_folder_structure.json)|
 |13896|[13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json)|
+|15249|[15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json)|
+|15456|[15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15456_Index_new_Google_Drive_folder_files_into_Google_Sheets_automatically.json)|

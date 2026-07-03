@@ -1,4 +1,4 @@
-# briefings : 7
+# briefings : 15
 
 |id|file|
 |----|----|
@@ -9,3 +9,11 @@
 |12074|[12074_Create_weekly_AI_research_briefings_with_Decodo__OpenAI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12074_Create_weekly_AI_research_briefings_with_Decodo__OpenAI__and_Gmail.json)|
 |13224|[13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json)|
 |13309|[13309_Manage_Google_Calendar_via_Telegram_and_get_daily_AI_briefings__OpenAI___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13309_Manage_Google_Calendar_via_Telegram_and_get_daily_AI_briefings__OpenAI___Gemini.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|15979|[15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json)|
+|16088|[16088_Send_AI-powered_Slack_briefings_with_Google_Workspace_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16088_Send_AI-powered_Slack_briefings_with_Google_Workspace_and_Gemini.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|
+|16260|[16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json)|
+|16351|[16351_Send_pre-meeting_Slack_briefings_with_Google_Calendar_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16351_Send_pre-meeting_Slack_briefings_with_Google_Calendar_and_GitHub.json)|
+|16429|[16429_Send_daily_World_Cup_2026_briefings_to_Slack_with_OpenAI_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16429_Send_daily_World_Cup_2026_briefings_to_Slack_with_OpenAI_GPT-5_Mini.json)|
+|16459|[16459_Send_daily_executive_financial_briefings_with_Google_Sheets__GPT-4o-mini__Notion_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16459_Send_daily_executive_financial_briefings_with_Google_Sheets__GPT-4o-mini__Notion_and_Telegram.json)|

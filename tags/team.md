@@ -1,4 +1,4 @@
-# team : 48
+# team : 52
 
 |id|file|
 |----|----|
@@ -50,3 +50,7 @@
 |11696|[11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json)|
 |12028|[12028_Moderate_Facebook_comments_with_AI_and_send_reports_to_Slack___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12028_Moderate_Facebook_comments_with_AI_and_send_reports_to_Slack___Telegram.json)|
 |14383|[14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json)|
+|16232|[16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json)|
+|16234|[16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json)|
+|16442|[16442_Summarize_daily_standups_from_Google_Sheets_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16442_Summarize_daily_standups_from_Google_Sheets_with_Gemini_and_Slack.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|

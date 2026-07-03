@@ -1,4 +1,4 @@
-# commerce : 38
+# commerce : 40
 
 |id|file|
 |----|----|
@@ -40,3 +40,5 @@
 |13704|[13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json)|
 |14405|[14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json)|
 |14550|[14550_Handle_e-commerce_support_on_Telegram_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14550_Handle_e-commerce_support_on_Telegram_with_Gemini_and_Google_Sheets.json)|
+|15617|[15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|

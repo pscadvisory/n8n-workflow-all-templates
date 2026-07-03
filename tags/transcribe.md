@@ -1,4 +1,4 @@
-# transcribe : 29
+# transcribe : 34
 
 |id|file|
 |----|----|
@@ -31,3 +31,8 @@
 |10870|[10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10870_Transcribe_Long_Audio_Files_Beyond_25MB_Limit_with_FileFlows_and_OpenAI_Whisper.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
 |12203|[12203_Process_audio_with_ElevenLabs_via_KIE.AI__transcribe__TTS__and_isolate_audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12203_Process_audio_with_ElevenLabs_via_KIE.AI__transcribe__TTS__and_isolate_audio.json)|
+|15048|[15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json)|
+|15534|[15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json)|
+|15927|[15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json)|
+|15974|[15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json)|
+|16566|[16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json)|

@@ -1,4 +1,4 @@
-# sign : 5
+# sign : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |4210|[4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json)|
 |8228|[8228_Supabase_Storage_Tutorial__Upload__Fetch__Sign___List_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8228_Supabase_Storage_Tutorial__Upload__Fetch__Sign___List_Files.json)|
 |10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
+|16672|[16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json)|

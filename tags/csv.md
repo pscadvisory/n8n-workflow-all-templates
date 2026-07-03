@@ -1,4 +1,4 @@
-# csv : 55
+# csv : 65
 
 |id|file|
 |----|----|
@@ -57,3 +57,13 @@
 |14273|[14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json)|
 |14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
 |14319|[14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json)|
+|15168|[15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|15444|[15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json)|
+|15548|[15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json)|
+|15742|[15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json)|
+|15756|[15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json)|
+|16016|[16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json)|
+|16356|[16356_Export_WordPress_data_to_a_CSV_file.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16356_Export_WordPress_data_to_a_CSV_file.json)|
+|16700|[16700_Reconcile_daily_Google_Drive_CSV_exports_into_a_master_file_and_send_a_Slack_recap.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16700_Reconcile_daily_Google_Drive_CSV_exports_into_a_master_file_and_send_a_Slack_recap.json)|
+|16749|[16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json)|

@@ -1,4 +1,4 @@
-# book : 21
+# book : 30
 
 |id|file|
 |----|----|
@@ -23,3 +23,12 @@
 |14574|[14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json)|
 |14824|[14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14824_Book_and_manage_appointments_with_Google_Calendar_and_Gmail.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|15103|[15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json)|
+|15621|[15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json)|
+|15677|[15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json)|
+|15777|[15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json)|
+|15910|[15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|
+|16204|[16204_Monitor_and_book_visa_appointments_with_GPT-4.1-mini__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16204_Monitor_and_book_visa_appointments_with_GPT-4.1-mini__Telegram_and_Sheets.json)|
+|16482|[16482_Book__reschedule_and_confirm_WhatsApp_appointments_with_Claude_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16482_Book__reschedule_and_confirm_WhatsApp_appointments_with_Claude_and_Sheets.json)|
+|16680|[16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json)|

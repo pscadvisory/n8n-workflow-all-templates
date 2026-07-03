@@ -1,4 +1,4 @@
-# qualified : 14
+# qualified : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |13018|[13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json)|
 |13095|[13095_Vet_new_Typeform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_Mautic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13095_Vet_new_Typeform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_Mautic.json)|
 |13116|[13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13116_Score_and_route_qualified_leads_to_Notion_and_Matrix.json)|
+|15279|[15279_Score_and_route_BANT-qualified_leads_using_Gemini__Gmail__Google_Sheets_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15279_Score_and_route_BANT-qualified_leads_using_Gemini__Gmail__Google_Sheets_and_Telegram.json)|
+|15378|[15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json)|
+|16672|[16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json)|

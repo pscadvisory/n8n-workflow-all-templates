@@ -1,4 +1,4 @@
-# qualification : 35
+# qualification : 42
 
 |id|file|
 |----|----|
@@ -37,3 +37,10 @@
 |12761|[12761_Qualify_and_route_consulting_leads_with_GPT_4.1-mini__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12761_Qualify_and_route_consulting_leads_with_GPT_4.1-mini__Slack_and_Google_Sheets.json)|
 |12855|[12855_Extract_and_qualify_local_business_leads_and_draft_cold_emails_with_OpenAI__Apify_and_Hunter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12855_Extract_and_qualify_local_business_leads_and_draft_cold_emails_with_OpenAI__Apify_and_Hunter.json)|
 |14836|[14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14836_Qualify_and_route_inbound_leads_with_Claude__Gmail__Slack_and_Google_Sheets.json)|
+|15080|[15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json)|
+|15418|[15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json)|
+|15536|[15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json)|
+|15648|[15648_Qualify_website_leads_with_OpenAI_and_HubSpot_and_notify_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15648_Qualify_website_leads_with_OpenAI_and_HubSpot_and_notify_via_Gmail.json)|
+|15677|[15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json)|
+|15779|[15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json)|
+|16256|[16256_Qualify_inbound_leads_with_OpenAI__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16256_Qualify_inbound_leads_with_OpenAI__Google_Sheets_and_Slack_alerts.json)|

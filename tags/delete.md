@@ -1,4 +1,4 @@
-# delete : 17
+# delete : 20
 
 |id|file|
 |----|----|
@@ -19,3 +19,6 @@
 |7952|[7952_Scheduled_Gmail_Cleanup_-_Auto-Delete_Spam__Promotions__Social___Trash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7952_Scheduled_Gmail_Cleanup_-_Auto-Delete_Spam__Promotions__Social___Trash.json)|
 |8541|[8541_Complete_Google_Tasks_Management__Create__Update___Delete_Tasks_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8541_Complete_Google_Tasks_Management__Create__Update___Delete_Tasks_Automatically.json)|
 |10320|[10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json)|
+|15079|[15079_Delete_Dropbox_PNG_files_older_than_48_hours_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15079_Delete_Dropbox_PNG_files_older_than_48_hours_on_a_schedule.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16153|[16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json)|

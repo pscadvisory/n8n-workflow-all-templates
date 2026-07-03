@@ -1,4 +1,4 @@
-# trade : 6
+# trade : 11
 
 |id|file|
 |----|----|
@@ -8,3 +8,8 @@
 |12478|[12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json)|
 |12553|[12553_Generate_intraday_AAPL_trade_signals_using_live_data__OpenAI__Telegram_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12553_Generate_intraday_AAPL_trade_signals_using_live_data__OpenAI__Telegram_and_Notion.json)|
 |12758|[12758_Analyze_meeting_sentiment_with_Azure_OpenAI_and_save_insights_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12758_Analyze_meeting_sentiment_with_Azure_OpenAI_and_save_insights_to_Google_Sheets.json)|
+|15329|[15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json)|
+|15856|[15856_Reconcile_trade_mismatches_in_Google_Sheets_with_Groq_OpenAI_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15856_Reconcile_trade_mismatches_in_Google_Sheets_with_Groq_OpenAI_and_Gmail_alerts.json)|
+|15857|[15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json)|
+|16261|[16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json)|
+|16653|[16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# lemlist : 7
+# lemlist : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |2287|[2287_Classify_lemlist_replies_using_OpenAI_and_automate_reply_handling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2287_Classify_lemlist_replies_using_OpenAI_and_automate_reply_handling.json)|
 |5233|[5233_AI_Agents_can_Create__Enrich_leads_with_this_Lemlist_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5233_AI_Agents_can_Create__Enrich_leads_with_this_Lemlist_Tool_MCP_Server.json)|
 |12920|[12920_Generate_scheduled_B2B_leads_from_Google_Maps_with_Lemlist__Claude__and_Pitchlane.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12920_Generate_scheduled_B2B_leads_from_Google_Maps_with_Lemlist__Claude__and_Pitchlane.json)|
+|15297|[15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json)|

@@ -1,4 +1,4 @@
-# cyberpulse : 13
+# cyberpulse : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |7349|[7349_CYBERPULSE_AI_GRC__Automate_Security_Questionnaire_Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7349_CYBERPULSE_AI_GRC__Automate_Security_Questionnaire_Responses.json)|
 |7860|[7860_CYBERPULSE_AI_GRC__Vendor_Risk_Evaluator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7860_CYBERPULSE_AI_GRC__Vendor_Risk_Evaluator.json)|
 |9397|[9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json)|
+|15879|[15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json)|

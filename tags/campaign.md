@@ -1,4 +1,4 @@
-# campaign : 33
+# campaign : 40
 
 |id|file|
 |----|----|
@@ -35,3 +35,10 @@
 |13745|[13745_Generate_Meta_Ads_campaign_reports_in_Google_Sheets_and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13745_Generate_Meta_Ads_campaign_reports_in_Google_Sheets_and_send_Telegram_alerts.json)|
 |14147|[14147_Generate_personalized_HubSpot_campaign_emails_with_Groq_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14147_Generate_personalized_HubSpot_campaign_emails_with_Groq_AI_and_Gmail.json)|
 |14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|
+|15185|[15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json)|
+|15552|[15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json)|
+|15619|[15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15619_Send_AI-personalized_WhatsApp_campaigns_with_WhatsApp_Business_API_and_Google_Sheets.json)|
+|16002|[16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16002_Qualify_LinkedIn_leads_and_draft_multi-step_outreach_with_Airtable__Apify_and_Claude.json)|
+|16005|[16005_Qualify_LinkedIn_leads_and_draft_outreach_with_Airtable__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16005_Qualify_LinkedIn_leads_and_draft_outreach_with_Airtable__Apify_and_Claude.json)|
+|16310|[16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|

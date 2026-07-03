@@ -1,4 +1,4 @@
-# duplicate : 20
+# duplicate : 28
 
 |id|file|
 |----|----|
@@ -22,3 +22,11 @@
 |13863|[13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13863_Prevent_duplicate_webhook_executions_with_AARI_idempotency_gate.json)|
 |14146|[14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14146_Flag_duplicate_and_risky_AP_invoices_with_Gmail__OpenAI_and_Supabase.json)|
 |14180|[14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14180_Detect_duplicate_invoice_PDFs_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|15251|[15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json)|
+|16267|[16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16353|[16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json)|
+|16401|[16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16497|[16497_Detect_duplicate_Google_Drive_files_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16497_Detect_duplicate_Google_Drive_files_and_log_results_to_Google_Sheets.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|
+|16690|[16690_Track_and_de-duplicate_email_leads_in_Google_Sheets_from_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16690_Track_and_de-duplicate_email_leads_in_Google_Sheets_from_Gmail.json)|
+|16748|[16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json)|

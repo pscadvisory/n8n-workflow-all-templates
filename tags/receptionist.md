@@ -1,4 +1,4 @@
-# receptionist : 9
+# receptionist : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
 |12004|[12004_Restaurant_GPT-4_receptionist_for_bookings___delivery_using_Vapi__Telegram__Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12004_Restaurant_GPT-4_receptionist_for_bookings___delivery_using_Vapi__Telegram__Airtable.json)|
 |12956|[12956_Generate_AI_voice_receptionists_for_local_businesses_with_Claude__VAPI_and_Google_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12956_Generate_AI_voice_receptionists_for_local_businesses_with_Claude__VAPI_and_Google_Maps.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

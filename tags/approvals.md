@@ -1,4 +1,4 @@
-# approvals : 18
+# approvals : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |13716|[13716_Track_Excel_365_changes_and_approvals_with_Telegram_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13716_Track_Excel_365_changes_and_approvals_with_Telegram_and_Google_Sheets_logging.json)|
 |13932|[13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json)|
 |14441|[14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14441_Automate_privacy_risk_detection__approvals__and_audit_reports_with_GPT-4o__Slack__Gmail__and_Google_Sheets.json)|
+|15232|[15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json)|
+|16255|[16255_Handle_support_reply_approvals_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16255_Handle_support_reply_approvals_with_Slack__Gmail_and_Google_Sheets.json)|
+|16404|[16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json)|

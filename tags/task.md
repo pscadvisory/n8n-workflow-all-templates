@@ -1,4 +1,4 @@
-# task : 81
+# task : 92
 
 |id|file|
 |----|----|
@@ -83,3 +83,14 @@
 |13822|[13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json)|
 |14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
 |14976|[14976_AI-Powered_Paperclip___Task_Assigner___Completion_Tracker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14976_AI-Powered_Paperclip___Task_Assigner___Completion_Tracker.json)|
+|15268|[15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json)|
+|15660|[15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json)|
+|15857|[15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json)|
+|15872|[15872_Send_a_weekly_Airtable_task_digest_to_Slack__Gmail_and_Sheets_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15872_Send_a_weekly_Airtable_task_digest_to_Slack__Gmail_and_Sheets_with_GPT-4.1-mini.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|
+|15933|[15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json)|
+|16137|[16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json)|
+|16366|[16366_Triage_and_route_tasks_with_Google_Sheets__GPT-4o-mini__Gmail__Slack__and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16366_Triage_and_route_tasks_with_Google_Sheets__GPT-4o-mini__Gmail__Slack__and_Google_Tasks.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16765|[16765_Create_daily_ClickUp_task_reports_with_OpenRouter_o3-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16765_Create_daily_ClickUp_task_reports_with_OpenRouter_o3-mini.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

@@ -1,4 +1,4 @@
-# incoming : 12
+# incoming : 16
 
 |id|file|
 |----|----|
@@ -14,3 +14,7 @@
 |13192|[13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json)|
 |13989|[13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json)|
 |14184|[14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14184_Generate_branded_PDF_reports_from_incoming_emails_using_Autype_and_OpenRouter.json)|
+|15207|[15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|
+|15775|[15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json)|
+|16448|[16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json)|

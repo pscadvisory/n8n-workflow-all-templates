@@ -1,4 +1,4 @@
-# decision : 9
+# decision : 15
 
 |id|file|
 |----|----|
@@ -11,3 +11,9 @@
 |12944|[12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json)|
 |13684|[13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13684_Audit_AI_decisions_and_route_risks_with_GPT-4.1-mini__Slack__and_email_reports.json)|
 |13792|[13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13792_Decide_multi_agent_vs_simple_workflows_using_Azure_OpenAI_GPT_4o_mini.json)|
+|15265|[15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|16152|[16152_Make_multi-agent_council_decisions_with_OpenAI_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16152_Make_multi-agent_council_decisions_with_OpenAI_GPT-5.json)|
+|16343|[16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json)|
+|16345|[16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json)|
+|16415|[16415_Identify_company_decision_makers_with_Coresignal_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16415_Identify_company_decision_makers_with_Coresignal_and_Google_Sheets.json)|

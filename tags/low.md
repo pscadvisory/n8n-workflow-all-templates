@@ -1,4 +1,4 @@
-# low : 15
+# low : 21
 
 |id|file|
 |----|----|
@@ -17,3 +17,9 @@
 |13276|[13276_Send_weekly_low_stock_alerts_from_WooCommerce_to_Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13276_Send_weekly_low_stock_alerts_from_WooCommerce_to_Slack_and_Jira.json)|
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
 |14528|[14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json)|
+|15374|[15374_Monitor_Elastic_Email_subaccount_credits_and_send_low-balance_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15374_Monitor_Elastic_Email_subaccount_credits_and_send_low-balance_alerts_to_Slack.json)|
+|15972|[15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json)|
+|16003|[16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json)|
+|16541|[16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|
+|16705|[16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json)|

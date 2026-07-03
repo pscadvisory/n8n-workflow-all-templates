@@ -1,4 +1,4 @@
-# vide : 27
+# vide : 31
 
 |id|file|
 |----|----|
@@ -29,3 +29,7 @@
 |12462|[12462_Create_AI_product_images_and_marketing_videos_with_NanoBanana_Pro__Veo_3.1_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12462_Create_AI_product_images_and_marketing_videos_with_NanoBanana_Pro__Veo_3.1_and_Blotato.json)|
 |14538|[14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json)|
 |14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|
+|15153|[15153_Scrape_and_email_business_leads_with_Claude__Apify__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15153_Scrape_and_email_business_leads_with_Claude__Apify__Google_Sheets_and_Gmail.json)|
+|15203|[15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json)|
+|16148|[16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json)|
+|16168|[16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json)|

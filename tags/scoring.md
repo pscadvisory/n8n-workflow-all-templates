@@ -1,4 +1,4 @@
-# scoring : 68
+# scoring : 80
 
 |id|file|
 |----|----|
@@ -70,3 +70,15 @@
 |14037|[14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json)|
 |14059|[14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json)|
 |14410|[14410_Automate_cybersecurity_threat_analysis_with_GPT-4o__CVSS_scoring_and_risk_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14410_Automate_cybersecurity_threat_analysis_with_GPT-4o__CVSS_scoring_and_risk_routing.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15307|[15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json)|
+|15412|[15412_AI_Job_Crawler_with_Suitability_Scoring.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15412_AI_Job_Crawler_with_Suitability_Scoring.json)|
+|15671|[15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json)|
+|15984|[15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json)|
+|16003|[16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json)|
+|16079|[16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16079_Route_and_score_inbound_leads_with_OpenAI__HubSpot__Slack__Gmail__and_Google_Sheets.json)|
+|16173|[16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json)|
+|16287|[16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|
+|16373|[16373_Score_LinkedIn_ICP_leads_and_draft_outreach_with_Claude__Notion_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16373_Score_LinkedIn_ICP_leads_and_draft_outreach_with_Claude__Notion_and_Sheets.json)|
+|16683|[16683_Score_LinkedIn_leads_in_Google_Sheets_with_Bright_Data_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16683_Score_LinkedIn_leads_in_Google_Sheets_with_Bright_Data_and_Claude.json)|

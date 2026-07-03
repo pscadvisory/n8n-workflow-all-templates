@@ -1,4 +1,4 @@
-# optimization : 31
+# optimization : 36
 
 |id|file|
 |----|----|
@@ -33,3 +33,8 @@
 |13591|[13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json)|
 |13909|[13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json)|
 |14003|[14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14003_Generate_daily_multi-cloud_FinOps_cost_and_carbon_reports_with_OpenAI_GPT-4o.json)|
+|15119|[15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|
+|16230|[16230_Analyze_Google_Calendar_patterns_with_OpenAI_and_send_Gmail_weekly_digest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16230_Analyze_Google_Calendar_patterns_with_OpenAI_and_send_Gmail_weekly_digest.json)|
+|16342|[16342_Optimize_maritime_routes_and_disruption_response_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16342_Optimize_maritime_routes_and_disruption_response_with_OpenAI_and_Slack.json)|
+|16343|[16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json)|

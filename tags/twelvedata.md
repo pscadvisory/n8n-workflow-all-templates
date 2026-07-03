@@ -1,4 +1,4 @@
-# twelvedata : 6
+# twelvedata : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |12552|[12552_Get_AI_crypto_price_analysis_via_Telegram_using_GPT-4o-mini_and_TwelveData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12552_Get_AI_crypto_price_analysis_via_Telegram_using_GPT-4o-mini_and_TwelveData.json)|
 |13981|[13981_Analyze_stocks_in_Telegram_with_Twelve_Data__GPT-4o_and_o3-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13981_Analyze_stocks_in_Telegram_with_Twelve_Data__GPT-4o_and_o3-mini.json)|
 |14805|[14805_Generate_a_daily_multi-asset_market_report_with_TwelveData__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14805_Generate_a_daily_multi-asset_market_report_with_TwelveData__Groq_and_Google_Sheets.json)|
+|15649|[15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json)|
+|15680|[15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json)|

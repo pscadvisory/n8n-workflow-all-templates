@@ -1,4 +1,4 @@
-# semantic : 8
+# semantic : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|
 |13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
 |14827|[14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14827_Build_an_OpenAI_RAG_system_with_document_upload__semantic_search_and_caching.json)|
+|15274|[15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|

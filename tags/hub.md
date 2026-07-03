@@ -1,4 +1,4 @@
-# hub : 29
+# hub : 34
 
 |id|file|
 |----|----|
@@ -31,3 +31,8 @@
 |13769|[13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json)|
 |14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
 |14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|
+|15165|[15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json)|
+|15173|[15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json)|
+|15232|[15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15232_Automate_vehicle_insurance_claim_approvals_with_OpenAI__OCR_and_PDF_API_Hub.json)|
+|16597|[16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json)|
+|16641|[16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json)|

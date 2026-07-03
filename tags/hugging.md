@@ -1,4 +1,4 @@
-# hugging : 8
+# hugging : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |6485|[6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json)|
 |12338|[12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json)|
 |13809|[13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|

@@ -1,4 +1,4 @@
-# prep : 10
+# prep : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
 |11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|
 |13104|[13104_Track_job_applications_and_prep_interviews_with_Notion_and_GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13104_Track_job_applications_and_prep_interviews_with_Notion_and_GPT-5-mini.json)|
+|16195|[16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json)|
+|16334|[16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json)|

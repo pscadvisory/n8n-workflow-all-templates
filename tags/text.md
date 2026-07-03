@@ -1,4 +1,4 @@
-# text : 161
+# text : 168
 
 |id|file|
 |----|----|
@@ -163,3 +163,10 @@
 |14188|[14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14188_Extract_text_from_Google_Drive_files_to_Google_Sheets_using_NVIDIA_NIM.json)|
 |14545|[14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json)|
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|15048|[15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15048_Batch_transcribe_Google_Drive_videos_to_text_files_with_Gemini.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|
+|15899|[15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json)|
+|15910|[15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json)|
+|16023|[16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json)|
+|16170|[16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json)|
+|16440|[16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json)|

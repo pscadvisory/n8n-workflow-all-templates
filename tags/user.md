@@ -1,4 +1,4 @@
-# user : 61
+# user : 65
 
 |id|file|
 |----|----|
@@ -63,3 +63,7 @@
 |13447|[13447_Moderate_and_govern_user_content_with_OpenAI_GPT-4o__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13447_Moderate_and_govern_user_content_with_OpenAI_GPT-4o__Slack_and_Gmail.json)|
 |13637|[13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json)|
 |14209|[14209_Build_an_omnichannel_OTP_verification_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14209_Build_an_omnichannel_OTP_verification_flow.json)|
+|15419|[15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json)|
+|15792|[15792_Get_Xiaohongshu_user_published_notes_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15792_Get_Xiaohongshu_user_published_notes_with_JustOneAPI.json)|
+|15882|[15882_Get_Douyin_user_published_videos_and_first_video_details_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15882_Get_Douyin_user_published_videos_and_first_video_details_with_JustOneAPI.json)|
+|15943|[15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json)|

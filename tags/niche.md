@@ -1,4 +1,4 @@
-# niche : 4
+# niche : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |4187|[4187_Discover_HIDDEN_Youtube_Trends___Outlier_Videos_in_Your_Niche__Apify___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4187_Discover_HIDDEN_Youtube_Trends___Outlier_Videos_in_Your_Niche__Apify___Airtable.json)|
 |6663|[6663_Automated_Web_Scraper__Niche_Job_Product_Monitor_With_Telegram_Alert.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6663_Automated_Web_Scraper__Niche_Job_Product_Monitor_With_Telegram_Alert.json)|
 |11482|[11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json)|
+|15752|[15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json)|

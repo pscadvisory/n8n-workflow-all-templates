@@ -1,4 +1,4 @@
-# jwt : 5
+# jwt : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7569|[7569_Automatic_Google_Cloud_Run_Auth_with_JWT_Token_Management__sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7569_Automatic_Google_Cloud_Run_Auth_with_JWT_Token_Management__sub-workflow.json)|
 |7571|[7571_Securely_Call_Private_Google_Cloud_Run_APIs_with_JWT_Authentication__Simplified.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7571_Securely_Call_Private_Google_Cloud_Run_APIs_with_JWT_Authentication__Simplified.json)|
 |9660|[9660_Host_Your_Own_JWT_Authentication_System_with_Data_Tables_and_Token_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9660_Host_Your_Own_JWT_Authentication_System_with_Data_Tables_and_Token_Management.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|

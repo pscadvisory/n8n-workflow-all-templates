@@ -1,4 +1,4 @@
-# subtitles : 6
+# subtitles : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |9589|[9589_Create_.SRT_Subtitles___.LRC_Lyrics_from_Audio_with_Whisper_AI_and_GPT-5-nano.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9589_Create_.SRT_Subtitles___.LRC_Lyrics_from_Audio_with_Whisper_AI_and_GPT-5-nano.json)|
 |12924|[12924_Create_AI_YouTube_SRT_subtitles___with_ElevenLabs___and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12924_Create_AI_YouTube_SRT_subtitles___with_ElevenLabs___and_Google_Drive.json)|
 |13632|[13632_Add_subtitles_to_YouTube_videos_and_save_them_to_Google_Drive_with_VideoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13632_Add_subtitles_to_YouTube_videos_and_save_them_to_Google_Drive_with_VideoDB.json)|
+|16139|[16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json)|
+|16735|[16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json)|

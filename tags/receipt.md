@@ -1,4 +1,4 @@
-# receipt : 27
+# receipt : 31
 
 |id|file|
 |----|----|
@@ -29,3 +29,7 @@
 |12954|[12954_Receipt_Processing_AI_Agent__with_step_by_step_video.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12954_Receipt_Processing_AI_Agent__with_step_by_step_video.json)|
 |13654|[13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13654_Scan_WhatsApp_receipt_photos_and_track_expenses_using_Wati_and_GPT-4o.json)|
 |14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|
+|15758|[15758_Scan_receipt_images_from_Google_Drive_with_Gemini_and_log_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15758_Scan_receipt_images_from_Google_Drive_with_Gemini_and_log_to_Google_Sheets.json)|
+|16091|[16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json)|
+|16331|[16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json)|
+|16389|[16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json)|

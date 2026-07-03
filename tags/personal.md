@@ -1,4 +1,4 @@
-# personal : 53
+# personal : 58
 
 |id|file|
 |----|----|
@@ -55,3 +55,8 @@
 |13748|[13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json)|
 |14008|[14008_OpenClaw_Clone____Expandable_Personal_Telegram_AI_Agent_Template.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14008_OpenClaw_Clone____Expandable_Personal_Telegram_AI_Agent_Template.json)|
 |14924|[14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json)|
+|15116|[15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json)|
+|15263|[15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json)|
+|15798|[15798_Manage_Gmail_and_Google_Calendar_with_a_multi-agent_executive_assistant__GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15798_Manage_Gmail_and_Google_Calendar_with_a_multi-agent_executive_assistant__GPT-4o.json)|
+|15931|[15931_Log_and_analyze_job_postings_with_Telegram__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15931_Log_and_analyze_job_postings_with_Telegram__Claude__and_Google_Sheets.json)|
+|16117|[16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json)|

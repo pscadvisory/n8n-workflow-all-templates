@@ -1,4 +1,4 @@
-# it : 44
+# it : 47
 
 |id|file|
 |----|----|
@@ -46,3 +46,6 @@
 |13264|[13264_Ingest_Excel_data_into_Oracle_and_chat_with_it_using_Select_AI_and_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13264_Ingest_Excel_data_into_Oracle_and_chat_with_it_using_Select_AI_and_Azure_OpenAI.json)|
 |13764|[13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13764_Notify_new_BOAMP_IT_tenders_to_a_Slack_channel_with_the_BOAMP_API.json)|
 |13765|[13765_Monitor_BOAMP_IT_tenders_and_score_them_with_GPT-4o_Mini_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13765_Monitor_BOAMP_IT_tenders_and_score_them_with_GPT-4o_Mini_to_Supabase.json)|
+|16268|[16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json)|
+|16665|[16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|

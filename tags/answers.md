@@ -1,4 +1,4 @@
-# answers : 15
+# answers : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |13710|[13710_Grade_exam_answers_with_GPT_4.1_mini__plagiarism_checks__Slack_alerts_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13710_Grade_exam_answers_with_GPT_4.1_mini__plagiarism_checks__Slack_alerts_and_Google_Sheets_logging.json)|
 |14194|[14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14194_Judge_AI_math_RPG_answers_with_OpenAI_OpenRouter_and_update_quests_in_Google_Sheets.json)|
 |14497|[14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json)|
+|15564|[15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15564_Provide_academic_OCR_and_RAG_answers_on_Telegram_with_Gemini__GPT-4_mini_and_Supabase.json)|
+|16416|[16416_Power_Placetel_voice_answers_from_OneDrive_docs_with_OpenAI_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16416_Power_Placetel_voice_answers_from_OneDrive_docs_with_OpenAI_and_Groq.json)|

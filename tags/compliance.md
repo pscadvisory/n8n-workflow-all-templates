@@ -1,4 +1,4 @@
-# compliance : 70
+# compliance : 75
 
 |id|file|
 |----|----|
@@ -72,3 +72,8 @@
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15846|[15846_Generate_tax_compliance_checklists_from_RSS_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15846_Generate_tax_compliance_checklists_from_RSS_with_Gemini_and_Google_Sheets.json)|
+|15847|[15847_Monitor_Gmail_for_compliance_risks_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15847_Monitor_Gmail_for_compliance_risks_with_Google_Gemini_and_Google_Sheets.json)|
+|15980|[15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json)|
+|16374|[16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json)|
+|16403|[16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json)|

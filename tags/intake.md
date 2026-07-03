@@ -1,4 +1,4 @@
-# intake : 15
+# intake : 23
 
 |id|file|
 |----|----|
@@ -17,3 +17,11 @@
 |13180|[13180_Triage_Slack_and_Gmail_requests_with_an_AI-powered_intake_layer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13180_Triage_Slack_and_Gmail_requests_with_an_AI-powered_intake_layer.json)|
 |13520|[13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json)|
 |14363|[14363_Streamline_lead_intake_and_AI_routing_using_Typeform__OpenAI___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14363_Streamline_lead_intake_and_AI_routing_using_Typeform__OpenAI___Gmail.json)|
+|15080|[15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15080_Route_law_firm_intake_leads_with_Aloware_SMS_and_AI_qualification_by_practice_area.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|15779|[15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json)|
+|16244|[16244_Route_law_firm_client_intakes_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16244_Route_law_firm_client_intakes_with_Claude_and_Google_Sheets.json)|
+|16275|[16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json)|
+|16457|[16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16647|[16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16647_Capture_and_deduplicate_inbound_leads_with_webhooks_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# cards : 20
+# cards : 24
 
 |id|file|
 |----|----|
@@ -22,3 +22,7 @@
 |14212|[14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14212_Scan_business_cards_from_LINE_with_Gemini_to_Sheets__Slack__and_Gmail.json)|
 |14597|[14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14597_Post_branded_Instagram_testimonial_cards_from_Airtable_with_Bannerbear_and_uploadtourl.json)|
 |14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|
+|15530|[15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json)|
+|15701|[15701_Scan_business_cards_with_Gemini_AI_and_log_contacts_to_Google_Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15701_Scan_business_cards_with_Gemini_AI_and_log_contacts_to_Google_Sheets_and_Calendar.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|
+|16787|[16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json)|

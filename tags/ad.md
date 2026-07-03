@@ -1,4 +1,4 @@
-# ad : 47
+# ad : 56
 
 |id|file|
 |----|----|
@@ -49,3 +49,12 @@
 |14011|[14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json)|
 |14711|[14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14711_Reply_to_Facebook_ad_comments_with_OpenRouter_AI__Google_Docs_and_Slack.json)|
 |14893|[14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14893_Reply_to_Instagram_ad_comments_with_GPT-4o__Google_Docs__and_Slack.json)|
+|15144|[15144_FB_Ad_Spy__AI-Powered_Competitor_Ad_Intelligence___Auto-Video_Remixer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15144_FB_Ad_Spy__AI-Powered_Competitor_Ad_Intelligence___Auto-Video_Remixer.json)|
+|15837|[15837_Batch_Ad_Banner_Generator_with_gpt-image-2_and_Sharp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15837_Batch_Ad_Banner_Generator_with_gpt-image-2_and_Sharp.json)|
+|16096|[16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json)|
+|16245|[16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json)|
+|16288|[16288_Track_competitor_ad_messaging_shifts_with_Adyntel__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16288_Track_competitor_ad_messaging_shifts_with_Adyntel__OpenAI_and_Google_Sheets.json)|
+|16306|[16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16306_Predict_competitor_ad_launch_cycles_with_Adyntel__OpenAI__and_Google_Sheets.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|
+|16792|[16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16792_Log_multi-platform_ad_spend_to_Airtable_from_Meta__Google__TikTok__and_Taboola.json)|

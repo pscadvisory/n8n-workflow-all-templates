@@ -1,4 +1,4 @@
-# welcome : 17
+# welcome : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |10398|[10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json)|
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
 |13861|[13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13861_Send_personalized_SaaS_welcome_emails_with_Stripe__Pinecone__GPT-4o__and_Gmail.json)|
+|15969|[15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json)|

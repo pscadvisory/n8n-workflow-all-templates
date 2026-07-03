@@ -1,4 +1,4 @@
-# responses : 61
+# responses : 66
 
 |id|file|
 |----|----|
@@ -63,3 +63,8 @@
 |13173|[13173_Automate_WhatsApp_customer_support_with_GPT_4__RAG__text__voice__image_and_docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13173_Automate_WhatsApp_customer_support_with_GPT_4__RAG__text__voice__image_and_docs.json)|
 |13403|[13403_Route_Typeform_responses_to_Google_Sheets__Slack__and_Gmail_with_confirmations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13403_Route_Typeform_responses_to_Google_Sheets__Slack__and_Gmail_with_confirmations.json)|
 |13562|[13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13562_Monitor_Google_reviews_and_draft_AI_responses_with_Gemini_and_Slack.json)|
+|15057|[15057_Screen_job_applicants_and_send_Gmail_responses_with_Tally_and_OpenAI_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15057_Screen_job_applicants_and_send_Gmail_responses_with_Tally_and_OpenAI_GPT-5.4.json)|
+|15134|[15134_Score_customer_support_AI_responses_with_GPT_4_judge_metrics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15134_Score_customer_support_AI_responses_with_GPT_4_judge_metrics.json)|
+|15237|[15237_Send_post-delivery_CSAT_surveys_and_log_responses_with_Gmail__Google_Sheets_and_Typeform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15237_Send_post-delivery_CSAT_surveys_and_log_responses_with_Gmail__Google_Sheets_and_Typeform.json)|
+|15957|[15957_Reply_to_LinkedIn_leads_with_Aimfox__OpenAI_GPT-4.1-mini__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15957_Reply_to_LinkedIn_leads_with_Aimfox__OpenAI_GPT-4.1-mini__and_Slack.json)|
+|16757|[16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json)|

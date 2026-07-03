@@ -1,4 +1,4 @@
-# zero : 7
+# zero : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7980|[7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json)|
 |13203|[13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13203_Draft_Gmail_replies_with_OpenAI_and_OpenRouter_for_an_inbox-zero_workflow.json)|
 |13692|[13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13692_Monitor_zero-day_threats_with_Anthropic_Claude__Airtable__Slack_and_Jira.json)|
+|15173|[15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15173_Send_Henry_Hub_natural_gas_forward_curve_updates_to_Telegram_with_zero_API_cost.json)|

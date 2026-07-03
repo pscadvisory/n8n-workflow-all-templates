@@ -1,4 +1,4 @@
-# translate : 42
+# translate : 45
 
 |id|file|
 |----|----|
@@ -44,3 +44,6 @@
 |13171|[13171_Translate_RSS_news_and_publish_to_WordPress__Facebook__LinkedIn_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13171_Translate_RSS_news_and_publish_to_WordPress__Facebook__LinkedIn_and_Telegram.json)|
 |13543|[13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13543_Translate_WordPress_posts_and_ACF_fields_using_DeepL_and_OpenAI.json)|
 |14662|[14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json)|
+|16122|[16122_Summarize_and_translate_YouTube_videos_with_SupaData_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16122_Summarize_and_translate_YouTube_videos_with_SupaData_and_OpenAI.json)|
+|16139|[16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json)|
+|16427|[16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json)|

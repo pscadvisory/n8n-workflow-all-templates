@@ -1,4 +1,4 @@
-# handling : 26
+# handling : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |12724|[12724_Automated_error_monitoring_and_reporting_system_using_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12724_Automated_error_monitoring_and_reporting_system_using_data_tables.json)|
 |13822|[13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13822_Create_an_autonomous_task-handling_AI_agent_with_OpenAI_and_Slack.json)|
 |14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|
+|15098|[15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json)|
+|15323|[15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|

@@ -1,4 +1,4 @@
-# azure : 58
+# azure : 60
 
 |id|file|
 |----|----|
@@ -60,3 +60,5 @@
 |14338|[14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14338_Review_GitLab_merge_requests_with_parallel_Azure_OpenAI_reviewers.json)|
 |14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|16425|[16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json)|
+|16426|[16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16426_Generate_construction_bid_estimates_with_Azure_OpenAI__Google_Docs_and_Sheets.json)|

@@ -1,4 +1,4 @@
-# trending : 23
+# trending : 26
 
 |id|file|
 |----|----|
@@ -25,3 +25,6 @@
 |14690|[14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14690_Publish_WordPress_SEO_blog_drafts_from_trending_news_with_Brave_Search_and_OpenAI.json)|
 |14768|[14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json)|
 |14961|[14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json)|
+|15555|[15555_Send_a_daily_GitHub_Trending_digest_to_Telegram_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15555_Send_a_daily_GitHub_Trending_digest_to_Telegram_using_Google_Gemini.json)|
+|15656|[15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json)|
+|15988|[15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json)|

@@ -1,4 +1,4 @@
-# server : 261
+# server : 268
 
 |id|file|
 |----|----|
@@ -263,3 +263,10 @@
 |12296|[12296_Manage_your_Shopify_store_via_AI_assistant_with_OpenAI_and_MCP_server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12296_Manage_your_Shopify_store_via_AI_assistant_with_OpenAI_and_MCP_server.json)|
 |13074|[13074_Capture_and_score_leads_with_SQL_Server_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13074_Capture_and_score_leads_with_SQL_Server_and_Slack_alerts.json)|
 |13458|[13458_Query_Airtable_data_from_ChatGPT_using_an_MCP_server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13458_Query_Airtable_data_from_ChatGPT_using_an_MCP_server.json)|
+|15256|[15256_Send_weekly_SQL_Server_health_reports_via_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15256_Send_weekly_SQL_Server_health_reports_via_email.json)|
+|15478|[15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16165|[16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json)|
+|16294|[16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|

@@ -1,4 +1,4 @@
-# execution : 23
+# execution : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |14463|[14463_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14463_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Sheets.json)|
 |14464|[14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14464_Monitor_and_optimize_carbon_emissions_for_ESG_reporting_with_GPT-4o__Slack_and_Sheets.json)|
 |14465|[14465_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14465_Automate_ESG_carbon_monitoring_and_strategy_execution_with_GPT-4o__Slack_and_Google_Sheets.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|

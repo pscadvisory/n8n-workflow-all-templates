@@ -1,4 +1,4 @@
-# aware : 12
+# aware : 15
 
 |id|file|
 |----|----|
@@ -14,3 +14,6 @@
 |12057|[12057_Generate_beauty_brand_hashtags_with_Gemini_AI__website_analysis_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12057_Generate_beauty_brand_hashtags_with_Gemini_AI__website_analysis_and_SerpAPI.json)|
 |13119|[13119_Generate_product-aware_B2B_leads_and_outreach_emails_with_Gemini__Pinecone_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13119_Generate_product-aware_B2B_leads_and_outreach_emails_with_Gemini__Pinecone_and_Gmail.json)|
 |13502|[13502_Perform_unit-aware_calculations_and_conversions_with_CalcsLive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13502_Perform_unit-aware_calculations_and_conversions_with_CalcsLive.json)|
+|15185|[15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json)|
+|16259|[16259_Run_a_margin-aware_paid_AI_agent_with_Alephant_x402_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16259_Run_a_margin-aware_paid_AI_agent_with_Alephant_x402_and_Discord.json)|
+|16573|[16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json)|

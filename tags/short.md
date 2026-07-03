@@ -1,4 +1,4 @@
-# short : 21
+# short : 28
 
 |id|file|
 |----|----|
@@ -23,3 +23,10 @@
 |13040|[13040_Generate_short_joke_videos_from_Google_Sheets_with_Google_Gemini_and_Wavespeed_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13040_Generate_short_joke_videos_from_Google_Sheets_with_Google_Gemini_and_Wavespeed_AI.json)|
 |13089|[13089_Generate_AI_short-form_health_videos_with_Gemini__Veo_3_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13089_Generate_AI_short-form_health_videos_with_Gemini__Veo_3_and_Google_Sheets.json)|
 |14540|[14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json)|
+|15118|[15118_Create_short_social_video_clips_from_webinars_with_WayinVideo__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15118_Create_short_social_video_clips_from_webinars_with_WayinVideo__Google_Sheets_and_Gmail.json)|
+|15440|[15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json)|
+|15832|[15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json)|
+|16105|[16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16105_Generate_short_scripts__TTS_audio__and_SRT_captions_with_OpenAI_GPT-4o_and_Whisper.json)|
+|16115|[16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json)|
+|16576|[16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json)|
+|16772|[16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json)|

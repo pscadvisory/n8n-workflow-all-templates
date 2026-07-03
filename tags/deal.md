@@ -1,4 +1,4 @@
-# deal : 31
+# deal : 39
 
 |id|file|
 |----|----|
@@ -33,3 +33,11 @@
 |14271|[14271_Monitor_deal_risk_from_HubSpot_and_Gmail_with_GPT-4.1_mini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14271_Monitor_deal_risk_from_HubSpot_and_Gmail_with_GPT-4.1_mini_and_Slack_alerts.json)|
 |14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
 |14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|15191|[15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16004|[16004_Send_HubSpot_deal_follow-ups_with_Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16004_Send_HubSpot_deal_follow-ups_with_Gmail__Slack__and_Google_Sheets.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|
+|16444|[16444_Assess_Salesforce_deal_risk_with_Gmail__Outlook__OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16444_Assess_Salesforce_deal_risk_with_Gmail__Outlook__OpenAI_and_Slack_alerts.json)|
+|16718|[16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json)|

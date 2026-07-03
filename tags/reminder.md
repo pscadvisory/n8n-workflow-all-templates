@@ -1,4 +1,4 @@
-# reminder : 42
+# reminder : 48
 
 |id|file|
 |----|----|
@@ -44,3 +44,9 @@
 |13516|[13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json)|
 |13786|[13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json)|
 |14860|[14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json)|
+|15335|[15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json)|
+|15577|[15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json)|
+|16119|[16119_Send_fleet_document_expiry_alerts_from_Google_Sheets_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16119_Send_fleet_document_expiry_alerts_from_Google_Sheets_via_Gmail.json)|
+|16312|[16312_Send_due-date_reminders_from_Google_Sheets_with_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16312_Send_due-date_reminders_from_Google_Sheets_with_Gmail_and_Slack.json)|
+|16469|[16469_Send_escalating_invoice_reminders_with_Notion__Claude__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16469_Send_escalating_invoice_reminders_with_Notion__Claude__Gmail_and_Telegram.json)|
+|16784|[16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json)|

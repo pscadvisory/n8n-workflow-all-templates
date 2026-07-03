@@ -1,4 +1,4 @@
-# orchestrator : 8
+# orchestrator : 12
 
 |id|file|
 |----|----|
@@ -10,3 +10,7 @@
 |10524|[10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json)|
 |11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|
 |12992|[12992_Orchestrate_AI_risk_analysis_and_severity-based_routing_with_Anthropic_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12992_Orchestrate_AI_risk_analysis_and_severity-based_routing_with_Anthropic_and_OpenAI.json)|
+|15169|[15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json)|
+|15628|[15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json)|
+|15994|[15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json)|
+|16744|[16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json)|

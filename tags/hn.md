@@ -1,4 +1,4 @@
-# hn : 6
+# hn : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |4278|[4278_Extract_and_Structure_Hacker_News_Job_Posts_with_Gemini_AI_and_Save_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4278_Extract_and_Structure_Hacker_News_Job_Posts_with_Gemini_AI_and_Save_to_Airtable.json)|
 |12105|[12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json)|
 |13527|[13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

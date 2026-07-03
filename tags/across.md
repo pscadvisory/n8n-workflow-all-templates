@@ -1,4 +1,4 @@
-# across : 46
+# across : 49
 
 |id|file|
 |----|----|
@@ -48,3 +48,6 @@
 |13653|[13653_Monitor_brand_mentions_with_OpenAI_across_Twitter_X__Reddit__News__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13653_Monitor_brand_mentions_with_OpenAI_across_Twitter_X__Reddit__News__Airtable_and_Slack.json)|
 |14011|[14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json)|
 |14536|[14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json)|
+|15573|[15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json)|
+|15654|[15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json)|
+|16545|[16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json)|

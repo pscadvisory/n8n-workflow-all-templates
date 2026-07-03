@@ -1,4 +1,4 @@
-# note : 14
+# note : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |13005|[13005_Sync_Note.com_articles_to_WordPress_with_OpenAI_categorization_and_tags.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13005_Sync_Note.com_articles_to_WordPress_with_OpenAI_categorization_and_tags.json)|
 |14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
 |14980|[14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json)|
+|15505|[15505_Get_Xiaohongshu_note_details_from_a_keyword_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15505_Get_Xiaohongshu_note_details_from_a_keyword_with_JustOneAPI.json)|
+|15809|[15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json)|
+|16457|[16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json)|

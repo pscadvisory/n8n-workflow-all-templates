@@ -1,4 +1,4 @@
-# descriptions : 26
+# descriptions : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |13893|[13893_Create_AI_video_ads_from_product_descriptions_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13893_Create_AI_video_ads_from_product_descriptions_using_Anthropic_and_deAPI.json)|
 |14065|[14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json)|
 |14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|
+|15710|[15710_Generate_YouTube_SEO_descriptions__chapters__and_tags_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15710_Generate_YouTube_SEO_descriptions__chapters__and_tags_with_WayinVideo_and_GPT-4o-mini.json)|

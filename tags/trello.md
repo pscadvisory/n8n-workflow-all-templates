@@ -1,4 +1,4 @@
-# trello : 32
+# trello : 33
 
 |id|file|
 |----|----|
@@ -34,3 +34,4 @@
 |12751|[12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12751_Score_and_route_leads_with_Clearbit__Mattermost_and_Trello.json)|
 |13873|[13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json)|
 |15028|[15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json)|
+|16787|[16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16787_Draft_bookkeeping_entries_from_Trello_cards_with_OpenRouter_and_Xero.json)|

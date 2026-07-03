@@ -1,4 +1,4 @@
-# urls : 47
+# urls : 60
 
 |id|file|
 |----|----|
@@ -49,3 +49,16 @@
 |14807|[14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json)|
 |14991|[14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json)|
 |14995|[14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14995_Check_and_deactivate_broken_job_apply_URLs_with_Postgres_and_Google_Sheets.json)|
+|15319|[15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|15444|[15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json)|
+|15460|[15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json)|
+|15548|[15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json)|
+|15756|[15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json)|
+|15799|[15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json)|
+|15816|[15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json)|
+|15894|[15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json)|
+|15926|[15926_Create_and_publish_LinkedIn_posts_from_URLs_with_Telegram__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15926_Create_and_publish_LinkedIn_posts_from_URLs_with_Telegram__Gemini__and_Google_Sheets.json)|
+|16022|[16022_Summarize_web_pages_from_URLs_to_Notion_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16022_Summarize_web_pages_from_URLs_to_Notion_with_OpenAI_GPT-4o.json)|
+|16055|[16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|

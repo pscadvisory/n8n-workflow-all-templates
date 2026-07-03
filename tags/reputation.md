@@ -1,4 +1,4 @@
-# reputation : 14
+# reputation : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |13696|[13696_Monitor_brand_reputation_crises_with_Twitter_X__Reddit__News_API__Slack_and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13696_Monitor_brand_reputation_crises_with_Twitter_X__Reddit__News_API__Slack_and_Jira.json)|
 |14127|[14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json)|
 |14275|[14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json)|
+|15516|[15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json)|

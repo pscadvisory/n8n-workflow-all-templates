@@ -1,0 +1,9 @@
+# tailor : 5
+
+|id|file|
+|----|----|
+|13336|[13336_Discover_SaaS_creators_from_HubSpot_with_influencers.club_and_Gmail_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13336_Discover_SaaS_creators_from_HubSpot_with_influencers.club_and_Gmail_SendGrid.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15528|[15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json)|
+|15585|[15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|

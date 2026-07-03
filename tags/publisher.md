@@ -1,4 +1,4 @@
-# publisher : 24
+# publisher : 28
 
 |id|file|
 |----|----|
@@ -26,3 +26,7 @@
 |12131|[12131_Convert_GitHub_code_commits_to_LinkedIn_posts_with_Gemini_AI_and_code_image_generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12131_Convert_GitHub_code_commits_to_LinkedIn_posts_with_Gemini_AI_and_code_image_generation.json)|
 |13767|[13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13767_Automated_NASA_Image___Content_Publisher_for_WordPress_and_Multi-Social_Media.json)|
 |14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
+|15280|[15280_Generate_and_publish_SEO_blog_posts_from_Google_Sheets_to_Webflow_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15280_Generate_and_publish_SEO_blog_posts_from_Google_Sheets_to_Webflow_with_OpenAI.json)|
+|15697|[15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json)|
+|15926|[15926_Create_and_publish_LinkedIn_posts_from_URLs_with_Telegram__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15926_Create_and_publish_LinkedIn_posts_from_URLs_with_Telegram__Gemini__and_Google_Sheets.json)|
+|16586|[16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json)|

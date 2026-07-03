@@ -1,4 +1,4 @@
-# idea : 11
+# idea : 14
 
 |id|file|
 |----|----|
@@ -13,3 +13,6 @@
 |11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|
 |14898|[14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json)|
 |15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|
+|15066|[15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json)|
+|15520|[15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15520_Capture_and_draft_content_ideas_from_Telegram_with_Claude_and_Notion.json)|
+|16513|[16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json)|

@@ -1,4 +1,4 @@
-# ticket : 56
+# ticket : 62
 
 |id|file|
 |----|----|
@@ -58,3 +58,9 @@
 |14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
 |14500|[14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json)|
 |14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
+|15133|[15133_Evaluate_a_support_ticket_classifier_with_OpenAI_GPT-4o-mini_and_n8n_evaluations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15133_Evaluate_a_support_ticket_classifier_with_OpenAI_GPT-4o-mini_and_n8n_evaluations.json)|
+|15304|[15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json)|
+|15522|[15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json)|
+|15955|[15955_Classify_support_emails_and_send_replies_with_Claude__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15955_Classify_support_emails_and_send_replies_with_Claude__Gmail__Slack_and_Sheets.json)|
+|16368|[16368_Create_and_triage_support_tickets_with_HubSpot__reCAPTCHA_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16368_Create_and_triage_support_tickets_with_HubSpot__reCAPTCHA_and_Gmail.json)|
+|16693|[16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json)|

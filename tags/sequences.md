@@ -1,4 +1,4 @@
-# sequences : 9
+# sequences : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |12915|[12915_Manage_LinkedIn_outreach_sequences_with_Linked_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12915_Manage_LinkedIn_outreach_sequences_with_Linked_API_and_Google_Sheets.json)|
 |12984|[12984_Discover_local_business_leads_and_run_AI-powered_cold_email_sequences_with_Google_Maps_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12984_Discover_local_business_leads_and_run_AI-powered_cold_email_sequences_with_Google_Maps_and_Gmail.json)|
 |13274|[13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13274_Send_post-purchase_email_sequences_with_Postgres__Gmail_and_OpenAI.json)|
+|15657|[15657_Qualify_and_draft_LinkedIn_outreach_sequences_for_Airtable_leads_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15657_Qualify_and_draft_LinkedIn_outreach_sequences_for_Airtable_leads_with_Claude.json)|
+|15940|[15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|

@@ -1,4 +1,4 @@
-# gaps : 12
+# gaps : 17
 
 |id|file|
 |----|----|
@@ -14,3 +14,8 @@
 |13588|[13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json)|
 |14151|[14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json)|
 |14257|[14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json)|
+|15072|[15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16193|[16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|
+|16741|[16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json)|

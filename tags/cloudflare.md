@@ -1,4 +1,4 @@
-# cloudflare : 11
+# cloudflare : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |9521|[9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json)|
 |9776|[9776_Create_LinkedIn_Content_from_Workflows_using_Gemini___Cloudflare_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9776_Create_LinkedIn_Content_from_Workflows_using_Gemini___Cloudflare_AI.json)|
 |12086|[12086_Monitor_Cloudflare_incidents_and_alert_via_Slack__Telegram__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12086_Monitor_Cloudflare_incidents_and_alert_via_Slack__Telegram__and_Jira.json)|
+|16313|[16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json)|
+|16528|[16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json)|

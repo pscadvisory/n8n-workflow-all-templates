@@ -1,4 +1,4 @@
-# sendgrid : 17
+# sendgrid : 25
 
 |id|file|
 |----|----|
@@ -19,3 +19,11 @@
 |13495|[13495_Identify_creator_attendees_from_Eventbrite_with_influencers.club_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13495_Identify_creator_attendees_from_Eventbrite_with_influencers.club_and_SendGrid.json)|
 |13596|[13596_Generate_SEO_content_and_marketing_copy_with_Claude__Serper__Sheets_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13596_Generate_SEO_content_and_marketing_copy_with_Claude__Serper__Sheets_and_SendGrid.json)|
 |13634|[13634_Share_time-limited_preview_links_with_UploadToURL__SendGrid__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13634_Share_time-limited_preview_links_with_UploadToURL__SendGrid__and_Google_Sheets.json)|
+|15199|[15199_Match_brands_with_influencers_using_GPT_4.1__Google_Sheets_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15199_Match_brands_with_influencers_using_GPT_4.1__Google_Sheets_and_SendGrid.json)|
+|15615|[15615_Send_behavior-based_marketing_emails_with_OpenAI_GPT-4o_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15615_Send_behavior-based_marketing_emails_with_OpenAI_GPT-4o_and_SendGrid.json)|
+|15779|[15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15779_Qualify_and_call_back_inbound_leads_with_OpenAI__Bland_AI__Airtable_and_SendGrid.json)|
+|15791|[15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json)|
+|16185|[16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16185_Predict_airport_queue_wait_times_and_email_alerts_with_OpenAI_and_SendGrid.json)|
+|16491|[16491_Generate_and_send_personalized_client_proposals_with_OpenAI__SendGrid__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16491_Generate_and_send_personalized_client_proposals_with_OpenAI__SendGrid__Slack__and_Google_Sheets.json)|
+|16737|[16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16737_Generate_vendor_negotiation_strategies_from_pricing_data_with_GPT-4_and_SendGrid.json)|
+|16759|[16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json)|

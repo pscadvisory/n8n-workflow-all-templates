@@ -1,4 +1,4 @@
-# employee : 34
+# employee : 41
 
 |id|file|
 |----|----|
@@ -36,3 +36,10 @@
 |13441|[13441_Build_an_OpenAI_HR_assistant_for_Telegram_attendance_and_salary_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13441_Build_an_OpenAI_HR_assistant_for_Telegram_attendance_and_salary_reports.json)|
 |13521|[13521_Send_employee_leave_alerts_from_Google_Sheets_via_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13521_Send_employee_leave_alerts_from_Google_Sheets_via_Slack_and_Gmail.json)|
 |14454|[14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json)|
+|15449|[15449_Automate_employee_onboarding_with_Groq__Gmail__Slack_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15449_Automate_employee_onboarding_with_Groq__Gmail__Slack_and_Google_Workspace.json)|
+|15451|[15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json)|
+|15567|[15567_Build_employee_onboarding_clip_libraries_with_WayinVideo__Google_Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15567_Build_employee_onboarding_clip_libraries_with_WayinVideo__Google_Drive_and_Gmail.json)|
+|15628|[15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json)|
+|15975|[15975_Orchestrate_employee_onboarding_with_Google_Sheets__Drive__Jira__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15975_Orchestrate_employee_onboarding_with_Google_Sheets__Drive__Jira__Gmail__and_Slack.json)|
+|15977|[15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15977_Generate_and_publish_approved_employee_LinkedIn_posts_with_OpenAI_and_LinkedIn.json)|
+|16403|[16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json)|

@@ -1,4 +1,4 @@
-# planner : 13
+# planner : 16
 
 |id|file|
 |----|----|
@@ -15,3 +15,6 @@
 |10223|[10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
 |10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|
+|15243|[15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json)|
+|15797|[15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json)|
+|16028|[16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json)|

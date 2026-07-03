@@ -1,4 +1,4 @@
-# candidates : 9
+# candidates : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
 |14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
 |14686|[14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14686_Screen_resumes_with_OpenAI_GPT_4.1_and_route_candidates_via_Gmail__Slack_and_Sheets.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

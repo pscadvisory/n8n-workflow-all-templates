@@ -1,4 +1,4 @@
-# opportunity : 12
+# opportunity : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |13707|[13707_Discover_viral_content_opportunities_from_Twitter__Reddit_and_Google_Trends_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13707_Discover_viral_content_opportunities_from_Twitter__Reddit_and_Google_Trends_with_Claude_AI.json)|
 |14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
 |15006|[15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15006_Generate_weekly_Reddit_startup_opportunity_reports_with_Groq_AI.json)|
+|16714|[16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json)|

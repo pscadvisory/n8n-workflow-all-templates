@@ -1,4 +1,4 @@
-# clone : 15
+# clone : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |13015|[13015_Create_automated_video_ad_clones_with_NanoBanana__Kling__Airtable_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13015_Create_automated_video_ad_clones_with_NanoBanana__Kling__Airtable_and_Blotato.json)|
 |14008|[14008_OpenClaw_Clone____Expandable_Personal_Telegram_AI_Agent_Template.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14008_OpenClaw_Clone____Expandable_Personal_Telegram_AI_Agent_Template.json)|
 |14190|[14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json)|
+|15373|[15373_Clone_NocoDB_tables_and_data_to_another_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15373_Clone_NocoDB_tables_and_data_to_another_base.json)|

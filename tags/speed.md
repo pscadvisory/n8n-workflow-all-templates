@@ -1,4 +1,4 @@
-# speed : 6
+# speed : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7651|[7651_High-Speed_AI_Chat_with_OpenAI_s_gpt-oss-120B_Model_via_Cerebras_Inference.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7651_High-Speed_AI_Chat_with_OpenAI_s_gpt-oss-120B_Model_via_Cerebras_Inference.json)|
 |11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
 |15028|[15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15028_Qualify_and_route_inbound_leads_with_OpenAI__Trello__Slack_and_Gmail.json)|
+|15323|[15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json)|

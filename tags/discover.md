@@ -1,4 +1,4 @@
-# discover : 33
+# discover : 37
 
 |id|file|
 |----|----|
@@ -35,3 +35,7 @@
 |14017|[14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json)|
 |14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
 |14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|
+|15752|[15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15752_Discover_and_save_niche_web_content_to_Google_Sheets_with_Kagi_and_OpenRouter_AI.json)|
+|16211|[16211_Discover_Instagram_creators_with_ScrapingBee__Google_Sheets__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16211_Discover_Instagram_creators_with_ScrapingBee__Google_Sheets__and_Telegram.json)|
+|16287|[16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16287_Score_Instagram_hashtag_engagement_with_Apify__Telegram__and_Airtable.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

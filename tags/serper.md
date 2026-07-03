@@ -1,4 +1,4 @@
-# serper : 12
+# serper : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |13596|[13596_Generate_SEO_content_and_marketing_copy_with_Claude__Serper__Sheets_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13596_Generate_SEO_content_and_marketing_copy_with_Claude__Serper__Sheets_and_SendGrid.json)|
 |13722|[13722_Turn_WhatsApp_into_an_AI_shopping_and_price_comparison_assistant_using_Wati__OpenAI__Serper__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13722_Turn_WhatsApp_into_an_AI_shopping_and_price_comparison_assistant_using_Wati__OpenAI__Serper__and_Google_Sheets.json)|
 |14682|[14682_Generate_LinkedIn_leads_using_Google_Sheets_and_Serper_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14682_Generate_LinkedIn_leads_using_Google_Sheets_and_Serper_API.json)|
+|15154|[15154_Generate_and_qualify_B2B_leads_from_Telegram_with_Google_Maps__Serper__GPT_4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15154_Generate_and_qualify_B2B_leads_from_Telegram_with_Google_Maps__Serper__GPT_4o__and_Gmail.json)|
+|15497|[15497_Find_and_email_website-less_local_businesses_with_Google_Sheets__Serper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15497_Find_and_email_website-less_local_businesses_with_Google_Sheets__Serper_and_Gmail.json)|

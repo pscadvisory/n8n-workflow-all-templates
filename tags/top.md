@@ -1,4 +1,4 @@
-# top : 35
+# top : 39
 
 |id|file|
 |----|----|
@@ -37,3 +37,7 @@
 |14710|[14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14710_Generate_7_new_LinkedIn_posts_from_top_Apify_posts_using_OpenAI_and_save_to_Google_Sheets.json)|
 |14778|[14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14778_Analyze_LinkedIn_top_posts_with_Apify_and_OpenAI_and_log_7_ideas_to_Sheets.json)|
 |14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|
+|15187|[15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json)|
+|15193|[15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json)|
+|15669|[15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json)|
+|16056|[16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json)|

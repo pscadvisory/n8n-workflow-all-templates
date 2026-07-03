@@ -1,4 +1,4 @@
-# mcp : 329
+# mcp : 335
 
 |id|file|
 |----|----|
@@ -331,3 +331,9 @@
 |13592|[13592_Orchestrate_enterprise_MCP_AI_tool_access_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13592_Orchestrate_enterprise_MCP_AI_tool_access_with_Claude_and_Google_Sheets.json)|
 |13967|[13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json)|
 |14990|[14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json)|
+|15478|[15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16135|[16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json)|
+|16165|[16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

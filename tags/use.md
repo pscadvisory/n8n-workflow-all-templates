@@ -1,4 +1,4 @@
-# use : 25
+# use : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |13270|[13270_Use_skills_In_n8n_agent_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13270_Use_skills_In_n8n_agent_node.json)|
 |13804|[13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13804_Generate_AI_product_marketing_photos_from_Google_Sheets_with_Google_Gemini_and_Drive.json)|
 |13920|[13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json)|
+|15879|[15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json)|

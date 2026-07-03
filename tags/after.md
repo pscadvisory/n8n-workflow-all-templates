@@ -1,4 +1,4 @@
-# after : 10
+# after : 14
 
 |id|file|
 |----|----|
@@ -12,3 +12,7 @@
 |11941|[11941_Automated_employee_offboarding__lock_Redmine___GitLab_accounts_using_Odoo_18.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11941_Automated_employee_offboarding__lock_Redmine___GitLab_accounts_using_Odoo_18.json)|
 |12530|[12530_Send_AI_sales_proposals_and_Stripe_payment_links_after_Calendly_calls.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12530_Send_AI_sales_proposals_and_Stripe_payment_links_after_Calendly_calls.json)|
 |12567|[12567_Kick_off_client_projects_after_Stripe_payment_with_Google_Drive__ClickUp__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12567_Kick_off_client_projects_after_Stripe_payment_with_Google_Drive__ClickUp__Gmail__Sheets__and_Slack.json)|
+|15099|[15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json)|
+|15464|[15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|16155|[16155_Send_missed_appointment_rescheduling_emails_with_webhook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16155_Send_missed_appointment_rescheduling_emails_with_webhook_and_Gmail.json)|

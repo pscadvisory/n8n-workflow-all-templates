@@ -1,4 +1,4 @@
-# quote : 8
+# quote : 13
 
 |id|file|
 |----|----|
@@ -10,3 +10,8 @@
 |9148|[9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json)|
 |12285|[12285_Generate_client_quotes_from_call_transcripts_with_Claude_GPT__Google_Drive__and_PandaDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12285_Generate_client_quotes_from_call_transcripts_with_Claude_GPT__Google_Drive__and_PandaDoc.json)|
 |12638|[12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json)|
+|15148|[15148_Create_cinematic_quote_videos_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15148_Create_cinematic_quote_videos_with_Veo_3.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|16385|[16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json)|
+|16587|[16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json)|

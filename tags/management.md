@@ -1,4 +1,4 @@
-# management : 153
+# management : 161
 
 |id|file|
 |----|----|
@@ -155,3 +155,11 @@
 |13639|[13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13639_Manage_Brevo_contact_lists_with_full_CRUD_and_bulk_membership_control.json)|
 |13909|[13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13909_Reconcile_expenses_and_optimize_tax_deductions_with_OpenAI_GPT_4.1_mini_and_Gmail.json)|
 |14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|15204|[15204_Draft_and_approve_client_portfolio_emails_with_Gemini__Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15204_Draft_and_approve_client_portfolio_emails_with_Gemini__Sheets__Slack_and_Gmail.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16366|[16366_Triage_and_route_tasks_with_Google_Sheets__GPT-4o-mini__Gmail__Slack__and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16366_Triage_and_route_tasks_with_Google_Sheets__GPT-4o-mini__Gmail__Slack__and_Google_Tasks.json)|
+|16374|[16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16374_Manage_construction_work_permits_with_GPT-4o__Google_Sheets_and_Gmail.json)|
+|16378|[16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json)|
+|16446|[16446_Generate_incident_response_reports_with_Supabase__Gemini_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16446_Generate_incident_response_reports_with_Supabase__Gemini_and_Claude.json)|
+|16770|[16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json)|
+|16771|[16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json)|

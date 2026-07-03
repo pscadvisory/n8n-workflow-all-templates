@@ -1,4 +1,4 @@
-# enrichment : 85
+# enrichment : 96
 
 |id|file|
 |----|----|
@@ -87,3 +87,14 @@
 |14100|[14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json)|
 |14102|[14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14102_Generate_weekly_Seed___Series_A_scouting_reports_with_PredictLeads_and_OpenAI.json)|
 |14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|
+|15411|[15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json)|
+|15684|[15684_Fetch_and_enrich_Apollo_leads_and_sync_verified_contacts_to_MeldFlow_GHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15684_Fetch_and_enrich_Apollo_leads_and_sync_verified_contacts_to_MeldFlow_GHL.json)|
+|16046|[16046_Enrich_and_classify_company_leads_in_Google_Sheets_with_Crawl4AI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16046_Enrich_and_classify_company_leads_in_Google_Sheets_with_Crawl4AI_and_Gemini.json)|
+|16142|[16142_Enrich_Google_Sheets_leads_via_LinkedIn__SerpAPI__Claude_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16142_Enrich_Google_Sheets_leads_via_LinkedIn__SerpAPI__Claude_and_Apify.json)|
+|16213|[16213_Enrich_new_leads_and_write_personalized_icebreakers_with_Google_Sheets_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16213_Enrich_new_leads_and_write_personalized_icebreakers_with_Google_Sheets_and_Claude.json)|
+|16223|[16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json)|
+|16225|[16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json)|
+|16567|[16567_Enrich_Google_Maps_business_leads_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16567_Enrich_Google_Maps_business_leads_with_Apify_and_Google_Sheets.json)|
+|16577|[16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json)|
+|16637|[16637_Enrich_CRM_contacts_in_Google_Sheets_with_Tomba_firmographic_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16637_Enrich_CRM_contacts_in_Google_Sheets_with_Tomba_firmographic_data.json)|
+|16723|[16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json)|

@@ -1,4 +1,4 @@
-# convert : 140
+# convert : 148
 
 |id|file|
 |----|----|
@@ -142,3 +142,11 @@
 |14502|[14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14502_Convert_LINE_handwritten_memo_images_to_tagged__searchable_notes_with_Gemini__Google_Drive_and_Google_Sheets.json)|
 |14804|[14804_Convert_Google_Sheets_scripts_into_HeyGen_AI_videos.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14804_Convert_Google_Sheets_scripts_into_HeyGen_AI_videos.json)|
 |14975|[14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14975_Convert_Supabase_support_FAQs_to_audio_with_Google_Cloud_TTS_and_Webflow.json)|
+|15121|[15121_Convert_legal_timesheets_to_LEDES_and_PDF_invoices.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15121_Convert_legal_timesheets_to_LEDES_and_PDF_invoices.json)|
+|15352|[15352_Convert_podcasts_to_LinkedIn_articles_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15352_Convert_podcasts_to_LinkedIn_articles_with_WayinVideo_and_GPT-4o-mini.json)|
+|15421|[15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json)|
+|15614|[15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15614_Convert_DevOps_Mattermost_requests_into_Jira_tasks_with_OpenRouter_GPT_and_Gemini.json)|
+|15642|[15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json)|
+|15652|[15652_Convert_Telegram_voice_notes_into_markdown_journals_with_Groq_Whisper_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15652_Convert_Telegram_voice_notes_into_markdown_journals_with_Groq_Whisper_and_Gemini.json)|
+|15797|[15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json)|
+|15985|[15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json)|

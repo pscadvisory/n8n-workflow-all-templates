@@ -1,4 +1,4 @@
-# processor : 9
+# processor : 13
 
 |id|file|
 |----|----|
@@ -11,3 +11,7 @@
 |11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|
 |13573|[13573_Analyze_hotel_reviews_with_OpenAI_GPT-4o-mini_and_Airtable_sentiment_fields.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13573_Analyze_hotel_reviews_with_OpenAI_GPT-4o-mini_and_Airtable_sentiment_fields.json)|
 |14981|[14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json)|
+|15723|[15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json)|
+|16091|[16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json)|
+|16350|[16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json)|
+|16643|[16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json)|

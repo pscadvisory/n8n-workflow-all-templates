@@ -1,4 +1,4 @@
-# hourly : 9
+# hourly : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |6734|[6734_AI_Blog_Automation__Publish_hourly_SEO_Articles_to_WordPress___Twitter_v3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6734_AI_Blog_Automation__Publish_hourly_SEO_Articles_to_WordPress___Twitter_v3.json)|
 |7076|[7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json)|
 |11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|
+|15562|[15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json)|
+|16341|[16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json)|

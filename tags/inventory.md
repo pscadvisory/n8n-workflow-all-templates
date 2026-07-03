@@ -1,4 +1,4 @@
-# inventory : 36
+# inventory : 44
 
 |id|file|
 |----|----|
@@ -38,3 +38,11 @@
 |13594|[13594_Handle_e-commerce_support__orders_and_inventory_with_Claude__Shopify_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13594_Handle_e-commerce_support__orders_and_inventory_with_Claude__Shopify_and_Slack.json)|
 |13961|[13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13961_Monitor_D2C_inventory__forecast_demand_with_GPT-4o__and_send_POs_via_Google_Sheets_and_Gmail.json)|
 |14192|[14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14192_Monitor_WooCommerce_inventory_daily_and_send_Slack_alerts_with_Supabase.json)|
+|15263|[15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json)|
+|15393|[15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json)|
+|15451|[15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15451_Automate_AI-powered_employee_onboarding_emails_and_Slack_updates_with_Groq__Gmail__and_Google_Sheets.json)|
+|15706|[15706_Forecast_inventory_and_auto-generate_reorders_with_Google_Sheets__GPT-4o_mini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15706_Forecast_inventory_and_auto-generate_reorders_with_Google_Sheets__GPT-4o_mini_and_Slack.json)|
+|16016|[16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json)|
+|16473|[16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json)|
+|16474|[16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16474_Sync_check_due_dates_from_Google_Sheets_to_Google_Calendar_with_Telegram_alerts.json)|
+|16541|[16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json)|

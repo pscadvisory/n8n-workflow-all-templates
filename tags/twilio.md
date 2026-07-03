@@ -1,4 +1,4 @@
-# twilio : 48
+# twilio : 59
 
 |id|file|
 |----|----|
@@ -50,3 +50,14 @@
 |13386|[13386_Wake_up_on_time_using_Google_Maps_traffic__Twilio_SMS__and_iOS_Shortcuts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13386_Wake_up_on_time_using_Google_Maps_traffic__Twilio_SMS__and_iOS_Shortcuts.json)|
 |13535|[13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|15103|[15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json)|
+|15323|[15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15323_Send_AI_lead_follow-up_SMS_with_GPT-4.1__Google_Sheets__Twilio_and_Gmail.json)|
+|15431|[15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json)|
+|15780|[15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json)|
+|15917|[15917_Send_smart_lock_PINs_for_Apaleo_reservations_with_Seam__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15917_Send_smart_lock_PINs_for_Apaleo_reservations_with_Seam__Gmail__and_Twilio.json)|
+|15990|[15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json)|
+|16147|[16147_Send_lecture_study_digests_to_WhatsApp_with_WayinVideo__GPT-4o-mini_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16147_Send_lecture_study_digests_to_WhatsApp_with_WayinVideo__GPT-4o-mini_and_Twilio.json)|
+|16192|[16192_Run_AI_voice_outreach_from_Airtable_with_Bolna__Groq__Brevo_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16192_Run_AI_voice_outreach_from_Airtable_with_Bolna__Groq__Brevo_and_Twilio.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16760|[16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json)|

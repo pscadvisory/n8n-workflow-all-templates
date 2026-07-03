@@ -1,4 +1,4 @@
-# virtual : 14
+# virtual : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |12115|[12115_AI_Virtual_Try-On_Image__Video_Generation_for_Telegram__Discord___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12115_AI_Virtual_Try-On_Image__Video_Generation_for_Telegram__Discord___YouTube.json)|
 |13506|[13506_Build_a_WhatsApp_AI_shopping_bot_with_virtual_try-on_using_Gemini_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13506_Build_a_WhatsApp_AI_shopping_bot_with_virtual_try-on_using_Gemini_and_GPT.json)|
 |14006|[14006_Create_a_virtual_outfit_try-on_Telegram_bot_with_async_polling_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14006_Create_a_virtual_outfit_try-on_Telegram_bot_with_async_polling_and_Google_Sheets.json)|
+|15479|[15479_AI_Restaurant_Virtual_Waiter_Chatbot____for_WhatsApp___Website.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15479_AI_Restaurant_Virtual_Waiter_Chatbot____for_WhatsApp___Website.json)|
+|16236|[16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json)|

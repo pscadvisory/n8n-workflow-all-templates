@@ -1,4 +1,4 @@
-# collect : 28
+# collect : 35
 
 |id|file|
 |----|----|
@@ -30,3 +30,10 @@
 |13250|[13250_Collect_leads_with_a_conversational_GPT-4.1_chatbot_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13250_Collect_leads_with_a_conversational_GPT-4.1_chatbot_and_Google_Sheets.json)|
 |13387|[13387_Qualify_mortgage_leads_and_collect_documents_with_Gemini__Gmail__Drive__Telegram__and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13387_Qualify_mortgage_leads_and_collect_documents_with_Gemini__Gmail__Drive__Telegram__and_Supabase.json)|
 |14916|[14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14916_Collect_and_publish_customer_testimonials_with_Claude__email__CRM_and_review_sites.json)|
+|15319|[15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json)|
+|15321|[15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json)|
+|15809|[15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json)|
+|15943|[15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json)|
+|15998|[15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json)|
+|16043|[16043_Collect_and_structure_Kuaishou_video_comments_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16043_Collect_and_structure_Kuaishou_video_comments_with_JustOneAPI.json)|
+|16298|[16298_Collect_web_form_leads_and_create_contacts_in_HubSpot_with_SubmitraX.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16298_Collect_web_form_leads_and_create_contacts_in_HubSpot_with_SubmitraX.json)|

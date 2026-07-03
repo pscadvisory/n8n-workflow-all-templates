@@ -1,4 +1,4 @@
-# driven : 44
+# driven : 45
 
 |id|file|
 |----|----|
@@ -46,3 +46,4 @@
 |13447|[13447_Moderate_and_govern_user_content_with_OpenAI_GPT-4o__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13447_Moderate_and_govern_user_content_with_OpenAI_GPT-4o__Slack_and_Gmail.json)|
 |13451|[13451_Analyze_legislative_policies_and_route_compliance_actions_with_GPT-4o__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13451_Analyze_legislative_policies_and_route_compliance_actions_with_GPT-4o__Google_Sheets__and_Slack.json)|
 |13528|[13528_Create_AI-driven_social_media_posts_and_publish_to_all_major_platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13528_Create_AI-driven_social_media_posts_and_publish_to_all_major_platforms.json)|
+|15082|[15082_Monitor_semiconductor_board_reliability_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15082_Monitor_semiconductor_board_reliability_with_OpenAI_and_Slack_alerts.json)|

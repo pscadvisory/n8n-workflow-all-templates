@@ -1,4 +1,4 @@
-# signal : 10
+# signal : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |13350|[13350_Auto-sync_and_qualify_HubSpot_CRM_contacts_with_Lusha_bulk_enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13350_Auto-sync_and_qualify_HubSpot_CRM_contacts_with_Lusha_bulk_enrichment.json)|
 |14124|[14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json)|
 |14348|[14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json)|
+|15533|[15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json)|
+|15679|[15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json)|

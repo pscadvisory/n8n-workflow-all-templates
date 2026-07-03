@@ -1,4 +1,4 @@
-# watermark : 8
+# watermark : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9810|[9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json)|
 |13892|[13892_Watermark_and_password-protect_new_Google_Drive_PDFs_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13892_Watermark_and_password-protect_new_Google_Drive_PDFs_with_Autype.json)|
 |13896|[13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json)|
+|15249|[15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json)|

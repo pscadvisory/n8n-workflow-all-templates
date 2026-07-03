@@ -1,4 +1,4 @@
-# briefing : 14
+# briefing : 19
 
 |id|file|
 |----|----|
@@ -16,3 +16,8 @@
 |14065|[14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14065_Generate_job_descriptions_from_briefing_notes_with_OpenAI_and_Google_Docs.json)|
 |14850|[14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14850_Generate_a_daily_competitor_intelligence_briefing_with_OpenAI_and_Gmail.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|15116|[15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|15979|[15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json)|
+|16271|[16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json)|
+|16429|[16429_Send_daily_World_Cup_2026_briefings_to_Slack_with_OpenAI_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16429_Send_daily_World_Cup_2026_briefings_to_Slack_with_OpenAI_GPT-5_Mini.json)|

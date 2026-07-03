@@ -1,4 +1,4 @@
-# llama : 35
+# llama : 42
 
 |id|file|
 |----|----|
@@ -37,3 +37,10 @@
 |14011|[14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14011_Analyze_ad_performance_from_Meta__Google_and_Microsoft_using_Groq_Llama_3.3_and_Gmail.json)|
 |14268|[14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json)|
 |14362|[14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14362_Capture__score_and_route_Gmail_leads_with_Groq_Llama_3.3__Supabase_and_Slack.json)|
+|15056|[15056_Monitor_news_risk_with_Google_News__Groq__Llama_3___and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15056_Monitor_news_risk_with_Google_News__Groq__Llama_3___and_Gmail_alerts.json)|
+|15916|[15916_Triage_and_reply_to_Gmail_with_Groq_Llama_3.3__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15916_Triage_and_reply_to_Gmail_with_Groq_Llama_3.3__Slack_and_Google_Sheets.json)|
+|16271|[16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16271_Summarize_and_triage_your_daily_Gmail_inbox_into_Slack_with_Groq_Llama_3.3.json)|
+|16530|[16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json)|
+|16551|[16551_Send_daily_LinkedIn_post_drafts_with_Tavily__Groq_Llama_3.3_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16551_Send_daily_LinkedIn_post_drafts_with_Tavily__Groq_Llama_3.3_and_Gmail.json)|
+|16577|[16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json)|
+|16660|[16660_Review_workflow_JSON_for_risks_and_best_practices_with_Groq__Llama_3.3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16660_Review_workflow_JSON_for_risks_and_best_practices_with_Groq__Llama_3.3.json)|

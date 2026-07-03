@@ -1,4 +1,4 @@
-# feedback : 76
+# feedback : 83
 
 |id|file|
 |----|----|
@@ -78,3 +78,10 @@
 |13563|[13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13563_Review_GitHub_pull_requests_with_Gemini_and_post_feedback_automatically.json)|
 |13772|[13772_Analyze_Google_Forms_feedback_with_Gemini_AI_and_send_weekly_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13772_Analyze_Google_Forms_feedback_with_Gemini_AI_and_send_weekly_reports.json)|
 |13978|[13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json)|
+|15306|[15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15306_Review_GitHub_pull_requests_with_GPT-4o_and_send_feedback_and_Slack_alerts.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15805|[15805_Classify_Gmail_emails_with_OpenAI_and_Telegram_feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15805_Classify_Gmail_emails_with_OpenAI_and_Telegram_feedback.json)|
+|15809|[15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15809_Collect_Xiaohongshu_note_comments_with_JustOneAPI_for_feedback_analysis.json)|
+|15943|[15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json)|
+|16305|[16305_Sort_customer_feedback_by_rating_with_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16305_Sort_customer_feedback_by_rating_with_Google_Sheets_and_Slack.json)|
+|16757|[16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json)|

@@ -1,4 +1,4 @@
-# accounts : 15
+# accounts : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |11721|[11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json)|
 |11941|[11941_Automated_employee_offboarding__lock_Redmine___GitLab_accounts_using_Odoo_18.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11941_Automated_employee_offboarding__lock_Redmine___GitLab_accounts_using_Odoo_18.json)|
 |12090|[12090_Provision_new_employee_accounts_to_Google_Workspace__Slack__Jira__and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12090_Provision_new_employee_accounts_to_Google_Workspace__Slack__Jira__and_Salesforce.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|
+|16268|[16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json)|

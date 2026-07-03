@@ -1,4 +1,4 @@
-# browseract : 53
+# browseract : 55
 
 |id|file|
 |----|----|
@@ -55,3 +55,5 @@
 |13384|[13384_Monitor_competitor_campaigns_weekly_using_BrowserAct__OpenRouter__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13384_Monitor_competitor_campaigns_weekly_using_BrowserAct__OpenRouter__Google_Sheets_and_Slack.json)|
 |13385|[13385_Research_and_summarize_B2B_leads_from_Google_Sheets_to_Airtable_with_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13385_Research_and_summarize_B2B_leads_from_Google_Sheets_to_Airtable_with_BrowserAct.json)|
 |13685|[13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16193|[16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json)|

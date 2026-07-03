@@ -1,4 +1,4 @@
-# brand : 40
+# brand : 47
 
 |id|file|
 |----|----|
@@ -42,3 +42,10 @@
 |13837|[13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13837_Manage_creator_sponsorship_and_brand_deals_with_Gmail__OpenAI__Notion_and_Telegram.json)|
 |14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|
 |14890|[14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14890_Create_AI_Instagram_brand_posts_with_Seedream_4.0__OpenAI_and_Postiz.json)|
+|15654|[15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json)|
+|15958|[15958_Publish_brand-compliant_Instagram_posts_with_OpenAI__Google_Sheets_and_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15958_Publish_brand-compliant_Instagram_posts_with_OpenAI__Google_Sheets_and_S3.json)|
+|16086|[16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16086_Send_weekly_brand_and_competitor_intel_digests_to_Slack_with_Claude_web_search.json)|
+|16120|[16120_Monitor_and_classify_brand_mentions_from_Instagram_and_Google_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16120_Monitor_and_classify_brand_mentions_from_Instagram_and_Google_with_Gemini.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|
+|16741|[16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json)|
+|16742|[16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json)|

@@ -1,4 +1,4 @@
-# model : 47
+# model : 50
 
 |id|file|
 |----|----|
@@ -49,3 +49,6 @@
 |13809|[13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json)|
 |14544|[14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14544_Summarize_Nextcloud_documents_with_IONOS_AI_Model_Hub_for_sovereign_AI.json)|
 |14966|[14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14966_Triage_customer_support_emails_and_draft_Gmail_replies_with_IONOS_AI_Model_Hub.json)|
+|15165|[15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json)|
+|16063|[16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json)|
+|16530|[16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16530_Evaluate_LinkedIn_profiles_with_Apify_and_Groq_Llama_chat_model.json)|

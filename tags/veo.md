@@ -1,4 +1,4 @@
-# veo : 41
+# veo : 50
 
 |id|file|
 |----|----|
@@ -43,3 +43,12 @@
 |13920|[13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13920_Generate_8-second_product_ad_videos_from_Drive_images_with_Gemini_and_Veo.json)|
 |13928|[13928_Generate_360__product_videos_from_photos_with_Veo_3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13928_Generate_360__product_videos_from_photos_with_Veo_3_and_Telegram.json)|
 |14549|[14549_Generate_bulk_Veo_3_videos_from_Google_Sheets_via_Vertex_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14549_Generate_bulk_Veo_3_videos_from_Google_Sheets_via_Vertex_AI.json)|
+|15143|[15143_Generate_Mind-Bending__What_If__Videos_with_Google_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15143_Generate_Mind-Bending__What_If__Videos_with_Google_Veo_3.json)|
+|15146|[15146_Generate_AI_B-roll_clips_from_videos_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15146_Generate_AI_B-roll_clips_from_videos_with_Veo_3.json)|
+|15147|[15147_Generate_Scroll-Stopping_VSLs_in_with_Google_Veo_3.0.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15147_Generate_Scroll-Stopping_VSLs_in_with_Google_Veo_3.0.json)|
+|15148|[15148_Create_cinematic_quote_videos_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15148_Create_cinematic_quote_videos_with_Veo_3.json)|
+|15149|[15149_Generate_metaphor-based_product_video_ads_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15149_Generate_metaphor-based_product_video_ads_Veo_3.json)|
+|15150|[15150_Generate_high_quality_video_commercials_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15150_Generate_high_quality_video_commercials_with_Veo_3.json)|
+|15151|[15151_Generate_addictive_ASMR_Veo_3_reels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15151_Generate_addictive_ASMR_Veo_3_reels.json)|
+|16115|[16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|

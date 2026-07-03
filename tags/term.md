@@ -1,4 +1,4 @@
-# term : 10
+# term : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
 |12478|[12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12478_Automate_client_onboarding_with_Asana__Google_Docs__Gmail__Slack_and_Sheets.json)|
 |14449|[14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14449_Analyze_Google_Ads_search_terms_with_AI_and_send_wastage_alerts.json)|
+|15921|[15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json)|

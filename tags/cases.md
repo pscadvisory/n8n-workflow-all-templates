@@ -1,4 +1,4 @@
-# cases : 5
+# cases : 9
 
 |id|file|
 |----|----|
@@ -7,3 +7,7 @@
 |11141|[11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json)|
 |12740|[12740_Analyze_legal_contracts_with_GPT-4.1_and_manage_cases_in_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12740_Analyze_legal_contracts_with_GPT-4.1_and_manage_cases_in_Google_Sheets_and_Slack.json)|
 |13700|[13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json)|
+|15432|[15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json)|
+|15658|[15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json)|
+|15879|[15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json)|
+|16749|[16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json)|

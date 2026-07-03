@@ -1,4 +1,4 @@
-# screening : 42
+# screening : 45
 
 |id|file|
 |----|----|
@@ -44,3 +44,6 @@
 |14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
+|15155|[15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json)|
+|15288|[15288_Generate_comparative_CV_screening_reports_with_OpenAI__Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15288_Generate_comparative_CV_screening_reports_with_OpenAI__Google_Sheets.json)|
+|16030|[16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json)|

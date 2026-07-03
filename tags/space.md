@@ -1,4 +1,4 @@
-# space : 15
+# space : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |12239|[12239_Audit_Confluence_space_permissions_and_public_links_for_compliance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12239_Audit_Confluence_space_permissions_and_public_links_for_compliance.json)|
 |13679|[13679_Validate_email_hero_images_with_Gmail__Dropbox__OCR.Space_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13679_Validate_email_hero_images_with_Gmail__Dropbox__OCR.Space_and_Google_Sheets.json)|
 |14210|[14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json)|
+|16350|[16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json)|

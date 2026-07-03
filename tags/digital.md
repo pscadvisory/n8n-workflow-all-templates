@@ -1,4 +1,4 @@
-# digital : 15
+# digital : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|
 |13097|[13097_Create_TikTok_videos_with_GPT-4o__Digital_Twins__Veo_3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13097_Create_TikTok_videos_with_GPT-4o__Digital_Twins__Veo_3_and_Telegram.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15464|[15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json)|
+|16670|[16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16670_Generate_digital_product_launch_content_with_OpenAI_GPT-4o-mini_and_Google_Sheets.json)|

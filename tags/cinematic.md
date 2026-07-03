@@ -1,4 +1,4 @@
-# cinematic : 8
+# cinematic : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8564|[8564_Turn_Text_into_Cinematic_Videos_using_GPT-4__Dumpling_FLUX.1_Pro__and_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8564_Turn_Text_into_Cinematic_Videos_using_GPT-4__Dumpling_FLUX.1_Pro__and_Veo_3.json)|
 |12769|[12769_Turn_an_image_into_a_cinematic_video_with_NanoBanana_Ultra__Kling__Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12769_Turn_an_image_into_a_cinematic_video_with_NanoBanana_Ultra__Kling__Blotato.json)|
 |13752|[13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13752_Generate_cinematic_videos_with_OpenAI_Sora_and_uploadtourl_hosting.json)|
+|15148|[15148_Create_cinematic_quote_videos_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15148_Create_cinematic_quote_videos_with_Veo_3.json)|

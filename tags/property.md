@@ -1,4 +1,4 @@
-# property : 37
+# property : 44
 
 |id|file|
 |----|----|
@@ -39,3 +39,10 @@
 |13705|[13705_Manage_WhatsApp_property_maintenance_tickets_with_WATI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13705_Manage_WhatsApp_property_maintenance_tickets_with_WATI_and_Google_Sheets.json)|
 |14078|[14078_Skip_trace_property_owners_with_ScraperCity_and_sync_contacts_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14078_Skip_trace_property_owners_with_ScraperCity_and_sync_contacts_to_Airtable.json)|
 |15027|[15027_Forecast_property_CAPEX_and_ROI_weekly_using_Google_Sheets_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15027_Forecast_property_CAPEX_and_ROI_weekly_using_Google_Sheets_and_GPT-4o.json)|
+|15050|[15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json)|
+|15263|[15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json)|
+|15393|[15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15393_Submit_home_inventory_images_via_web_form_to_a_property_workflow.json)|
+|15477|[15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json)|
+|15510|[15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json)|
+|15780|[15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json)|
+|16533|[16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json)|

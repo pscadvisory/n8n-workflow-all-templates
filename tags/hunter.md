@@ -1,4 +1,4 @@
-# hunter : 31
+# hunter : 34
 
 |id|file|
 |----|----|
@@ -33,3 +33,6 @@
 |13170|[13170_Scrape_Apollo_leads_with_BrowserAct__draft_Gemini_emails__and_save_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13170_Scrape_Apollo_leads_with_BrowserAct__draft_Gemini_emails__and_save_to_Sheets.json)|
 |13523|[13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json)|
 |14453|[14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json)|
+|15557|[15557_Qualify_and_route_B2B_leads_with_GPT-4o-mini__Hunter.io__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15557_Qualify_and_route_B2B_leads_with_GPT-4o-mini__Hunter.io__Slack__Gmail_and_Sheets.json)|
+|16209|[16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json)|
+|16225|[16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16225_Enrich_LinkedIn_leads_in_Google_Sheets_with_PhantomBuster__Hunter_and_Dropcontact.json)|

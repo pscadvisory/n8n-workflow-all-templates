@@ -1,4 +1,4 @@
-# twitter : 84
+# twitter : 88
 
 |id|file|
 |----|----|
@@ -86,3 +86,7 @@
 |13707|[13707_Discover_viral_content_opportunities_from_Twitter__Reddit_and_Google_Trends_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13707_Discover_viral_content_opportunities_from_Twitter__Reddit_and_Google_Trends_with_Claude_AI.json)|
 |14001|[14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json)|
 |14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|
+|15257|[15257_Generate_LinkedIn_and_Twitter_posts_from_Telegram_voice_replies_with_GPT-5_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15257_Generate_LinkedIn_and_Twitter_posts_from_Telegram_voice_replies_with_GPT-5_and_Google_Sheets.json)|
+|15356|[15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json)|
+|15618|[15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json)|
+|16316|[16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json)|

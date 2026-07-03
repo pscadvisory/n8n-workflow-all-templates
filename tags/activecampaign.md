@@ -1,4 +1,4 @@
-# activecampaign : 4
+# activecampaign : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |488|[488_Receive_updates_when_a_new_account_is_added_by_an_admin_in_ActiveCampaign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/488_Receive_updates_when_a_new_account_is_added_by_an_admin_in_ActiveCampaign.json)|
 |5336|[5336_ActiveCampaign_Tool_MCP_Server___all_48_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5336_ActiveCampaign_Tool_MCP_Server___all_48_operations.json)|
 |13018|[13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13018_Vet_Jotform_leads_with_ZeroBounce_and_sync_qualified_contacts_to_ActiveCampaign.json)|
+|15297|[15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json)|

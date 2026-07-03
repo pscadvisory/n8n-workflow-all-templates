@@ -1,4 +1,4 @@
-# contract : 25
+# contract : 33
 
 |id|file|
 |----|----|
@@ -27,3 +27,11 @@
 |14413|[14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json)|
 |14434|[14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json)|
 |14823|[14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14823_Analyze_contract_PDFs_and_score_risk_with_Claude_3.5__Postgres__email_and_Slack_alerts.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|15231|[15231_Send_tiered_contract_renewal_Slack_alerts_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15231_Send_tiered_contract_renewal_Slack_alerts_from_Google_Sheets.json)|
+|15307|[15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json)|
+|15496|[15496_Monitor_SaaS_contract_renewals_from_Google_Sheets_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15496_Monitor_SaaS_contract_renewals_from_Google_Sheets_and_send_Slack_alerts.json)|
+|16270|[16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|
+|16699|[16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json)|
+|16753|[16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json)|

@@ -1,4 +1,4 @@
-# blockchain : 8
+# blockchain : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |12036|[12036_Verify_property_ownership_with_blockchain__GPT-4_fraud_detection__and_compliance_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12036_Verify_property_ownership_with_blockchain__GPT-4_fraud_detection__and_compliance_tracking.json)|
 |12276|[12276_Verify_document_authenticity_with_Claude_and_record_proofs_on_blockchain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12276_Verify_document_authenticity_with_Claude_and_record_proofs_on_blockchain.json)|
 |14413|[14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14413_Assess_blockchain_smart_contract_and_tokenomics_risk_with_GPT-4o_and_Gmail.json)|
+|16316|[16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16316_Create_daily_AI_and_blockchain_social_posts_with_SerpAPI__Groq_and_Pollinations.json)|

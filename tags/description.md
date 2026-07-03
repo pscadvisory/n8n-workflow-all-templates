@@ -1,4 +1,4 @@
-# description : 15
+# description : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |10101|[10101_AI_Recruiter___Analyze_Multiple_CVs_vs_Job_Description_using_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10101_AI_Recruiter___Analyze_Multiple_CVs_vs_Job_Description_using_OpenAI_GPT.json)|
 |10110|[10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json)|
 |11830|[11830_Auto-upload_Instagram_Videos_to_YouTube_with_GPT-4o_and_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11830_Auto-upload_Instagram_Videos_to_YouTube_with_GPT-4o_and_Google_Sheets_Tracking.json)|
+|16720|[16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json)|

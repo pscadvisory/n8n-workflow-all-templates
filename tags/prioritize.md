@@ -1,4 +1,4 @@
-# prioritize : 9
+# prioritize : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |13588|[13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13588_Prioritize_Amazon_competitor_gaps_using_Bright_Data_and_Google_Sheets.json)|
 |13770|[13770_Route_and_prioritize_Gmail_support_tickets_to_Notion_with_Gemini_AI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13770_Route_and_prioritize_Gmail_support_tickets_to_Notion_with_Gemini_AI_and_Slack_alerts.json)|
 |14348|[14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14348_Score_multi-signal_buying_intent_and_prioritize_leads_with_PredictLeads__Google_Sheets__and_Slack.json)|
+|15366|[15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json)|
+|16434|[16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json)|

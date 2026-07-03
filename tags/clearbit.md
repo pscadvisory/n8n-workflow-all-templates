@@ -1,4 +1,4 @@
-# clearbit : 14
+# clearbit : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |13523|[13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json)|
 |13842|[13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13842_Enrich_event_registrations_with_HubSpot__Clearbit__LinkedIn_and_Gemini_AI.json)|
 |13979|[13979_Score_and_nurture_HubSpot_leads_with_Clearbit_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13979_Score_and_nurture_HubSpot_leads_with_Clearbit_and_Gemini_AI.json)|
+|16195|[16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json)|

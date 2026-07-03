@@ -1,0 +1,12 @@
+# skill : 8
+
+|id|file|
+|----|----|
+|8530|[8530_Extract_Skill_Matrix_to_Google_Sheets_with_Google_Drive_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8530_Extract_Skill_Matrix_to_Google_Sheets_with_Google_Drive_and_GPT-4o.json)|
+|9140|[9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16193|[16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|
+|16609|[16609_Build_self-improving_agent_skills_with_cognee.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16609_Build_self-improving_agent_skills_with_cognee.json)|

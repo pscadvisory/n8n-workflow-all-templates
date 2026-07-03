@@ -1,4 +1,4 @@
-# feeds : 42
+# feeds : 50
 
 |id|file|
 |----|----|
@@ -44,3 +44,11 @@
 |14150|[14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14150_Generate_daily_top_news_digests_from_RSS_feeds_with_Groq_and_Slack.json)|
 |14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
 |14932|[14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15450|[15450_Create_AI_news_digests_from_RSS_feeds_with_Groq_and_send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15450_Create_AI_news_digests_from_RSS_feeds_with_Groq_and_send_via_Gmail.json)|
+|16010|[16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json)|
+|16020|[16020_Summarize_RSS_feeds_into_a_daily_Slack_digest_with_OpenAI_GPT-4o_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16020_Summarize_RSS_feeds_into_a_daily_Slack_digest_with_OpenAI_GPT-4o_Mini.json)|
+|16243|[16243_Score_sales_outreach_opportunities_from_RSS_feeds_with_Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16243_Score_sales_outreach_opportunities_from_RSS_feeds_with_Claude_and_Gmail.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|
+|16308|[16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json)|
+|16381|[16381_Generate_blog_content_ideas_with_Google_Sheets__RSS_feeds_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16381_Generate_blog_content_ideas_with_Google_Sheets__RSS_feeds_and_OpenAI.json)|

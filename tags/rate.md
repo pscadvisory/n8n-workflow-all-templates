@@ -1,4 +1,4 @@
-# rate : 22
+# rate : 25
 
 |id|file|
 |----|----|
@@ -24,3 +24,6 @@
 |11759|[11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json)|
 |13491|[13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13491_Protect_public_webhooks_with_Ainoflow_Guard_rate_limiting.json)|
 |14205|[14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14205_Enrich_Google_Sheets_rows_via_any_REST_API_in_rate-limited_batches.json)|
+|16075|[16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16075_Filter_WhatsApp_messages_using_a_Google_Sheets_blacklist_and_rate_limiting.json)|
+|16269|[16269_Monitor_API_rate_limits_and_alert_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16269_Monitor_API_rate_limits_and_alert_with_Slack__Gmail_and_Google_Sheets.json)|
+|16341|[16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json)|

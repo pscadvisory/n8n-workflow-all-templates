@@ -1,4 +1,4 @@
-# reconciliation : 10
+# reconciliation : 14
 
 |id|file|
 |----|----|
@@ -12,3 +12,7 @@
 |12385|[12385_Detect_financial_anomalies_and_reconcile_revenue_with_GPT-4o_and_API_integrations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12385_Detect_financial_anomalies_and_reconcile_revenue_with_GPT-4o_and_API_integrations.json)|
 |12493|[12493_Reconcile_Stripe__bank__and_e-commerce_data_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12493_Reconcile_Stripe__bank__and_e-commerce_data_with_GPT-4.1_and_Google_Sheets.json)|
 |12732|[12732_Detect_multi-source_transaction_fraud_and_reconcile_finances_with_OpenAI__Nvidia_NIM__Gmail__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12732_Detect_multi-source_transaction_fraud_and_reconcile_finances_with_OpenAI__Nvidia_NIM__Gmail__Slack_and_Google_Sheets.json)|
+|15061|[15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15061_Reconcile_cash_balances_in_Google_Sheets_with_OpenAI_explanations.json)|
+|15222|[15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json)|
+|15838|[15838_Invoice_Reconciliation_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15838_Invoice_Reconciliation_Automation.json)|
+|15856|[15856_Reconcile_trade_mismatches_in_Google_Sheets_with_Groq_OpenAI_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15856_Reconcile_trade_mismatches_in_Google_Sheets_with_Groq_OpenAI_and_Gmail_alerts.json)|

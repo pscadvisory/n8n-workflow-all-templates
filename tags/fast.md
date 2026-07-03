@@ -1,4 +1,4 @@
-# fast : 10
+# fast : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |10045|[10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json)|
 |10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
 |13636|[13636_Fast-track_expense_reimbursements_with_UploadToURL__Mindee_OCR__Expensify__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13636_Fast-track_expense_reimbursements_with_UploadToURL__Mindee_OCR__Expensify__and_Slack.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|

@@ -1,4 +1,4 @@
-# linear : 19
+# linear : 25
 
 |id|file|
 |----|----|
@@ -21,3 +21,9 @@
 |14357|[14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14357_Classify_GitHub_issues_and_create_Linear_tasks_using_OpenAI.json)|
 |14518|[14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json)|
 |14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
+|15114|[15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json)|
+|15312|[15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15312_Monitor_SSL_certificate_expiries_with_Google_Sheets__Slack_and_Linear.json)|
+|16322|[16322_Track_meeting_action_items_with_Claude__Linear__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16322_Track_meeting_action_items_with_Claude__Linear__Slack_and_Gmail.json)|
+|16393|[16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json)|
+|16402|[16402_Route_CI_CD_failure_alerts_with_OpenAI__Slack__Linear__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16402_Route_CI_CD_failure_alerts_with_OpenAI__Slack__Linear__Sheets_and_Gmail.json)|
+|16632|[16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json)|

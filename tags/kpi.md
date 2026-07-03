@@ -1,4 +1,4 @@
-# kpi : 8
+# kpi : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |13272|[13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json)|
 |13281|[13281_Send_weekly_WooCommerce_sales_KPIs_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13281_Send_weekly_WooCommerce_sales_KPIs_to_Slack_and_Google_Sheets.json)|
 |13545|[13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json)|
+|15742|[15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json)|
+|16248|[16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json)|
+|16538|[16538_Generate_monthly_BigQuery_KPI_PDF_reports_with_Claude__Google_Docs__Outlook_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16538_Generate_monthly_BigQuery_KPI_PDF_reports_with_Claude__Google_Docs__Outlook_and_Teams.json)|

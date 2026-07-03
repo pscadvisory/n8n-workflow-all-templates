@@ -1,4 +1,4 @@
-# aws : 48
+# aws : 51
 
 |id|file|
 |----|----|
@@ -50,3 +50,6 @@
 |13615|[13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13615_Process_vendor_invoices_with_UploadToURL__AWS_Textract__and_Google_Sheets.json)|
 |13803|[13803_Summarize_invoices_with_AWS_Textract__Google_Gemini__and_send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13803_Summarize_invoices_with_AWS_Textract__Google_Gemini__and_send_to_Slack.json)|
 |14516|[14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json)|
+|15314|[15314_Detect_and_remediate_leaked_secret_on_repo_with_GitHub__AWS__Jira__Slack__Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15314_Detect_and_remediate_leaked_secret_on_repo_with_GitHub__AWS__Jira__Slack__Claude.json)|
+|15321|[15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json)|
+|16050|[16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json)|

@@ -1,4 +1,4 @@
-# change : 16
+# change : 22
 
 |id|file|
 |----|----|
@@ -18,3 +18,9 @@
 |13351|[13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13351_Detect_job_and_company_changes_with_Lusha_bulk_enrichment_and_HubSpot.json)|
 |13932|[13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json)|
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
+|15429|[15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15429_Monitor_competitor_website_changes_weekly_with_GPT-4.1-mini_and_Gmail.json)|
+|15483|[15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15483_Monitor_website_changes_with_Bright_Data__Claude__Airtable_and_Slack.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16221|[16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json)|
+|16363|[16363_Send_daily_AI_competitor_change_digests_via_ScraperAPI__Claude__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16363_Send_daily_AI_competitor_change_digests_via_ScraperAPI__Claude__Slack_and_email.json)|
+|16391|[16391_Monitor_website_changes_with_PolyDoc_screenshots_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16391_Monitor_website_changes_with_PolyDoc_screenshots_and_email_alerts.json)|

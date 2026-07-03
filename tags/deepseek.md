@@ -1,4 +1,4 @@
-# deepseek : 46
+# deepseek : 50
 
 |id|file|
 |----|----|
@@ -48,3 +48,7 @@
 |13887|[13887_Analyze_YouTube_videos_and_auto-generate_AI_reports_in_Google_Docs_with_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13887_Analyze_YouTube_videos_and_auto-generate_AI_reports_in_Google_Docs_with_DeepSeek.json)|
 |13967|[13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13967_Grow_Reddit_karma_with_DeepSeek__Google_Sheets__Multilogin_and_Browser_MCP.json)|
 |14215|[14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14215_Generate_Upwork_SEO_proposals_with_GPT-4__DeepSeek__Claude_and_Google_Docs.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|16309|[16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json)|
+|16361|[16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16361_Launch_5-day_ecommerce_social_campaigns_with_Posta_and_DeepSeek.json)|
+|16435|[16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json)|

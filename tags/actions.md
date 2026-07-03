@@ -1,4 +1,4 @@
-# actions : 11
+# actions : 14
 
 |id|file|
 |----|----|
@@ -13,3 +13,6 @@
 |13451|[13451_Analyze_legislative_policies_and_route_compliance_actions_with_GPT-4o__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13451_Analyze_legislative_policies_and_route_compliance_actions_with_GPT-4o__Google_Sheets__and_Slack.json)|
 |14087|[14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14087_Gate_AI_Slack_DevOps_bot_actions_with_OpenAI_and_Permit.io_RBAC.json)|
 |14120|[14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14120_Route_email_actions_from_Notion_with_Gmail__Slack__and_Jira.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|15336|[15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json)|
+|16167|[16167_Monitor_GitHub_Actions_budget_and_send_usage_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16167_Monitor_GitHub_Actions_budget_and_send_usage_alerts_to_Slack.json)|

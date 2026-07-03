@@ -1,4 +1,4 @@
-# booking : 52
+# booking : 57
 
 |id|file|
 |----|----|
@@ -54,3 +54,8 @@
 |13923|[13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13923_Schedule_appointments_from_a_booking_form_with_Google_Calendar_and_Gmail.json)|
 |13960|[13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json)|
 |13984|[13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13984_AI-Powered_WhatsApp_Chatbot_____Complete_Booking_Assistant_with_Gemini___Google.json)|
+|15117|[15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json)|
+|15993|[15993_Send_Sharetribe_booking_confirmation_emails_with_calendar_invites_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15993_Send_Sharetribe_booking_confirmation_emails_with_calendar_invites_via_Gmail.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|
+|16618|[16618_Build_hospitality_lead_lists_from_Booking.com_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16618_Build_hospitality_lead_lists_from_Booking.com_using_Apify_and_Google_Sheets.json)|
+|16680|[16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json)|

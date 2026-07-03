@@ -1,4 +1,4 @@
-# rotation : 7
+# rotation : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7501|[7501_Send_Slack_Alerts_for_AWS_IAM_Access_Keys_Older_Than_365_Days.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7501_Send_Slack_Alerts_for_AWS_IAM_Access_Keys_Older_Than_365_Days.json)|
 |8630|[8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json)|
 |10296|[10296_Automate_Telegram_Channel_Post_Reactions_with_Bot_Rotation___GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10296_Automate_Telegram_Channel_Post_Reactions_with_Bot_Rotation___GPT-5-mini.json)|
+|15068|[15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json)|

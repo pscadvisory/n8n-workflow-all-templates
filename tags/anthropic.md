@@ -1,4 +1,4 @@
-# anthropic : 48
+# anthropic : 60
 
 |id|file|
 |----|----|
@@ -50,3 +50,15 @@
 |14662|[14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14662_Translate_and_dub_spokesperson_videos_using_Anthropic_and_deAPI.json)|
 |14762|[14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json)|
 |15014|[15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json)|
+|15263|[15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15263_Create_a_personal_property_inventory_with_Notion_and_Anthropic_Claude.json)|
+|15879|[15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15879_Classify_and_log_AI_use_cases_with_Anthropic_and_Supabase_for_AU-aligned_governance.json)|
+|15893|[15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json)|
+|15894|[15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15894_Draft_consulting_proposals_from_client_URLs_with_Anthropic_and_Gemini.json)|
+|15933|[15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|
+|16236|[16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16236_Review_business_ideas_as_a_virtual_board_with_Anthropic_Claude.json)|
+|16275|[16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16275_Route_law_firm_client_intake_with_Anthropic_Claude__Gmail_and_Google_Sheets.json)|
+|16330|[16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|
+|16598|[16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json)|
+|16744|[16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json)|

@@ -1,4 +1,4 @@
-# xlsx : 7
+# xlsx : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8775|[8775_Parse___Evaluate_HR_Candidates_with_GPT-4.1_and_LinkedIn_Data_in_CSV_XLSX.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8775_Parse___Evaluate_HR_Candidates_with_GPT-4.1_and_LinkedIn_Data_in_CSV_XLSX.json)|
 |13797|[13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json)|
 |14319|[14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json)|
+|16129|[16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json)|

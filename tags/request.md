@@ -1,4 +1,4 @@
-# request : 42
+# request : 45
 
 |id|file|
 |----|----|
@@ -44,3 +44,6 @@
 |13347|[13347_Enrich_chatbot_and_demo_request_leads_with_Lusha__HubSpot__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13347_Enrich_chatbot_and_demo_request_leads_with_Lusha__HubSpot__and_Slack.json)|
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
 |14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|
+|15954|[15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json)|
+|16055|[16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json)|
+|16194|[16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json)|

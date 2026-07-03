@@ -1,4 +1,4 @@
-# talking : 5
+# talking : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |9339|[9339_Telegram_Voice_Assistant_with_OpenAI___Gmail__Manage___Draft_Emails_via_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9339_Telegram_Voice_Assistant_with_OpenAI___Gmail__Manage___Draft_Emails_via_Voice.json)|
 |12727|[12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json)|
 |14190|[14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14190_Clone_a_voice_and_create_talking_avatar_videos_using_Anthropic_and_deAPI.json)|
+|15666|[15666_Generate_weekly_advisor_talking_points_with_Gemini__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15666_Generate_weekly_advisor_talking_points_with_Gemini__Gmail_and_Google_Sheets.json)|

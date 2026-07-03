@@ -1,4 +1,4 @@
-# restaurant : 24
+# restaurant : 29
 
 |id|file|
 |----|----|
@@ -26,3 +26,8 @@
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
 |12004|[12004_Restaurant_GPT-4_receptionist_for_bookings___delivery_using_Vapi__Telegram__Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12004_Restaurant_GPT-4_receptionist_for_bookings___delivery_using_Vapi__Telegram__Airtable.json)|
 |14136|[14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14136_Send_AI-parsed_restaurant_orders_and_status_updates_via_Telegram_and_Google_Sheets.json)|
+|15194|[15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json)|
+|15479|[15479_AI_Restaurant_Virtual_Waiter_Chatbot____for_WhatsApp___Website.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15479_AI_Restaurant_Virtual_Waiter_Chatbot____for_WhatsApp___Website.json)|
+|15516|[15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json)|
+|16247|[16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16247_Confirm_restaurant_orders_by_phone_with_Supabase__Claude_and_Twilio.json)|
+|16770|[16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json)|

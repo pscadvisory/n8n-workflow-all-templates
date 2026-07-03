@@ -1,4 +1,4 @@
-# usdt : 5
+# usdt : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |3797|[3797_Check_Tron_Wallet_USDT_Blacklist_Status_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3797_Check_Tron_Wallet_USDT_Blacklist_Status_via_Telegram.json)|
 |9691|[9691_Automate_Solana_Trading_with_Gemini_AI__Multi-Timeframe_Analysis___AFK_Crypto.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9691_Automate_Solana_Trading_with_Gemini_AI__Multi-Timeframe_Analysis___AFK_Crypto.json)|
 |12026|[12026_Monitor_high-value_USDT_transfers_on_Ethereum_with_Airtable_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12026_Monitor_high-value_USDT_transfers_on_Ethereum_with_Airtable_and_Slack_alerts.json)|
+|16085|[16085_Detect_Binance_USDT_volume_spikes_with_GPT-4o__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16085_Detect_Binance_USDT_volume_spikes_with_GPT-4o__Telegram_and_Google_Sheets.json)|

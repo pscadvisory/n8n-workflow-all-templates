@@ -1,4 +1,4 @@
-# student : 16
+# student : 19
 
 |id|file|
 |----|----|
@@ -18,3 +18,6 @@
 |13680|[13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json)|
 |14068|[14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json)|
 |14427|[14427_Support_student_questions_via_LINE_using_Gemini__Google_Drive__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14427_Support_student_questions_via_LINE_using_Gemini__Google_Drive__and_Slack.json)|
+|15092|[15092_Automate_new_student_onboarding_from_Close_CRM_to_Airtable__Mighty_Networks__Intercom_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15092_Automate_new_student_onboarding_from_Close_CRM_to_Airtable__Mighty_Networks__Intercom_and_Slack.json)|
+|15311|[15311_Auto-reply_to_Udemy_student_Q_A_with_Mistral_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15311_Auto-reply_to_Udemy_student_Q_A_with_Mistral_AI_and_Google_Sheets.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|

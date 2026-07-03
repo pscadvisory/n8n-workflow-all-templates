@@ -1,4 +1,4 @@
-# cryptocurrency : 10
+# cryptocurrency : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8604|[8604_Analyze_Cryptocurrency_Market_Data_with_HTX_API__GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8604_Analyze_Cryptocurrency_Market_Data_with_HTX_API__GPT-4o_and_Telegram.json)|
 |10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|
 |12015|[12015_Monitor_cryptocurrency_payments_across_multiple_blockchains_with_AgentGatePay.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12015_Monitor_cryptocurrency_payments_across_multiple_blockchains_with_AgentGatePay.json)|
+|15562|[15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json)|

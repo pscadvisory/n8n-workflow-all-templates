@@ -1,4 +1,4 @@
-# subworkflow : 7
+# subworkflow : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |4890|[4890_UniPile_LinkedIn_Profile_Lookup_Subworkflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4890_UniPile_LinkedIn_Profile_Lookup_Subworkflow.json)|
 |7560|[7560_Automate_Real_Estate_Value_Updates_in_YNAB_using_Rentcast.io_with_Discord_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7560_Automate_Real_Estate_Value_Updates_in_YNAB_using_Rentcast.io_with_Discord_Alerts.json)|
 |12338|[12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json)|
+|15994|[15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json)|

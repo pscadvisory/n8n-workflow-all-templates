@@ -1,4 +1,4 @@
-# publishing : 72
+# publishing : 76
 
 |id|file|
 |----|----|
@@ -74,3 +74,7 @@
 |12191|[12191_Repurpose_YouTube_videos_and_publish_via_Blotato_with_Telegram__Sheets_and_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12191_Repurpose_YouTube_videos_and_publish_via_Blotato_with_Telegram__Sheets_and_GPT-4.1-mini.json)|
 |12727|[12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12727_Generate_VEED_AI_talking_head_videos_from_sheet_rows_with_OpenAI_or_ElevenLabs.json)|
 |14554|[14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json)|
+|15381|[15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json)|
+|15720|[15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json)|
+|16234|[16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json)|
+|16662|[16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16662_Run_a_multi-agent_research_and_publishing_pipeline_with_GPT-4o__Tavily_and_Notion.json)|

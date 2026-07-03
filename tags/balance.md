@@ -1,4 +1,4 @@
-# balance : 7
+# balance : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7197|[7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json)|
 |8736|[8736_Automate_USDC_Balance_Between_Wallet_and_Aave_with_1Shot_API___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8736_Automate_USDC_Balance_Between_Wallet_and_Aave_with_1Shot_API___Telegram.json)|
 |9988|[9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json)|
+|15374|[15374_Monitor_Elastic_Email_subaccount_credits_and_send_low-balance_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15374_Monitor_Elastic_Email_subaccount_credits_and_send_low-balance_alerts_to_Slack.json)|

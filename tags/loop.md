@@ -1,4 +1,4 @@
-# loop : 35
+# loop : 40
 
 |id|file|
 |----|----|
@@ -37,3 +37,8 @@
 |12755|[12755_Generate_and_post_Instagram_captions_with_Google_Drive__GPT-4.1-mini__Gmail_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12755_Generate_and_post_Instagram_captions_with_Google_Drive__GPT-4.1-mini__Gmail_and_Blotato.json)|
 |12882|[12882_Find_qualified_leads_in_Reddit_posts_with_Firecrawl_and_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12882_Find_qualified_leads_in_Reddit_posts_with_Firecrawl_and_GPT-4.1-mini.json)|
 |13978|[13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13978_Improve_AI_support_email_drafts_with_Gmail__OpenAI_and_PostgreSQL.json)|
+|15120|[15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json)|
+|15341|[15341_Verify_HubSpot_contacts_with_NeverBounce_and_send_risky-email_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15341_Verify_HubSpot_contacts_with_NeverBounce_and_send_risky-email_alerts_to_Slack.json)|
+|15613|[15613_Generate_LinkedIn_posts_with_GPT-4o-mini__Gemini_images__human_approval__and_auto-publish.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15613_Generate_LinkedIn_posts_with_GPT-4o-mini__Gemini_images__human_approval__and_auto-publish.json)|
+|15989|[15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json)|
+|16663|[16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json)|

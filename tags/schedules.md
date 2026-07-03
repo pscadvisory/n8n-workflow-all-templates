@@ -1,4 +1,4 @@
-# schedules : 5
+# schedules : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |8090|[8090_Generate_Student_Course_Schedules_Based_on_Prerequisites_with_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8090_Generate_Student_Course_Schedules_Based_on_Prerequisites_with_GPT_and_Google_Sheets.json)|
 |13319|[13319_Optimize_classroom_schedules_and_resolve_conflicts_with_GPT-4o_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13319_Optimize_classroom_schedules_and_resolve_conflicts_with_GPT-4o_and_Google_Calendar.json)|
 |14397|[14397_Sync_workflow_schedules_between_Google_Sheets_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14397_Sync_workflow_schedules_between_Google_Sheets_and_Google_Calendar.json)|
+|16028|[16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json)|

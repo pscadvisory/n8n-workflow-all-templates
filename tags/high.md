@@ -1,4 +1,4 @@
-# high : 28
+# high : 34
 
 |id|file|
 |----|----|
@@ -30,3 +30,9 @@
 |12965|[12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12965_Score_and_download_top_YouTube_videos_to_Google_Sheets_with_FetchMedia.io.json)|
 |13490|[13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json)|
 |14531|[14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json)|
+|15150|[15150_Generate_high_quality_video_commercials_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15150_Generate_high_quality_video_commercials_with_Veo_3.json)|
+|15363|[15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json)|
+|15384|[15384_Send_Jira_high_priority_issue_alerts_to_Slack__Google_Chat_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15384_Send_Jira_high_priority_issue_alerts_to_Slack__Google_Chat_and_email.json)|
+|15418|[15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json)|
+|16032|[16032_Triage_Gmail_and_send_high-priority_alerts_with_Gemini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16032_Triage_Gmail_and_send_high-priority_alerts_with_Gemini_and_Telegram.json)|
+|16494|[16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json)|

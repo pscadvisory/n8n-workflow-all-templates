@@ -1,4 +1,4 @@
-# blogs : 15
+# blogs : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |13113|[13113_Publish_SEO_blogs_to_WordPress_with_GPT-4.1__DALL-E__Gemini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13113_Publish_SEO_blogs_to_WordPress_with_GPT-4.1__DALL-E__Gemini__and_Google_Sheets.json)|
 |14715|[14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14715_Turn_podcast_and_video_URLs_into_blogs_and_social_content_using_WayinVideo_and_OpenAI.json)|
 |14923|[14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14923_Create_and_post_AI_social_captions_from_WordPress_blogs_to_Facebook__Instagram__X__and_LinkedIn_with_GPT-4o_via_OpenRouter.json)|
+|15618|[15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json)|
+|15799|[15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json)|
+|16309|[16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json)|

@@ -1,4 +1,4 @@
-# deals : 21
+# deals : 26
 
 |id|file|
 |----|----|
@@ -23,3 +23,8 @@
 |13994|[13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13994_Monitor_AppSumo_lifetime_deals_with_ScrapeOps_and_Google_Sheets.json)|
 |14239|[14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json)|
 |14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
+|15191|[15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json)|
+|15431|[15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16056|[16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16056_Score_BizQuest_listings_and_alert_top_deals_with_Apify__Claude__Sheets_and_Slack.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|

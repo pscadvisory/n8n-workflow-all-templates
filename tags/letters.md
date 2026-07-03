@@ -1,4 +1,4 @@
-# letters : 12
+# letters : 17
 
 |id|file|
 |----|----|
@@ -14,3 +14,8 @@
 |11916|[11916_Automate_offer_letters___notifications_with_Google_Sheets__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11916_Automate_offer_letters___notifications_with_Google_Sheets__Gmail___Slack.json)|
 |13241|[13241_Generate_HR_offer_letters_and_contracts_with_GPT-4.1-mini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13241_Generate_HR_offer_letters_and_contracts_with_GPT-4.1-mini_and_Google_Docs.json)|
 |13278|[13278_Generate_and_track_offer_letters_with_Google_Sheets__Docs__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13278_Generate_and_track_offer_letters_with_Google_Sheets__Docs__Drive_and_Gmail.json)|
+|15623|[15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|16099|[16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|16560|[16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json)|
+|16616|[16616_Generate_personalized_franchise_PDF_letters_from_Excel_with_Google_Drive_and_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16616_Generate_personalized_franchise_PDF_letters_from_Excel_with_Google_Drive_and_Docs.json)|

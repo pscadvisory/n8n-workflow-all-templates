@@ -1,4 +1,4 @@
-# retail : 11
+# retail : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
 |14528|[14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14528_Monitor_low-rated_WooCommerce_reviews_with_Google_Sheets__Slack_and_OpenAI.json)|
 |14531|[14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14531_Tag_high-risk_WooCommerce_SKUs_and_send_daily_alerts_to_Slack.json)|
+|15273|[15273_Handle_retail_payment_failures_with_retry_emails__Slack_alerts_and_Supabase_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15273_Handle_retail_payment_failures_with_retry_emails__Slack_alerts_and_Supabase_logging.json)|

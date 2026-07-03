@@ -1,4 +1,4 @@
-# langchain : 31
+# langchain : 32
 
 |id|file|
 |----|----|
@@ -33,3 +33,4 @@
 |10294|[10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json)|
 |14012|[14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14012_Create_AI_newsletters_from_YouTube_with_LangChain__Gemini__Apify___Gmail.json)|
 |14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
+|15951|[15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15951_Score_and_critique_content_drafts_with_OpenRouter_and_LangChain.json)|

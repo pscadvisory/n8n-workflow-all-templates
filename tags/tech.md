@@ -1,4 +1,4 @@
-# tech : 28
+# tech : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |14702|[14702_Curate_tech_news_from_RSS_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14702_Curate_tech_news_from_RSS_with_OpenAI__Google_Sheets_and_Slack.json)|
 |14882|[14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json)|
 |14952|[14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json)|
+|15964|[15964_Post_daily_Verge_tech_updates_to_LinkedIn_with_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15964_Post_daily_Verge_tech_updates_to_LinkedIn_with_Gemini_and_Airtable.json)|

@@ -1,4 +1,4 @@
-# buyer : 5
+# buyer : 7
 
 |id|file|
 |----|----|
@@ -7,3 +7,5 @@
 |9132|[9132_Qualify_Real_Estate_Buyer_Leads_with_GPT-4o___Airtable_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9132_Qualify_Real_Estate_Buyer_Leads_with_GPT-4o___Airtable_CRM_Integration.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
 |13831|[13831_Match_Zoho_CRM_contacts_to_buyer_personas_using_LinkedIn__Phantombuster_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13831_Match_Zoho_CRM_contacts_to_buyer_personas_using_LinkedIn__Phantombuster_and_OpenAI.json)|
+|15471|[15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json)|
+|16274|[16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json)|

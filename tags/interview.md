@@ -1,4 +1,4 @@
-# interview : 29
+# interview : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |13352|[13352_Orchestrate_AI-driven_hiring_analytics_and_candidate_assessment_with_GPT-4__Claude__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13352_Orchestrate_AI-driven_hiring_analytics_and_candidate_assessment_with_GPT-4__Claude__Google_Sheets__Gmail_and_Slack.json)|
 |14546|[14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json)|
 |14713|[14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json)|
+|16033|[16033_Run_HR_interview_agent_with_TruGen__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16033_Run_HR_interview_agent_with_TruGen__OpenAI__and_Google_Sheets.json)|
+|16286|[16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|

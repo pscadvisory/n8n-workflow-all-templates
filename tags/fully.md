@@ -1,4 +1,4 @@
-# fully : 8
+# fully : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8336|[8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json)|
 |10128|[10128_AI_Sales_Agent___Fully_Automated_Email_Handling___Lead_Scoring_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10128_AI_Sales_Agent___Fully_Automated_Email_Handling___Lead_Scoring_System.json)|
 |13466|[13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13466_Run_AI-scored_cold_email_outreach_and_follow-ups_with_Ollama_and_Gmail.json)|
+|15960|[15960_Generate_city-based_business_leads_with_Google_Maps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15960_Generate_city-based_business_leads_with_Google_Maps_and_Google_Sheets.json)|

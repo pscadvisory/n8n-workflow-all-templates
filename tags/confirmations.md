@@ -1,4 +1,4 @@
-# confirmations : 10
+# confirmations : 13
 
 |id|file|
 |----|----|
@@ -12,3 +12,6 @@
 |13163|[13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13163_Route_support_tickets_with_SLA_tracking__Slack_alerts__and_Gmail_confirmations.json)|
 |13403|[13403_Route_Typeform_responses_to_Google_Sheets__Slack__and_Gmail_with_confirmations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13403_Route_Typeform_responses_to_Google_Sheets__Slack__and_Gmail_with_confirmations.json)|
 |13478|[13478_Send_Shopify_order_confirmations_via_WhatsApp_using_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13478_Send_Shopify_order_confirmations_via_WhatsApp_using_MoltFlow.json)|
+|16097|[16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16650|[16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json)|

@@ -1,4 +1,4 @@
-# card : 23
+# card : 27
 
 |id|file|
 |----|----|
@@ -25,3 +25,7 @@
 |11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|
 |12058|[12058_Automate_business_card_management_with_LINE__AI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12058_Automate_business_card_management_with_LINE__AI__and_Google_Sheets.json)|
 |14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|
+|15258|[15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json)|
+|15308|[15308_Save_business_card_contacts_from_LINE_photos_to_Google_Sheets_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15308_Save_business_card_contacts_from_LINE_photos_to_Google_Sheets_using_Gemini.json)|
+|15530|[15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|

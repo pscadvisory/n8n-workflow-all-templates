@@ -1,4 +1,4 @@
-# end : 21
+# end : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |13517|[13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json)|
 |14309|[14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json)|
 |14500|[14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json)|
+|16433|[16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# dual : 11
+# dual : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9775|[9775_Dual-Path_Customer_Support_System_with_Google_Sheets__Vectors___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9775_Dual-Path_Customer_Support_System_with_Google_Sheets__Vectors___Gemini.json)|
 |12990|[12990_Evaluate_automotive_component_compliance_with_OpenAI_GPT-4.1_and_regulatory_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12990_Evaluate_automotive_component_compliance_with_OpenAI_GPT-4.1_and_regulatory_APIs.json)|
 |12991|[12991_Prioritize_vehicle_maintenance_with_Anthropic_Claude_using_telemetry_and_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12991_Prioritize_vehicle_maintenance_with_Anthropic_Claude_using_telemetry_and_history.json)|
+|16537|[16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json)|

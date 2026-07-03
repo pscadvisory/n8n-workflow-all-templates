@@ -1,4 +1,4 @@
-# meet : 8
+# meet : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |9284|[9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json)|
 |9849|[9849_Automate_Google_Meet_Notes_with_GPT-4.1-mini__Notion__Slack___Gmail_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9849_Automate_Google_Meet_Notes_with_GPT-4.1-mini__Notion__Slack___Gmail_Distribution.json)|
 |11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|15095|[15095_Generate_post-meeting_surveys_from_Google_Meet_notes_with_OpenAI_and_Weavely.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15095_Generate_post-meeting_surveys_from_Google_Meet_notes_with_OpenAI_and_Weavely.json)|
+|16680|[16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json)|

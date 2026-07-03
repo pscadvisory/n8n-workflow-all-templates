@@ -1,4 +1,4 @@
-# clients : 11
+# clients : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
 |14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
 |14217|[14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json)|
+|15065|[15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json)|
+|16108|[16108_Onboard_new_clients_from_forms_with_OpenAI__Google_Sheets__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16108_Onboard_new_clients_from_forms_with_OpenAI__Google_Sheets__Gmail__and_Slack.json)|

@@ -1,4 +1,4 @@
-# firecrawl : 42
+# firecrawl : 51
 
 |id|file|
 |----|----|
@@ -44,3 +44,12 @@
 |14405|[14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json)|
 |14815|[14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json)|
 |14911|[14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14911_Analyze_npm_packages_with_Firecrawl__GitHub__npm_APIs__Gemini_and_GPT.json)|
+|15129|[15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15129_Track_documentation_changes_with_Firecrawl__Postgres__Gemini__and_Telegram.json)|
+|15363|[15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json)|
+|15390|[15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json)|
+|15411|[15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json)|
+|15415|[15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15415_Auto-index_your_website_and_build_a_RAG_chatbot_with_Firecrawl__Qdrant__and_GPT-4o-mini.json)|
+|15574|[15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json)|
+|15893|[15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json)|
+|16424|[16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json)|
+|16665|[16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json)|

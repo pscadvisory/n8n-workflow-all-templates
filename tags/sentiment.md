@@ -1,4 +1,4 @@
-# sentiment : 79
+# sentiment : 85
 
 |id|file|
 |----|----|
@@ -81,3 +81,9 @@
 |13818|[13818_Monitor_news_sentiment_trends_with_GPT-4o-mini__MrScraper__Slack_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13818_Monitor_news_sentiment_trends_with_GPT-4o-mini__MrScraper__Slack_and_Notion.json)|
 |14015|[14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14015_Analyze_Reddit_competitor_sentiment_with_Bright_Data_and_GPT-5.4.json)|
 |14862|[14862_AI_Forex_Trader_using_claude_gpt__MT5___News_Sentiment_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14862_AI_Forex_Trader_using_claude_gpt__MT5___News_Sentiment_Analysis.json)|
+|15235|[15235_Track_Facebook_mention_sentiment_with_Gemini__Supabase__Telegram_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15235_Track_Facebook_mention_sentiment_with_Gemini__Supabase__Telegram_and_Slack.json)|
+|15304|[15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json)|
+|15325|[15325_Analyze_daily_stock_news_sentiment_with_Gemini_AI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15325_Analyze_daily_stock_news_sentiment_with_Gemini_AI__Google_Sheets_and_Gmail.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|
+|16265|[16265_Track_commodity_news_sentiment_with_Groq__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16265_Track_commodity_news_sentiment_with_Groq__Google_Sheets__and_Slack.json)|
+|16447|[16447_Send_weekly_Reddit_sentiment_digests_to_Notion_with_ScraperAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16447_Send_weekly_Reddit_sentiment_digests_to_Notion_with_ScraperAPI_and_OpenAI.json)|

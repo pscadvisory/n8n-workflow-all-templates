@@ -1,4 +1,4 @@
-# categorization : 17
+# categorization : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |9583|[9583_Automate_Gmail_Email_Categorization_with_GPT-4o_AI_and_Reasoning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9583_Automate_Gmail_Email_Categorization_with_GPT-4o_AI_and_Reasoning.json)|
 |10118|[10118_Gmail_Email_Categorization___Auto_Reply_with_GPT-4o_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10118_Gmail_Email_Categorization___Auto_Reply_with_GPT-4o_and_Google_Sheets.json)|
 |13005|[13005_Sync_Note.com_articles_to_WordPress_with_OpenAI_categorization_and_tags.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13005_Sync_Note.com_articles_to_WordPress_with_OpenAI_categorization_and_tags.json)|
+|15251|[15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15251_Triage_GitHub_issues_with_OpenAI_categorization_and_embedding-based_duplicate_detection.json)|
+|15998|[15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json)|

@@ -1,4 +1,4 @@
-# sitemap : 11
+# sitemap : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |11948|[11948_Submit_sitemap_URLs_from_Oncrawl_to_Google_Indexing_API_and_IndexNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11948_Submit_sitemap_URLs_from_Oncrawl_to_Google_Indexing_API_and_IndexNow.json)|
 |11979|[11979_Automated_SEO_indexing__sitemap_to_GSC___indexing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11979_Automated_SEO_indexing__sitemap_to_GSC___indexing_API.json)|
 |14991|[14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14991_Filter_sitemap_URLs_and_inspect_indexing_status_with_Google_Search_Console.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|15444|[15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json)|

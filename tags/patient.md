@@ -1,4 +1,4 @@
-# patient : 18
+# patient : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |13516|[13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json)|
 |13520|[13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json)|
 |14860|[14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14860_Track_medicine_adherence_and_monitor_patients_with_Google_Sheets__OpenAI_and_Slack.json)|
+|15969|[15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15969_Send_AI_patient_follow-ups_and_rebooking_emails_with_Claude__Gmail__Slack_and_Sheets.json)|
+|16457|[16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16457_Generate_and_review_patient_SOAP_notes_with_GPT-4o_Mini__Gmail__and_Google_Sheets.json)|

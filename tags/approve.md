@@ -1,4 +1,4 @@
-# approve : 9
+# approve : 16
 
 |id|file|
 |----|----|
@@ -11,3 +11,10 @@
 |13007|[13007_Scrape_LinkedIn_B2B_leads_with_Apify_and_GPT-4_and_approve_emails_in_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13007_Scrape_LinkedIn_B2B_leads_with_Apify_and_GPT-4_and_approve_emails_in_Sheets.json)|
 |13712|[13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13712_Review_and_approve_Google_Sheets_orders_by_email_and_notify_via_LINE.json)|
 |14360|[14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14360_Generate_and_approve_Google_review_replies_with_Groq_AI_and_Slack.json)|
+|15204|[15204_Draft_and_approve_client_portfolio_emails_with_Gemini__Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15204_Draft_and_approve_client_portfolio_emails_with_Gemini__Sheets__Slack_and_Gmail.json)|
+|16026|[16026_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16026_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16103|[16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json)|
+|16161|[16161_Create_and_approve_social_posts_with_Google_Sheets__Slack_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16161_Create_and_approve_social_posts_with_Google_Sheets__Slack_and_Gemini.json)|
+|16246|[16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json)|
+|16425|[16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json)|

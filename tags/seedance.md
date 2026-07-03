@@ -1,4 +1,4 @@
-# seedance : 18
+# seedance : 22
 
 |id|file|
 |----|----|
@@ -20,3 +20,7 @@
 |14884|[14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14884_Generate_Seedance_crowd_previs_passes_from_chat_using_Azure_OpenAI.json)|
 |14889|[14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json)|
 |14891|[14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14891_Generate_AI_camera_moves_with_Seedance_and_build_a_previs_review_board.json)|
+|15203|[15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json)|
+|16168|[16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json)|
+|16576|[16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json)|
+|16606|[16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json)|

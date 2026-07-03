@@ -1,4 +1,4 @@
-# japanese : 11
+# japanese : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |13522|[13522_Enrich_and_score_Japanese_B2B_leads_with_gBizINFO__web_scraping__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13522_Enrich_and_score_Japanese_B2B_leads_with_gBizINFO__web_scraping__and_Gemini_AI.json)|
 |14213|[14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json)|
 |14980|[14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json)|
+|16139|[16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json)|

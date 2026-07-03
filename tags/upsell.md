@@ -1,4 +1,4 @@
-# upsell : 6
+# upsell : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |12876|[12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12876_Score_Zoho_support_tickets_with_OpenAI_and_sync_upsell_alerts_to_Zoho_CRM.json)|
 |12950|[12950_Generate_hotel_guest_upsell_recommendations_with_OpenAI__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12950_Generate_hotel_guest_upsell_recommendations_with_OpenAI__Sheets_and_Slack.json)|
 |14557|[14557_Send_AI_upsell_emails_with_Groq__Gmail__HubSpot_CRM_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14557_Send_AI_upsell_emails_with_Groq__Gmail__HubSpot_CRM_and_Slack_alerts.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|

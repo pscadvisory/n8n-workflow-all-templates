@@ -1,4 +1,4 @@
-# transcript : 25
+# transcript : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |12009|[12009_Transform_meeting_transcripts_to_content_with_Fathom__GPT-4___DALL-E.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12009_Transform_meeting_transcripts_to_content_with_Fathom__GPT-4___DALL-E.json)|
 |12935|[12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json)|
 |14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|
+|16509|[16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json)|
+|16598|[16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json)|

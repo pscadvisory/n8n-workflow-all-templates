@@ -1,4 +1,4 @@
-# sequence : 14
+# sequence : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |12915|[12915_Manage_LinkedIn_outreach_sequences_with_Linked_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12915_Manage_LinkedIn_outreach_sequences_with_Linked_API_and_Google_Sheets.json)|
 |13346|[13346_Enrich_HubSpot_sales_sequence_contacts_with_Lusha_and_route_to_outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13346_Enrich_HubSpot_sales_sequence_contacts_with_Lusha_and_route_to_outreach.json)|
 |14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|

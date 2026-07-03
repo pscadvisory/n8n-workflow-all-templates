@@ -1,4 +1,4 @@
-# orchestrate : 19
+# orchestrate : 23
 
 |id|file|
 |----|----|
@@ -21,3 +21,7 @@
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
 |15026|[15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15026_Orchestrate_multi-agent_compliance_monitoring_and_audit_logging_with_GPT-4o_and_Slack.json)|
+|15628|[15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15628_Orchestrate_M365_employee_onboarding_with_SharePoint__OneDrive__Teams__Outlook_and_Claude.json)|
+|15975|[15975_Orchestrate_employee_onboarding_with_Google_Sheets__Drive__Jira__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15975_Orchestrate_employee_onboarding_with_Google_Sheets__Drive__Jira__Gmail__and_Slack.json)|
+|15994|[15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json)|
+|16343|[16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16343_Orchestrate_multi-agent_energy_optimization_with_OpenAI_GPT_and_Claude.json)|

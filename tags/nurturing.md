@@ -1,4 +1,4 @@
-# nurturing : 12
+# nurturing : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |11284|[11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json)|
 |11337|[11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json)|
 |13723|[13723_Automate_WhatsApp_lead_follow-ups_and_nurturing_with_WATI__Airtable_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13723_Automate_WhatsApp_lead_follow-ups_and_nurturing_with_WATI__Airtable_and_OpenAI.json)|
+|15616|[15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15616_Nurture_leads_via_email__WhatsApp__OpenAI__and_Google_Sheets_CRM.json)|

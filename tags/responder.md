@@ -1,4 +1,4 @@
-# responder : 21
+# responder : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
 |12883|[12883_Send_instant_replies_to_new_Yelp_leads_with_LeadResponder.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12883_Send_instant_replies_to_new_Yelp_leads_with_LeadResponder.ai.json)|
 |14924|[14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14924_Auto-respond_to_job_opportunities_with_Gmail__LinkedIn__GPT-4.1-mini_and_Google_Sheets.json)|
+|16592|[16592_Categorize_emails_and_draft_Gmail_replies_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16592_Categorize_emails_and_draft_Gmail_replies_with_Groq_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# community : 21
+# community : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |13437|[13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json)|
 |14957|[14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json)|
 |14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15507|[15507_Generate_YouTube_chapter_timestamps_and_community_posts_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15507_Generate_YouTube_chapter_timestamps_and_community_posts_using_WayinVideo_and_GPT-4o-mini.json)|
+|16018|[16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json)|

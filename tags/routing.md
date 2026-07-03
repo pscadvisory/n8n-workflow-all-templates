@@ -1,4 +1,4 @@
-# routing : 64
+# routing : 69
 
 |id|file|
 |----|----|
@@ -66,3 +66,8 @@
 |14426|[14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14426_Automate_ESG_compliance_routing_and_reporting_with_GPT-4o__Slack_and_Google_Sheets.json)|
 |14434|[14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json)|
 |14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
+|15418|[15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15418_Qualify_and_route_high-intent_leads_with_OpenAI__Airtable_and_Slack.json)|
+|16228|[16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|
+|16719|[16719_Route_medical_equipment_form_leads_to_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16719_Route_medical_equipment_form_leads_to_Google_Sheets_and_Slack.json)|
+|16760|[16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16760_Route_patients_to_the_best_nearby_hospital_using_Google_Maps__GPT-4.1_and_Twilio.json)|

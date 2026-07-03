@@ -1,4 +1,4 @@
-# ollama : 43
+# ollama : 51
 
 |id|file|
 |----|----|
@@ -45,3 +45,11 @@
 |13811|[13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13811_Build_a_private_Llama_chatbot_with_Ollama__Groq__Slack_and_Google_Sheets.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
 |15044|[15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15044_Automate_WhatsApp_lead_capture_and_replies_with_Whapi__Ollama_and_Sheets.json)|
+|15585|[15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json)|
+|15707|[15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json)|
+|15720|[15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json)|
+|15754|[15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json)|
+|15913|[15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json)|
+|16040|[16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json)|
+|16194|[16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|

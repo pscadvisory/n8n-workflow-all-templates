@@ -1,4 +1,4 @@
-# postgresql : 57
+# postgresql : 67
 
 |id|file|
 |----|----|
@@ -59,3 +59,13 @@
 |14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
 |14320|[14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14320_Detect_and_mask_PII_for_GDPR-safe_AI_document_analysis_with_Anthropic_and_PostgreSQL.json)|
 |14993|[14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json)|
+|15270|[15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json)|
+|15272|[15272_Generate_Gmail_reply_drafts_with_GPT-4o__pgvector__and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15272_Generate_Gmail_reply_drafts_with_GPT-4o__pgvector__and_PostgreSQL.json)|
+|15419|[15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json)|
+|15522|[15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json)|
+|15720|[15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|15888|[15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16106|[16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json)|
+|16222|[16222_Analyze_Zabbix_infrastructure_health_with_Gemini_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16222_Analyze_Zabbix_infrastructure_health_with_Gemini_and_PostgreSQL.json)|

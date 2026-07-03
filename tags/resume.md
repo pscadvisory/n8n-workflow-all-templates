@@ -1,4 +1,4 @@
-# resume : 48
+# resume : 53
 
 |id|file|
 |----|----|
@@ -50,3 +50,8 @@
 |14037|[14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json)|
 |14442|[14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14442_Screen_resumes_and_match_candidates_with_GPT-4o__Google_Sheets_and_email.json)|
 |14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|
+|15420|[15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json)|
+|15942|[15942_Analyze_resume_PDFs_for_ATS_fit_with_OpenRouter_GPT_via_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15942_Analyze_resume_PDFs_for_ATS_fit_with_OpenRouter_GPT_via_webhook.json)|
+|16030|[16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json)|
+|16229|[16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|

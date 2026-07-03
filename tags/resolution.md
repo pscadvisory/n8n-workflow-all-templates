@@ -1,4 +1,4 @@
-# resolution : 10
+# resolution : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |12794|[12794_Manage_healthcare_resource_allocation_and_conflicts_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12794_Manage_healthcare_resource_allocation_and_conflicts_with_Anthropic_Claude.json)|
 |13306|[13306_Enhance_images_with_Riverflow_2.0_reference-based_super-resolution_via_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13306_Enhance_images_with_Riverflow_2.0_reference-based_super-resolution_via_Replicate.json)|
 |13319|[13319_Optimize_classroom_schedules_and_resolve_conflicts_with_GPT-4o_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13319_Optimize_classroom_schedules_and_resolve_conflicts_with_GPT-4o_and_Google_Calendar.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|

@@ -1,4 +1,4 @@
-# vector : 83
+# vector : 90
 
 |id|file|
 |----|----|
@@ -85,3 +85,10 @@
 |11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|
 |11951|[11951_Send_AI-curated_weekly_news_digests_with_RSS__Vector_DB___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11951_Send_AI-curated_weekly_news_digests_with_RSS__Vector_DB___GPT-4o.json)|
 |13410|[13410_Search_hardware_inventory_with_Supabase_vector_RAG_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13410_Search_hardware_inventory_with_Supabase_vector_RAG_and_Google_Gemini.json)|
+|15565|[15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json)|
+|15738|[15738_Build_a_RAG_chatbot_using_Google_Gemini_and_a_Supabase_vector_store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15738_Build_a_RAG_chatbot_using_Google_Gemini_and_a_Supabase_vector_store.json)|
+|15751|[15751_Build_a_RAG_document_chatbot_with_Supabase_vector_search_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15751_Build_a_RAG_document_chatbot_with_Supabase_vector_search_and_OpenRouter.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|16050|[16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json)|
+|16528|[16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|

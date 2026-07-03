@@ -1,4 +1,4 @@
-# library : 9
+# library : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |6980|[6980_Dynamic_Media_Library_with_On-demand_Downloads_for_Radarr_Sonarr_and_Plex.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6980_Dynamic_Media_Library_with_On-demand_Downloads_for_Radarr_Sonarr_and_Plex.json)|
 |11615|[11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json)|
 |14713|[14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json)|
+|16642|[16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json)|
+|16697|[16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json)|

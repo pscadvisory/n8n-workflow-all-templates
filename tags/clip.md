@@ -1,4 +1,4 @@
-# clip : 5
+# clip : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |12054|[12054_Auto-clip_long_videos_into_viral_short_clips_with_Vizard_AI_and_social_publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12054_Auto-clip_long_videos_into_viral_short_clips_with_Vizard_AI_and_social_publishing.json)|
 |14191|[14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json)|
 |14713|[14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14713_Create_an_interview_clip_library_using_WayinVideo__Google_Drive_and_Sheets.json)|
+|15567|[15567_Build_employee_onboarding_clip_libraries_with_WayinVideo__Google_Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15567_Build_employee_onboarding_clip_libraries_with_WayinVideo__Google_Drive_and_Gmail.json)|

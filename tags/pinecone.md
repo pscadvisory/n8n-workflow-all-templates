@@ -1,4 +1,4 @@
-# pinecone : 94
+# pinecone : 103
 
 |id|file|
 |----|----|
@@ -96,3 +96,12 @@
 |14041|[14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14041_Build_a_document-upload_RAG_chatbot_with_OpenAI__Pinecone_and_daily_analytics.json)|
 |14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
 |14667|[14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json)|
+|15632|[15632_Create_a_travel_support_RAG_chatbot_with_Google_Drive__Pinecone_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15632_Create_a_travel_support_RAG_chatbot_with_Google_Drive__Pinecone_and_OpenAI.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|15888|[15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json)|
+|16175|[16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|
+|16251|[16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json)|
+|16352|[16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json)|
+|16545|[16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16545_Route_RAG_customer_support_across_WhatsApp_and_Outlook_with_Pinecone_and_OpenRouter.json)|
+|16625|[16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json)|

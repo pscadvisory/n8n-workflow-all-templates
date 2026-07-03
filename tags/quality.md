@@ -1,4 +1,4 @@
-# quality : 31
+# quality : 39
 
 |id|file|
 |----|----|
@@ -33,3 +33,11 @@
 |13869|[13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13869_Generate_research_proposals_with_GPT-4o__web_search__and_quality_control_agents.json)|
 |14035|[14035_Monitor_PostgreSQL_data_quality_and_generate_remediation_alerts_with_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14035_Monitor_PostgreSQL_data_quality_and_generate_remediation_alerts_with_Slack.json)|
 |14416|[14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json)|
+|15135|[15135_Monitor_AI_quality_drift_with_GPT-4o-mini_evaluations_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15135_Monitor_AI_quality_drift_with_GPT-4o-mini_evaluations_and_Slack_alerts.json)|
+|15150|[15150_Generate_high_quality_video_commercials_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15150_Generate_high_quality_video_commercials_with_Veo_3.json)|
+|15242|[15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15242_Classify_LinkedIn_posts_as_quality_or_slop_with_OpenAI_and_Qdrant.json)|
+|15246|[15246_Audit_Zoho_CRM_lead_data_quality_and_email_HTML_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15246_Audit_Zoho_CRM_lead_data_quality_and_email_HTML_reports_with_Gmail.json)|
+|15887|[15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15887_Detect_pricing_anomalies_in_Google_Sheets_with_Groq_AI_and_Slack_alerts.json)|
+|16494|[16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json)|
+|16693|[16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16693_Review_Jira_ticket_quality_with_OpenRouter_GPT_and_coaching_comments.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

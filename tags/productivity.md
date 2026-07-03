@@ -1,4 +1,4 @@
-# productivity : 7
+# productivity : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |11855|[11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json)|
 |12018|[12018_AI-powered_productivity_coach_using_Google_Calendar__Todoist__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12018_AI-powered_productivity_coach_using_Google_Calendar__Todoist__Slack_and_Sheets.json)|
 |13748|[13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json)|
+|15672|[15672_Manage_email__calendar__tasks_and_expenses_from_Telegram_with_GPT-4o_and_Google.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15672_Manage_email__calendar__tasks_and_expenses_from_Telegram_with_GPT-4o_and_Google.json)|
+|15798|[15798_Manage_Gmail_and_Google_Calendar_with_a_multi-agent_executive_assistant__GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15798_Manage_Gmail_and_Google_Calendar_with_a_multi-agent_executive_assistant__GPT-4o.json)|

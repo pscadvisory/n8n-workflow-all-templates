@@ -1,4 +1,4 @@
-# flights : 7
+# flights : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
 |12971|[12971_Search_flights_with_Gemini_via_Telegram_and_send_SerpAPI_price_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12971_Search_flights_with_Gemini_via_Telegram_and_send_SerpAPI_price_alerts.json)|
+|15800|[15800_Monitor_Google_Flights_prices_with_Apify_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15800_Monitor_Google_Flights_prices_with_Apify_and_send_Slack_alerts.json)|

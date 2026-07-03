@@ -1,4 +1,4 @@
-# articles : 66
+# articles : 74
 
 |id|file|
 |----|----|
@@ -68,3 +68,11 @@
 |14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
 |14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|
 |14980|[14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json)|
+|15096|[15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15096_Summarize_RSS_articles_with_Gemini_and_OpenAI__send_to_Slack__and_save_TTS_audio.json)|
+|15352|[15352_Convert_podcasts_to_LinkedIn_articles_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15352_Convert_podcasts_to_LinkedIn_articles_with_WayinVideo_and_GPT-4o-mini.json)|
+|15381|[15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json)|
+|15697|[15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json)|
+|15952|[15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|
+|16554|[16554_Draft_and_review_SEO_WordPress_articles_with_multi-agent_LLMs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16554_Draft_and_review_SEO_WordPress_articles_with_multi-agent_LLMs_and_Slack.json)|
+|16606|[16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json)|

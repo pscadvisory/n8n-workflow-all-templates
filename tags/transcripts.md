@@ -1,4 +1,4 @@
-# transcripts : 46
+# transcripts : 53
 
 |id|file|
 |----|----|
@@ -48,3 +48,10 @@
 |14331|[14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14331_Analyze_Retell_AI_call_transcripts_with_OpenAI_and_sync_insights_to_HubSpot.json)|
 |14717|[14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14717_Create_AI_proposals_from_Fireflies_transcripts_with_GPT-4o__Google_Docs__Gmail_and_Telegram_approval.json)|
 |14758|[14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14758_Publish_blog_posts_from_YouTube_transcripts_to_WordPress_and_Telegram_with_Gemini.json)|
+|15499|[15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15499_Turn_meeting_transcripts_or_audio_into_Google_Docs_action_summaries_with_Groq_Whisper__OpenRouter__and_Google_Docs.json)|
+|15810|[15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|
+|16227|[16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16227_Extract_meeting_action_items_and_decisions_with_OpenAI__Asana_and_Sheets.json)|
+|16410|[16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json)|
+|16598|[16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16598_Extract_post-call_glossary_terms_from_transcripts_with_Anthropic_Claude_and_Telegram.json)|
+|16664|[16664_Create_Google_Tasks_from_Tactiq_meeting_transcripts_using_OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16664_Create_Google_Tasks_from_Tactiq_meeting_transcripts_using_OpenAI_and_Telegram.json)|

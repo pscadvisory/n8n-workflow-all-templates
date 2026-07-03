@@ -1,4 +1,4 @@
-# read : 19
+# read : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|
 |13830|[13830_Read__analyze__and_auto-reply_to_Gmail_emails_with_OpenAI__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13830_Read__analyze__and_auto-reply_to_Gmail_emails_with_OpenAI__Slack__and_Sheets.json)|
 |14288|[14288_Read_palm_lines_and_send_AI_reports_via_LINE__Gemini__Gmail_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14288_Read_palm_lines_and_send_AI_reports_via_LINE__Gemini__Gmail_and_Calendar.json)|
+|16081|[16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16081_Manage_job_records_via_webhook_REST_API_with_PostgreSQL.json)|
+|16153|[16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json)|

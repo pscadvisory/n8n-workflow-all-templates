@@ -1,4 +1,4 @@
-# budget : 16
+# budget : 20
 
 |id|file|
 |----|----|
@@ -18,3 +18,7 @@
 |13313|[13313_Monitor_AI_infrastructure_costs_and_route_budget_alerts_with_Claude__NVIDIA__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13313_Monitor_AI_infrastructure_costs_and_route_budget_alerts_with_Claude__NVIDIA__Slack__and_Gmail.json)|
 |13591|[13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json)|
 |13774|[13774_Filter_fraudulent_leads_with_GPT-4o-mini__AbstractAPI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13774_Filter_fraudulent_leads_with_GPT-4o-mini__AbstractAPI__Google_Sheets_and_Slack.json)|
+|16006|[16006_Send_AI_budget_overspend_alerts_with_Alephant_AI_Gateway_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16006_Send_AI_budget_overspend_alerts_with_Alephant_AI_Gateway_and_Gmail.json)|
+|16167|[16167_Monitor_GitHub_Actions_budget_and_send_usage_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16167_Monitor_GitHub_Actions_budget_and_send_usage_alerts_to_Slack.json)|
+|16404|[16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16404_Route_purchase_order_approvals_and_budget_alerts_with_Gmail__Slack_and_Sheets.json)|
+|16583|[16583_Monitor_budget_variance_with_Google_Sheets__Gemini__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16583_Monitor_budget_variance_with_Google_Sheets__Gemini__Slack__and_Gmail.json)|

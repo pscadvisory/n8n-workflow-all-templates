@@ -1,4 +1,4 @@
-# automatic : 77
+# automatic : 85
 
 |id|file|
 |----|----|
@@ -79,3 +79,11 @@
 |12571|[12571_Generate__translate_and_publish_AI_content_to_WordPress_and_socials_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12571_Generate__translate_and_publish_AI_content_to_WordPress_and_socials_with_GPT-4.1_and_Google_Sheets.json)|
 |13290|[13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json)|
 |14299|[14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14299_Automatic_AI_reply_when_mentioned_in_a_Liveblocks_comment.json)|
+|15075|[15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json)|
+|15168|[15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json)|
+|15299|[15299_Automatic_workflow_to_categorise_your_job_status.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15299_Automatic_workflow_to_categorise_your_job_status.json)|
+|15660|[15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json)|
+|15742|[15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|
+|16121|[16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json)|
+|16735|[16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16735_Generate_SRT_subtitles_for_Google_Drive_audio_with_Smallest.ai.json)|

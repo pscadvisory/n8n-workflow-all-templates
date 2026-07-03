@@ -1,4 +1,4 @@
-# article : 24
+# article : 26
 
 |id|file|
 |----|----|
@@ -26,3 +26,5 @@
 |11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|
 |11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
 |14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|
+|15458|[15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json)|
+|15799|[15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15799_Summarize_article_URLs_with_Google_Gemini_AI_from_WordPress_and_blogs.json)|

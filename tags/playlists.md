@@ -1,4 +1,4 @@
-# playlists : 7
+# playlists : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |5379|[5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json)|
 |5923|[5923_Create_Playlists_and_Control_Your_Spotify_Player_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5923_Create_Playlists_and_Control_Your_Spotify_Player_with_GPT-4.json)|
 |6021|[6021_Create_Complete_20-Song_YouTube_Playlists_with_Suno_API__Claude___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6021_Create_Complete_20-Song_YouTube_Playlists_with_Suno_API__Claude___Telegram_Bot.json)|
+|15534|[15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json)|

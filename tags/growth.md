@@ -1,4 +1,4 @@
-# growth : 6
+# growth : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|
 |13349|[13349_Detect_account_and_contact_growth_signals_with_Lusha_bulk_enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13349_Detect_account_and_contact_growth_signals_with_Lusha_bulk_enrichment.json)|
 |13374|[13374_Scrape_industry_growth_signals_with_BrowserAct__OpenRouter__and_Slack_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13374_Scrape_industry_growth_signals_with_BrowserAct__OpenRouter__and_Slack_reports.json)|
+|15221|[15221_Instagram_AI_Tracker___Automate_Reels_Analysis___Growth.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15221_Instagram_AI_Tracker___Automate_Reels_Analysis___Growth.json)|

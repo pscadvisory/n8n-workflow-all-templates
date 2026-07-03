@@ -1,4 +1,4 @@
-# contracts : 5
+# contracts : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |12959|[12959_Generate_consulting_proposals_and_contracts_with_GPT-4o__Google_Docs__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12959_Generate_consulting_proposals_and_contracts_with_GPT-4o__Google_Docs__Gmail_and_Slack.json)|
 |13241|[13241_Generate_HR_offer_letters_and_contracts_with_GPT-4.1-mini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13241_Generate_HR_offer_letters_and_contracts_with_GPT-4.1-mini_and_Google_Docs.json)|
 |14364|[14364_Generate_client_contracts_automatically_using_Google_Docs__Drive__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14364_Generate_client_contracts_automatically_using_Google_Docs__Drive__and_GoHighLevel.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|
+|16754|[16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# media : 181
+# media : 193
 
 |id|file|
 |----|----|
@@ -183,3 +183,15 @@
 |14080|[14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json)|
 |15001|[15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15001_Auto-post_Facebook_and_Instagram_content_with_OpenAI__Google_Sheets_and_review.json)|
 |15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|
+|15162|[15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json)|
+|15381|[15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json)|
+|15832|[15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15832_Generate_short-form_social_videos_with_Claude__ElevenLabs__Creatomate_and_Google_Drive.json)|
+|16018|[16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16018_Route_social_media_content_reviews_with_Google_Gemini_and_Google_Sheets.json)|
+|16140|[16140_Share_and_schedule_blog_posts_to_social_media_using_RSS_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16140_Share_and_schedule_blog_posts_to_social_media_using_RSS_and_Posta.json)|
+|16176|[16176_Create_LinkedIn_news_posts_with_Google_Gemini__OpenAI_images_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16176_Create_LinkedIn_news_posts_with_Google_Gemini__OpenAI_images_and_Slack.json)|
+|16184|[16184_Clean_up_watched_Jellyfin_media_and_completed_torrents_with_Transmission.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16184_Clean_up_watched_Jellyfin_media_and_completed_torrents_with_Transmission.json)|
+|16217|[16217_Send_weekly_Facebook_and_Instagram_PDF_performance_reports_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16217_Send_weekly_Facebook_and_Instagram_PDF_performance_reports_with_Gemini_and_Gmail.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|
+|16435|[16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json)|
+|16528|[16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|

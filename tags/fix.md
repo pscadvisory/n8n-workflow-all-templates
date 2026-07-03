@@ -1,4 +1,4 @@
-# fix : 6
+# fix : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6707|[6707_Fix___Resend_Guest_Order_Emails_in_Magento_2_via_REST_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6707_Fix___Resend_Guest_Order_Emails_in_Magento_2_via_REST_API.json)|
 |6715|[6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json)|
 |9375|[9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json)|
+|15305|[15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json)|

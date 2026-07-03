@@ -1,4 +1,4 @@
-# set : 15
+# set : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |12371|[12371_Send_seasonal_WooCommerce_sales_trend_reports_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12371_Send_seasonal_WooCommerce_sales_trend_reports_to_Slack_and_Google_Sheets.json)|
 |12644|[12644_Evaluate_AI_workflows_using_Google_Sheets__Gemini__Claude__GPT__and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12644_Evaluate_AI_workflows_using_Google_Sheets__Gemini__Claude__GPT__and_Perplexity.json)|
 |14381|[14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14381_Generate_AI_document_titles_for_Paperless-ngx_with_GPT-4o_Mini.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|

@@ -1,4 +1,4 @@
-# vision : 57
+# vision : 64
 
 |id|file|
 |----|----|
@@ -59,3 +59,10 @@
 |13635|[13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13635_List_properties_instantly_with_UploadToURL__OpenAI_Vision__WordPress_and_Airtable.json)|
 |14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|
 |14912|[14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json)|
+|15104|[15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json)|
+|15200|[15200_Analyze_UX_heuristics_from_UI_screenshots_with_GPT-4_Vision_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15200_Analyze_UX_heuristics_from_UI_screenshots_with_GPT-4_Vision_and_Google_Sheets.json)|
+|15612|[15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json)|
+|16354|[16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json)|
+|16389|[16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json)|
+|16400|[16400_Unpublish_NSFW_ImageKit_uploads_with_GPT-4o_Vision_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16400_Unpublish_NSFW_ImageKit_uploads_with_GPT-4o_Vision_via_OpenRouter.json)|
+|16632|[16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json)|

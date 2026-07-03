@@ -1,4 +1,4 @@
-# feed : 31
+# feed : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
 |11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|
 |14704|[14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14704_Fetch_latest_RSS_articles_and_store_non-duplicates_in_Google_Sheets.json)|
+|15226|[15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15226_Filter_AI_slop_from_your_LinkedIn_feed__backend_for_StopSlopIn_Chrome_extension.json)|
+|15750|[15750_Turn_RSS_feed_content_into_AI_avatar_videos_with_HeyGen__Claude__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15750_Turn_RSS_feed_content_into_AI_avatar_videos_with_HeyGen__Claude__and_PostPulse.json)|

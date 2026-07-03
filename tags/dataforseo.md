@@ -1,4 +1,4 @@
-# dataforseo : 27
+# dataforseo : 35
 
 |id|file|
 |----|----|
@@ -29,3 +29,11 @@
 |13689|[13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json)|
 |13694|[13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13694_Pull_new_backlinks_into_Google_Sheets_with_DataForSEO_and_Gmail_email_report.json)|
 |13695|[13695_Monitor_lost_backlinks_with_DataForSEO__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13695_Monitor_lost_backlinks_with_DataForSEO__Google_Sheets_and_Gmail.json)|
+|15107|[15107_Pull_bulk_domain_backlink_profiles_into_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15107_Pull_bulk_domain_backlink_profiles_into_Google_Sheets_with_DataForSEO.json)|
+|15160|[15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|
+|15166|[15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json)|
+|15184|[15184_Track_URL-level_keyword_rankings_in_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15184_Track_URL-level_keyword_rankings_in_Google_Sheets_with_DataForSEO.json)|
+|15319|[15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15319_Collect_keyword_clusters_for_URLs_in_Google_Sheets_with_DataForSEO.json)|
+|15390|[15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15390_Generate_Brave_Search_Goggles_with_DataForSEO__Firecrawl__OpenAI_and_Postgres.json)|
+|16297|[16297_Generate_SEO_tour_blog_posts_with_Claude__DataForSEO__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16297_Generate_SEO_tour_blog_posts_with_Claude__DataForSEO__Google_Docs__and_Slack.json)|

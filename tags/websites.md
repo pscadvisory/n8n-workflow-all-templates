@@ -1,4 +1,4 @@
-# websites : 33
+# websites : 34
 
 |id|file|
 |----|----|
@@ -35,3 +35,4 @@
 |13798|[13798_Turn_websites_into_a_Google_Sheets_database_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13798_Turn_websites_into_a_Google_Sheets_database_with_MrScraper_and_Gmail.json)|
 |14375|[14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json)|
 |14815|[14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|

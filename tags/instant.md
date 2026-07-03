@@ -1,4 +1,4 @@
-# instant : 26
+# instant : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |13464|[13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13464_Scrape_RSS_job_posts__deduplicate_with_Google_Sheets__and_send_Telegram_alerts.json)|
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
 |14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|16092|[16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16386|[16386_Qualify_inbound_leads_with_OpenAI__HubSpot__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16386_Qualify_inbound_leads_with_OpenAI__HubSpot__Slack_and_Gmail.json)|

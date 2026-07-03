@@ -1,4 +1,4 @@
-# pain : 6
+# pain : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8926|[8926_Convert_Reddit_Business_Pain_Points_to_LinkedIn_Posts_with_AI_and_Seedream.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8926_Convert_Reddit_Business_Pain_Points_to_LinkedIn_Posts_with_AI_and_Seedream.json)|
 |10164|[10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json)|
 |12497|[12497_Generate_pain-driven_content_ideas_from_market_signals_with_GPT-4o__Xpoz_MCP__Google_Sheets__ClickUp__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12497_Generate_pain-driven_content_ideas_from_market_signals_with_GPT-4o__Xpoz_MCP__Google_Sheets__ClickUp__and_Slack.json)|
+|15471|[15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json)|

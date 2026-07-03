@@ -1,4 +1,4 @@
-# events : 65
+# events : 73
 
 |id|file|
 |----|----|
@@ -67,3 +67,11 @@
 |14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
 |14932|[14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json)|
 |14971|[14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14971_Promote_calendar_events_with_OpenAI_graphics_to_LinkedIn__X__and_Facebook.json)|
+|15316|[15316_Route_client_onboarding_webhook_events_through_RabbitMQ_to_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15316_Route_client_onboarding_webhook_events_through_RabbitMQ_to_Gmail_alerts.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|
+|15622|[15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json)|
+|15754|[15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15754_Turn_Telegram_voice_messages_into_Gmail_emails_and_Google_Calendar_events_with_Whisper_and_Ollama.json)|
+|15992|[15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15992_Send_Prey_missing-device_alerts_with_Claude_and_Slack_and_log_events_to_Sheets.json)|
+|16097|[16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json)|
+|16440|[16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json)|
+|16498|[16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json)|

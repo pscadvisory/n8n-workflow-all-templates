@@ -1,4 +1,4 @@
-# companies : 25
+# companies : 29
 
 |id|file|
 |----|----|
@@ -27,3 +27,7 @@
 |11937|[11937_Automate_company_data_enrichment_with_HubSpot__Sona__OpenAI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11937_Automate_company_data_enrichment_with_HubSpot__Sona__OpenAI___Google_Sheets.json)|
 |12300|[12300_Find_similar_B2B_companies_to_your_best_customers_with_Google_Sheets_and_CompanyEnrich.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12300_Find_similar_B2B_companies_to_your_best_customers_with_Google_Sheets_and_CompanyEnrich.json)|
 |14103|[14103_Score_and_enrich_lookalike_companies_with_PredictLeads__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14103_Score_and_enrich_lookalike_companies_with_PredictLeads__Google_Sheets_and_Slack.json)|
+|15041|[15041_Enrich_HubSpot_companies_with_multi-source_B2B_data_from_Coresignal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15041_Enrich_HubSpot_companies_with_multi-source_B2B_data_from_Coresignal.json)|
+|15540|[15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15540_Enrich_and_deduplicate_Slack-uploaded_companies_in_HubSpot_with_Coresignal.json)|
+|15851|[15851_Monitor_negative_news_for_watchlist_companies_with_Google_Sheets__SerpAPI__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15851_Monitor_negative_news_for_watchlist_companies_with_Google_Sheets__SerpAPI__Groq__and_Gmail.json)|
+|16345|[16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16345_Find_ICP-matched_companies_or_decision-makers_with_Agent_Jesse.json)|

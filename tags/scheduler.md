@@ -1,4 +1,4 @@
-# scheduler : 25
+# scheduler : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |11600|[11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json)|
 |11939|[11939_Smart_irrigation_scheduler_with_weather_forecast_and_soil_analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11939_Smart_irrigation_scheduler_with_weather_forecast_and_soil_analysis.json)|
 |12043|[12043_Schedule_interviews_and_send_GPT-4_reminders_with_Google_Calendar__Gmail__Slack_and_Recrutei.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12043_Schedule_interviews_and_send_GPT-4_reminders_with_Google_Calendar__Gmail__Slack_and_Recrutei.json)|
+|16784|[16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json)|

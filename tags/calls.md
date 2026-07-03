@@ -1,4 +1,4 @@
-# calls : 46
+# calls : 56
 
 |id|file|
 |----|----|
@@ -48,3 +48,13 @@
 |14799|[14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14799_Analyze_sales_calls_with_Whisper_transcription__GPT-4o__Airtable_and_Slack.json)|
 |14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|
 |15013|[15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15013_Analyze_weekly_Fireflies_sales_calls_with_GPT-4o-mini__Google_Sheets_and_Slack.json)|
+|15103|[15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json)|
+|15106|[15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json)|
+|15621|[15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json)|
+|15664|[15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json)|
+|15677|[15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15677_Qualify_and_book_Facebook_leads_with_ElevenLabs_voice_calls__Cal__Supabase__Slack_and_Gmail.json)|
+|15910|[15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15910_Qualify_and_book_AI_sales_calls_with_GPT-4o-mini_and_LeadConnector_CRM.json)|
+|15990|[15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json)|
+|16048|[16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json)|
+|16337|[16337_Summarize_sales_calls_into_GoHighLevel_notes_with_Deepgram__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16337_Summarize_sales_calls_into_GoHighLevel_notes_with_Deepgram__Gemini__and_Sheets.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

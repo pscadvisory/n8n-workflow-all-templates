@@ -1,4 +1,4 @@
-# metrics : 22
+# metrics : 26
 
 |id|file|
 |----|----|
@@ -24,3 +24,7 @@
 |12156|[12156_Track_BlueSky_post_engagement_metrics_in_Google_Sheets_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12156_Track_BlueSky_post_engagement_metrics_in_Google_Sheets_automatically.json)|
 |13198|[13198_Log_n8n_workflow_errors_to_your_REST_API_with_Slack_alerts_and_metrics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13198_Log_n8n_workflow_errors_to_your_REST_API_with_Slack_alerts_and_metrics.json)|
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|15083|[15083_Analyze_daily_metrics_with_multi-agent_GPT-4o__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15083_Analyze_daily_metrics_with_multi-agent_GPT-4o__Google_Sheets__Slack_and_Gmail.json)|
+|15093|[15093_Send_weekly_Fireflies_meeting_reports_to_Gmail_and_log_metrics_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15093_Send_weekly_Fireflies_meeting_reports_to_Gmail_and_log_metrics_in_Google_Sheets.json)|
+|15134|[15134_Score_customer_support_AI_responses_with_GPT_4_judge_metrics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15134_Score_customer_support_AI_responses_with_GPT_4_judge_metrics.json)|
+|15791|[15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15791_Generate_a_weekly_business_metrics_report_with_Stripe__Notion__Sheets__Claude__SendGrid__and_Slack.json)|

@@ -1,4 +1,4 @@
-# process : 73
+# process : 77
 
 |id|file|
 |----|----|
@@ -75,3 +75,7 @@
 |14272|[14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14272_Process_email_invoices_with_OCR__GPT-4__Slack__QuickBooks_and_Google_Sheets.json)|
 |14524|[14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14524_Process_refund_requests_from_Gmail_using_Shopify_and_Google_Sheets.json)|
 |14981|[14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json)|
+|15775|[15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json)|
+|16350|[16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16350_Process_Telegram_invoice_OCR_with_OCR.space__OpenAI__Sheets_and_Drive.json)|
+|16754|[16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json)|
+|16771|[16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16771_Process_prescription_orders_and_refills_with_Telegram__Google_Gemini_and_Sheets.json)|

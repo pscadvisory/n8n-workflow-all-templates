@@ -1,4 +1,4 @@
-# self : 30
+# self : 35
 
 |id|file|
 |----|----|
@@ -32,3 +32,8 @@
 |14211|[14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
 |14925|[14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json)|
+|15683|[15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json)|
+|15740|[15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json)|
+|15989|[15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json)|
+|15995|[15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json)|
+|16609|[16609_Build_self-improving_agent_skills_with_cognee.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16609_Build_self-improving_agent_skills_with_cognee.json)|

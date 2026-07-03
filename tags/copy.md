@@ -1,4 +1,4 @@
-# copy : 51
+# copy : 54
 
 |id|file|
 |----|----|
@@ -53,3 +53,6 @@
 |14171|[14171_Create_children_s_AI_story_videos_from_drawings_and_auto-publish_to_YouTube_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14171_Create_children_s_AI_story_videos_from_drawings_and_auto-publish_to_YouTube_with_Blotato.json)|
 |14211|[14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json)|
 |14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
+|15181|[15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json)|
+|15222|[15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json)|
+|16096|[16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16096_Score_and_rank_ad_copy_variants_with_Claude_and_Google_Sheets.json)|

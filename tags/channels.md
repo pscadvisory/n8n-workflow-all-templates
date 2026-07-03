@@ -1,4 +1,4 @@
-# channels : 18
+# channels : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |13164|[13164_Send_notifications_across_email__Slack__and_webhook_channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13164_Send_notifications_across_email__Slack__and_webhook_channels.json)|
 |13631|[13631_Monitor_YouTube_channels_and_publish_VideoDB_AI_summaries_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13631_Monitor_YouTube_channels_and_publish_VideoDB_AI_summaries_to_Notion.json)|
 |14017|[14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json)|
+|15304|[15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json)|
+|15366|[15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json)|
+|16435|[16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16435_Promote_YouTube_uploads_to_social_channels_with_DeepSeek_and_Posta.json)|

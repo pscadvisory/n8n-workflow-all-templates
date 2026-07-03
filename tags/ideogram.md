@@ -1,4 +1,4 @@
-# ideogram : 7
+# ideogram : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7941|[7941_Automate_Blog_Creation___Publishing_with_Gemini__Ideogram_AI_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7941_Automate_Blog_Creation___Publishing_with_Gemini__Ideogram_AI_and_WordPress.json)|
 |9658|[9658_Automated_Blog_Creation_from_News_to_Publication_using_Gemini__Ideogram___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9658_Automated_Blog_Creation_from_News_to_Publication_using_Gemini__Ideogram___Slack.json)|
 |12939|[12939_Create_and_publish_SEO_blog_posts_using_Google_Sheets__Gemini_OpenAI__Ideogram__and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12939_Create_and_publish_SEO_blog_posts_using_Google_Sheets__Gemini_OpenAI__Ideogram__and_WordPress.json)|
+|15195|[15195_Create_daily_Facebook_posts_from_Google_Sheets_with_GPT-4o-mini_and_Ideogram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15195_Create_daily_Facebook_posts_from_Google_Sheets_with_GPT-4o-mini_and_Ideogram.json)|

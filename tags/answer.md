@@ -1,4 +1,4 @@
-# answer : 25
+# answer : 35
 
 |id|file|
 |----|----|
@@ -27,3 +27,13 @@
 |14268|[14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14268_Retrieve_and_answer_Gmail_email_queries_with_Llama_3.2__mxbai-embed__and_Qdrant.json)|
 |14497|[14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json)|
 |14552|[14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14552_Answer_wealth_management_portfolio_questions_with_Google_Sheets__live_prices_and_Google_Gemini.json)|
+|15629|[15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15629_Answer_infrastructure_questions_in_Mattermost_with_OpenRouter_and_Qdrant.json)|
+|15888|[15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json)|
+|16136|[16136_Answer_voice_queries_from_a_webhook_over_Google_Drive_docs_using_GPT-4o-mini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16136_Answer_voice_queries_from_a_webhook_over_Google_Drive_docs_using_GPT-4o-mini_and_Supabase.json)|
+|16182|[16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json)|
+|16336|[16336_Answer_support_questions_from_a_knowledge_base_with_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16336_Answer_support_questions_from_a_knowledge_base_with_OpenAI_GPT-4o-mini.json)|
+|16340|[16340_Triage_and_draft_support_email_replies_with_Gmail_and_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16340_Triage_and_draft_support_email_replies_with_Gmail_and_OpenAI_GPT-4.1.json)|
+|16387|[16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16387_Answer_hotel_guest_messages_with_GPT-4o_mini__Slack__and_Google_Sheets.json)|
+|16537|[16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16537_Answer_BigQuery_questions_in_Microsoft_Teams_with_Claude_3.5_dual_agents.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|
+|16708|[16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json)|

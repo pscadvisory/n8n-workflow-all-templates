@@ -1,4 +1,4 @@
-# templates : 18
+# templates : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |13769|[13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json)|
 |13784|[13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13784_Generate_documents_from_saved_templates_and_variables_using_Autype.json)|
 |14992|[14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14992_Create_fillable_document_templates_from_PDF_or_DOCX_with_GPT-4o_and_Google_Drive.json)|
+|15081|[15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15081_Find_the_most_relevant_workflow_templates_using_RAG__Qdrant_and_Gemini.json)|
+|15812|[15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json)|
+|16780|[16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json)|

@@ -1,4 +1,4 @@
-# notifications : 184
+# notifications : 191
 
 |id|file|
 |----|----|
@@ -186,3 +186,10 @@
 |13260|[13260_Back_up_databases_and_files_to_Box_with_Mailgun_email_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13260_Back_up_databases_and_files_to_Box_with_Mailgun_email_notifications.json)|
 |13487|[13487_Send_WooCommerce_new_order_notifications_via_WhatsApp_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13487_Send_WooCommerce_new_order_notifications_via_WhatsApp_with_MoltFlow.json)|
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
+|15188|[15188_Track_Pennylane_invoice_payment_status_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15188_Track_Pennylane_invoice_payment_status_with_Slack_notifications.json)|
+|15459|[15459_Handle_API_retries_with_exponential_backoff__jitter__Slack_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15459_Handle_API_retries_with_exponential_backoff__jitter__Slack_and_email_alerts.json)|
+|15524|[15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json)|
+|16220|[16220_Report_and_clean_up_stale_GitHub_branches_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16220_Report_and_clean_up_stale_GitHub_branches_with_Slack_notifications.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16520|[16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json)|
+|16650|[16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json)|

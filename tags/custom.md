@@ -1,4 +1,4 @@
-# custom : 66
+# custom : 69
 
 |id|file|
 |----|----|
@@ -68,3 +68,6 @@
 |12952|[12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12952_Generate_portfolio_screenshots_and_Upwork_copy_with_Firecrawl__ScreenshotOne__OpenAI_and_Google_Workspace.json)|
 |13030|[13030_Create_long_Audiobooks____with_custom_voices_using_Qwen3-TTS_Voice_Design.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13030_Create_long_Audiobooks____with_custom_voices_using_Qwen3-TTS_Voice_Design.json)|
 |13826|[13826_Generate_AI_songs_from_text_prompts_with_Suno__OpenAI__Google_Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13826_Generate_AI_songs_from_text_prompts_with_Suno__OpenAI__Google_Drive_and_Slack.json)|
+|15575|[15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16656|[16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json)|

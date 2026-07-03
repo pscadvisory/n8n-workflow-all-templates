@@ -1,4 +1,4 @@
-# marketplace : 5
+# marketplace : 9
 
 |id|file|
 |----|----|
@@ -7,3 +7,7 @@
 |7962|[7962_Automate_SEO-Optimized_Blog_Creation_with_GPT-4o__Perplexity_AI___Multi-Language_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7962_Automate_SEO-Optimized_Blog_Creation_with_GPT-4o__Perplexity_AI___Multi-Language_Support.json)|
 |13913|[13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json)|
 |14984|[14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json)|
+|16103|[16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16103_Approve_or_reject_Dokan_marketplace_vendors_from_Slack.json)|
+|16246|[16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16246_Approve_or_reject_Dokan_marketplace_vendors_from_Telegram.json)|
+|16248|[16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json)|
+|16780|[16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json)|

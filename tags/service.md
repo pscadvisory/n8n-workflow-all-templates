@@ -1,4 +1,4 @@
-# service : 49
+# service : 52
 
 |id|file|
 |----|----|
@@ -51,3 +51,6 @@
 |13733|[13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json)|
 |14164|[14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json)|
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
+|15676|[15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json)|
+|15777|[15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json)|
+|16574|[16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16574_Handle_client_intake__routing__and_confirmations_with_Claude__Google_Sheets__Gmail__and_Twilio.json)|

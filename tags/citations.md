@@ -1,4 +1,4 @@
-# citations : 5
+# citations : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |5023|[5023_Build_a_RAG_System_with_Automatic_Citations_using_Qdrant__Gemini___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5023_Build_a_RAG_System_with_Automatic_Citations_using_Qdrant__Gemini___OpenAI.json)|
 |7939|[7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json)|
 |8504|[8504_Extract___Validate_Legal_Citations_from_Documents_with_PDF_Vector_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8504_Extract___Validate_Legal_Citations_from_Documents_with_PDF_Vector_AI.json)|
+|16742|[16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json)|

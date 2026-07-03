@@ -1,4 +1,4 @@
-# ranked : 6
+# ranked : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |13490|[13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13490_Turn_new_high-volume_ranked_keywords_into_Asana_tasks_with_DataForSEO.json)|
 |13508|[13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json)|
 |13555|[13555_Gamify_Keephub_form_response_times_and_email_a_ranked_leaderboard_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13555_Gamify_Keephub_form_response_times_and_email_a_ranked_leaderboard_via_Gmail.json)|
+|15074|[15074_Monitor_TikTok_hashtag_trends_with_Apify_and_send_ranked_reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15074_Monitor_TikTok_hashtag_trends_with_Apify_and_send_ranked_reports_via_Gmail.json)|
+|15183|[15183_Analyze_YouTube_videos_with_GPT-4o-mini_and_get_relevance-ranked_insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15183_Analyze_YouTube_videos_with_GPT-4o-mini_and_get_relevance-ranked_insights.json)|

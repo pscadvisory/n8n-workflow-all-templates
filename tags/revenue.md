@@ -1,4 +1,4 @@
-# revenue : 20
+# revenue : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |12970|[12970_Schedule_and_confirm_revenue_ops_meetings_with_Pipedrive__Google_Calendar_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12970_Schedule_and_confirm_revenue_ops_meetings_with_Pipedrive__Google_Calendar_and_Slack.json)|
 |13341|[13341_Route_revenue_transactions_and_assess_AI_outputs_with_Anthropic_Claude_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13341_Route_revenue_transactions_and_assess_AI_outputs_with_Anthropic_Claude_and_OpenAI.json)|
 |13587|[13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13587_Analyze_Amazon_review_friction_and_revenue_impact_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
+|15297|[15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15297_Sync_and_score_PLG_leads_between_Segment__Attio__Intercom__Lemlist_and_ActiveCampaign_with_Claude_and_OpenAI.json)|

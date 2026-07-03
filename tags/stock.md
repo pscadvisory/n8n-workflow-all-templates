@@ -1,4 +1,4 @@
-# stock : 78
+# stock : 89
 
 |id|file|
 |----|----|
@@ -80,3 +80,14 @@
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
 |14843|[14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json)|
 |14898|[14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json)|
+|15325|[15325_Analyze_daily_stock_news_sentiment_with_Gemini_AI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15325_Analyze_daily_stock_news_sentiment_with_Gemini_AI__Google_Sheets_and_Gmail.json)|
+|15515|[15515_Send_AI_stock_risk_alerts_from_Google_Sheets_with_Twelve_Data_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15515_Send_AI_stock_risk_alerts_from_Google_Sheets_with_Twelve_Data_and_Groq.json)|
+|15649|[15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json)|
+|15669|[15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json)|
+|15670|[15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15670_Analyze_your_stock_portfolio_daily_using_Google_Sheets__RSS__Groq_LLM_and_Gmail.json)|
+|15680|[15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|15972|[15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json)|
+|16541|[16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16541_Send_low-stock_inventory_reorder_emails_from_Snowflake_with_Claude_and_Outlook.json)|
+|16705|[16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json)|

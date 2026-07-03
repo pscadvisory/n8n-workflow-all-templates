@@ -1,4 +1,4 @@
-# compare : 28
+# compare : 30
 
 |id|file|
 |----|----|
@@ -30,3 +30,5 @@
 |14330|[14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json)|
 |14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15072|[15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json)|
+|15472|[15472_Compare_rental_estimates_from_Zillow__HUD_FMR_and_Rentometer_with_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15472_Compare_rental_estimates_from_Zillow__HUD_FMR_and_Rentometer_with_GPT-4.1.json)|

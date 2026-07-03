@@ -1,4 +1,4 @@
-# tally : 13
+# tally : 17
 
 |id|file|
 |----|----|
@@ -15,3 +15,7 @@
 |13314|[13314_Route_and_analyze_customer_feedback_with_Qwen3-VL__Tally__PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13314_Route_and_analyze_customer_feedback_with_Qwen3-VL__Tally__PostgreSQL.json)|
 |13757|[13757_Automate_contract_signing_from_Tally_to_Airtable_and_DocuSign.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13757_Automate_contract_signing_from_Tally_to_Airtable_and_DocuSign.json)|
 |14474|[14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json)|
+|15057|[15057_Screen_job_applicants_and_send_Gmail_responses_with_Tally_and_OpenAI_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15057_Screen_job_applicants_and_send_Gmail_responses_with_Tally_and_OpenAI_GPT-5.4.json)|
+|15058|[15058_Generate_blog_drafts_from_Tally_content_briefs_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15058_Generate_blog_drafts_from_Tally_content_briefs_with_OpenAI_and_Google_Docs.json)|
+|15059|[15059_Score_inbound_B2B_leads_with_OpenAI_GPT-5.4_using_Tally_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15059_Score_inbound_B2B_leads_with_OpenAI_GPT-5.4_using_Tally_and_Google_Sheets.json)|
+|16170|[16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16170_Generate_freelance_proposal_PDFs_from_Tally_with_GPT-4o_and_Gmail.json)|

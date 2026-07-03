@@ -1,4 +1,4 @@
-# com : 61
+# com : 68
 
 |id|file|
 |----|----|
@@ -63,3 +63,10 @@
 |13794|[13794_Convert_Make.com_blueprints_to_workflows_with_Azure_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13794_Convert_Make.com_blueprints_to_workflows_with_Azure_OpenAI_and_Google_Sheets.json)|
 |14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
 |14226|[14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json)|
+|15117|[15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json)|
+|15477|[15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15477_Average_property_value_estimates_from_Zillow__Redfin__and_Realtor.com.json)|
+|15947|[15947_Track_WTI_crude_futures_from_Oilprice.com_and_send_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15947_Track_WTI_crude_futures_from_Oilprice.com_and_send_Telegram_alerts.json)|
+|16087|[16087_Handle_WhatsApp_support_and_Cal.com_bookings_with_Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16087_Handle_WhatsApp_support_and_Cal.com_bookings_with_Gemini_and_Google_Docs.json)|
+|16383|[16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json)|
+|16504|[16504_Enrich_and_route_inbound_leads_using_You.com__Groq__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16504_Enrich_and_route_inbound_leads_using_You.com__Groq__Notion__and_Slack.json)|
+|16618|[16618_Build_hospitality_lead_lists_from_Booking.com_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16618_Build_hospitality_lead_lists_from_Booking.com_using_Apify_and_Google_Sheets.json)|

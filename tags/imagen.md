@@ -1,4 +1,4 @@
-# imagen : 7
+# imagen : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6772|[6772_Generate_LinkedIn_Posts_with_Gemini_Content___Imagen_Images_for_Instant_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6772_Generate_LinkedIn_Posts_with_Gemini_Content___Imagen_Images_for_Instant_Publishing.json)|
 |9374|[9374_Generate_Social_Media_Ad_Images_for_FB_IG_Pinterest_with_Google_Gemini_Imagen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9374_Generate_Social_Media_Ad_Images_for_FB_IG_Pinterest_with_Google_Gemini_Imagen.json)|
 |13751|[13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json)|
+|16216|[16216_Create_SEO-ready_WordPress_blog_drafts_with_Claude__Imagen_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16216_Create_SEO-ready_WordPress_blog_drafts_with_Claude__Imagen_and_Slack.json)|

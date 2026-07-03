@@ -1,4 +1,4 @@
-# investment : 14
+# investment : 19
 
 |id|file|
 |----|----|
@@ -16,3 +16,8 @@
 |14239|[14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14239_Screen_and_score_investment_deals_with_AI_using_OpenAI__Gmail__and_Telegram.json)|
 |14898|[14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14898_Generate_Indian_stock_investment_ideas_using_Groq_AI__Google_Sheets_and_stock_API.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15066|[15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json)|
+|15387|[15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json)|
+|15569|[15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json)|
+|16260|[16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16260_Send_commodity_investment_briefings_from_CNBC_RSS_with_Gemini_and_Slack.json)|
+|16308|[16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16308_Simulate_investment_scenarios_with_Groq_and_live_Google_News_RSS_feeds.json)|

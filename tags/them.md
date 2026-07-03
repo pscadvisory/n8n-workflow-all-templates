@@ -1,4 +1,4 @@
-# them : 42
+# them : 49
 
 |id|file|
 |----|----|
@@ -44,3 +44,10 @@
 |14677|[14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14677_Fetch_daily_YouTube_videos_from_top_AI_automators_and_log_them_to_Google_Sheets.json)|
 |14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|15100|[15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json)|
+|15258|[15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15258_Generate_school_report_card_PDFs_and_email_them_to_parents_with_Gmail.json)|
+|15304|[15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json)|
+|15444|[15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json)|
+|15663|[15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15663_Scrape_LinkedIn_job_listings_with_Apify_and_save_them_in_Airtable_weekly.json)|
+|15866|[15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15866_Classify_documents_with_Gemini_and_organize_them_in_Google_Drive.json)|
+|16773|[16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json)|

@@ -1,4 +1,4 @@
-# curated : 12
+# curated : 15
 
 |id|file|
 |----|----|
@@ -14,3 +14,6 @@
 |12436|[12436_Auto-post_curated_remote_jobs_to_Telegram_with_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12436_Auto-post_curated_remote_jobs_to_Telegram_with_BrowserAct_and_Gemini.json)|
 |13382|[13382_Post_curated_remote_job_listings_to_Slack_with_BrowserAct_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13382_Post_curated_remote_job_listings_to_Slack_with_BrowserAct_and_OpenRouter.json)|
 |14952|[14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14952_Send_a_curated_tech_RSS_digest_to_Gmail_with_OpenAI_GPT-5_Mini.json)|
+|15136|[15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15136_Send_an_AI_curated_weekly_sports_newsletter_with_Reddit__GPT_4o-mini__Gemini_and_Outlook.json)|
+|16037|[16037_Send_a_weekly_AI_curated_RSS_digest_email_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16037_Send_a_weekly_AI_curated_RSS_digest_email_with_OpenAI_and_Gmail.json)|
+|16675|[16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16675_Send_weekly_curated_news_newsletters_with_Bright_Data__Claude__and_Gmail.json)|

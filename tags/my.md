@@ -1,4 +1,4 @@
-# my : 143
+# my : 149
 
 |id|file|
 |----|----|
@@ -145,3 +145,9 @@
 |13530|[13530_Verify_email_content_against_Google_Sheets_and_Gmail_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13530_Verify_email_content_against_Google_Sheets_and_Gmail_logs.json)|
 |13566|[13566_Validate_email_font_families_from_Gmail_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13566_Validate_email_font_families_from_Gmail_with_Google_Sheets.json)|
 |13679|[13679_Validate_email_hero_images_with_Gmail__Dropbox__OCR.Space_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13679_Validate_email_hero_images_with_Gmail__Dropbox__OCR.Space_and_Google_Sheets.json)|
+|15075|[15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15075_Send_automatic_LinkedIn_replies_to_recent_profile_viewers_using_SourceGeek.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|15387|[15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json)|
+|15509|[15509_Create_a_daily_Jira_to-do_email_with_Gmail_and_OpenRouter_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15509_Create_a_daily_Jira_to-do_email_with_Gmail_and_OpenRouter_GPT.json)|
+|16214|[16214_Parse_WhatsApp_invoice_images_with_Gemini_and_sync_payments_to_HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16214_Parse_WhatsApp_invoice_images_with_Gemini_and_sync_payments_to_HubSpot_and_Slack.json)|
+|16650|[16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16650_Send_portfolio_contact_form_notifications_and_confirmations_with_Gmail.json)|

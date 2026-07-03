@@ -1,4 +1,4 @@
-# ghost : 8
+# ghost : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |5934|[5934_Automated_Blog_Post_Generation_with_GPT-4_and_Publishing_to_Ghost_CMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5934_Automated_Blog_Post_Generation_with_GPT-4_and_Publishing_to_Ghost_CMS.json)|
 |7920|[7920_Full_Blog_Content_Automation_with_GPT-4__Claude___Ghost_CMS_Publisher.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7920_Full_Blog_Content_Automation_with_GPT-4__Claude___Ghost_CMS_Publisher.json)|
 |14385|[14385_Sync_Ghost_members_with_MailerLite_subscribers_in_real_time.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14385_Sync_Ghost_members_with_MailerLite_subscribers_in_real_time.json)|
+|16586|[16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16586_Publish_science_newsletter_posts_from_YouTube_using_Ghost_and_Google_Sheets.json)|

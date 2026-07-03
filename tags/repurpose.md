@@ -1,4 +1,4 @@
-# repurpose : 21
+# repurpose : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |14080|[14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json)|
 |14540|[14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14540_Repurpose_influencer_videos_into_short_clips_using_WayinVideo_AI_and_Google_Drive.json)|
 |15014|[15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15014_Repurpose_YouTube_videos_into_multi-platform_content_with_OpenAI_and_Anthropic.json)|
+|16060|[16060_Repurpose_YouTube_videos_into_multichannel_content_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16060_Repurpose_YouTube_videos_into_multichannel_content_with_Gemini_and_Google_Sheets.json)|
+|16158|[16158_Repurpose_RSS_blog_posts_into_social_content_with_OpenAI__Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16158_Repurpose_RSS_blog_posts_into_social_content_with_OpenAI__Sheets__Gmail_and_Slack.json)|
+|16349|[16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json)|
+|16579|[16579_Repurpose_YouTube_Shorts_from_Telegram_to_Facebook__Instagram_and_TikTok_with_Apify_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16579_Repurpose_YouTube_Shorts_from_Telegram_to_Facebook__Instagram_and_TikTok_with_Apify_and_OpenAI.json)|

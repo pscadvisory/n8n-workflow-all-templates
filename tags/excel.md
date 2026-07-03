@@ -1,4 +1,4 @@
-# excel : 53
+# excel : 63
 
 |id|file|
 |----|----|
@@ -55,3 +55,13 @@
 |14317|[14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14317_Generate_production_database_schemas_from_Excel_and_CSV_with_OpenAI_and_LangChain.json)|
 |14539|[14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14539_Generate_Google_Forms_quizzes_from_Excel_files_sent_via_Telegram.json)|
 |14982|[14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14982_Generate_PDF_pricing_proposals_from_Excel_with_Gotenberg_and_Outlook.json)|
+|15174|[15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json)|
+|15252|[15252_Run_automated_SEO_audits_with_Screaming_Frog_CLI__PageSpeed__PDF_and_Excel_fixes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15252_Run_automated_SEO_audits_with_Screaming_Frog_CLI__PageSpeed__PDF_and_Excel_fixes.json)|
+|15723|[15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15723_Extract_and_log_Outlook_invoices_to_OneDrive_Excel_with_GPT-4.1-mini.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|
+|16129|[16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json)|
+|16172|[16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json)|
+|16369|[16369_Send_a_daily_AI_news_RSS_digest_with_GPT-4o__Gmail__and_Microsoft_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16369_Send_a_daily_AI_news_RSS_digest_with_GPT-4o__Gmail__and_Microsoft_Excel.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|
+|16616|[16616_Generate_personalized_franchise_PDF_letters_from_Excel_with_Google_Drive_and_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16616_Generate_personalized_franchise_PDF_letters_from_Excel_with_Google_Drive_and_Docs.json)|
+|16692|[16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json)|

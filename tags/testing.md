@@ -1,4 +1,4 @@
-# testing : 11
+# testing : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |8790|[8790_A_B_Test_AI_Prompts_with_Supabase__Langchain_Agent___OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8790_A_B_Test_AI_Prompts_with_Supabase__Langchain_Agent___OpenAI_GPT-4o.json)|
 |10302|[10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json)|
 |10330|[10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json)|
+|16632|[16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json)|

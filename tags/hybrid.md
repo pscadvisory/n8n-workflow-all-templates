@@ -1,4 +1,4 @@
-# hybrid : 7
+# hybrid : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |11276|[11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json)|
 |12725|[12725_Verify_AI_draft_answers_with_Pearl_Hybrid_Intelligence_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12725_Verify_AI_draft_answers_with_Pearl_Hybrid_Intelligence_and_OpenAI.json)|
 |13746|[13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13746_Qualify_and_score_leads_in_Airtable_with_OpenAI_and_Slack_alerts.json)|
+|15307|[15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json)|
+|16040|[16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16040_Build_hybrid_RAG_search_over_PDFs_with_Qdrant_and_Ollama.json)|

@@ -1,4 +1,4 @@
-# gold : 8
+# gold : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|
 |14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|16303|[16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|

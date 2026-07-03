@@ -1,4 +1,4 @@
-# company : 76
+# company : 87
 
 |id|file|
 |----|----|
@@ -78,3 +78,14 @@
 |13457|[13457_Enrich_Airtable_company_records_with_web_research_using_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13457_Enrich_Airtable_company_records_with_web_research_using_OpenAI_GPT-4o.json)|
 |13523|[13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13523_Enrich_and_score_B2B_company_leads_with_Clearbit__Hunter.io__and_Gemini_AI.json)|
 |14157|[14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14157_Build_a_company_website_RAG_chatbot_using_Apify__Pinecone_and_Gemini.json)|
+|15265|[15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json)|
+|15383|[15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json)|
+|15650|[15650_Enrich_Airtable_company_phones_from_website__LinkedIn__Google_Maps__and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15650_Enrich_Airtable_company_phones_from_website__LinkedIn__Google_Maps__and_Claude.json)|
+|16046|[16046_Enrich_and_classify_company_leads_in_Google_Sheets_with_Crawl4AI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16046_Enrich_and_classify_company_leads_in_Google_Sheets_with_Crawl4AI_and_Gemini.json)|
+|16223|[16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16223_Enrich_company_records_in_Google_Sheets_with_Gemini_Flash_and_SerpAPI.json)|
+|16415|[16415_Identify_company_decision_makers_with_Coresignal_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16415_Identify_company_decision_makers_with_Coresignal_and_Google_Sheets.json)|
+|16417|[16417_Enrich_existing_HubSpot_company_records_with_Veridion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16417_Enrich_existing_HubSpot_company_records_with_Veridion.json)|
+|16438|[16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16438_Score_company_ad_spend_from_Meta__Google_and_LinkedIn_Ads_with_Google_Sheets.json)|
+|16577|[16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16577_Enrich_B2B_leads_with_Tavily_search__Groq_Llama_3.3__and_Google_Sheets.json)|
+|16633|[16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16633_Enrich_company_records_with_social_media_URLs_using_Supabase_and_GPT-4o.json)|
+|16708|[16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json)|

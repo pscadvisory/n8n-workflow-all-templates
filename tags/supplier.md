@@ -1,4 +1,4 @@
-# supplier : 9
+# supplier : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |13330|[13330_Detect_procurement_fraud_and_monitor_supplier_compliance_with_GPT-4o_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13330_Detect_procurement_fraud_and_monitor_supplier_compliance_with_GPT-4o_and_Slack.json)|
 |13586|[13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
+|15686|[15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json)|
+|16241|[16241_Verify_Australian_supplier_ABNs_with_ABR__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16241_Verify_Australian_supplier_ABNs_with_ABR__Google_Sheets_and_Gmail.json)|
+|16448|[16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16448_Create_work4all_incoming_invoices_from_Microsoft_Outlook_supplier_emails.json)|

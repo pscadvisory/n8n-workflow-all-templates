@@ -1,4 +1,4 @@
-# plan : 14
+# plan : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |14095|[14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14095_Create_a_weekly_Mealie_dinner_plan_and_generate_a_smart_shopping_list.json)|
 |14745|[14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14745_Keep_Supabase_free_plan_projects_alive_with_scheduled_database_pings.json)|
 |14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|
+|15243|[15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json)|
+|16028|[16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16028_Plan_daily_study_schedules_with_GPT-4o-mini__Google_Calendar__Sheets_and_Gmail.json)|
+|16154|[16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16154_Plan_delivery_routes_from_Notion_orders_with_Nominatim_and_email.json)|

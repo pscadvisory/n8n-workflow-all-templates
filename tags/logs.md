@@ -1,4 +1,4 @@
-# logs : 16
+# logs : 19
 
 |id|file|
 |----|----|
@@ -18,3 +18,6 @@
 |14044|[14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json)|
 |14193|[14193_Generate_AI_math_RPG_quests_from_study_logs_with_Google_Sheets_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14193_Generate_AI_math_RPG_quests_from_study_logs_with_Google_Sheets_and_OpenRouter.json)|
 |14409|[14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json)|
+|15305|[15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json)|
+|15478|[15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15478_Analyze_OpenObserve_logs_and_traces_with_an_AI_MCP_observability_toolkit.json)|
+|15773|[15773_Mask_PII_before_GPT-5.5_analysis_with_Google_Sheets_audit_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15773_Mask_PII_before_GPT-5.5_analysis_with_Google_Sheets_audit_logs.json)|

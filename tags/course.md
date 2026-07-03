@@ -1,4 +1,4 @@
-# course : 8
+# course : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |12248|[12248_Track_Udemy_course_discounts_with_Airtop__Google_Sheets_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12248_Track_Udemy_course_discounts_with_Airtop__Google_Sheets_and_Telegram_alerts.json)|
 |12731|[12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json)|
 |13693|[13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json)|
+|15493|[15493_Turn_webinars_into_a_5-day_email_course_using_WayinVideo__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15493_Turn_webinars_into_a_5-day_email_course_using_WayinVideo__GPT-4o-mini__and_Google_Sheets.json)|
+|15553|[15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json)|

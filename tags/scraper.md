@@ -1,4 +1,4 @@
-# scraper : 100
+# scraper : 110
 
 |id|file|
 |----|----|
@@ -102,3 +102,13 @@
 |13991|[13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13991_Track_Redfin_real_estate_listings_with_ScrapeOps__Google_Sheets__and_Slack.json)|
 |14505|[14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14505_Extract_Google_Maps_business_leads_with_Apify__GPT-4o-mini_and_Google_Sheets.json)|
 |15008|[15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json)|
+|15453|[15453_Scrape_and_rewrite_LinkedIn_AI_posts_with_Apify__Groq__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15453_Scrape_and_rewrite_LinkedIn_AI_posts_with_Apify__Groq__OpenAI_and_Google_Sheets.json)|
+|15510|[15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json)|
+|15661|[15661_Enrich_LinkedIn_profiles_in_Airtable_with_Apify_s_LinkedIn_scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15661_Enrich_LinkedIn_profiles_in_Airtable_with_Apify_s_LinkedIn_scraper.json)|
+|15938|[15938_Enrich_Google_Maps_business_leads_with_emails_using_SerpApi_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15938_Enrich_Google_Maps_business_leads_with_emails_using_SerpApi_and_Airtable.json)|
+|15960|[15960_Generate_city-based_business_leads_with_Google_Maps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15960_Generate_city-based_business_leads_with_Google_Maps_and_Google_Sheets.json)|
+|15979|[15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15979_Create_daily_AI_news_briefings_from_Google_Sheets_with_Claude__Notion__and_Slack.json)|
+|16354|[16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16354_Extract_ecommerce_product_data_with_Google_Sheets__ScrapingBee_and_Gemini.json)|
+|16421|[16421_Scrape_business_emails_from_Google_Maps_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16421_Scrape_business_emails_from_Google_Maps_to_Google_Sheets.json)|
+|16634|[16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json)|
+|16665|[16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json)|

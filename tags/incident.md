@@ -1,4 +1,4 @@
-# incident : 23
+# incident : 28
 
 |id|file|
 |----|----|
@@ -25,3 +25,8 @@
 |12686|[12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12686_Predict_incidents_and_run_autonomous_remediation_with_GPT-4_and_Slack.json)|
 |13322|[13322_Detect_and_route_gameplay_security_anomalies_with_GPT-4o__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13322_Detect_and_route_gameplay_security_anomalies_with_GPT-4o__Slack_and_Sheets.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|15611|[15611_Investigate_Mattermost_incident_reports_with_an_AI_SRE_assistant_using_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15611_Investigate_Mattermost_incident_reports_with_an_AI_SRE_assistant_using_OpenRouter.json)|
+|15674|[15674_Triage_Microsoft_365_incidents_into_Jira_with_GPT-4o-mini__PagerDuty_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15674_Triage_Microsoft_365_incidents_into_Jira_with_GPT-4o-mini__PagerDuty_and_Teams.json)|
+|16378|[16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json)|
+|16446|[16446_Generate_incident_response_reports_with_Supabase__Gemini_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16446_Generate_incident_response_reports_with_Supabase__Gemini_and_Claude.json)|
+|16744|[16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json)|

@@ -1,4 +1,4 @@
-# one : 27
+# one : 32
 
 |id|file|
 |----|----|
@@ -29,3 +29,8 @@
 |14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
 |14497|[14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14497_Combine_answers_from_OpenAI__Anthropic__Gemini_and_Groq_into_one_consensus.json)|
 |14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
+|15328|[15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json)|
+|16468|[16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16468_Sync_SAP_Business_One_OData_records_with_Google_Sheets_daily.json)|
+|16589|[16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16589_Send_SAP_Business_One_order_and_invoice_alerts_via_WhatsApp_Cloud_API.json)|
+|16597|[16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json)|
+|16705|[16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16705_Send_SAP_Business_One_low_stock_alerts_via_WhatsApp_and_email.json)|

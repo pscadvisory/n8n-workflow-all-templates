@@ -1,4 +1,4 @@
-# appointment : 41
+# appointment : 47
 
 |id|file|
 |----|----|
@@ -43,3 +43,9 @@
 |13482|[13482_Send_WhatsApp_appointment_reminders_from_Google_Calendar_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13482_Send_WhatsApp_appointment_reminders_from_Google_Calendar_with_MoltFlow.json)|
 |13697|[13697_Send_WhatsApp_appointment_reminders_and_reschedule_bookings_with_Wati_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13697_Send_WhatsApp_appointment_reminders_and_reschedule_bookings_with_Wati_and_Google_Sheets.json)|
 |13960|[13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13960_Triage_and_schedule_healthcare_appointments_with_Azure_OpenAI__Google_Sheets_and_Gmail.json)|
+|15117|[15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json)|
+|15577|[15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15577_Send_Google_Calendar_appointment_reminder_SMS_with_RCSZilla.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|
+|16155|[16155_Send_missed_appointment_rescheduling_emails_with_webhook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16155_Send_missed_appointment_rescheduling_emails_with_webhook_and_Gmail.json)|
+|16605|[16605_Triage_telehealth_appointments_with_GPT-4o-mini__Telegram__Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16605_Triage_telehealth_appointments_with_GPT-4o-mini__Telegram__Google_Calendar.json)|
+|16680|[16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16680_Book_and_confirm_clinic_appointments_with_WhatsApp__Google_Calendar__and_Gmail.json)|

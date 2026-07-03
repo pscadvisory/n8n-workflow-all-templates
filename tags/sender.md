@@ -1,4 +1,4 @@
-# sender : 9
+# sender : 14
 
 |id|file|
 |----|----|
@@ -11,3 +11,8 @@
 |8978|[8978_LinkedIn_Lead_Enrichment___Cold-Email_Sender_with_Apify___OpenRouter___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8978_LinkedIn_Lead_Enrichment___Cold-Email_Sender_with_Apify___OpenRouter___Gmail.json)|
 |8986|[8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json)|
 |11518|[11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json)|
+|15984|[15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|
+|16173|[16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json)|
+|16364|[16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16364_Send_a_daily_product_newsletter_with_Google_Sheets_and_Gmail.json)|
+|16498|[16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16498_Send_daily_product_newsletters_via_Gmail_and_track_events_in_Google_Sheets.json)|

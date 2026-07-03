@@ -1,4 +1,4 @@
-# writer : 8
+# writer : 13
 
 |id|file|
 |----|----|
@@ -10,3 +10,8 @@
 |7279|[7279_SEO_Writer__Content_Generator__2500_keywords__with_Perplexity___Auto_Publish.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7279_SEO_Writer__Content_Generator__2500_keywords__with_Perplexity___Auto_Publish.json)|
 |7671|[7671_Blog_Writer___Editor_with_Google_Sheets_Memory__GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7671_Blog_Writer___Editor_with_Google_Sheets_Memory__GPT-4.json)|
 |9079|[9079_End-to-End_Ai_Blog_Research_and_Writer_with_Gemini_AI__Supabase_and_Nano-Banana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9079_End-to-End_Ai_Blog_Research_and_Writer_with_Gemini_AI__Supabase_and_Nano-Banana.json)|
+|15280|[15280_Generate_and_publish_SEO_blog_posts_from_Google_Sheets_to_Webflow_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15280_Generate_and_publish_SEO_blog_posts_from_Google_Sheets_to_Webflow_with_OpenAI.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|15952|[15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15952_Draft_and_revise_technical_articles_with_OpenRouter_in_a_content_pipeline.json)|
+|15989|[15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15989_Generate_and_refine_technical_drafts_with_OpenRouter_writer_and_critic_agents.json)|
+|15994|[15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15994_Orchestrate_iterative_content_drafting_with_research__writer_and_reviewer_flows.json)|

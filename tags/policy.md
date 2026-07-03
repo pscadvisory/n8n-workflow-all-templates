@@ -1,4 +1,4 @@
-# policy : 18
+# policy : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
 |14436|[14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json)|
 |14438|[14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json)|
+|15922|[15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15922_Generate_AI_governance_policy_PDFs_with_OpenAI__SerpAPI__Gotenberg_and_SharePoint.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|
+|16708|[16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json)|

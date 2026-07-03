@@ -1,4 +1,4 @@
-# tracking : 156
+# tracking : 169
 
 |id|file|
 |----|----|
@@ -158,3 +158,16 @@
 |14436|[14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json)|
 |14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
 |14705|[14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14705_Track_Facebook_event_RSVPs_in_Airtable_and_send_Slack_capacity_alerts.json)|
+|15164|[15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|15465|[15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15465_Auto-reply_to_Instagram_comments_with_Gemini_and_Google_Sheets_tracking.json)|
+|15622|[15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15622_Send_order_tracking_updates_via_WhatsApp_and_log_events_to_Google_Sheets.json)|
+|15649|[15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json)|
+|15680|[15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json)|
+|16175|[16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16175_Handle_WhatsApp_orders__FAQs__and_tracking_with_GPT-4o__Pinecone__and_Sheets.json)|
+|16249|[16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16338|[16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16338_Aggregate_shipment_tracking_statuses_with_FedEx__UPS_and_DHL.json)|
+|16392|[16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json)|
+|16394|[16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json)|
+|16428|[16428_Track_post-therapy_wellness_with_GPT-4o-mini__Telegram__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16428_Track_post-therapy_wellness_with_GPT-4o-mini__Telegram__Slack_and_Sheets.json)|

@@ -1,4 +1,4 @@
-# talent : 6
+# talent : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |9878|[9878_Extract_and_Analyze_Talent_Intelligence_and_Data_Mining_with_LinkedIn__Decodo__and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9878_Extract_and_Analyze_Talent_Intelligence_and_Data_Mining_with_LinkedIn__Decodo__and_GPT-4o-mini.json)|
 |9891|[9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json)|
 |13898|[13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json)|
+|15193|[15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

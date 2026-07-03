@@ -1,4 +1,4 @@
-# performance : 55
+# performance : 61
 
 |id|file|
 |----|----|
@@ -57,3 +57,9 @@
 |14321|[14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14321_Send_weekly_Databox_paid_ads_performance_reports_to_Slack_and_email.json)|
 |14332|[14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14332_Generate_weekly_AI_business_digest_from_Google_Sheets_with_GPT-4o_and_send_to_Slack_and_email.json)|
 |14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|
+|16217|[16217_Send_weekly_Facebook_and_Instagram_PDF_performance_reports_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16217_Send_weekly_Facebook_and_Instagram_PDF_performance_reports_with_Gemini_and_Gmail.json)|
+|16245|[16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16245_Send_white-label_ad_performance_reports_with_Claude__Gmail_and_Google_Sheets.json)|
+|16291|[16291_Send_daily_outbound_performance_digests_with_Google_Sheets__Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16291_Send_daily_outbound_performance_digests_with_Google_Sheets__Claude_and_Gmail.json)|
+|16310|[16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16310_Fetch_full_Google_Ads_account_audit_data_as_merged_JSON.json)|
+|16476|[16476_Send_weekly_YouTube_performance_digests_with_OpenAI__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16476_Send_weekly_YouTube_performance_digests_with_OpenAI__Slack__Gmail_and_Sheets.json)|
+|16585|[16585_Monitor_warehouse_receiving_performance_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16585_Monitor_warehouse_receiving_performance_with_Google_Sheets__Gemini__and_Gmail.json)|

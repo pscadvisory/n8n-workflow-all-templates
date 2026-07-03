@@ -1,4 +1,4 @@
-# prioritization : 7
+# prioritization : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |9736|[9736_Automate_Support_Ticket_Prioritization_with_Jotform__Gemini_AI__ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9736_Automate_Support_Ticket_Prioritization_with_Jotform__Gemini_AI__ClickUp_Tasks.json)|
 |10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|
 |12991|[12991_Prioritize_vehicle_maintenance_with_Anthropic_Claude_using_telemetry_and_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12991_Prioritize_vehicle_maintenance_with_Anthropic_Claude_using_telemetry_and_history.json)|
+|15700|[15700_Send_a_daily_prioritized_CVE_digest_from_NVD_to_Slack_and_Gmail_with_EPSS_and_CISA_KEV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15700_Send_a_daily_prioritized_CVE_digest_from_NVD_to_Slack_and_Gmail_with_EPSS_and_CISA_KEV.json)|
+|16434|[16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16434_Prioritize_exception_queues_with_Gemini__Google_Sheets__Slack_and_Gmail.json)|

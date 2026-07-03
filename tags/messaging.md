@@ -1,4 +1,4 @@
-# messaging : 21
+# messaging : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |9738|[9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json)|
 |11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|
 |14432|[14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json)|
+|15264|[15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json)|
+|16288|[16288_Track_competitor_ad_messaging_shifts_with_Adyntel__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16288_Track_competitor_ad_messaging_shifts_with_Adyntel__OpenAI_and_Google_Sheets.json)|
+|16573|[16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json)|
+|16722|[16722_Generate_personalized_email_salutations_for_KlickTipp_contacts_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16722_Generate_personalized_email_salutations_for_KlickTipp_contacts_with_OpenAI.json)|

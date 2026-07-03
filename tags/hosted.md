@@ -1,4 +1,4 @@
-# hosted : 15
+# hosted : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |13422|[13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13422_Implement_on-prem_RAG_with_Qdrant_and_Ollama_for_a_self-hosted_KB.json)|
 |13717|[13717_Run_a_self-hosted_multi-channel_AI_assistant_with_Claude__Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13717_Run_a_self-hosted_multi-channel_AI_assistant_with_Claude__Gemini_and_Gmail.json)|
 |14925|[14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14925_Sync_self-hosted_workflow_backups_to_GitHub_for_version_control.json)|
+|15683|[15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json)|
+|15740|[15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json)|

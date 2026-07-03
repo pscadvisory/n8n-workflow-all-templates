@@ -1,4 +1,4 @@
-# tables : 25
+# tables : 34
 
 |id|file|
 |----|----|
@@ -27,3 +27,12 @@
 |13442|[13442_Store_variables_between_workflow_runs_using_data_tables_as_a_key-value_store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13442_Store_variables_between_workflow_runs_using_data_tables_as_a_key-value_store.json)|
 |13536|[13536_Design_scalable_sync_workflows_with_Data_Tables__ProspectPro_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13536_Design_scalable_sync_workflows_with_Data_Tables__ProspectPro_and_HubSpot.json)|
 |14593|[14593_Triage_contact_form_enquiries_with_GPT-4.1__Gmail__Telegram_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14593_Triage_contact_form_enquiries_with_GPT-4.1__Gmail__Telegram_and_Data_Tables.json)|
+|15177|[15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|
+|15373|[15373_Clone_NocoDB_tables_and_data_to_another_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15373_Clone_NocoDB_tables_and_data_to_another_base.json)|
+|15383|[15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15383_Build_and_enrich_B2B_company_lead_lists_with_CompanyEnrich_and_Data_Tables.json)|
+|15921|[15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json)|
+|15933|[15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15933_Manage_Telegram_task_reminders_with_Claude_and_n8n_data_tables.json)|
+|15988|[15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15988_Track_monthly_trending_topics_with_Exploding_Topics_and_n8n_Data_Tables.json)|
+|16164|[16164_Run_weekly_security_audits_via_the_n8n_API__Data_Tables__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16164_Run_weekly_security_audits_via_the_n8n_API__Data_Tables__and_Telegram.json)|
+|16699|[16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16699_Alert_on_API_contract_drift_using_Data_Tables_and_Slack.json)|

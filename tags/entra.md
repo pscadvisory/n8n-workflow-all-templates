@@ -1,4 +1,4 @@
-# entra : 5
+# entra : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |4560|[4560_Build_an_AI_IT_Support_Agent_with_Azure_Search__Entra_ID___Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4560_Build_an_AI_IT_Support_Agent_with_Azure_Search__Entra_ID___Jira.json)|
 |5181|[5181_Microsoft_Entra_ID_Tool_MCP_Server___all_12_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5181_Microsoft_Entra_ID_Tool_MCP_Server___all_12_operations.json)|
 |12399|[12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|

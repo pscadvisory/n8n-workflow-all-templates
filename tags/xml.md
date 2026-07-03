@@ -1,4 +1,4 @@
-# xml : 19
+# xml : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |8460|[8460_Extract_Invoice_Data_from_PDFs_to_JSON_with_Gemini_AI_and_XML_Transformation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8460_Extract_Invoice_Data_from_PDFs_to_JSON_with_Gemini_AI_and_XML_Transformation.json)|
 |8691|[8691_Sitemap.xml_Metadata_Export_to_Google_Sheets__Title__Meta_Description__and_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8691_Sitemap.xml_Metadata_Export_to_Google_Sheets__Title__Meta_Description__and_URLs.json)|
 |11911|[11911_Automate_invoice_processing_with_GPT-4o_classification_and_XML_export_to_accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11911_Automate_invoice_processing_with_GPT-4o_classification_and_XML_export_to_accounting.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|

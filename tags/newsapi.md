@@ -1,4 +1,4 @@
-# newsapi : 14
+# newsapi : 22
 
 |id|file|
 |----|----|
@@ -16,3 +16,11 @@
 |12712|[12712_Re-engage_dormant_leads_with_Claude_emails_using_Crunchbase__NewsAPI__Hunter__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12712_Re-engage_dormant_leads_with_Claude_emails_using_Crunchbase__NewsAPI__Hunter__and_Gmail.json)|
 |12949|[12949_Generate_weekly_AI_equity_research_reports_with_Google_Sheets__FMP__NewsAPI__OpenAI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12949_Generate_weekly_AI_equity_research_reports_with_Google_Sheets__FMP__NewsAPI__OpenAI__and_Gmail.json)|
 |13181|[13181_Send_a_daily_media_briefing_email_with_GPT-4.1-mini__NewsAPI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13181_Send_a_daily_media_briefing_email_with_GPT-4.1-mini__NewsAPI__Gmail_and_Google_Sheets.json)|
+|15065|[15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json)|
+|15276|[15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json)|
+|15326|[15326_Summarize_regulatory_news_from_NewsAPI_with_Gemini_and_Google_Sheets_plus_error_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15326_Summarize_regulatory_news_from_NewsAPI_with_Gemini_and_Google_Sheets_plus_error_alerts.json)|
+|15338|[15338_Generate_client_portfolio_summaries_using_Google_Sheets__NewsAPI__Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15338_Generate_client_portfolio_summaries_using_Google_Sheets__NewsAPI__Gemini_and_Gmail.json)|
+|15348|[15348_Monitor_global_industrial_risk_from_NewsAPI_to_Google_Sheets_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15348_Monitor_global_industrial_risk_from_NewsAPI_to_Google_Sheets_and_Discord.json)|
+|15649|[15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15649_Analyze_stocks_via_Telegram_with_GPT_4__TwelveData__NewsAPI_and_chart_images.json)|
+|15680|[15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15680_Analyze_stocks_from_Telegram_using_GPT-4__TwelveData__NewsAPI_and_Chart-IMG.json)|
+|16264|[16264_Track_investor_behavior_with_NewsAPI__Gemini__Groq_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16264_Track_investor_behavior_with_NewsAPI__Gemini__Groq_and_Slack_alerts.json)|

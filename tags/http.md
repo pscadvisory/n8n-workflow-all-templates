@@ -1,4 +1,4 @@
-# http : 31
+# http : 37
 
 |id|file|
 |----|----|
@@ -33,3 +33,9 @@
 |13272|[13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13272_Send_weekly_WooCommerce_finance_KPIs_to_Slack_using_HTTP_APIs.json)|
 |13808|[13808_Summarize_daily_Jenkins_test_runs_with_Google_Sheets__HTTP_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13808_Summarize_daily_Jenkins_test_runs_with_Google_Sheets__HTTP_and_Gemini_AI.json)|
 |14471|[14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14471_Manage_Strapi_CMS_v5_content_types_via_webhook_using_HTTP_requests.json)|
+|15443|[15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15443_Extract_sitemap_URLs_to_CSV_using_chat_input__XML_parsing_and_HTTP_upload.json)|
+|15954|[15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json)|
+|16153|[16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16153_Manage_SMC_Screener_analyses_with_n8n_forms_and_HTTP_API.json)|
+|16221|[16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|
+|16409|[16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json)|

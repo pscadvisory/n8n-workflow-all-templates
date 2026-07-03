@@ -1,4 +1,4 @@
-# host : 10
+# host : 14
 
 |id|file|
 |----|----|
@@ -12,3 +12,7 @@
 |13545|[13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13545_Host_a_static_HTML_KPI_dashboard_from_Google_Sheets_with_CustomJS.json)|
 |13565|[13565_Monitor_Docker_host_health_via_SSH_with_GPT-4o-mini_and_alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13565_Monitor_Docker_host_health_via_SSH_with_GPT-4o-mini_and_alerts_to_Discord.json)|
 |13751|[13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13751_Generate_and_host_AI_images_on_your_CDN_with_Gemini_Imagen_3_and_Upload_to_URL.json)|
+|15350|[15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15350_Generate_two-host_PDF_podcasts_with_GPT-5__Smallest_AI__and_Gmail.json)|
+|15575|[15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15575_Generate_and_host_dynamic_interactive_forms_from_Google_Sheets_with_CustomJS.json)|
+|15865|[15865_Host_an_AI_Gmail_reply_approval_inbox_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15865_Host_an_AI_Gmail_reply_approval_inbox_with_OpenAI_and_CustomJS.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|

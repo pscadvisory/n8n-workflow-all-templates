@@ -1,4 +1,4 @@
-# photo : 22
+# photo : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |12175|[12175_Generate_photo-based_construction_cost_estimates_with_GPT-4_Vision_and_DDC_CWICR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12175_Generate_photo-based_construction_cost_estimates_with_GPT-4_Vision_and_DDC_CWICR.json)|
 |14568|[14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json)|
 |14656|[14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14656_Create_event_recap_Instagram_carousels_from_photo_dumps_using_Upload_to_URL.json)|
+|16776|[16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json)|

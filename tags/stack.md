@@ -1,4 +1,4 @@
-# stack : 9
+# stack : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |7017|[7017_Filter_Cybersecurity_News_for_Your_Tech_Stack__OpenAI___Pinecone_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7017_Filter_Cybersecurity_News_for_Your_Tech_Stack__OpenAI___Pinecone_RAG.json)|
 |10338|[10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json)|
 |13964|[13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13964_Scrape_and_ingest_web_pages_into_a_Pinecone_RAG_stack_with_Firecrawl_and_OpenAI.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

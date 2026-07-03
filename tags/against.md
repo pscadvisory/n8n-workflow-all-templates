@@ -1,4 +1,4 @@
-# against : 9
+# against : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |13769|[13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13769_Check_workflow_templates_against_Creator_Hub_guidelines_with_Gemini_and_Gmail.json)|
 |14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|
 |14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|
+|15420|[15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json)|
+|16229|[16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16229_Score_resume_authenticity_with_GitHub__LinkedIn__OpenAI_and_Google_Sheets.json)|

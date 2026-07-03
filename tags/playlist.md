@@ -1,4 +1,4 @@
-# playlist : 14
+# playlist : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8801|[8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json)|
 |9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
+|15534|[15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15534_Transcribe_YouTube_playlists_with_SerpApi_and_Gmail_into_a_JSON_report.json)|

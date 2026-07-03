@@ -1,4 +1,4 @@
-# financial : 49
+# financial : 55
 
 |id|file|
 |----|----|
@@ -51,3 +51,9 @@
 |14172|[14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14172_Get_a_daily_financial_news_digest_on_Telegram_with_Mistral_and_RSS_feeds.json)|
 |14297|[14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14297_Send_a_daily_stock_movers_and_news_email_digest_via_Google_Sheets__EODHD_and_Gmail.json)|
 |14546|[14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14546_Generate_Financial_Risk_Reports___from_ElevenLabs_interviews___using_OpenAI.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|16328|[16328_Send_monthly_P_L_email_reports_with_Google_Sheets__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16328_Send_monthly_P_L_email_reports_with_Google_Sheets__GPT-4o-mini_and_Gmail.json)|
+|16365|[16365_Track_financial_health_with_Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16365_Track_financial_health_with_Groq__Google_Sheets_and_Slack.json)|
+|16459|[16459_Send_daily_executive_financial_briefings_with_Google_Sheets__GPT-4o-mini__Notion_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16459_Send_daily_executive_financial_briefings_with_Google_Sheets__GPT-4o-mini__Notion_and_Telegram.json)|
+|16561|[16561_Generate_personalized_financial_plans_with_Google_Gemini__Sheets__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16561_Generate_personalized_financial_plans_with_Google_Gemini__Sheets__Drive_and_Gmail.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|

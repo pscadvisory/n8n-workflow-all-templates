@@ -1,4 +1,4 @@
-# vs : 9
+# vs : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
 |14808|[14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14808_Compare_gold_and_equity_performance_with_Google_Sheets__Groq__QuickChart_and_Gmail.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15164|[15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16583|[16583_Monitor_budget_variance_with_Google_Sheets__Gemini__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16583_Monitor_budget_variance_with_Google_Sheets__Gemini__Slack__and_Gmail.json)|

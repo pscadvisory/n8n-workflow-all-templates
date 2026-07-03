@@ -1,4 +1,4 @@
-# contentful : 4
+# contentful : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |4012|[4012_Generate_Knowledge_Base_Articles_with_GPT___Perplexity_AI_for_Contentful_CMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4012_Generate_Knowledge_Base_Articles_with_GPT___Perplexity_AI_for_Contentful_CMS.json)|
 |4078|[4078_Convert_Markdown_Content_to_Contentful_Rich_Text_with_AI_Formatting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4078_Convert_Markdown_Content_to_Contentful_Rich_Text_with_AI_Formatting.json)|
 |5317|[5317_AI_Agents_can_retrieve_assetts_with____Contentful_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5317_AI_Agents_can_retrieve_assetts_with____Contentful_Tool_MCP_Server.json)|
+|16162|[16162_Generate_SEO_blog_posts_with_Claude__Google_Docs__Contentful__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16162_Generate_SEO_blog_posts_with_Claude__Google_Docs__Contentful__and_Slack.json)|

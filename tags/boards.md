@@ -1,4 +1,4 @@
-# boards : 6
+# boards : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |14226|[14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14226_Auto-fill_Monday.com_lead_boards_with_FullEnrich_People_Search_results.json)|
 |14806|[14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json)|
 |14996|[14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json)|
+|15998|[15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json)|

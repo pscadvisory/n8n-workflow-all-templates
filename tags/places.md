@@ -1,4 +1,4 @@
-# places : 8
+# places : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|
 |11707|[11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json)|
 |11952|[11952_Automate_B2B_lead_generation_using_Google_Places_API___SendGrid_with_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11952_Automate_B2B_lead_generation_using_Google_Places_API___SendGrid_with_dashboard.json)|
+|15516|[15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15516_Monitor_restaurant_ratings_with_Google_Places__Gemini__Sheets__and_Slack.json)|
+|16424|[16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json)|

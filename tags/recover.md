@@ -1,4 +1,4 @@
-# recover : 12
+# recover : 18
 
 |id|file|
 |----|----|
@@ -14,3 +14,9 @@
 |13535|[13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13535_Recover_missed_calls_with_Twilio__Slack_and_Google_Sheets.json)|
 |13844|[13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json)|
 |14367|[14367_Recover_abandoned_WooCommerce_carts_using_OpenAI_GPT-4.1-mini__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14367_Recover_abandoned_WooCommerce_carts_using_OpenAI_GPT-4.1-mini__Gmail_and_Slack.json)|
+|15103|[15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json)|
+|15932|[15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json)|
+|16083|[16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json)|
+|16333|[16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json)|
+|16460|[16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json)|
+|16602|[16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json)|

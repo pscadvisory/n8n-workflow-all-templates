@@ -1,4 +1,4 @@
-# notify : 53
+# notify : 67
 
 |id|file|
 |----|----|
@@ -55,3 +55,17 @@
 |14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
 |14383|[14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14383_Find_mobile_numbers_with_ScraperCity_from_LinkedIn_and_notify_sales_in_Slack.json)|
 |14487|[14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14487_Notify_on_menu_orders_via_ntfy_and_Home_Assistant_TTS_with_daily_BAC_tracking.json)|
+|15268|[15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15268_Create_smenso_tasks_from_webhooks_and_notify_Microsoft_Teams.json)|
+|15648|[15648_Qualify_website_leads_with_OpenAI_and_HubSpot_and_notify_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15648_Qualify_website_leads_with_OpenAI_and_HubSpot_and_notify_via_Gmail.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16232|[16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16232_Capture_leads_in_HubSpot_and_notify_your_team_in_Slack.json)|
+|16234|[16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16470|[16470_Notify_website_downtime_via_email_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16470_Notify_website_downtime_via_email_and_Telegram_alerts.json)|
+|16555|[16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16555_Notify_and_manage_podcast_edit_status_with_WizCut_and_Slack.json)|
+|16636|[16636_Track_and_notify_lead_callbacks_with_Tomba__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16636_Track_and_notify_lead_callbacks_with_Tomba__Google_Sheets__and_Slack.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|
+|16697|[16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16697_Notify_Slack_about_Figma_library_publishes__comments_and_deletions.json)|
+|16718|[16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json)|
+|16780|[16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16780_Notify_Slack_about_new_marketplace_templates_with_the_n8n_Templates_API.json)|

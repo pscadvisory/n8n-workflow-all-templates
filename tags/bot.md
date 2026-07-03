@@ -1,4 +1,4 @@
-# bot : 241
+# bot : 252
 
 |id|file|
 |----|----|
@@ -243,3 +243,14 @@
 |14815|[14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14815_Monitor_competitor_websites_daily_with_Firecrawl__Gemini__and_Zalo_Bot_alerts.json)|
 |14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|
 |14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15570|[15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json)|
+|15621|[15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15621_Qualify_WhatsApp_leads_and_book_sales_calls_with_GPT_4.1_and_Google_Sheets.json)|
+|15943|[15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15943_Collect_astrology_feedback_with_Telegram_and_Supabase.json)|
+|15944|[15944_Provide_Telegram_astrology_readings_with_Supabase__Astrology_API_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15944_Provide_Telegram_astrology_readings_with_Supabase__Astrology_API_and_Gemini.json)|
+|16061|[16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16440|[16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16440_Manage_Google_Calendar_events_with_Zalo_Bot__OpenAI_and_Gemini.json)|
+|16764|[16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16764_Deploy_Gainium_DCA_bot_pairs_with_Telegram_approval_and_Google_Sheets_logging.json)|

@@ -1,4 +1,4 @@
-# test : 25
+# test : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |13443|[13443_Test_WAF_security_interactively_with_an_AI_agent_and_WAFtester_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13443_Test_WAF_security_interactively_with_an_AI_agent_and_WAFtester_MCP.json)|
 |13808|[13808_Summarize_daily_Jenkins_test_runs_with_Google_Sheets__HTTP_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13808_Summarize_daily_Jenkins_test_runs_with_Google_Sheets__HTTP_and_Gemini_AI.json)|
 |13823|[13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13823_Build__test_and_deploy_AI_projects_with_Windsurf_CI_CD_and_Vercel.json)|
+|16639|[16639_Log_Strava_zone_2_and_5K_test_runs_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16639_Log_Strava_zone_2_and_5K_test_runs_to_Google_Sheets.json)|
+|16749|[16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json)|
+|16785|[16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16785_Test_IVR_call_quality_with_CALL-E_API_from_a_phone_task_list.json)|

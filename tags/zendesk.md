@@ -1,4 +1,4 @@
-# zendesk : 47
+# zendesk : 48
 
 |id|file|
 |----|----|
@@ -49,3 +49,4 @@
 |14530|[14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14530_Escalate_VIP_Zendesk_tickets_with_GPT-4__Slack_alerts_and_email_summaries.json)|
 |14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|15664|[15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json)|

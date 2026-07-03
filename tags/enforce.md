@@ -1,4 +1,4 @@
-# enforce : 7
+# enforce : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |13700|[13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13700_Detect_and_enforce_abuse_cases_with_OpenAI__Slack__Gmail_and_Sheets.json)|
 |13913|[13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13913_Enforce_marketplace_seller_compliance_with_GPT-4o__Gmail_and_Slack.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|15122|[15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15122_Enforce_sales_rules_of_engagement_with_AgentMail_for_HubSpot_teams.json)|

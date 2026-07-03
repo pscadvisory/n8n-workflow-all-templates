@@ -1,4 +1,4 @@
-# factory : 22
+# factory : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |13015|[13015_Create_automated_video_ad_clones_with_NanoBanana__Kling__Airtable_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13015_Create_automated_video_ad_clones_with_NanoBanana__Kling__Airtable_and_Blotato.json)|
 |13709|[13709_Coordinate_smart_factory_operations_with_OpenAI_GPT-4.1-mini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13709_Coordinate_smart_factory_operations_with_OpenAI_GPT-4.1-mini_and_Slack_alerts.json)|
 |14316|[14316_Ads_Factory__Generate_Unlimited_Length_UGC_AI_Video_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14316_Ads_Factory__Generate_Unlimited_Length_UGC_AI_Video_Pipeline.json)|
+|15162|[15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15162_Generate_and_schedule_LinkedIn__X__and_Instagram_posts_with_OpenAI_agents.json)|
+|16652|[16652_Create_SEO_blog_posts_from_YouTube_videos_with_Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16652_Create_SEO_blog_posts_from_YouTube_videos_with_Gemini_and_Google_Docs.json)|

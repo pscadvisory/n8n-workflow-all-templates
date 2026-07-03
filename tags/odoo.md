@@ -1,4 +1,4 @@
-# odoo : 26
+# odoo : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |14829|[14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14829_Send_10-day_post-purchase_WhatsApp_offers_with_Odoo__OpenAI_and_Evolution_API.json)|
 |14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
 |14928|[14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16353|[16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json)|

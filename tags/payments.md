@@ -1,4 +1,4 @@
-# payments : 16
+# payments : 28
 
 |id|file|
 |----|----|
@@ -18,3 +18,15 @@
 |13693|[13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13693_Handle_WhatsApp_course_enrollment_and_payments_with_Wati_and_Razorpay.json)|
 |13980|[13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13980_Reconcile_Stripe_payments_and_flag_anomalies_with_Google_Sheets_and_Gemini_AI.json)|
 |14761|[14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14761_Generate_invoice_PDFs_from_Stripe_payments_using_TemplateFox__Gmail_and_Drive.json)|
+|15190|[15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15190_Handle_Telegram_support__payments__and_logo_orders_with_Mistral_and_Gemini.json)|
+|15464|[15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15464_Send_digital_products_after_Stripe_payments_with_Google_Drive_and_email.json)|
+|15726|[15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json)|
+|15873|[15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json)|
+|15932|[15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|
+|16083|[16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json)|
+|16214|[16214_Parse_WhatsApp_invoice_images_with_Gemini_and_sync_payments_to_HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16214_Parse_WhatsApp_invoice_images_with_Gemini_and_sync_payments_to_HubSpot_and_Slack.json)|
+|16267|[16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16267_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16333|[16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json)|
+|16401|[16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16401_Block_duplicate_vendor_invoice_payments_with_Google_Sheets__Slack__and_Gmail.json)|
+|16770|[16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16770_Manage_restaurant_orders__upsells__and_payments_with_Telegram__OpenAI__Razorpay__and_Google_Sheets.json)|

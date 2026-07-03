@@ -1,4 +1,4 @@
-# uploadtourl : 15
+# uploadtourl : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |14648|[14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14648_Auto-generate_Instagram_posts_from_Google_Sheets_reviews_using_UploadtoUrl.json)|
 |14658|[14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json)|
 |14970|[14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14970_Post_blog_articles_to_LinkedIn_and_Twitter_with_OpenAI_captions_and_UploadToURL.json)|
+|15512|[15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15512_Generate_interactive_MCQ_quizzes_from_PDF_textbooks_with_Google_Gemini__UploadToURL_and_Gmail.json)|

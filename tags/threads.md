@@ -1,4 +1,4 @@
-# threads : 26
+# threads : 33
 
 |id|file|
 |----|----|
@@ -28,3 +28,10 @@
 |14001|[14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14001_Convert_YouTube_transcripts_in_Google_Sheets_to_X__Twitter__threads_with_Apify__OpenAI_and_RapidAPI.json)|
 |14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
 |14961|[14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14961_Generate_trending_X__Facebook__and_Threads_posts_with_Apify__Gemini__and_Buffer.json)|
+|15264|[15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15264_Bridge_iMessage_and_Slack_threads_with_Blooio_for_two-way_messaging.json)|
+|15356|[15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json)|
+|15618|[15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15618_Turn_videos_into_Twitter_threads__LinkedIn_posts__and_blogs_with_WayinVideo_and_GPT-4o-mini.json)|
+|15678|[15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json)|
+|16066|[16066_Schedule_X_posts__threads__images_and_polls_with_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16066_Schedule_X_posts__threads__images_and_polls_with_webhooks.json)|
+|16392|[16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json)|
+|16634|[16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json)|

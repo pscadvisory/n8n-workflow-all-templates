@@ -1,4 +1,4 @@
-# shorts : 33
+# shorts : 43
 
 |id|file|
 |----|----|
@@ -35,3 +35,13 @@
 |13954|[13954_Repurpose_YouTube_Shorts_to_TikTok_and_Instagram_using_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13954_Repurpose_YouTube_Shorts_to_TikTok_and_Instagram_using_Blotato.json)|
 |14191|[14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14191_AI_YouTube_Shorts_Creator______Prompt-Based_Clipping__Dubbing___Social_Upload.json)|
 |14407|[14407_Generate_YouTube_shorts_using_WayinVideo_AI_and_upload_clips_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14407_Generate_YouTube_shorts_using_WayinVideo_AI_and_upload_clips_to_Google_Drive.json)|
+|15132|[15132_Turn_long_videos_into_social_shorts_with_RenderIO_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15132_Turn_long_videos_into_social_shorts_with_RenderIO_and_OpenAI.json)|
+|15181|[15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|16171|[16171_Publish_YouTube_Shorts_to_TikTok_with_RSS__RapidAPI_and_TikTok_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16171_Publish_YouTube_Shorts_to_TikTok_with_RSS__RapidAPI_and_TikTok_API.json)|
+|16201|[16201_Create_daily_AI_news_YouTube_Shorts_with_Groq__VoiceRSS__Pexels_and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16201_Create_daily_AI_news_YouTube_Shorts_with_Groq__VoiceRSS__Pexels_and_Shotstack.json)|
+|16358|[16358_Create_daily_faceless_YouTube_Shorts_with_Groq__SamAutomation_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16358_Create_daily_faceless_YouTube_Shorts_with_Groq__SamAutomation_and_Google_Sheets.json)|
+|16419|[16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json)|
+|16439|[16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16439_Generate_and_publish_AI_home_cam_Shorts_with_OpenAI__kie.ai_and_YouTube.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|
+|16579|[16579_Repurpose_YouTube_Shorts_from_Telegram_to_Facebook__Instagram_and_TikTok_with_Apify_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16579_Repurpose_YouTube_Shorts_from_Telegram_to_Facebook__Instagram_and_TikTok_with_Apify_and_OpenAI.json)|

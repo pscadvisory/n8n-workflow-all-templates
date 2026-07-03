@@ -1,4 +1,4 @@
-# legal : 24
+# legal : 28
 
 |id|file|
 |----|----|
@@ -26,3 +26,7 @@
 |14379|[14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14379_Monitor_legal_policy_changes_with_Google_Sheets__Gmail_and_GPT-4o.json)|
 |14434|[14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14434_Route_legal_contract_risks_with_GPT-4o__Slack__Google_Sheets_and_a_regulatory_API.json)|
 |14436|[14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json)|
+|15121|[15121_Convert_legal_timesheets_to_LEDES_and_PDF_invoices.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15121_Convert_legal_timesheets_to_LEDES_and_PDF_invoices.json)|
+|15307|[15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15307_Analyze_legal_contract_risk_with_Google_Gemini_hybrid_RAG_and_Supabase.json)|
+|15790|[15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json)|
+|16080|[16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16080_Book_paid_legal_appointments_with_Stripe__Google_Calendar__Gmail_and_Telegram.json)|

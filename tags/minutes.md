@@ -1,4 +1,4 @@
-# minutes : 10
+# minutes : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |9158|[9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json)|
 |9644|[9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json)|
 |10820|[10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10820_Automate_Meeting_Transcription___Minutes_Distribution_with_OpenAI_and_Google_Drive.json)|
+|15608|[15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json)|

@@ -1,4 +1,4 @@
-# manager : 46
+# manager : 53
 
 |id|file|
 |----|----|
@@ -48,3 +48,10 @@
 |13664|[13664_Find_KlickTipp_tags_to_remove_by_prefix.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13664_Find_KlickTipp_tags_to_remove_by_prefix.json)|
 |13699|[13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json)|
 |13828|[13828_Create_manager_tasks_from_Keephub_form_submissions_with_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13828_Create_manager_tasks_from_Keephub_form_submissions_with_OpenAI_GPT-4.1.json)|
+|15085|[15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json)|
+|15298|[15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15298_Manage_email_campaigns_with_MailerLite__Google_Sheets_and_Claude_via_OpenRouter.json)|
+|15337|[15337_Generate_weekly_content_drafts_from_Google_Sheets_with_Groq_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15337_Generate_weekly_content_drafts_from_Google_Sheets_with_Groq_AI_and_Slack.json)|
+|15875|[15875_Sync_Mailchimp_unsubscribes_with_HubSpot_CRM__Slack__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15875_Sync_Mailchimp_unsubscribes_with_HubSpot_CRM__Slack__Google_Sheets_and_Gmail.json)|
+|16050|[16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json)|
+|16078|[16078_Manage_B2B_referral_leads_with_Gmail__Slack__HubSpot__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16078_Manage_B2B_referral_leads_with_Gmail__Slack__HubSpot__and_Google_Sheets.json)|
+|16654|[16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json)|

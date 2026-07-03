@@ -1,4 +1,4 @@
-# instance : 7
+# instance : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |4750|[4750_fetch_the_public_IP_addresses_of_your_n8n_instance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4750_fetch_the_public_IP_addresses_of_your_n8n_instance.json)|
 |4928|[4928_Control_Your_n8n_Instance_Remotely_with_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4928_Control_Your_n8n_Instance_Remotely_with_Telegram_Bot_Commands.json)|
 |9792|[9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json)|
+|15740|[15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15740_Update_self_hosted_instance_via_GitHub__Coolify_and_Mattermost.json)|

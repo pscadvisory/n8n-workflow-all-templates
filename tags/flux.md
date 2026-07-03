@@ -1,4 +1,4 @@
-# flux : 36
+# flux : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |12097|[12097_Create_an_all-in-one_Discord_assistant_with_Gemini__Llama_Vision___Flux_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12097_Create_an_all-in-one_Discord_assistant_with_Gemini__Llama_Vision___Flux_images.json)|
 |13952|[13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13952_Create_viral_social_posts_with_Airtable__Claude__Flux__and_PostPulse.json)|
 |14768|[14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14768_Auto-post_trending_X_tweets_with_Gemini_AI_images__FLUX_and_Buffer.json)|
+|15639|[15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15639_Auto-post_Amazon_India_affiliate_videos_to_6_platforms_with_FLUX__Shotstack_and_Buffer.json)|

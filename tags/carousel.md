@@ -1,4 +1,4 @@
-# carousel : 14
+# carousel : 18
 
 |id|file|
 |----|----|
@@ -16,3 +16,7 @@
 |14064|[14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14064_Create_and_publish_AI_carousel_posts_from_Telegram_to_Instagram__Facebook_and_TikTok_with_OpenAI__APITemplate.io_and_Blotato.json)|
 |14643|[14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json)|
 |14780|[14780_Create_AI_Instagram_carousel_posts_with_Gemini__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14780_Create_AI_Instagram_carousel_posts_with_Gemini__Slack_and_Google_Sheets.json)|
+|15284|[15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15284_Create_Instagram_carousel_posts_using_GPT-4.1_Nano_and_Gemini_2.5_Flash.json)|
+|15372|[15372_Generate_LinkedIn_carousel_content_from_Reddit_with_Claude_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15372_Generate_LinkedIn_carousel_content_from_Reddit_with_Claude_and_Airtable.json)|
+|15796|[15796_Create_LinkedIn_carousel_PDFs_with_GPT-4o-mini_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15796_Create_LinkedIn_carousel_PDFs_with_GPT-4o-mini_and_Google_Drive.json)|
+|16309|[16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16309_Create_LinkedIn_carousel_posts_from_RSS_blogs_with_DeepSeek__fal.ai_and_Posta.json)|

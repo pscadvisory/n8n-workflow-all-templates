@@ -1,4 +1,4 @@
-# tickets : 67
+# tickets : 74
 
 |id|file|
 |----|----|
@@ -69,3 +69,10 @@
 |14718|[14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14718_Escalate_overdue_and_blocked_Jira_tickets_with_Gmail_and_Google_Chat.json)|
 |14826|[14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json)|
 |14861|[14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14861_Handle_Zendesk_WooCommerce_refund_tickets_with_Slack_and_Gmail.json)|
+|15304|[15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15304_Triage_support_tickets_by_GPT-4o_sentiment_and_route_them_to_Slack.json)|
+|15522|[15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15522_Classify_Gmail_support_emails_with_AI_and_store_tickets_in_PostgreSQL.json)|
+|15664|[15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15664_Turn_support_calls_into_Zendesk_tickets_with_WayinVideo__GPT-4o-mini__and_Google_Sheets.json)|
+|15780|[15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15780_Triage_maintenance_tickets_and_assign_vendors_with_Airtable__Twilio_and_Gmail.json)|
+|15835|[15835_Triage_customer_support_tickets_from_Gmail_and_forms_with_OpenAI__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15835_Triage_customer_support_tickets_from_Gmail_and_forms_with_OpenAI__Slack_and_Sheets.json)|
+|16053|[16053_Handle_chat_support_and_escalate_unresolved_tickets_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16053_Handle_chat_support_and_escalate_unresolved_tickets_with_Google_Gemini_and_Gmail.json)|
+|16368|[16368_Create_and_triage_support_tickets_with_HubSpot__reCAPTCHA_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16368_Create_and_triage_support_tickets_with_HubSpot__reCAPTCHA_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# qwen : 8
+# qwen : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |10314|[10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json)|
 |12092|[12092_Automate_investment_risk_monitoring_with_Qwen-Max_AI__Slack___email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12092_Automate_investment_risk_monitoring_with_Qwen-Max_AI__Slack___email_alerts.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|15570|[15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15570_Turn_a_GitHub_knowledge_base_into_a_Telegram_RAG_bot_with_Qwen_via_OpenRouter.json)|
+|15755|[15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15755_Triage_GitHub_issues_to_a_Notion_board_with_Qwen_via_OpenRouter.json)|
+|15898|[15898_Send_weekly_GitHub_digests_to_Telegram_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15898_Send_weekly_GitHub_digests_to_Telegram_with_Qwen_via_OpenRouter.json)|

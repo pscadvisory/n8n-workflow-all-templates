@@ -1,4 +1,4 @@
-# finder : 38
+# finder : 44
 
 |id|file|
 |----|----|
@@ -40,3 +40,9 @@
 |14111|[14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14111_Scrape_Google_Maps_realtor_leads_with_ScrapeOps__Google_Sheets__Gmail_and_Slack.json)|
 |14118|[14118_Generate_roofing_contractor_leads_from_Google_Maps_with_ScrapeOps__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14118_Generate_roofing_contractor_leads_from_Google_Maps_with_ScrapeOps__Sheets_and_Slack.json)|
 |14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
+|15460|[15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15460_Turn_ecommerce_product_URLs_into_leads_with_Google_Sheets_and_MrScraper.json)|
+|15656|[15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15656_Find_daily_Amazon_India_bestsellers_with_Apify_and_Google_Sheets__4___commission.json)|
+|15903|[15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json)|
+|16237|[16237_Extract_B2B_lead_emails_from_Google_results_with_SerpApi__Apify_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16237_Extract_B2B_lead_emails_from_Google_results_with_SerpApi__Apify_and_Claude.json)|
+|16525|[16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16525_Find_LinkedIn_engagement_opportunities_with_Apify__Gemini__Google_Sheets_and_Slack.json)|
+|16733|[16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16733_Enrich_contact_emails_and_phone_numbers_with_Tomba_and_Google_Sheets.json)|

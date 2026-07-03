@@ -1,4 +1,4 @@
-# birthday : 8
+# birthday : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
 |14432|[14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14432_Automate_Birthday_Wishes_from_Google_Contacts_with_Multi-Platform_Messaging.json)|
 |14802|[14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json)|
+|15335|[15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15335_Send_birthday_and_anniversary_reminders_with_Groq_AI_gift_ideas_to_Telegram.json)|
+|16359|[16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16359_Send_daily_birthday_greetings_via_Gmail__WhatsApp__Telegram_and_Slack.json)|

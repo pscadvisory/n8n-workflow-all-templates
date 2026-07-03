@@ -1,4 +1,4 @@
-# ready : 29
+# ready : 34
 
 |id|file|
 |----|----|
@@ -31,3 +31,8 @@
 |13118|[13118_Convert_GitHub_commits_into_review-ready_pull_requests_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13118_Convert_GitHub_commits_into_review-ready_pull_requests_with_Google_Gemini.json)|
 |13898|[13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13898_Generate_board-ready_workforce_analytics_and_talent_reports_with_GPT-4o.json)|
 |14396|[14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14396_Generate_and_enrich_Google_Maps_B2B_leads_with_SDR-ready_data_in_Google_Sheets.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|15810|[15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15810_Generate_client-ready_workflow_diagrams_from_sales_call_transcripts_with_Claude.json)|
+|16035|[16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json)|
+|16216|[16216_Create_SEO-ready_WordPress_blog_drafts_with_Claude__Imagen_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16216_Create_SEO-ready_WordPress_blog_drafts_with_Claude__Imagen_and_Slack.json)|

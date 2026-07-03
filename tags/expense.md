@@ -1,4 +1,4 @@
-# expense : 41
+# expense : 43
 
 |id|file|
 |----|----|
@@ -43,3 +43,5 @@
 |14051|[14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json)|
 |14133|[14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14133_Track_multi-currency_expenses_from_receipts_with_easybits__Telegram__and_Google_Sheets.json)|
 |14901|[14901_Track_and_analyze_Google_Sheets_expenses_with_Gemini_and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14901_Track_and_analyze_Google_Sheets_expenses_with_Gemini_and_Gmail_alerts.json)|
+|16431|[16431_Track_email_expenses_from_Gmail_with_OpenAI__Google_Sheets__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16431_Track_email_expenses_from_Gmail_with_OpenAI__Google_Sheets__and_Slack_alerts.json)|
+|16520|[16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16520_Track_expenses_from_phone_notifications_with_Google_Gemini_and_Google_Sheets.json)|

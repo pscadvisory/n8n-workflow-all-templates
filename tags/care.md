@@ -1,4 +1,4 @@
-# care : 6
+# care : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |12987|[12987_Orchestrate_hospital_event_responses_with_Anthropic_Claude_and_scheduling__task__and_insurance_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12987_Orchestrate_hospital_event_responses_with_Anthropic_Claude_and_scheduling__task__and_insurance_APIs.json)|
 |13308|[13308_Orchestrate_patient_admission__discharge_and_post-care_with_NVIDIA_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13308_Orchestrate_patient_admission__discharge_and_post-care_with_NVIDIA_and_Claude.json)|
 |14816|[14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14816_Handle_Vietnamese_SME_customer_care_on_Zalo_Bot_with_Gemini_and_Google_Sheets.json)|
+|16604|[16604_Triage_chronic_care_vitals_with_Google_Sheets__Gmail__Telegram_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16604_Triage_chronic_care_vitals_with_Google_Sheets__Gmail__Telegram_and_Slack.json)|

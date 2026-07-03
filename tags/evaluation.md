@@ -1,4 +1,4 @@
-# evaluation : 30
+# evaluation : 33
 
 |id|file|
 |----|----|
@@ -32,3 +32,6 @@
 |12268|[12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12268_Screen_DPDP_consent_manager_registrations_with_GPT-4o__Google_Sheets_and_Gmail.json)|
 |13316|[13316_Evaluate_supply_chain_risk_and_orchestrate_contingencies_with_Claude__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13316_Evaluate_supply_chain_risk_and_orchestrate_contingencies_with_Claude__Google_Sheets__Gmail_and_Slack.json)|
 |13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
+|16063|[16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json)|
+|16570|[16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json)|
+|16707|[16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json)|

@@ -1,4 +1,4 @@
-# conversations : 7
+# conversations : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |7388|[7388_Automate_Marker.io_Issues_to_Intercom_Conversations_with_Full_Technical_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7388_Automate_Marker.io_Issues_to_Intercom_Conversations_with_Full_Technical_Context.json)|
 |8238|[8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8238_Implement_Intelligent_Message_Buffering_for_AI_Chats_with_Redis_and_GPT-4-mini.json)|
 |13091|[13091_Store_AI_chat_conversations_with_OpenAI_GPT-4.1-mini_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13091_Store_AI_chat_conversations_with_OpenAI_GPT-4.1-mini_and_Pinecone.json)|
+|15784|[15784_Turn_Podium_conversations_into_a_full_CRM_with_Claude__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15784_Turn_Podium_conversations_into_a_full_CRM_with_Claude__Sheets_and_Gmail.json)|
+|15786|[15786_Bridge_Gmail_and_iMessage_with_Blooio_and_log_conversations_to_Close.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15786_Bridge_Gmail_and_iMessage_with_Blooio_and_log_conversations_to_Close.json)|

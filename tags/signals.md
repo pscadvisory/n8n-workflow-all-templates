@@ -1,4 +1,4 @@
-# signals : 22
+# signals : 28
 
 |id|file|
 |----|----|
@@ -24,3 +24,9 @@
 |14124|[14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14124_Route_product_signals_from_Notion_to_Jira_and_Slack_backlogs.json)|
 |14235|[14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14235_Execute_forex_trading_signals_from_Telegram_on_MetaTrader_5_with_Claude.json)|
 |14285|[14285_Track_buying_signals_with_Airtop_and_log_them_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14285_Track_buying_signals_with_Airtop_and_log_them_to_Google_Sheets.json)|
+|15533|[15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json)|
+|15679|[15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json)|
+|15844|[15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json)|
+|16226|[16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16743|[16743_Monitor_target_account_funding__acquisitions__and_exec_moves_with_Datahyena_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16743_Monitor_target_account_funding__acquisitions__and_exec_moves_with_Datahyena_and_Slack.json)|

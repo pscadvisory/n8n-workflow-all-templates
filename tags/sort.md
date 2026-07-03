@@ -1,4 +1,4 @@
-# sort : 6
+# sort : 10
 
 |id|file|
 |----|----|
@@ -8,3 +8,7 @@
 |6639|[6639_Auto-Sort_Support_Emails_with_OpenAI_and_Route_to_Teams_with_Jira_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6639_Auto-Sort_Support_Emails_with_OpenAI_and_Route_to_Teams_with_Jira_Integration.json)|
 |6682|[6682_Classify___Auto-Sort_Invoices_in_Google_Drive_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6682_Classify___Auto-Sort_Invoices_in_Google_Drive_with_GPT-4o.json)|
 |9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
+|15245|[15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15245_Sort_and_manage_your_Gmail_inbox_with_Vertex_AI_and_Google_Tasks.json)|
+|15248|[15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json)|
+|16305|[16305_Sort_customer_feedback_by_rating_with_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16305_Sort_customer_feedback_by_rating_with_Google_Sheets_and_Slack.json)|
+|16757|[16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16757_Triage_Typeform_survey_feedback_with_GPT-4o-mini__Slack__Gmail__and_Sheets.json)|

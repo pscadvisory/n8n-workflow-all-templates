@@ -1,4 +1,4 @@
-# enricher : 7
+# enricher : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7623|[7623_Enrich_Domains_with_SimilarWeb_Traffic_Analytics_in_Google_Sheets___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7623_Enrich_Domains_with_SimilarWeb_Traffic_Analytics_in_Google_Sheets___Airtable.json)|
 |11258|[11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json)|
 |12345|[12345_Scrape_physician_profiles_from_BrowserAct_into_Google_Sheets_and_notify_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12345_Scrape_physician_profiles_from_BrowserAct_into_Google_Sheets_and_notify_Slack.json)|
+|16611|[16611_Score_and_route_inbound_leads_with_Claude__Airtable__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16611_Score_and_route_inbound_leads_with_Claude__Airtable__Slack__and_Gmail.json)|

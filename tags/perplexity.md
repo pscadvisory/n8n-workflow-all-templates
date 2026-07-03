@@ -1,4 +1,4 @@
-# perplexity : 97
+# perplexity : 101
 
 |id|file|
 |----|----|
@@ -99,3 +99,7 @@
 |13937|[13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13937_Research_people_with_Perplexity_AI_and_log_results_to_Google_Sheets.json)|
 |13995|[13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13995_Generate_research-backed_curriculum_plans_with_GPT-4o__Perplexity_and_Google_Sheets.json)|
 |14438|[14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14438_Govern_energy_portfolios_with_GPT-4o__Perplexity__Slack__Gmail_and_Sheets.json)|
+|15654|[15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json)|
+|16318|[16318_Publish_weekly_Google_Business_Profile_posts_using_Perplexity_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16318_Publish_weekly_Google_Business_Profile_posts_using_Perplexity_and_Supabase.json)|
+|16357|[16357_Generate_SEO-optimized_WordPress_blog_posts_with_Perplexity_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16357_Generate_SEO-optimized_WordPress_blog_posts_with_Perplexity_and_Gemini.json)|
+|16466|[16466_Publish_weekly_SMB_blog_posts_with_Perplexity__Claude__Gemini__Supabase__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16466_Publish_weekly_SMB_blog_posts_with_Perplexity__Claude__Gemini__Supabase__and_Gmail.json)|

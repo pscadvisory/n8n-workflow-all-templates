@@ -1,4 +1,4 @@
-# llms : 15
+# llms : 18
 
 |id|file|
 |----|----|
@@ -17,3 +17,6 @@
 |12339|[12339_Automate_SDR_Outreach__Source_Wiza_Leads_and_Personalize_Emails_with_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12339_Automate_SDR_Outreach__Source_Wiza_Leads_and_Personalize_Emails_with_LLMs.json)|
 |14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|
+|16159|[16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16159_Generate_and_score_MVP_ideas_from_Reddit_with_OpenRouter_LLMs.json)|
+|16554|[16554_Draft_and_review_SEO_WordPress_articles_with_multi-agent_LLMs_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16554_Draft_and_review_SEO_WordPress_articles_with_multi-agent_LLMs_and_Slack.json)|

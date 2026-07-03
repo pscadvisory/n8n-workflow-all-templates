@@ -1,4 +1,4 @@
-# easybits : 10
+# easybits : 22
 
 |id|file|
 |----|----|
@@ -12,3 +12,15 @@
 |14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
 |14974|[14974_Monitor_Austrian_public_tenders_daily_with_easybits_PDF_extraction_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14974_Monitor_Austrian_public_tenders_daily_with_easybits_PDF_extraction_and_Slack_alerts.json)|
 |14978|[14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json)|
+|15098|[15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|15366|[15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15366_Route_and_prioritize_support_emails_to_Slack_channels_with_easybits.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15528|[15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json)|
+|15530|[15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json)|
+|15985|[15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15985_Convert_handwritten_meeting_notes_to_Google_Docs_with_Gmail_and_easybits.json)|
+|16097|[16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16099|[16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|16100|[16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16100_Create_deduplicated_LinkedIn_candidate_rows_from_Slack_with_easybits_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# stores : 4
+# stores : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |5010|[5010_RAG_Starter_Template_using_Simple_Vector_Stores__Form_trigger_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5010_RAG_Starter_Template_using_Simple_Vector_Stores__Form_trigger_and_OpenAI.json)|
 |6111|[6111_Automated_Abandoned_Cart_Recovery_Emails_for_Shopify_Stores.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6111_Automated_Abandoned_Cart_Recovery_Emails_for_Shopify_Stores.json)|
 |9895|[9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json)|
+|16050|[16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16050_Sync_OpenAI_vector_stores_from_Google_Sheets_with_Drive_and_AWS_S3.json)|

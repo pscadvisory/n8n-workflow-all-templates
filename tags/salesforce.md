@@ -1,4 +1,4 @@
-# salesforce : 33
+# salesforce : 41
 
 |id|file|
 |----|----|
@@ -35,3 +35,11 @@
 |13841|[13841_Generate_conference_synthetic_personas_with_Slack__Gemini_and_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13841_Generate_conference_synthetic_personas_with_Slack__Gemini_and_Salesforce.json)|
 |14984|[14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14984_Automate_social_fan-out__marketplace_outreach__and_CRM_alerts_with_Salesforce.json)|
 |14993|[14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14993_Sync_Salesforce_leads_and_opportunities_to_PostgreSQL_with_backfill_and_incremental_ETL.json)|
+|15072|[15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15072_Compare_proposals_and_analyze_gaps_for_Salesforce_CRM_with_Groq_AI.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|15322|[15322_Generate_RFP_proposal_drafts_from_Google_Drive_with_Groq_AI__Salesforce_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15322_Generate_RFP_proposal_drafts_from_Google_Drive_with_Groq_AI__Salesforce_and_Slack.json)|
+|15511|[15511_Turn_webinar_recordings_into_Salesforce_follow-up_emails_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15511_Turn_webinar_recordings_into_Salesforce_follow-up_emails_with_WayinVideo_and_GPT-4o-mini.json)|
+|16444|[16444_Assess_Salesforce_deal_risk_with_Gmail__Outlook__OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16444_Assess_Salesforce_deal_risk_with_Gmail__Outlook__OpenAI_and_Slack_alerts.json)|
+|16714|[16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16714_Generate_Salesforce_opportunity_next_steps_with_Gemini_and_Slack.json)|
+|16716|[16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json)|
+|16718|[16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json)|

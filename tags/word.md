@@ -1,4 +1,4 @@
-# word : 8
+# word : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8671|[8671_Automate_Meeting_Documentation_with_SharePoint__Word__Excel___Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8671_Automate_Meeting_Documentation_with_SharePoint__Word__Excel___Outlook.json)|
 |9406|[9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|16058|[16058_Send_daily_AI_vocabulary_lessons_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16058_Send_daily_AI_vocabulary_lessons_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|

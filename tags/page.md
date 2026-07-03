@@ -1,4 +1,4 @@
-# page : 60
+# page : 65
 
 |id|file|
 |----|----|
@@ -62,3 +62,8 @@
 |13462|[13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13462_Track_Facebook_Page_post_Engagement__Comments__Like__Shares__in_Google_Sheets.json)|
 |14027|[14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json)|
 |14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|
+|15126|[15126_Audit_multi-page_CRO_with_GPT-4o-mini__Google_Sheets__and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15126_Audit_multi-page_CRO_with_GPT-4o-mini__Google_Sheets__and_Gmail_alerts.json)|
+|15165|[15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json)|
+|15167|[15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15167_Generate_and_rank_landing_page_headlines_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|
+|15405|[15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15405_Generate_AI_ecommerce_ads_from_product_page_and_images_with_Claude_and_NanoBanana.json)|
+|15756|[15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json)|

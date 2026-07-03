@@ -1,4 +1,4 @@
-# embeddings : 15
+# embeddings : 21
 
 |id|file|
 |----|----|
@@ -17,3 +17,9 @@
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11971|[11971_Synchronize_MySQL_database_schemas_to_Pinecone_with_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11971_Synchronize_MySQL_database_schemas_to_Pinecone_with_OpenAI_embeddings.json)|
 |14036|[14036_Maintain_RAG_embeddings_with_OpenAI__Postgres_and_auto_drift_rollback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14036_Maintain_RAG_embeddings_with_OpenAI__Postgres_and_auto_drift_rollback.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|16182|[16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json)|
+|16352|[16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|
+|16625|[16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16625_Sync_Google_Drive_documents_to_Pinecone_RAG_with_Google_Gemini_embeddings.json)|
+|16720|[16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16720_Rank_resumes_by_job_description_similarity_using_Gemini_embeddings.json)|

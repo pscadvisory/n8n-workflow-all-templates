@@ -1,4 +1,4 @@
-# recovery : 17
+# recovery : 22
 
 |id|file|
 |----|----|
@@ -19,3 +19,8 @@
 |12315|[12315_Send_Stripe_expired_charge_recovery_reminders_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12315_Send_Stripe_expired_charge_recovery_reminders_with_OpenAI.json)|
 |13689|[13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13689_Track_broken_backlinks_with_DataForSEO__log_to_Google_Sheets__and_create_Asana_tasks.json)|
 |13844|[13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13844_Recover_abandoned_event_registrations_with_Gemini_and_email_plus_Slack_alerts.json)|
+|16003|[16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json)|
+|16174|[16174_Route_API_requests_via_webhook_with_retries_and_backup_endpoints.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16174_Route_API_requests_via_webhook_with_retries_and_backup_endpoints.json)|
+|16460|[16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json)|
+|16533|[16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json)|
+|16602|[16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json)|

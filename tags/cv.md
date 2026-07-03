@@ -1,4 +1,4 @@
-# cv : 32
+# cv : 41
 
 |id|file|
 |----|----|
@@ -34,3 +34,12 @@
 |13970|[13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json)|
 |13990|[13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13990_Screen_and_score_CV_candidates_with_Mistral_OCR_and_Gemini.json)|
 |14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|
+|15155|[15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|15288|[15288_Generate_comparative_CV_screening_reports_with_OpenAI__Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15288_Generate_comparative_CV_screening_reports_with_OpenAI__Google_Sheets.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15528|[15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json)|
+|15585|[15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json)|
+|15854|[15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json)|
+|16030|[16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|

@@ -1,4 +1,4 @@
-# english : 14
+# english : 17
 
 |id|file|
 |----|----|
@@ -16,3 +16,6 @@
 |11896|[11896_Translate_English_scripts_to_multilingual_audio_with_GPT-4_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11896_Translate_English_scripts_to_multilingual_audio_with_GPT-4_and_ElevenLabs.json)|
 |13572|[13572_Look_up_English_vocabulary_via_Telegram_and_save_results_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13572_Look_up_English_vocabulary_via_Telegram_and_save_results_to_Notion.json)|
 |14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
+|16094|[16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json)|
+|16290|[16290_Qualify_inbound_leads_from_forms_with_Claude__Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16290_Qualify_inbound_leads_from_forms_with_Claude__Google_Sheets__Slack_and_Gmail.json)|
+|16692|[16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16692_Generate_English_Polish_vocabulary_quizzes_with_Google_Sheets_and_Groq.json)|

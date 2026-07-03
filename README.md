@@ -1,5 +1,5 @@
 # n8n-workflow-all-templates
-9146+ N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.
+10258+ N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.
 synchronized and updated every 2 months.
 ## sync site:
 - gitee :  [n8n-workflow-all-templates](https://gitee.com/zengfr/n8n-workflow-all-templates)
@@ -20,7 +20,7 @@ synchronized and updated every 2 months.
 ## n8n workflow templates tag_counts for names
 - [n8n_workflow_templates_tag_counts.md](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/tag_counts.md)
 ## file_counts
-- 9146
+- 10258
 ## join wechat group
 - wechat : youandme10086
 

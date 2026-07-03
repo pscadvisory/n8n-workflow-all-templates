@@ -1,4 +1,4 @@
-# applications : 15
+# applications : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |13812|[13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13812_Automate_Job_applications______with_Chatbot__PredictLeads_and_ScrapegraphAI.json)|
 |14063|[14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14063_Automate_job_applications_with_Telegram__SerpAPI__and_OpenAI.json)|
 |14138|[14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14138_Screen_job_applications_from_Google_Forms_with_Google_Gemini_and_email_results.json)|
+|15463|[15463_Track_daily_job_applications_from_Gmail_to_Google_Sheets_via_GPT-4o-mini_with_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15463_Track_daily_job_applications_from_Gmail_to_Google_Sheets_via_GPT-4o-mini_with_approval.json)|

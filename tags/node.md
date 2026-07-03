@@ -1,4 +1,4 @@
-# node : 60
+# node : 63
 
 |id|file|
 |----|----|
@@ -62,3 +62,6 @@
 |13768|[13768_Generate_workflow_documentation_and_node_names_with_GPT_4.1_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13768_Generate_workflow_documentation_and_node_names_with_GPT_4.1_mini.json)|
 |14957|[14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json)|
 |14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|16373|[16373_Score_LinkedIn_ICP_leads_and_draft_outreach_with_Claude__Notion_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16373_Score_LinkedIn_ICP_leads_and_draft_outreach_with_Claude__Notion_and_Sheets.json)|
+|16609|[16609_Build_self-improving_agent_skills_with_cognee.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16609_Build_self-improving_agent_skills_with_cognee.json)|

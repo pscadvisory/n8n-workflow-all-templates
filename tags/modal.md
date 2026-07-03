@@ -1,4 +1,4 @@
-# modal : 9
+# modal : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8793|[8793_Multi-Modal_Personal_AI_Assistant_with_Telegram___Google_Gemini_for_Productivity_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8793_Multi-Modal_Personal_AI_Assistant_with_Telegram___Google_Gemini_for_Productivity_Tools.json)|
 |10155|[10155_Multi-Modal_Expense_Tracking_with_Telegram__Gemini_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10155_Multi-Modal_Expense_Tracking_with_Telegram__Gemini_AI___Google_Sheets.json)|
 |11188|[11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json)|
+|15565|[15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15565_Detect_multi-modal_plagiarism_with_OpenAI_GPT-4__Whisper__and_vector_search.json)|

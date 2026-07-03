@@ -1,4 +1,4 @@
-# deck : 6
+# deck : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7695|[7695_Automate_Weekly_Meta_Ad_Reports_with_Claude_AI__GoMarble_MCP___Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7695_Automate_Weekly_Meta_Ad_Reports_with_Claude_AI__GoMarble_MCP___Google_Slides.json)|
 |9503|[9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json)|
 |14040|[14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14040_Migrate_ClickUp_list_or_task_tree_to_Nextcloud_Deck_as_a_one-off_import.json)|
+|16455|[16455_Generate_presentation_decks_from_prompts_with_Encelade.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16455_Generate_presentation_decks_from_prompts_with_Encelade.json)|

@@ -1,4 +1,4 @@
-# stage : 9
+# stage : 14
 
 |id|file|
 |----|----|
@@ -11,3 +11,8 @@
 |9239|[9239_Deal_Stage_Tracking_Automation_with_HighLevel_CRM__ClickUp__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9239_Deal_Stage_Tracking_Automation_with_HighLevel_CRM__ClickUp__and_Slack.json)|
 |14313|[14313_Send_multi-stage_overdue_invoice_reminders_with_NocoDB__Gmail__PostGrid_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14313_Send_multi-stage_overdue_invoice_reminders_with_NocoDB__Gmail__PostGrid_and_Slack.json)|
 |14994|[14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json)|
+|15498|[15498_Send_multi-stage_SaaS_renewal_alerts_from_Google_Sheets_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15498_Send_multi-stage_SaaS_renewal_alerts_from_Google_Sheets_to_Slack.json)|
+|16001|[16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16001_Send_proposal_follow-ups_and_update_deals_with_HubSpot__Gmail__Sheets_and_Slack.json)|
+|16011|[16011_Score_inbound_leads_with_Claude_and_route_HubSpot_lifecycle_stages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16011_Score_inbound_leads_with_Claude_and_route_HubSpot_lifecycle_stages.json)|
+|16076|[16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16076_Notify_HubSpot_deal_stage_changes_with_OpenAI__Slack_and_Gmail.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|

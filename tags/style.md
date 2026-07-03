@@ -1,4 +1,4 @@
-# style : 16
+# style : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |14059|[14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json)|
 |14843|[14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14843_Analyze_stocks_in_Warren_Buffett_style_from_Telegram_with_OpenAI_and_Gmail.json)|
 |14889|[14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14889_Generate_style-locked_Seedance_videos_with_an_automated_QC_pipeline.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|
+|16553|[16553_Proxy_OpenAI-style_chat_completions_to_Gemini_with_async_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16553_Proxy_OpenAI-style_chat_completions_to_Gemini_with_async_webhooks.json)|

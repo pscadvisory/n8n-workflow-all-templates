@@ -1,4 +1,4 @@
-# costs : 18
+# costs : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |13591|[13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13591_Monitor_AI_budgets_and_optimize_costs_with_Anthropic_Claude_and_Slack_alerts.json)|
 |14536|[14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14536_Track_LLM_costs_and_usage_across_OpenAI__Anthropic__Google_and_more.json)|
 |15039|[15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15039_Compare_physical_vs_digital_24K_gold_costs_and_returns_with_GoldAPI__IBJA__Groq_and_Google_Sheets.json)|
+|15177|[15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json)|
+|15920|[15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json)|

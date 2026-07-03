@@ -1,4 +1,4 @@
-# cover : 11
+# cover : 17
 
 |id|file|
 |----|----|
@@ -13,3 +13,9 @@
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
 |11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|
 |13896|[13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|15526|[15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15526_Tailor_your_CV_and_cover_letter_to_each_job_with_easybits_and_Gemini.json)|
+|15623|[15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json)|
+|15789|[15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15789_Write_Upwork_proposals_from_Vollna_alerts_using_Claude__Gmail_and_Sheets.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|
+|16560|[16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16560_Score_job_listings_and_generate_tailored_cover_letters_with_Apify__OpenAI_and_Google_Sheets.json)|

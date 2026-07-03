@@ -1,4 +1,4 @@
-# pre : 13
+# pre : 16
 
 |id|file|
 |----|----|
@@ -15,3 +15,6 @@
 |13224|[13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json)|
 |13516|[13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13516_Send_AI_pre-op_reminders_with_Google_Calendar__Gmail__Sheets__Slack_and_GPT-4o.json)|
 |13520|[13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13520_Automate_patient_intake_and_AI_risk_triage_with_Azure_OpenAI__Google__and_Slack.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|
+|16351|[16351_Send_pre-meeting_Slack_briefings_with_Google_Calendar_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16351_Send_pre-meeting_Slack_briefings_with_Google_Calendar_and_GitHub.json)|

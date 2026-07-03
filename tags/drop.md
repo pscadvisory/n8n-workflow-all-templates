@@ -1,4 +1,4 @@
-# drop : 8
+# drop : 13
 
 |id|file|
 |----|----|
@@ -10,3 +10,8 @@
 |10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|
 |10390|[10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json)|
 |12872|[12872_Send_new_WooCommerce_product_notifications_to_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12872_Send_new_WooCommerce_product_notifications_to_Slack__Gmail_and_Google_Sheets.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|15380|[15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json)|
+|15609|[15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json)|
+|16003|[16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16003_Route_low-scoring_HubSpot_leads_with_Slack__Gmail_and_Google_Sheets.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|

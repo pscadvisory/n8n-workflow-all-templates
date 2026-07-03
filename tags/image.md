@@ -1,4 +1,4 @@
-# image : 218
+# image : 233
 
 |id|file|
 |----|----|
@@ -220,3 +220,18 @@
 |14863|[14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json)|
 |14928|[14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14928_Bulk_sync_products_from_Google_Sheets_to_Odoo_with_auto_image_upload.json)|
 |15033|[15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15033_Generate_Instagram_posts_with_OpenAI__RSS_news__and_auto_image_posting.json)|
+|15156|[15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json)|
+|15174|[15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15174_Extract_invoice_data_to_Excel_using_Google_Gemini__OCR__and_Telegram.json)|
+|15697|[15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15697_Publish_RSS_articles_to_LinkedIn_and_Instagram_using_OpenAI_and_Gemini_images.json)|
+|15759|[15759_Generate_and_Edit_Images_using_Havis_AI_and_GPT_Image_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15759_Generate_and_Edit_Images_using_Havis_AI_and_GPT_Image_2.json)|
+|15760|[15760_Generate_and_edit_images_using_Havis_AI_GPT_Image_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15760_Generate_and_edit_images_using_Havis_AI_GPT_Image_2.json)|
+|15834|[15834_AI_PPT_Optimizer_with_gpt-image-2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15834_AI_PPT_Optimizer_with_gpt-image-2.json)|
+|15837|[15837_Batch_Ad_Banner_Generator_with_gpt-image-2_and_Sharp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15837_Batch_Ad_Banner_Generator_with_gpt-image-2_and_Sharp.json)|
+|16148|[16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json)|
+|16168|[16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json)|
+|16172|[16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16172_Extract_purchase_order_data_to_Excel_via_Telegram_using_OCR_and_Google_Gemini.json)|
+|16313|[16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json)|
+|16501|[16501_Solve_image_CAPTCHAs_via_webhook_using_CaptchaSonic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16501_Solve_image_CAPTCHAs_via_webhook_using_CaptchaSonic.json)|
+|16587|[16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json)|
+|16641|[16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json)|
+|16776|[16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json)|

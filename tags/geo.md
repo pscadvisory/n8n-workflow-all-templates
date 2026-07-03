@@ -1,4 +1,4 @@
-# geo : 7
+# geo : 13
 
 |id|file|
 |----|----|
@@ -9,3 +9,9 @@
 |11077|[11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
 |11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|
+|15119|[15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json)|
+|15158|[15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json)|
+|15165|[15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15165_Run_on-page_SEO_and_GEO_audit_reports_with_IONOS_AI_Model_Hub_and_Gmail.json)|
+|15525|[15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15525_Generate___Upload_llms.txt_for_websites_GEO_optimization_____with_ScrapegraphAI.json)|
+|16741|[16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json)|
+|16761|[16761_Generate_SEO-friendly_robots.txt_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16761_Generate_SEO-friendly_robots.txt_with_OpenAI_and_Google_Drive.json)|

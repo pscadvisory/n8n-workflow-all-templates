@@ -1,4 +1,4 @@
-# trigger : 18
+# trigger : 26
 
 |id|file|
 |----|----|
@@ -20,3 +20,11 @@
 |13290|[13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13290_Monitor_scheduled_workflow_health_in_n8n_with_automatic_trigger_checks.json)|
 |13597|[13597_Assess_technical_documentation_compliance_with_GPT_4o_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13597_Assess_technical_documentation_compliance_with_GPT_4o_and_send_Slack_alerts.json)|
 |14370|[14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14370_Monitor_Shopify_low-stock_items_with_OpenAI__Google_Sheets__Slack_and_email.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|
+|15899|[15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15899_Post_text_and_images_to_X_using_a_simple_form_trigger.json)|
+|15940|[15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16048|[16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16048_Trigger_AI_outbound_calls_from_HubSpot_and_log_call_results_with_Vapi.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16641|[16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16641_Trigger_Coolify_deployments_from_new_Docker_Hub_and_GHCR_image_digests.json)|

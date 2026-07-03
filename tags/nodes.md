@@ -1,4 +1,4 @@
-# nodes : 14
+# nodes : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |10317|[10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json)|
 |12174|[12174_Estimate_construction_costs_from_text_with_Telegram__OpenAI_and_DDC_CWICR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12174_Estimate_construction_costs_from_text_with_Telegram__OpenAI_and_DDC_CWICR.json)|
 |13868|[13868_Auto-generate_sticky_notes_and_rename_nodes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13868_Auto-generate_sticky_notes_and_rename_nodes.json)|
+|15185|[15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15185_Send_timezone-aware_drip_emails_with_Gmail_and_Google_Sheets_using_daily_limits.json)|
+|16652|[16652_Create_SEO_blog_posts_from_YouTube_videos_with_Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16652_Create_SEO_blog_posts_from_YouTube_videos_with_Gemini_and_Google_Docs.json)|

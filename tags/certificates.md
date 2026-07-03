@@ -1,4 +1,4 @@
-# certificates : 14
+# certificates : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |12399|[12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12399_Email_reports_on_expiring_Microsoft_Entra_ID_app_secrets_and_certificates_with_Microsoft_Graph.json)|
 |13219|[13219_Generate_bulk_certificates_from_Google_Sheets_and_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13219_Generate_bulk_certificates_from_Google_Sheets_and_Google_Slides.json)|
 |14081|[14081_Generate_bulk_Google_Slides_certificates___as_PDFs_and_email_them_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14081_Generate_bulk_Google_Slides_certificates___as_PDFs_and_email_them_with_Gmail.json)|
+|16379|[16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16379_Generate_bulk_certificates_and_contracts_with_Carbone__Excel_and_OneDrive.json)|

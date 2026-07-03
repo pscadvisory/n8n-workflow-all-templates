@@ -1,4 +1,4 @@
-# retention : 9
+# retention : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |11977|[11977_Automate_customer_retention_with_AI_risk_prediction__Stripe_coupons___personalized_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11977_Automate_customer_retention_with_AI_risk_prediction__Stripe_coupons___personalized_Gmail.json)|
 |12038|[12038_Predict_tenant_churn_and_manage_retention_with_GPT-4__Gmail__Slack_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12038_Predict_tenant_churn_and_manage_retention_with_GPT-4__Gmail__Slack_and_your_CRM.json)|
 |13969|[13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|15877|[15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json)|

@@ -1,4 +1,4 @@
-# discovery : 25
+# discovery : 29
 
 |id|file|
 |----|----|
@@ -27,3 +27,7 @@
 |14097|[14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14097_Discover_and_enrich_competitor_clients_with_PredictLeads_and_Google_Sheets.json)|
 |14358|[14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14358_Send_a_daily_women-focused_job_digest_to_Telegram_with_GPT-4o-mini_and_SerpAPI.json)|
 |14846|[14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14846_Discover__enrich__and_email_LinkedIn_leads_with_Apify__Gmail__Gemini__and_Sheets.json)|
+|15363|[15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json)|
+|15411|[15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json)|
+|15833|[15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15833_Sync_PostgreSQL_data_to_a_Pinecone_vector_knowledge_base_using_Gemini_embeddings.json)|
+|16211|[16211_Discover_Instagram_creators_with_ScrapingBee__Google_Sheets__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16211_Discover_Instagram_creators_with_ScrapingBee__Google_Sheets__and_Telegram.json)|

@@ -1,4 +1,4 @@
-# links : 36
+# links : 44
 
 |id|file|
 |----|----|
@@ -38,3 +38,11 @@
 |13703|[13703_Register_users_and_authenticate_with_magic_links_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13703_Register_users_and_authenticate_with_magic_links_using_Google_Sheets.json)|
 |14667|[14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14667_Evaluate_job_fit_and_generate_application_assets_from_Telegram_links_with_OpenAI__Pinecone__Apify_and_Google_Sheets.json)|
 |14807|[14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14807_Check_job_apply_URLs_and_deactivate_dead_links_in_Postgres_and_Google_Sheets.json)|
+|15130|[15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json)|
+|15255|[15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15255_Generate_tailored_CV_and_Cover_Letter_from_job_links.json)|
+|15719|[15719_Send_bulk_MercadoPago_payment_links_from_Google_Sheets_via_Gmail__WhatsApp__or_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15719_Send_bulk_MercadoPago_payment_links_from_Google_Sheets_via_Gmail__WhatsApp__or_Telegram.json)|
+|15816|[15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json)|
+|15982|[15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15982_Capture_vendor_status_updates_via_tokenized_email_links_and_Google_Sheets.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|
+|16349|[16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json)|
+|16773|[16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16773_Dub_Telegram_video_links_with_ElevenLabs_and_publish_to_YouTube_and_TikTok.json)|

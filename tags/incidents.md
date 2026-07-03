@@ -1,4 +1,4 @@
-# incidents : 9
+# incidents : 13
 
 |id|file|
 |----|----|
@@ -11,3 +11,7 @@
 |14044|[14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14044_Analyze_logs_and_correlate_incidents_with_OpenAI_and_Slack.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
 |14347|[14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14347_Analyze_Alertmanager_incidents_and_post_diagnostic_reports_to_Mattermost.json)|
+|15610|[15610_Investigate_CI_CD_incidents_in_Mattermost_with_an_OpenRouter_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15610_Investigate_CI_CD_incidents_in_Mattermost_with_an_OpenRouter_AI_agent.json)|
+|15674|[15674_Triage_Microsoft_365_incidents_into_Jira_with_GPT-4o-mini__PagerDuty_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15674_Triage_Microsoft_365_incidents_into_Jira_with_GPT-4o-mini__PagerDuty_and_Teams.json)|
+|15828|[15828_Investigate_CI_CD_incidents_in_Slack_with_a_GPT-5.5_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15828_Investigate_CI_CD_incidents_in_Slack_with_a_GPT-5.5_AI_agent.json)|
+|16378|[16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json)|

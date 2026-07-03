@@ -1,4 +1,4 @@
-# structured : 43
+# structured : 48
 
 |id|file|
 |----|----|
@@ -45,3 +45,8 @@
 |13004|[13004_Extract_structured_data_from_Gmail_attachments_to_Google_Sheets__GPT_vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13004_Extract_structured_data_from_Gmail_attachments_to_Google_Sheets__GPT_vision.json)|
 |13599|[13599_Generate_structured_exams_from_PDFs_with_OpenAI_GPT-4o_and_HTML_to_PDF.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13599_Generate_structured_exams_from_PDFs_with_OpenAI_GPT-4o_and_HTML_to_PDF.json)|
 |13750|[13750_Analyze_invoices_from_Google_Drive_with_AI_and_store_data_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13750_Analyze_invoices_from_Google_Drive_with_AI_and_store_data_in_Google_Sheets.json)|
+|15220|[15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15220_Extract_structured_invoice_JSON_from_PDFs_with_Mistral_OCR_and_an_LLM_API.json)|
+|15950|[15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json)|
+|16261|[16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16261_Capture_and_log_trade_instructions_from_Gmail_with_Gemini_and_Google_Sheets.json)|
+|16331|[16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json)|
+|16399|[16399_Fetch_and_parse_Amazon_SP-API_reports_into_structured_TSV_rows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16399_Fetch_and_parse_Amazon_SP-API_reports_into_structured_TSV_rows.json)|

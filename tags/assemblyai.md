@@ -1,4 +1,4 @@
-# assemblyai : 10
+# assemblyai : 12
 
 |id|file|
 |----|----|
@@ -12,3 +12,5 @@
 |11888|[11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json)|
 |12934|[12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12934_Summarize_YouTube_videos_in_Slack_using_AssemblyAI_transcription_and_OpenAI.json)|
 |12935|[12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12935_Send_YouTube_transcripts_to_Slack_using_AssemblyAI.json)|
+|15974|[15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json)|
+|16139|[16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16139_Translate_Google_Drive_videos_to_Japanese_subtitles_with_AssemblyAI__Gemini_and_Creatomate.json)|

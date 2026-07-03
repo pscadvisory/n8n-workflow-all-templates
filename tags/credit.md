@@ -1,4 +1,4 @@
-# credit : 8
+# credit : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |13586|[13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13586_Monitor_supplier_financial_distress_and_risk_with_Bright_Data__OpenRouter_and_Google_Sheets.json)|
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
+|16467|[16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16467_Count_Xero_invoices__bills__and_credit_notes_with_a_voided_deleted_filter.json)|

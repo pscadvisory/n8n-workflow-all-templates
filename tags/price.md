@@ -1,4 +1,4 @@
-# price : 65
+# price : 76
 
 |id|file|
 |----|----|
@@ -67,3 +67,14 @@
 |14059|[14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14059_Generate_institutional-style_stock_price_targets_and_BUY_HOLD_SELL_alerts_with_ChatGPT_and_Gemini.json)|
 |14330|[14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14330_Compare_product_prices_from_Amazon__Walmart_and_Google_Shopping_via_Telegram_using_OpenAI.json)|
 |14516|[14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json)|
+|15276|[15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15276_Detect_Bitcoin_price_spikes_and_send_Gemini-powered_NewsAPI_Gmail_alerts.json)|
+|15380|[15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15380_Track_Amazon_price-drop_alerts_with_Scavio_and_Google_Sheets.json)|
+|15562|[15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15562_Send_hourly_cryptocurrency_price_summaries_to_Telegram_with_CoinGecko.json)|
+|15609|[15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15609_Send_daily_price-drop_digest_emails_for_Amazon__Walmart_and_Google_via_ScraperAPI.json)|
+|15686|[15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15686_Automate_B2B_supplier_price_negotiations_with_Google_Sheets__Gmail__GPT-4o__Notion_and_Slack.json)|
+|15893|[15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15893_Monitor_competitor_pricing_with_Firecrawl__Anthropic__Airtable_and_Slack.json)|
+|15954|[15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15954_Send_Murban_crude_futures_price_alerts_with_HTTP_request_and_Telegram.json)|
+|16061|[16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16061_Send_crypto_price_alerts__daily_digests_and__price_replies_with_CoinGecko__Telegram_and_Sheets.json)|
+|16303|[16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json)|
+|16409|[16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json)|
+|16436|[16436_Track_Google_Shopping_price_alerts_with_ScraperAPI__Airtable_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16436_Track_Google_Shopping_price_alerts_with_ScraperAPI__Airtable_and_Gmail.json)|

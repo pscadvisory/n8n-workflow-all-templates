@@ -1,4 +1,4 @@
-# share : 21
+# share : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |12437|[12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json)|
 |13413|[13413_Share_new_Shopify_products_to_WordPress__Facebook__Instagram__LinkedIn_and_more_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13413_Share_new_Shopify_products_to_WordPress__Facebook__Instagram__LinkedIn_and_more_using_OpenAI.json)|
 |13634|[13634_Share_time-limited_preview_links_with_UploadToURL__SendGrid__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13634_Share_time-limited_preview_links_with_UploadToURL__SendGrid__and_Google_Sheets.json)|
+|15816|[15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15816_Resolve_Xiaohongshu_share_links_to_final_URLs_with_JustOneAPI.json)|
+|16019|[16019_Create_and_share_client_folders_from_Google_Sheets_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16019_Create_and_share_client_folders_from_Google_Sheets_to_Google_Drive.json)|
+|16140|[16140_Share_and_schedule_blog_posts_to_social_media_using_RSS_and_Posta.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16140_Share_and_schedule_blog_posts_to_social_media_using_RSS_and_Posta.json)|

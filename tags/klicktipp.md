@@ -1,4 +1,4 @@
-# klicktipp : 30
+# klicktipp : 34
 
 |id|file|
 |----|----|
@@ -32,3 +32,7 @@
 |13664|[13664_Find_KlickTipp_tags_to_remove_by_prefix.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13664_Find_KlickTipp_tags_to_remove_by_prefix.json)|
 |13699|[13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13699_Resolve_and_create_KlickTipp_tags_from_names_with_optional_prefixes.json)|
 |13721|[13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13721_Create_WordPress_users_from_KlickTipp_and_tag_contacts_based_on_comments.json)|
+|16573|[16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16573_Generate_gender-aware_email_greetings_with_OpenAI_and_KlickTipp.json)|
+|16722|[16722_Generate_personalized_email_salutations_for_KlickTipp_contacts_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16722_Generate_personalized_email_salutations_for_KlickTipp_contacts_with_OpenAI.json)|
+|16723|[16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json)|
+|16724|[16724_Manage_KlickTipp_contact_tags_with_GPT-5-mini_via_chat_input.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16724_Manage_KlickTipp_contact_tags_with_GPT-5-mini_via_chat_input.json)|

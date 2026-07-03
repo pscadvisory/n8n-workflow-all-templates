@@ -1,4 +1,4 @@
-# pages : 30
+# pages : 36
 
 |id|file|
 |----|----|
@@ -32,3 +32,9 @@
 |14537|[14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14537_Extract_brand_identity_markers_from_web_pages_using_Google_Gemini.json)|
 |14841|[14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14841_Create_LinkedIn_posts_from_web_pages_using_Airtable__Dumpling_AI__Claude_and_PostPulse.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|15119|[15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15119_Optimize_blog_and_product_pages_for_Google_AI_Overviews_with_GPT-4_and_Sheets.json)|
+|15358|[15358_Create_Notion_knowledge_pages_from_webinars_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15358_Create_Notion_knowledge_pages_from_webinars_with_WayinVideo_and_GPT-4o-mini.json)|
+|15482|[15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json)|
+|15642|[15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json)|
+|16022|[16022_Summarize_web_pages_from_URLs_to_Notion_with_OpenAI_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16022_Summarize_web_pages_from_URLs_to_Notion_with_OpenAI_GPT-4o.json)|
+|16540|[16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16540_Detect_semantic_duplicate_website_pages_with_Google_Drive__Postgres_and_Ollama.json)|

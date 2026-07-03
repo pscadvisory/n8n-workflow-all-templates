@@ -1,4 +1,4 @@
-# human : 67
+# human : 77
 
 |id|file|
 |----|----|
@@ -69,3 +69,13 @@
 |13849|[13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13849_Production_AI_Playbook__Human_Oversight__Exercise_3.json)|
 |14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
 |14551|[14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14551_Detect_human_vs_AI_text_using_stylometric_metrics_and_multi_agent_LLM_debate.json)|
+|15120|[15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15120_Route_support_messages_with_GPT-4.1-mini__Slack__email_and_human_review.json)|
+|15187|[15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15187_Post_top_Reddit_content_to_Telegram_with_GPT-4.1-mini_and_human_approval.json)|
+|15573|[15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json)|
+|15613|[15613_Generate_LinkedIn_posts_with_GPT-4o-mini__Gemini_images__human_approval__and_auto-publish.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15613_Generate_LinkedIn_posts_with_GPT-4o-mini__Gemini_images__human_approval__and_auto-publish.json)|
+|15720|[15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15720_Publish_LinkedIn_posts_from_RSS_using_Ollama__PostgreSQL_and_Telegram_approval.json)|
+|15855|[15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15855_Provide_ecommerce_support_with_Qdrant_RAG__WooCommerce__and_human_backup.json)|
+|16007|[16007_Qualify_WhatsApp_insurance_leads_with_OpenAI__HubSpot__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16007_Qualify_WhatsApp_insurance_leads_with_OpenAI__HubSpot__and_Slack.json)|
+|16137|[16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16137_Manage_human_review_tasks_with_Google_Tasks_and_web_forms.json)|
+|16315|[16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16315_Route_chatbot_requests_to_humans_with_OpenAI_and_Google_Sheets.json)|
+|16663|[16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16663_Route_human-in-the-loop_approval_requests_with_Slack_and_Postgres.json)|

@@ -1,4 +1,4 @@
-# binance : 19
+# binance : 23
 
 |id|file|
 |----|----|
@@ -21,3 +21,7 @@
 |11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|
 |13011|[13011_Analyze_Binance_Futures_markets_with_TA_indicators__OpenAI_news_checks__and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13011_Analyze_Binance_Futures_markets_with_TA_indicators__OpenAI_news_checks__and_Telegram_alerts.json)|
 |13512|[13512_Export_your_daily_Binance_spot_portfolio_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13512_Export_your_daily_Binance_spot_portfolio_to_Google_Sheets.json)|
+|15329|[15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15329_Monitor_futures_trades_and_send_risk_alerts_using_Binance__Sheets__Slack_and_email.json)|
+|15844|[15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15844_Generate_crypto_trading_signals_from_Binance_data_with_GPT-4o_and_Telegram.json)|
+|16085|[16085_Detect_Binance_USDT_volume_spikes_with_GPT-4o__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16085_Detect_Binance_USDT_volume_spikes_with_GPT-4o__Telegram_and_Google_Sheets.json)|
+|16341|[16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16341_Monitor_Binance_futures_funding_rates_and_alert_Telegram_hourly.json)|

@@ -1,4 +1,4 @@
-# ghl : 4
+# ghl : 6
 
 |id|file|
 |----|----|
@@ -6,3 +6,5 @@
 |8339|[8339_Replace_Your_Call_Center_with_an_AI_Agent_using_GoHighLevel__GHL___VAPI___Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8339_Replace_Your_Call_Center_with_an_AI_Agent_using_GoHighLevel__GHL___VAPI___Twilio.json)|
 |9411|[9411_Sync_Lead_Replies_from_Google_Sheets_to_GHL_CRM___Create_ClickUp_Follow-up_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9411_Sync_Lead_Replies_from_Google_Sheets_to_GHL_CRM___Create_ClickUp_Follow-up_Tasks.json)|
 |10255|[10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json)|
+|15684|[15684_Fetch_and_enrich_Apollo_leads_and_sync_verified_contacts_to_MeldFlow_GHL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15684_Fetch_and_enrich_Apollo_leads_and_sync_verified_contacts_to_MeldFlow_GHL.json)|
+|16566|[16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json)|

@@ -1,4 +1,4 @@
-# faq : 21
+# faq : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|
 |12019|[12019_Create_AI_FAQ_articles_from_Slack_threads_into_Notion_and_Zendesk.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12019_Create_AI_FAQ_articles_from_Slack_threads_into_Notion_and_Zendesk.json)|
 |12441|[12441_Generate_AI_search_driven_FAQ_insights_for_SEO_with_SE_Ranking_and_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12441_Generate_AI_search_driven_FAQ_insights_for_SEO_with_SE_Ranking_and_OpenAI_GPT-4.1-mini.json)|
+|15065|[15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15065_Generate_weekly_client_FAQ_updates_using_NewsAPI__GPT-4.1_and_Sheets.json)|
+|16017|[16017_Structure_gym_FAQ_data_for_AI_chatbot_matching_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16017_Structure_gym_FAQ_data_for_AI_chatbot_matching_with_Google_Sheets.json)|
+|16352|[16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16352_Sync_website_FAQs_to_Pinecone_weekly_with_GPT-4o_and_OpenAI_embeddings.json)|
+|16642|[16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16642_Generate_an_FAQ_MP3_library_from_form_input_with_OpenAI_TTS__Google_Drive__Sheets_and_Gmail.json)|

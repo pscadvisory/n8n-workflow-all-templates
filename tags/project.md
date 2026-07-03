@@ -1,4 +1,4 @@
-# project : 29
+# project : 34
 
 |id|file|
 |----|----|
@@ -31,3 +31,8 @@
 |12567|[12567_Kick_off_client_projects_after_Stripe_payment_with_Google_Drive__ClickUp__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12567_Kick_off_client_projects_after_Stripe_payment_with_Google_Drive__ClickUp__Gmail__Sheets__and_Slack.json)|
 |14306|[14306_Monitor_Kimai_project_deadlines_and_budgets_with_daily_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14306_Monitor_Kimai_project_deadlines_and_budgets_with_daily_email_alerts.json)|
 |14994|[14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14994_Send_multi-stage_customer_project_emails_from_Google_Sheets_with_Zoho_ZeptoMail.json)|
+|15269|[15269_Send_a_weekly_smenso_project_status_report_via_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15269_Send_a_weekly_smenso_project_status_report_via_email_with_Gmail.json)|
+|15485|[15485_Classify_SES_project_emails_with_GPT-4.1_mini_and_save_from_Gmail_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15485_Classify_SES_project_emails_with_GPT-4.1_mini_and_save_from_Gmail_to_Sheets.json)|
+|15660|[15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15660_Create_smenso_tasks_from_Gmail_with_automatic_project_assignment.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|
+|16376|[16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16376_Send_weekly_project_health_dashboard_with_Google_Sheets__GPT-4o_mini_and_Gmail.json)|

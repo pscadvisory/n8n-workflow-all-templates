@@ -1,4 +1,4 @@
-# error : 45
+# error : 51
 
 |id|file|
 |----|----|
@@ -47,3 +47,9 @@
 |14208|[14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14208_Validate_JSON_payloads_against_a_schema_with_detailed_error_messages__no_AI.json)|
 |14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|
 |14988|[14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14988_Monitor_n8n_workflows_with_Watchflow_dead_man_s_switch_and_error_alerts.json)|
+|15098|[15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json)|
+|15305|[15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15305_Analyze_error_logs_with_GPT-4o_and_create_GitHub_issues_plus_Slack_alerts.json)|
+|15326|[15326_Summarize_regulatory_news_from_NewsAPI_with_Gemini_and_Google_Sheets_plus_error_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15326_Summarize_regulatory_news_from_NewsAPI_with_Gemini_and_Google_Sheets_plus_error_alerts.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|
+|15484|[15484_Diagnose_n8n_workflow_errors_with_Claude_AI__Supabase_and_Resend_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15484_Diagnose_n8n_workflow_errors_with_Claude_AI__Supabase_and_Resend_email_alerts.json)|
+|16392|[16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16392_Post_scheduled_Threads_updates_from_Google_Sheets_with_error_tracking.json)|

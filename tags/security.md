@@ -1,4 +1,4 @@
-# security : 47
+# security : 52
 
 |id|file|
 |----|----|
@@ -49,3 +49,8 @@
 |13443|[13443_Test_WAF_security_interactively_with_an_AI_agent_and_WAFtester_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13443_Test_WAF_security_interactively_with_an_AI_agent_and_WAFtester_MCP.json)|
 |13444|[13444_Run_weekly_WAF_security_audits_with_WAFtester_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13444_Run_weekly_WAF_security_audits_with_WAFtester_and_Slack_alerts.json)|
 |13445|[13445_Gate_deployments_on_WAF_scan_results_with_WAFtester.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13445_Gate_deployments_on_WAF_scan_results_with_WAFtester.json)|
+|15797|[15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15797_Convert_Outlook_emails_to_Planner_tasks_and_monitor_Secure_Score_with_Teams_alerts_in_M365.json)|
+|15871|[15871_Audit_website_security_and_send_AI_reports_via_Claude__Gmail__Slack_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15871_Audit_website_security_and_send_AI_reports_via_Claude__Gmail__Slack_and_WhatsApp.json)|
+|15884|[15884_Run_a_weekly_n8n_security_audit_and_email_changes_with_Supabase_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15884_Run_a_weekly_n8n_security_audit_and_email_changes_with_Supabase_and_Gmail.json)|
+|16164|[16164_Run_weekly_security_audits_via_the_n8n_API__Data_Tables__and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16164_Run_weekly_security_audits_via_the_n8n_API__Data_Tables__and_Telegram.json)|
+|16388|[16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16388_Check_JWT_security_of_API_endpoints_with_HTTP_requests_and_Google_Sheets.json)|

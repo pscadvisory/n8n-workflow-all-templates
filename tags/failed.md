@@ -1,4 +1,4 @@
-# failed : 8
+# failed : 15
 
 |id|file|
 |----|----|
@@ -10,3 +10,10 @@
 |11601|[11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json)|
 |12376|[12376_Log_failed_WooCommerce_orders_to_Airtable_and_send_OpenAI-powered_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12376_Log_failed_WooCommerce_orders_to_Airtable_and_send_OpenAI-powered_Slack_alerts.json)|
 |12502|[12502_Analyze_failed_workflows_with_Claude_via_OpenRouter_and_log_to_Sheets_with_Slack__Email__Discord_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12502_Analyze_failed_workflows_with_Claude_via_OpenRouter_and_log_to_Sheets_with_Slack__Email__Discord_alerts.json)|
+|15098|[15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json)|
+|15857|[15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15857_Analyze_failed_trades_in_Google_Sheets_with_Gemini_and_send_Slack__email__and_task_alerts.json)|
+|15873|[15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15873_Handle_failed_Stripe_payments_with_Slack__ClickUp__Gmail_and_Google_Sheets.json)|
+|15932|[15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json)|
+|16083|[16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16083_Recover_failed_Stripe_payments_with_OpenAI__Gmail__Sheets_and_Slack.json)|
+|16333|[16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json)|
+|16744|[16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16744_Triage_and_retry_failed_workflow_executions_with_Anthropic__Jira_and_OpenTelemetry.json)|

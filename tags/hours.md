@@ -1,4 +1,4 @@
-# hours : 7
+# hours : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9550|[9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json)|
 |13088|[13088_Create_hours-long_wave_music_videos_with_Suno__ffmpeg-api_and_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13088_Create_hours-long_wave_music_videos_with_Suno__ffmpeg-api_and_YouTube.json)|
 |14113|[14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14113_Rerank_PM_priorities_every_2_hours_using_OpenAI__Notion__and_Slack.json)|
+|15079|[15079_Delete_Dropbox_PNG_files_older_than_48_hours_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15079_Delete_Dropbox_PNG_files_older_than_48_hours_on_a_schedule.json)|

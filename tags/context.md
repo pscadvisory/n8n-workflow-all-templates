@@ -1,4 +1,4 @@
-# context : 27
+# context : 30
 
 |id|file|
 |----|----|
@@ -29,3 +29,6 @@
 |11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
 |12885|[12885_Transform_chatbots_into_AI_advisors_with_memory_and_real-time_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12885_Transform_chatbots_into_AI_advisors_with_memory_and_real-time_context.json)|
 |13224|[13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13224_Send_pre-meeting_Slack_briefings_using_Google_Calendar__Notion__GitHub__and_Jira.json)|
+|15228|[15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15228_Draft_AI-powered_Help_Scout_replies_with_HubSpot_and_SMS_customer_360_context.json)|
+|16107|[16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16107_Send_pre-meeting_context_briefings_with_Outlook__SharePoint__Entra_ID_and_Teams.json)|
+|16723|[16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16723_Enrich_KlickTipp_contact_fields_using_OpenAI_GPT-5.5_and_context.json)|

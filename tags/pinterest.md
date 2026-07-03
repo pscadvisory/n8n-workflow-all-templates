@@ -1,4 +1,4 @@
-# pinterest : 10
+# pinterest : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |9388|[9388_AI-Powered_Social_Media_Ad_Creation_With_Website_Scraping_for_FB__IG___Pinterest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9388_AI-Powered_Social_Media_Ad_Creation_With_Website_Scraping_for_FB__IG___Pinterest.json)|
 |14072|[14072_Bulk_publish_Pinterest_Pins_from_Google_Sheets_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14072_Bulk_publish_Pinterest_Pins_from_Google_Sheets_with_PinBridge.json)|
 |14156|[14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14156_Auto-publish_new_WordPress_posts_to_Pinterest_with_PinBridge.json)|
+|15678|[15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json)|

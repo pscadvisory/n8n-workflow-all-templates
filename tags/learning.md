@@ -1,4 +1,4 @@
-# learning : 16
+# learning : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |13899|[13899_Analyze_and_modernize_university_curricula_with_GPT-4o_and_employment_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13899_Analyze_and_modernize_university_curricula_with_GPT-4o_and_employment_data.json)|
 |14021|[14021_Send_personalized_daily_learning_emails_for_women_using_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14021_Send_personalized_daily_learning_emails_for_women_using_GPT-4o_and_Gmail.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|15553|[15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15553_Turn_course_videos_into_ClickUp_learning_tasks_with_WayinVideo_and_GPT_4o_mini.json)|

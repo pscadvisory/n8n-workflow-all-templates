@@ -1,4 +1,4 @@
-# multiple : 93
+# multiple : 97
 
 |id|file|
 |----|----|
@@ -95,3 +95,7 @@
 |13467|[13467_Handle_guest_inquiries_for_multiple_rentals_with_Pinecone_Assistant_and_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13467_Handle_guest_inquiries_for_multiple_rentals_with_Pinecone_Assistant_and_GPT-4.1.json)|
 |13471|[13471_Create_and_publish_AI_social_posts_to_multiple_platforms_using_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13471_Create_and_publish_AI_social_posts_to_multiple_platforms_using_Blotato.json)|
 |13637|[13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15293|[15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json)|
+|15548|[15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json)|
+|15998|[15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15998_Collect_and_score_job_listings_from_multiple_boards_with_Apify_and_Sheets.json)|

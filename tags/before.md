@@ -1,4 +1,4 @@
-# before : 10
+# before : 13
 
 |id|file|
 |----|----|
@@ -12,3 +12,6 @@
 |11902|[11902_Validate___score_leads_with_ZeroBounce_AI_before_sending_Gmail_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11902_Validate___score_leads_with_ZeroBounce_AI_before_sending_Gmail_emails.json)|
 |14060|[14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14060_Verify_form_leads_in_real_time_with_NeverBounce_before_adding_to_your_CRM.json)|
 |14986|[14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14986_Research_LinkedIn_prospects_before_sales_calls_with_Bright_Data_and_GPT-5.4.json)|
+|15773|[15773_Mask_PII_before_GPT-5.5_analysis_with_Google_Sheets_audit_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15773_Mask_PII_before_GPT-5.5_analysis_with_Google_Sheets_audit_logs.json)|
+|15774|[15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15774_Block_prompt_injection_before_AI_agents_with_GPT-5.5__Slack__and_Google_Sheets.json)|
+|16234|[16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16234_Score_content_virality_with_OpenAI__Google_Sheets_and_Slack.json)|

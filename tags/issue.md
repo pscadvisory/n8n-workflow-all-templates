@@ -1,4 +1,4 @@
-# issue : 15
+# issue : 20
 
 |id|file|
 |----|----|
@@ -17,3 +17,8 @@
 |8845|[8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json)|
 |9088|[9088_GitHub_Bounty_Issue_Tracker___Alert_System__Google_Sheets___Email_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9088_GitHub_Bounty_Issue_Tracker___Alert_System__Google_Sheets___Email_WhatsApp.json)|
 |14061|[14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14061_Issue_Rivhit_receipts_from_WhatsApp_photos_using_Google_Vision_and_GPT-4o.json)|
+|15169|[15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15169_Triage_GitHub_issues_with_GPT-4.1-mini__Slack__Gmail__ClickUp_and_Sheets.json)|
+|15384|[15384_Send_Jira_high_priority_issue_alerts_to_Slack__Google_Chat_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15384_Send_Jira_high_priority_issue_alerts_to_Slack__Google_Chat_and_email.json)|
+|15438|[15438_Issue_branded_certificate_PDFs_from_Google_Sheets_with_TemplateFox_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15438_Issue_branded_certificate_PDFs_from_Google_Sheets_with_TemplateFox_and_Gmail.json)|
+|16035|[16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16035_Implement_AI-ready_GitHub_issues_with_CloudCLI_and_Telegram_summaries.json)|
+|16121|[16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16121_Assign_unassigned_Jira_issues_with_Airtable_and_OpenRouter_Grok.json)|

@@ -1,4 +1,4 @@
-# hr : 36
+# hr : 45
 
 |id|file|
 |----|----|
@@ -38,3 +38,12 @@
 |13544|[13544_Archive_HR_and_legal_documents_with_UploadToURL__Google_Drive_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13544_Archive_HR_and_legal_documents_with_UploadToURL__Google_Drive_and_Airtable.json)|
 |14856|[14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14856_Screen_resumes_with_GPT-4_Turbo_from_Gmail_and_send_shortlisted_to_Slack.json)|
 |14859|[14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14859_Scrape_and_qualify_HR_job_leads_with_Apify__Google_Sheets_and_OpenAI_GPT-4o-mini.json)|
+|15265|[15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15265_Enrich_company_leads_and_find_HR_contacts_with_Google_Sheets__OpenAI_and_LinkFinder_AI.json)|
+|15439|[15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15439_Generate_and_email_daily_AI-powered_HR_changes_digest_from_SAP_SuccessFactors_EC_with_GPT-4o-mini_and_Gmail.json)|
+|15888|[15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15888_Answer_HR_questions_with_GPT-4o-mini__PostgreSQL__Pinecone_and_ElevenLabs.json)|
+|15980|[15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15980_Monitor_HR_compliance_updates_from_DOL_with_GPT-4o-mini_and_Google_Sheets.json)|
+|16033|[16033_Run_HR_interview_agent_with_TruGen__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16033_Run_HR_interview_agent_with_TruGen__OpenAI__and_Google_Sheets.json)|
+|16197|[16197_Detect_payroll_discrepancies_with_Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16197_Detect_payroll_discrepancies_with_Google_Sheets__Slack_and_Gmail.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|
+|16707|[16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json)|
+|16708|[16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16708_Answer_HR_policy_and_benefits_questions_with_BambooHR__OpenAI_and_Supabase.json)|

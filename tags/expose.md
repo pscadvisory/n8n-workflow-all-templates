@@ -1,4 +1,4 @@
-# expose : 9
+# expose : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |5499|[5499_Expose_AWS_Budgets_API_Operations_to_AI_Agents_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5499_Expose_AWS_Budgets_API_Operations_to_AI_Agents_via_MCP_Server.json)|
 |5563|[5563_Expose_eBay_Browse_API_for_AI_Agents_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5563_Expose_eBay_Browse_API_for_AI_Agents_with_MCP_Server.json)|
 |5565|[5565_Expose_eBay_Taxonomy_API_to_AI_Agents_for_Category_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5565_Expose_eBay_Taxonomy_API_to_AI_Agents_for_Category_Management.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|

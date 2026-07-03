@@ -1,4 +1,4 @@
-# shopify : 120
+# shopify : 131
 
 |id|file|
 |----|----|
@@ -122,3 +122,14 @@
 |14828|[14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14828_Sync_Shopify_orders_to_Odoo_sales_orders_with_customer_and_product_mapping.json)|
 |14899|[14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14899_Sync_Shopify_products_to_Odoo_in_real_time_for_create_and_update_events.json)|
 |14969|[14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14969_Post_new_Shopify_products_to_Instagram__Facebook_and_X_with_OpenAI_and_Airtable.json)|
+|15608|[15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15608_Monitor_Shopify_orders_and_send_no-order_alerts_via_Slack_and_email.json)|
+|15693|[15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15693_Summarize_daily_Shopify_orders_with_Gemini__Google_Sheets__Gmail_and_Slack.json)|
+|15941|[15941_Monitor_Shopify_dispatch_SLA_breaches_with_Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15941_Monitor_Shopify_dispatch_SLA_breaches_with_Google_Sheets__Slack_and_Gmail.json)|
+|15972|[15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15972_Send_predictive_Shopify_low-stock_alerts_with_Google_Sheets__Slack__and_Gmail.json)|
+|16013|[16013_Score_Shopify_customer_churn_risk_and_sync_results_to_Klaviyo__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16013_Score_Shopify_customer_churn_risk_and_sync_results_to_Klaviyo__Slack__and_Gmail.json)|
+|16016|[16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16016_Detect_dead_Shopify_inventory_and_send_Gmail___Slack_CSV_alerts.json)|
+|16084|[16084_Send_payment_reminders_and_cancel_unpaid_Shopify_orders_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16084_Send_payment_reminders_and_cancel_unpaid_Shopify_orders_via_Gmail.json)|
+|16209|[16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16353|[16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16353_Sync_paid_Shopify_order_contacts_with_Odoo_and_remove_duplicates.json)|
+|16475|[16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16475_Flag_delayed_Shopify_orders_with_Slack__Google_Sheets_and_Gmail.json)|

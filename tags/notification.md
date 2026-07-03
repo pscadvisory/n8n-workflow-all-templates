@@ -1,4 +1,4 @@
-# notification : 48
+# notification : 51
 
 |id|file|
 |----|----|
@@ -50,3 +50,6 @@
 |14098|[14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14098_Detect_competitor_tech_adoption_and_notify_AEs_with_PredictLeads__Sheets_and_Gmail.json)|
 |14436|[14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14436_Review_legal_policies_with_GPT-4o__Gmail__Slack__and_Google_Sheets.json)|
 |14643|[14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14643_Publish_Instagram_carousel_posts_from_product_collections_with_Slack_notification.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|
+|16473|[16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16473_Manage_inventory_reorders_with_Google_Sheets__Slack__and_Gmail.json)|
+|16749|[16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16749_Upload_CSV_test_cases_to_Qase_and_send_completion_alerts_to_Slack.json)|

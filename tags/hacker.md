@@ -1,4 +1,4 @@
-# hacker : 15
+# hacker : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |12105|[12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12105_Automate_launch_intelligence_with_Hacker_News__Asana__GPT___Slack_Email_digests.json)|
 |12499|[12499_Create_a_founder_digest_and_leads_from_Hacker_News_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12499_Create_a_founder_digest_and_leads_from_Hacker_News_with_GPT-4o_and_Gmail.json)|
 |12748|[12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16634|[16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json)|

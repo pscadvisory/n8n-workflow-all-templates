@@ -1,4 +1,4 @@
-# uptime : 12
+# uptime : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |11655|[11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json)|
 |12060|[12060_Real-time_uptime_alerts_to_Jira_with_smart_Slack_on-call_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12060_Real-time_uptime_alerts_to_Jira_with_smart_Slack_on-call_routing.json)|
 |13672|[13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13672_Monitor_website_uptime_and_diagnose_errors_with_Gemini_and_Slack_alerts.json)|
+|15925|[15925_Monitor_website_uptime_and_send_alerts_via_Uptime_Robot__Claude__and_email_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15925_Monitor_website_uptime_and_send_alerts_via_Uptime_Robot__Claude__and_email_chat.json)|
+|16221|[16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16221_Monitor_website_uptime_and_content_changes_with_HTTP_checks_and_Slack.json)|

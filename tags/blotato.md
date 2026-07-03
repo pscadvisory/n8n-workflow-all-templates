@@ -1,4 +1,4 @@
-# blotato : 61
+# blotato : 71
 
 |id|file|
 |----|----|
@@ -63,3 +63,13 @@
 |14290|[14290_Create_and_publish_AI_videos_from_Telegram_with_VEED_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14290_Create_and_publish_AI_videos_from_Telegram_with_VEED_and_Blotato.json)|
 |14538|[14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14538_Generate_AI_music_and_publish_to_YouTube_automatically_with_Blotato.json)|
 |14985|[14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14985_Generate_AI_music_and_publish_YouTube_videos_automatically_with_Blotato__OpenAI__ElevenLabs__and_Shotstack.json)|
+|15203|[15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json)|
+|16148|[16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json)|
+|16168|[16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json)|
+|16347|[16347_Create_and_publish_AI_social_posts_from_Telegram_with_OpenAI__AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16347_Create_and_publish_AI_social_posts_from_Telegram_with_OpenAI__AtlasCloud_and_Blotato.json)|
+|16349|[16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16349_Create_AI_social_posts_from_Telegram_links_with_OpenAI__Grok_and_Blotato.json)|
+|16572|[16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16572_Create_Veo_3.1_Fast_AI_shorts_from_Telegram_with_AtlasCloud__OpenAI_and_Blotato.json)|
+|16576|[16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16576_Create_Seedance_2.0_short_videos_from_Telegram_ideas_with_OpenAI_and_Blotato.json)|
+|16606|[16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16606_Create_vertical_AI_videos_from_web_articles_with_OpenAI__Seedance_and_Blotato.json)|
+|16772|[16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16772_Generate_and_publish_AI_short_videos_from_Telegram_using_Blotato_and_OpenAI.json)|
+|16776|[16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json)|

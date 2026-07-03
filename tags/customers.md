@@ -1,4 +1,4 @@
-# customers : 45
+# customers : 48
 
 |id|file|
 |----|----|
@@ -47,3 +47,6 @@
 |13416|[13416_Send_WhatsApp_new_product_campaigns_from_WooCommerce_with_OpenAI_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13416_Send_WhatsApp_new_product_campaigns_from_WooCommerce_with_OpenAI_and_Sheets.json)|
 |13483|[13483_Notify_customers_on_WhatsApp_when_Stripe_payment_succeeds_with_MoltFlow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13483_Notify_customers_on_WhatsApp_when_Stripe_payment_succeeds_with_MoltFlow.json)|
 |14518|[14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14518_Sync_HubSpot_and_Linear_customers_daily_using_Snowflake_data.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|
+|16272|[16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16272_Sync_new_Shopify_customers_to_Odoo_and_notify_via_Gmail__SMS__WhatsApp_and_Telegram.json)|
+|16656|[16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json)|

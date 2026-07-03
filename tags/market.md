@@ -1,4 +1,4 @@
-# market : 92
+# market : 102
 
 |id|file|
 |----|----|
@@ -94,3 +94,13 @@
 |14405|[14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14405_Research_e-commerce_products_with_Firecrawl_and_AI_for_a_full_market_report.json)|
 |14805|[14805_Generate_a_daily_multi-asset_market_report_with_TwelveData__Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14805_Generate_a_daily_multi-asset_market_report_with_TwelveData__Groq_and_Google_Sheets.json)|
 |15008|[15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json)|
+|15339|[15339_Send_a_daily_Nifty_50_market_brief_using_Gemini_AI__Nifty_50_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15339_Send_a_daily_Nifty_50_market_brief_using_Gemini_AI__Nifty_50_API_and_Gmail.json)|
+|15461|[15461_Send_daily_crypto_market_insights_with_Google_Gemini_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15461_Send_daily_crypto_market_insights_with_Google_Gemini_to_Telegram.json)|
+|15471|[15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json)|
+|15669|[15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json)|
+|15671|[15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15671_Score_macro_news_impact_with_Groq__SerpAPI__Google_Sheets_and_Gmail.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|15931|[15931_Log_and_analyze_job_postings_with_Telegram__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15931_Log_and_analyze_job_postings_with_Telegram__Claude__and_Google_Sheets.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|
+|16759|[16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json)|

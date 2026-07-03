@@ -1,4 +1,4 @@
-# bookings : 23
+# bookings : 27
 
 |id|file|
 |----|----|
@@ -25,3 +25,7 @@
 |13733|[13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13733_Manage_WhatsApp_vehicle_service_reminders_and_bookings_with_WATI_and_Google_Sheets.json)|
 |13864|[13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13864_Handle_Spanish-speaking_vet_clinic_bookings_with_GPT-4o__Sheets__Calendar_and_Gmail.json)|
 |14914|[14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14914_Plan_voice-based_travel_and_calendar_bookings_with_Claude_AI.json)|
+|15108|[15108_Predict_no-show_risk_and_route_reminders_with_Google_Calendar__Sheets__Slack_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15108_Predict_no-show_risk_and_route_reminders_with_Google_Calendar__Sheets__Slack_and_OpenAI.json)|
+|15117|[15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15117_Handle_voice-based_appointment_bookings_with_OpenAI__Cal.com_and_WhatsApp.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|
+|16087|[16087_Handle_WhatsApp_support_and_Cal.com_bookings_with_Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16087_Handle_WhatsApp_support_and_Cal.com_bookings_with_Gemini_and_Google_Docs.json)|

@@ -1,4 +1,4 @@
-# release : 20
+# release : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |12005|[12005_Movie_release_calendar__Add_TMDB_films_to_Google_Calendar_via_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12005_Movie_release_calendar__Add_TMDB_films_to_Google_Calendar_via_Telegram_Bot.json)|
 |13677|[13677_Watch_GitHub_releases_and_Docker_tags__analyze_changelogs_with_Claude_Haiku__and_send_update_digests_to_Slack__Discord__Telegram__and_ntfy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13677_Watch_GitHub_releases_and_Docker_tags__analyze_changelogs_with_Claude_Haiku__and_send_update_digests_to_Slack__Discord__Telegram__and_ntfy.json)|
 |14520|[14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14520_Generate_GitLab_release_notes_from_Linear_issues_with_Claude_Opus.json)|
+|15354|[15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json)|
+|16552|[16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16552_Send_GitHub_release_audio_newsletters_with_OpenAI__Google_Drive__Gmail_and_Sheets.json)|

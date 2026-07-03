@@ -1,4 +1,4 @@
-# highlevel : 11
+# highlevel : 15
 
 |id|file|
 |----|----|
@@ -13,3 +13,7 @@
 |10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|
 |10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
 |10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|
+|15932|[15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15932_Recover_failed_Stripe_payments_with_HighLevel__Gmail_and_Google_Calendar.json)|
+|15984|[15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json)|
+|16173|[16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16173_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Apify.json)|
+|16385|[16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16385_Quote_freight_shipments_via_WhatsApp_with_Google_Gemini__HighLevel__and_Warp.json)|

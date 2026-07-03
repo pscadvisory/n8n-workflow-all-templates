@@ -1,4 +1,4 @@
-# folders : 14
+# folders : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |9209|[9209_Scheduled_Monitoring_of_New___Modified_Files_Across_Google_Drive_Folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9209_Scheduled_Monitoring_of_New___Modified_Files_Across_Google_Drive_Folders.json)|
 |14318|[14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json)|
 |15037|[15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json)|
+|15249|[15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json)|
+|16019|[16019_Create_and_share_client_folders_from_Google_Sheets_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16019_Create_and_share_client_folders_from_Google_Sheets_to_Google_Drive.json)|

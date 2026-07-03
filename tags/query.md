@@ -1,4 +1,4 @@
-# query : 44
+# query : 46
 
 |id|file|
 |----|----|
@@ -46,3 +46,5 @@
 |14051|[14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14051_Query_expenses_on_Telegram_with_GPT-4.1_and_Google_Sheets.json)|
 |14057|[14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14057_Query_your_PostgreSQL_data_in_plain_English_with_GPT-4o-mini.json)|
 |14254|[14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json)|
+|16166|[16166_Log_receipts_from_Telegram_to_Google_Sheets_and_query_spending_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16166_Log_receipts_from_Telegram_to_Google_Sheets_and_query_spending_with_Gemini.json)|
+|16635|[16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16635_Index_and_query_financial_documents_with_Qdrant_and_Mistral.json)|

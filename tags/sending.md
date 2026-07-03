@@ -1,4 +1,4 @@
-# sending : 11
+# sending : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
 |11902|[11902_Validate___score_leads_with_ZeroBounce_AI_before_sending_Gmail_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11902_Validate___score_leads_with_ZeroBounce_AI_before_sending_Gmail_emails.json)|
+|16249|[16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json)|

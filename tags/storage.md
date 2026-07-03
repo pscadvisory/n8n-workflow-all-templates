@@ -1,4 +1,4 @@
-# storage : 69
+# storage : 70
 
 |id|file|
 |----|----|
@@ -71,3 +71,4 @@
 |13192|[13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13192_Process_incoming_files_and_notify_via_email_with_GitHub_storage.json)|
 |14274|[14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14274_Upload_documents_with_validation__deduplication_and_Postgres_storage.json)|
 |14301|[14301_Modify_Liveblocks_storage_with_JSON_Patch_and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14301_Modify_Liveblocks_storage_with_JSON_Patch_and_Anthropic_Claude.json)|
+|16313|[16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16313_Generate_and_store_Supabase_images_with_Claude_and_Cloudflare_Workers_AI.json)|

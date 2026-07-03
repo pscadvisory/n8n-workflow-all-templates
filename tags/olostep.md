@@ -1,4 +1,4 @@
-# olostep : 7
+# olostep : 14
 
 |id|file|
 |----|----|
@@ -9,3 +9,10 @@
 |13436|[13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13436_Crawl_documentation_sites_and_build_an_AI_knowledge_base_with_Olostep.json)|
 |13437|[13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13437_Scrape_Skool_community_data_using_the_Olostep_API_and_Google_Sheets.json)|
 |14661|[14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14661_Generate_AI_sales_battle_cards_with_Olostep__Gemini__and_Google_Docs.json)|
+|15387|[15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15387_Send_a_daily_investment_research_email_with_Olostep__OpenAI__and_Gmail.json)|
+|15458|[15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15458_Turn_any_article_into_social_content_with_Gemini__Olostep__and_Google_Docs.json)|
+|15471|[15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15471_Generate_a_buyer_persona_pain_point_report_using_Olostep__Gemini_and_Google_Docs.json)|
+|15473|[15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json)|
+|15474|[15474_Generate_content_authority_roadmaps_using_Olostep__Gemini_2.5_Flash_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15474_Generate_content_authority_roadmaps_using_Olostep__Gemini_2.5_Flash_and_Google_Drive.json)|
+|15475|[15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json)|
+|15482|[15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15482_Monitor_competitor_pages_with_Gemini__Olostep__Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# submissions : 34
+# submissions : 39
 
 |id|file|
 |----|----|
@@ -36,3 +36,8 @@
 |14179|[14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14179_Enrich_people_skip-trace_results_from_n8n_forms_with_ScraperCity_into_Notion.json)|
 |14474|[14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14474_Create_HubSpot_support_tickets_from_Tally_form_submissions.json)|
 |14981|[14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14981_Process_website_contact_form_submissions_with_SharePoint_and_Gmail.json)|
+|15349|[15349_Send_Webflow_form_leads_to_Google_Sheets_with_email_and_WhatsApp_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15349_Send_Webflow_form_leads_to_Google_Sheets_with_email_and_WhatsApp_alerts.json)|
+|15852|[15852_Classify_KYC_risk_from_form_submissions_with_OpenAI__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15852_Classify_KYC_risk_from_form_submissions_with_OpenAI__Google_Sheets_and_Slack.json)|
+|15970|[15970_Score_and_route_inbound_web_leads_with_OpenAI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15970_Score_and_route_inbound_web_leads_with_OpenAI__Gmail_and_Google_Sheets.json)|
+|16021|[16021_Reply_to_contact_form_leads_via_Gmail_and_Google_Sheets_using_OpenAI_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16021_Reply_to_contact_form_leads_via_Gmail_and_Google_Sheets_using_OpenAI_GPT-4o_mini.json)|
+|16298|[16298_Collect_web_form_leads_and_create_contacts_in_HubSpot_with_SubmitraX.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16298_Collect_web_form_leads_and_create_contacts_in_HubSpot_with_SubmitraX.json)|

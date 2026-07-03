@@ -1,4 +1,4 @@
-# pgvector : 7
+# pgvector : 12
 
 |id|file|
 |----|----|
@@ -9,3 +9,8 @@
 |6543|[6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json)|
 |10157|[10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|15272|[15272_Generate_Gmail_reply_drafts_with_GPT-4o__pgvector__and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15272_Generate_Gmail_reply_drafts_with_GPT-4o__pgvector__and_PostgreSQL.json)|
+|15707|[15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15707_Create_an_AI_knowledge_base_assistant_using_Ollama__PGVector_and_Telegram.json)|
+|16182|[16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16182_Answer_business_FAQs_with_Claude__Supabase_pgvector_and_OpenAI_embeddings.json)|
+|16370|[16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16370_Reindex_markdown_RAG_chunks_with_Supabase_pgvector_and_webhooks.json)|
+|16706|[16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16706_Answer_HR_and_IT_policy_questions_on_Telegram_with_OpenAI_and_Postgres_PGVector.json)|

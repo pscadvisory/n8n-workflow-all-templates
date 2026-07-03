@@ -1,4 +1,4 @@
-# stats : 12
+# stats : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |10712|[10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10712_Auto-Track_YouTube_Stats___Channel_Data_in_Notion_Database.json)|
 |14671|[14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14671_Generate_weekly_Brevo_campaign_analytics_reports_with_Groq_and_Google_Sheets.json)|
 |15008|[15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15008_Track_Idealista_market_stats_weekly_and_email_Google_Sheets_reports_with_Idealista_Scraper.json)|
+|15643|[15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15643_Generate_an_auto-updating_SVG_stats_badge_on_GitHub_from_your_creator_profile.json)|
+|16248|[16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16248_Send_daily_marketplace_KPI_reports_via_Slack_and_Microsoft_Outlook.json)|

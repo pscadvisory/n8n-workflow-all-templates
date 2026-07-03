@@ -1,4 +1,4 @@
-# dev : 13
+# dev : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
 |11706|[11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json)|
 |14881|[14881_Generate_Seedance_AI_lighting_look_dev_variations_with_review_via_Drive__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14881_Generate_Seedance_AI_lighting_look_dev_variations_with_review_via_Drive__Notion__and_Slack.json)|
+|15354|[15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15354_Automate_GitLab_tag_releases_to_Jira_and_Slack_for_Dev_and_QA.json)|

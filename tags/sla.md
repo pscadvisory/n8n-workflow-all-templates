@@ -1,4 +1,4 @@
-# sla : 11
+# sla : 16
 
 |id|file|
 |----|----|
@@ -13,3 +13,8 @@
 |14039|[14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14039_Route_AI_tasks_between_Anthropic_Claude_models_with_Postgres_policies_and_SLA.json)|
 |14164|[14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json)|
 |14237|[14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14237_Triage_incidents_and_enforce_SLAs_with_Gemini__Groq__Google_Sheets_and_Slack.json)|
+|15234|[15234_Monitor_candidate_email_SLA_breaches_with_Gmail_and_send_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15234_Monitor_candidate_email_SLA_breaches_with_Gmail_and_send_Slack_alerts.json)|
+|15248|[15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15248_Automatically_sort_stucco_leads_by_SLA_priority_in_NinjaPipe_with_StuccoOS.json)|
+|15432|[15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json)|
+|15941|[15941_Monitor_Shopify_dispatch_SLA_breaches_with_Google_Sheets__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15941_Monitor_Shopify_dispatch_SLA_breaches_with_Google_Sheets__Slack_and_Gmail.json)|
+|16228|[16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16228_Score_and_route_website_leads_with_Google_Sheets_and_Gmail.json)|

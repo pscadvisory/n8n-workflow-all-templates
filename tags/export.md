@@ -1,4 +1,4 @@
-# export : 72
+# export : 79
 
 |id|file|
 |----|----|
@@ -74,3 +74,10 @@
 |13713|[13713_Generate_AI_research_papers_with_Claude__arXiv__Google_Scholar_and_DOCX_export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13713_Generate_AI_research_papers_with_Claude__arXiv__Google_Scholar_and_DOCX_export.json)|
 |13797|[13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13797_Monitor_Realtor_listings_and_export_CSV_XLSX_with_MrScraper_and_Gmail.json)|
 |14453|[14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14453_Enrich_domain_URLs_with_Hunter.io_and_export_contacts_to_Google_Sheets.json)|
+|15050|[15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15050_Export_Idealista_property_listings_to_Google_Sheets_using_Apify.json)|
+|15168|[15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15168_Export_Mirakl_offers_as_CSV_and_send_by_email_with_Gmail.json)|
+|15444|[15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15444_Extract_sitemap_URLs_in_bulk_via_chat_and_export_them_to_a_CSV_download_link.json)|
+|15548|[15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15548_Export_Google_PageSpeed_Insights_data_to_CSV_for_multiple_URLs.json)|
+|15742|[15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15742_Export_Mirakl_KPIs_to_CSV_and_send_by_email_with_Gmail.json)|
+|15756|[15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15756_Analyze_up_to_100_URLs_for_on-page_SEO_and_export_results_to_CSV.json)|
+|16356|[16356_Export_WordPress_data_to_a_CSV_file.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16356_Export_WordPress_data_to_a_CSV_file.json)|

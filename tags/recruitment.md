@@ -1,4 +1,4 @@
-# recruitment : 9
+# recruitment : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|
 |12076|[12076_Manage_recruitment_tasks_in_Slack_with_Recrutei_ATS___GPT-4_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12076_Manage_recruitment_tasks_in_Slack_with_Recrutei_ATS___GPT-4_Agent.json)|
 |13517|[13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json)|
+|15620|[15620_Screen_and_schedule_recruitment_interviews_on_WhatsApp_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15620_Screen_and_schedule_recruitment_interviews_on_WhatsApp_with_OpenAI.json)|

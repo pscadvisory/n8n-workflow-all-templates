@@ -1,4 +1,4 @@
-# verification : 52
+# verification : 54
 
 |id|file|
 |----|----|
@@ -54,3 +54,5 @@
 |14209|[14209_Build_an_omnichannel_OTP_verification_flow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14209_Build_an_omnichannel_OTP_verification_flow.json)|
 |14470|[14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14470_Orchestrate_credit_onboarding_checks_with_GPT-4o__Airtable__Gmail_and_Slack.json)|
 |14694|[14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14694_Orchestrate_credit_onboarding_checks_with_GPT-4o__KYC_APIs__Gmail__Slack_and_Airtable.json)|
+|16241|[16241_Verify_Australian_supplier_ABNs_with_ABR__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16241_Verify_Australian_supplier_ABNs_with_ABR__Google_Sheets_and_Gmail.json)|
+|16389|[16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16389_Verify_receipts_and_invoices_with_OpenAI_vision__Slack_and_Google_Sheets.json)|

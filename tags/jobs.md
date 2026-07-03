@@ -1,4 +1,4 @@
-# jobs : 28
+# jobs : 39
 
 |id|file|
 |----|----|
@@ -30,3 +30,14 @@
 |12355|[12355_Find_jobs_on_Indeed_via_Telegram_using_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12355_Find_jobs_on_Indeed_via_Telegram_using_BrowserAct_and_Gemini.json)|
 |12436|[12436_Auto-post_curated_remote_jobs_to_Telegram_with_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12436_Auto-post_curated_remote_jobs_to_Telegram_with_BrowserAct_and_Gemini.json)|
 |13382|[13382_Post_curated_remote_job_listings_to_Slack_with_BrowserAct_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13382_Post_curated_remote_job_listings_to_Slack_with_BrowserAct_and_OpenRouter.json)|
+|15420|[15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15420_Analyze_your_resume_against_LinkedIn_jobs_with_OpenAI_and_Google_Sheets.json)|
+|15476|[15476_Search_and_score_relevant_jobs_using_Google_Gemini__JSearch__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15476_Search_and_score_relevant_jobs_using_Google_Gemini__JSearch__and_Notion.json)|
+|15623|[15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15623_Match_LinkedIn_jobs_and_generate_cover_letters_with_OpenAI__Apify_and_Sheets.json)|
+|16038|[16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16038_Monitor_Upwork_jobs_with_Apify_and_send_ntfy_phone_alerts.json)|
+|16146|[16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16146_Analyze_skill_gaps_for_target_jobs_with_BrowserAct__LinkedIn_and_GPT-4o-mini.json)|
+|16193|[16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16193_Analyze_skill_gaps_from_LinkedIn_jobs_with_BrowserAct__GPT-4o-mini_and_Gmail.json)|
+|16375|[16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16375_Screen_LinkedIn_jobs_and_generate_tailored_resume_and_cover_PDFs_with_Anthropic_and_DocRaptor.json)|
+|16383|[16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json)|
+|16479|[16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16479_Visualize_job-market_skill_gaps_from_Himalayas_jobs_with_NVIDIA_NIM.json)|
+|16597|[16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16597_Run_LDXhub_document_jobs_from_one_form_with_StructFlow__RefineLoop__RenderOCR__CastDoc_and_ExtractDoc.json)|
+|16665|[16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16665_Scrape_Tunisia_IT_job_listings_with_Groq__Firecrawl__Airtable__and_Resend.json)|

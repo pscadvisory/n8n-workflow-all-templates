@@ -1,4 +1,4 @@
-# internal : 13
+# internal : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10795|[10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json)|
 |11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
 |13959|[13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13959_Build_a_Google_Drive_internal_knowledge_base_with_OpenAI_and_Pinecone.json)|
+|16202|[16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16202_Create_WordPress_articles_in_author_style_with_Gemini__Telegram_and_Pinecone.json)|

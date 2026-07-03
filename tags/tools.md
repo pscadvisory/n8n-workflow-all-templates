@@ -1,4 +1,4 @@
-# tools : 33
+# tools : 38
 
 |id|file|
 |----|----|
@@ -35,3 +35,8 @@
 |13748|[13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13748_Turn_Telegram_into_an_AI_assistant_with_OpenAI_voice__memory_and_tools.json)|
 |13829|[13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13829_Sync_Shopify_and_WooCommerce_sales_into_a_Google_Sheets_accounting_ledger.json)|
 |14990|[14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json)|
+|15978|[15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15978_Expose_CoinGecko_crypto_data_tools_via_an_MCP_server_trigger.json)|
+|16023|[16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json)|
+|16093|[16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16093_Expose_Hacker_News_tools_as_an_MCP_server_for_AI_agents.json)|
+|16165|[16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

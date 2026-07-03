@@ -1,4 +1,4 @@
-# optimizer : 11
+# optimizer : 15
 
 |id|file|
 |----|----|
@@ -13,3 +13,7 @@
 |12988|[12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12988_Analyze_global_supply_chain_sustainability_and_risk_with_GPT-4o_and_email_alerts.json)|
 |14211|[14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14211_Optimize_Cold_Email_Copy_with_Claude__Instantly__and_Google_Sheets.json)|
 |14803|[14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14803_Send_AI-personalized_deal_follow-ups_from_Zoho_CRM_via_email__Slack_and_WhatsApp_with_Gemini.json)|
+|15552|[15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15552_Optimize_Klaviyo_campaign_send_times_and_email_reports_with_Gmail.json)|
+|15585|[15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15585_Tailor_your_Google_Docs_CV_to_any_job_using_Ollama_and_Groq.json)|
+|15673|[15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15673_Optimize_delivery_routes_for_carriers_from_Google_Sheets_using_Google_Maps.json)|
+|15834|[15834_AI_PPT_Optimizer_with_gpt-image-2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15834_AI_PPT_Optimizer_with_gpt-image-2.json)|

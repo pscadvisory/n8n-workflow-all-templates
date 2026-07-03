@@ -1,4 +1,4 @@
-# pr : 12
+# pr : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |7985|[7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json)|
 |8112|[8112_Sync_Android_drawable_assets_from_Figma_to_GitHub_via_PR__multi-density_PNG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8112_Sync_Android_drawable_assets_from_Figma_to_GitHub_via_PR__multi-density_PNG.json)|
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
+|16068|[16068_Send_daily_stale_PR_review_digest_with_GitHub_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16068_Send_daily_stale_PR_review_digest_with_GitHub_and_Slack.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

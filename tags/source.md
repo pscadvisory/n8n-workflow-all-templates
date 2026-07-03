@@ -1,4 +1,4 @@
-# source : 29
+# source : 34
 
 |id|file|
 |----|----|
@@ -31,3 +31,8 @@
 |13809|[13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json)|
 |14806|[14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14806_Aggregate_multi-source_job_boards_into_Supabase_and_Google_Sheets.json)|
 |14996|[14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14996_Aggregate_multi-source_job_boards_to_Supabase_and_Google_Sheets.json)|
+|15041|[15041_Enrich_HubSpot_companies_with_multi-source_B2B_data_from_Coresignal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15041_Enrich_HubSpot_companies_with_multi-source_B2B_data_from_Coresignal.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15249|[15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15249_Watermark_images_between_Google_Drive_source_and_destination_folders.json)|
+|16425|[16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16425_Source_and_approve_emergency_equipment_rentals_with_Telegram__Gmail_and_Azure_OpenAI.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|

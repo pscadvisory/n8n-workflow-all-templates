@@ -1,4 +1,4 @@
-# stale : 4
+# stale : 12
 
 |id|file|
 |----|----|
@@ -6,3 +6,11 @@
 |12237|[12237_Generate_stale_page_reports_for_Confluence_spaces_with_REST_API_v1_and_v2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12237_Generate_stale_page_reports_for_Confluence_spaces_with_REST_API_v1_and_v2.json)|
 |12841|[12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json)|
 |14375|[14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14375_Detect_stale_website_content_with_OpenAI__Google_Sheets__and_Gmail.json)|
+|16041|[16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16041_Govern_stale_Entra_ID_guest_accounts_with_SharePoint_and_Microsoft_Teams.json)|
+|16065|[16065_Draft_AI_follow-up_email_drafts_for_stale_estimates_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16065_Draft_AI_follow-up_email_drafts_for_stale_estimates_with_Claude_and_Google_Sheets.json)|
+|16068|[16068_Send_daily_stale_PR_review_digest_with_GitHub_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16068_Send_daily_stale_PR_review_digest_with_GitHub_and_Slack.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|
+|16220|[16220_Report_and_clean_up_stale_GitHub_branches_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16220_Report_and_clean_up_stale_GitHub_branches_with_Slack_notifications.json)|
+|16522|[16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16522_Tag_stale_ClickUp_tasks_and_escalate_overdue_items_with_assignee_comments.json)|
+|16701|[16701_Audit_Google_Drive_backup_freshness_with_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16701_Audit_Google_Drive_backup_freshness_with_Google_Sheets_and_Slack.json)|
+|16802|[16802_Roll_overdue_Notion_tasks_forward_and_flag_stale_ones_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/68/16802_Roll_overdue_Notion_tasks_forward_and_flag_stale_ones_on_a_schedule.json)|

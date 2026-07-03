@@ -1,4 +1,4 @@
-# discord : 102
+# discord : 112
 
 |id|file|
 |----|----|
@@ -104,3 +104,13 @@
 |14152|[14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14152_Route_Discord_support_messages_into_ClickUp_tasks_with_OpenAI_GPT-4.1-mini.json)|
 |14213|[14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14213_Summarize_Bitcoin_news_in_Japanese_and_post_to_Discord_with_Gemini_AI.json)|
 |14977|[14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14977_Generate_daily_business_briefing_podcasts_with_OpenAI__Azure_TTS__HubSpot__Zendesk__Pipedrive__Discord__Twilio_and_Confluence.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15348|[15348_Monitor_global_industrial_risk_from_NewsAPI_to_Google_Sheets_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15348_Monitor_global_industrial_risk_from_NewsAPI_to_Google_Sheets_and_Discord.json)|
+|15658|[15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15658_Reply_to_LinkedIn_messages_with_OpenAI_GPT_and_escalate_complex_cases_to_Discord.json)|
+|15659|[15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json)|
+|15812|[15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15812_Send_Stripe_purchase_templates_from_Google_Drive_via_Gmail_and_Discord.json)|
+|16259|[16259_Run_a_margin-aware_paid_AI_agent_with_Alephant_x402_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16259_Run_a_margin-aware_paid_AI_agent_with_Alephant_x402_and_Discord.json)|
+|16383|[16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16383_Scrape_SEEK.com.au_jobs_daily_with_Apify_to_Sheets__Airtable__Slack__Telegram_and_Discord.json)|
+|16624|[16624_Send_daily_SEO_digest_from_Google_Search_Console_to_Discord_with_heartbeat_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16624_Send_daily_SEO_digest_from_Google_Search_Console_to_Discord_with_heartbeat_alerts.json)|
+|16667|[16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16667_Notify_on_server_restarts_with_Discord__Telegram__and_Slack_alerts.json)|
+|16750|[16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16750_Review_GitHub_pull_requests_with_Mistral_and_send_decisions_to_Slack.json)|

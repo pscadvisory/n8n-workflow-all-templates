@@ -1,4 +1,4 @@
-# activity : 23
+# activity : 26
 
 |id|file|
 |----|----|
@@ -25,3 +25,6 @@
 |11488|[11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json)|
 |12352|[12352_Monitor_competitor_ad_activity_via_Telegram_with_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12352_Monitor_competitor_ad_activity_via_Telegram_with_BrowserAct_and_Gemini.json)|
 |13873|[13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13873_Summarize_Trello_board_activity_with_Gemini_and_send_updates_to_Slack.json)|
+|15419|[15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15419_Detect_fraud_in_user_activity_with_PostgreSQL__OpenAI_and_Slack.json)|
+|15940|[15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15940_Sync_HubSpot_contacts_to_Klaviyo_and_log_activity_to_Slack_and_Google_Sheets.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|

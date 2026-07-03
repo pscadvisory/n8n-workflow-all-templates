@@ -1,4 +1,4 @@
-# restaurants : 4
+# restaurants : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |3043|[3043_AI-Powered_WhatsApp_Assistant_for_Restaurants___Delivery_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3043_AI-Powered_WhatsApp_Assistant_for_Restaurants___Delivery_Automation.json)|
 |6107|[6107_Telegram_Bot_for_Finding_Top-Rated_Restaurants_with_Google_Maps_via_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6107_Telegram_Bot_for_Finding_Top-Rated_Restaurants_with_Google_Maps_via_SerpAPI.json)|
 |7298|[7298_Restaurant_Order___Delivery_System_for_WhatsApp_with_GPT-4o_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7298_Restaurant_Order___Delivery_System_for_WhatsApp_with_GPT-4o_and_Supabase.json)|
+|15194|[15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15194_Automate_Restaurant_Reviews_and_Marketing_System____with_Telegram.json)|

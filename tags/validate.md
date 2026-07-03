@@ -1,4 +1,4 @@
-# validate : 52
+# validate : 60
 
 |id|file|
 |----|----|
@@ -54,3 +54,11 @@
 |14273|[14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14273_Normalize_and_validate_CSV_data_with_Anthropic_OpenAI__Postgres__Slack_and_Sheets.json)|
 |14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
 |14568|[14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14568_Validate_addresses_and_generate_Street_View_images_with_Google_Maps_and_Drive.json)|
+|15344|[15344_Validate_bulk_email_addresses_in_Google_Sheets_with_Verify_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15344_Validate_bulk_email_addresses_in_Google_Sheets_with_Verify_Email.json)|
+|15630|[15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json)|
+|15976|[15976_Normalize_and_validate_customer_data_with_Google_Sheets_highlights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15976_Normalize_and_validate_customer_data_with_Google_Sheets_highlights.json)|
+|16049|[16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16049_Validate_bills_of_lading__send_Gmail_replies__and_post_JSON_with_Google_Gemini.json)|
+|16181|[16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16181_Route_and_validate_emailed_documents_with_Gmail_and_Google_Gemini.json)|
+|16513|[16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16513_Validate_startup_ideas_with_Google_Gemini__Groq__and_Gmail.json)|
+|16643|[16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16643_Extract_and_validate_invoice_PDFs_with_OpenAI__Google_Sheets__and_Gmail.json)|
+|16759|[16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16759_Validate_startup_ideas_and_generate_business_plans_with_Claude_and_SendGrid.json)|

@@ -1,4 +1,4 @@
-# nocodb : 19
+# nocodb : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |13786|[13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13786_Bulk_generate_payment_reminder_PDFs_from_NocoDB_with_Autype.json)|
 |14309|[14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14309_Send_end-of-life_software_alerts_using_NocoDB__endoflife.date__and_Slack.json)|
 |14313|[14313_Send_multi-stage_overdue_invoice_reminders_with_NocoDB__Gmail__PostGrid_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14313_Send_multi-stage_overdue_invoice_reminders_with_NocoDB__Gmail__PostGrid_and_Slack.json)|
+|15373|[15373_Clone_NocoDB_tables_and_data_to_another_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15373_Clone_NocoDB_tables_and_data_to_another_base.json)|
+|15406|[15406_Download_KSeF_invoices_to_NocoDB_and_email_formatted_HTML_copies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15406_Download_KSeF_invoices_to_NocoDB_and_email_formatted_HTML_copies.json)|

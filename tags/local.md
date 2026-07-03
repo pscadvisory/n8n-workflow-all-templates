@@ -1,4 +1,4 @@
-# local : 48
+# local : 56
 
 |id|file|
 |----|----|
@@ -50,3 +50,11 @@
 |14126|[14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14126_Find_local_GMB_leads_with_1-star_reviews_using_Apify_and_Google_Sheets.json)|
 |14366|[14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14366_Generate_and_qualify_local_business_leads_using_Google_Sheets__RapidAPI_and_OpenAI.json)|
 |14782|[14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14782_Build_a_local_RAG_chatbot_with_Ollama__Qwen__BGE-M3_and_Postgres_PGVector.json)|
+|15363|[15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15363_Find_high-mismatch_local_business_leads_with_Firecrawl_and_Groq.json)|
+|15411|[15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15411_Local_Business_Lead_Discovery_and_Enrichment_Agent.json)|
+|15497|[15497_Find_and_email_website-less_local_businesses_with_Google_Sheets__Serper_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15497_Find_and_email_website-less_local_businesses_with_Google_Sheets__Serper_and_Gmail.json)|
+|15903|[15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15903_Find_local_business_leads_with_SearchAPI_Google_Maps_and_Google_Sheets.json)|
+|15913|[15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15913_Triage_emails_and_build_a_morning_digest_with_a_local_Ollama_LLM.json)|
+|16089|[16089_Send_weekly_local_review_intelligence_digests_from_Google_Maps_via_MintAPI_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16089_Send_weekly_local_review_intelligence_digests_from_Google_Maps_via_MintAPI_and_OpenAI.json)|
+|16280|[16280_Generate_verified_local_leads_from_Google_Maps_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16280_Generate_verified_local_leads_from_Google_Maps_with_Apify_and_Google_Sheets.json)|
+|16424|[16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16424_Find_and_save_local_lead_prospects_with_Google_Places__Firecrawl_and_Supabase.json)|

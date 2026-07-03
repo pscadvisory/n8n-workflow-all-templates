@@ -1,4 +1,4 @@
-# strava : 7
+# strava : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |2790|[2790_AI_Fitness_Coach_Strava_Data_Analysis_and_Personalized_Training_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2790_AI_Fitness_Coach_Strava_Data_Analysis_and_Personalized_Training_Insights.json)|
 |4736|[4736_Generate_Personalized_Strava_Ride_Titles___Descriptions_with_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4736_Generate_Personalized_Strava_Ride_Titles___Descriptions_with_DeepSeek_AI.json)|
 |5363|[5363_Strava_Tool_MCP_Server___all_9_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5363_Strava_Tool_MCP_Server___all_9_operations.json)|
+|16639|[16639_Log_Strava_zone_2_and_5K_test_runs_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16639_Log_Strava_zone_2_and_5K_test_runs_to_Google_Sheets.json)|

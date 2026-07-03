@@ -1,4 +1,4 @@
-# redis : 28
+# redis : 30
 
 |id|file|
 |----|----|
@@ -30,3 +30,5 @@
 |12400|[12400_Handle_customer_support_queries_with_cache-first_RAG_using_Redis__LangCache_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12400_Handle_customer_support_queries_with_cache-first_RAG_using_Redis__LangCache_and_OpenAI.json)|
 |13407|[13407_Create_a_human-like_Evolution_API_WhatsApp_agent_with_Redis__PostgreSQL_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13407_Create_a_human-like_Evolution_API_WhatsApp_agent_with_Redis__PostgreSQL_and_Gemini.json)|
 |13505|[13505_Automate_daily_standups_using_Slack__Notion__and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13505_Automate_daily_standups_using_Slack__Notion__and_Redis.json)|
+|15432|[15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15432_Classify_Gmail_leads_with_Groq_AI_and_sync_SLA_cases_to_Supabase_via_Redis.json)|
+|15984|[15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15984_Score_leads_and_send_WhatsApp_proposals_with_Gemini__HighLevel_and_Redis.json)|

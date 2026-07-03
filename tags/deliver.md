@@ -1,4 +1,4 @@
-# deliver : 15
+# deliver : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |12731|[12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12731_Grade_and_deliver_multi-course_assignment_feedback_with_GPT-4o__Google_Drive__Slack__and_Gmail.json)|
 |13527|[13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13527_Summarize_AI_news_from_RSS__Reddit_and_HN_with_Claude_to_Discord_and_Slack.json)|
 |14058|[14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14058_Scrape_Shopify_store_leads_with_ScraperCity_and_send_contacts_to_Slack.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15156|[15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15156_Create_AI_LinkedIn_posts_with_Groq__Tavily__Pollinations__Brevo_and_Telegram.json)|

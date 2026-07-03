@@ -1,4 +1,4 @@
-# competitors : 8
+# competitors : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |7454|[7454_Monitor_Competitors___Generate_Content_Ideas_with_GPT4___Gemini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7454_Monitor_Competitors___Generate_Content_Ideas_with_GPT4___Gemini_to_Google_Sheets.json)|
 |11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
 |13983|[13983_Monitor_competitors_and_generate_market_insights_with_Claude_AI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13983_Monitor_competitors_and_generate_market_insights_with_Claude_AI_and_Notion.json)|
+|15662|[15662_Monitor_TikTok_competitors_with_Scavio_AI__Google_Sheets__and_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15662_Monitor_TikTok_competitors_with_Scavio_AI__Google_Sheets__and_Gmail_alerts.json)|
+|16413|[16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16413_Analyze_Google_Ads_competitors_with_Bright_Data__OpenRouter_and_OpenAI.json)|
+|16742|[16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json)|

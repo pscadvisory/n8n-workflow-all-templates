@@ -1,4 +1,4 @@
-# cold : 67
+# cold : 77
 
 |id|file|
 |----|----|
@@ -69,3 +69,13 @@
 |14220|[14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14220_Classify_cold_email_replies_and_notify_via_Telegram_with_OpenAI_and_Instantly.json)|
 |14622|[14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14622_Classify_and_route_cold_email_replies_using_Claude_and_Instantly.ai.json)|
 |14813|[14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14813_Send_personalized_cold_email_follow-ups_from_Google_Sheets_with_ZeptoMail.json)|
+|15554|[15554_Send_tracked_cold_email_variants_from_Google_Sheets_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15554_Send_tracked_cold_email_variants_from_Google_Sheets_with_Gmail.json)|
+|15574|[15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15574_Send_AI-written_cold_outreach_and_follow-up_drafts_with_Gmail_and_Google_Sheets_using_Firecrawl__Groq__and_Gemini.json)|
+|15624|[15624_Scrape_LinkedIn_leads_with_Apify_and_draft_GPT-4.1_Mini_Gmail_cold_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15624_Scrape_LinkedIn_leads_with_Apify_and_draft_GPT-4.1_Mini_Gmail_cold_emails.json)|
+|15849|[15849_Automate_B2B_cold_email_outreach_with_Gemini__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15849_Automate_B2B_cold_email_outreach_with_Gemini__Gmail_and_Google_Sheets.json)|
+|16031|[16031_Send_personalized_B2B_cold_outreach_emails_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16031_Send_personalized_B2B_cold_outreach_emails_with_Google_Gemini_and_Gmail.json)|
+|16141|[16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16141_Send_ramped_cold_email_sequences_with_Gmail__Google_Sheets__and_Anthropic_Claude.json)|
+|16249|[16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16249_Write_and_track_cold_emails_with_Google_Gemini_and_Gmail.json)|
+|16289|[16289_Classify_cold_email_replies_and_triage_Gmail_with_Claude_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16289_Classify_cold_email_replies_and_triage_Gmail_with_Claude_and_Slack.json)|
+|16494|[16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16494_Find_and_log_high-quality_domain_contacts_with_Tomba_and_Google_Sheets.json)|
+|16756|[16756_Draft_personalized_cold_emails_from_Google_Sheets_with_Apify_and_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16756_Draft_personalized_cold_emails_from_Google_Sheets_with_Apify_and_GPT-4o_mini.json)|

@@ -1,4 +1,4 @@
-# map : 5
+# map : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |9893|[9893_Real-Time_MAP_Enforcement___Price_Violation_Alerts_using_Google_Sheets__BrowserAct___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9893_Real-Time_MAP_Enforcement___Price_Violation_Alerts_using_Google_Sheets__BrowserAct___Slack.json)|
 |14034|[14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14034_Transform_and_validate_webhook_records_with_configurable_type_conversion.json)|
 |14380|[14380_Map_which_AI_search_topics_each_domain_owns_with_SE_Ranking_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14380_Map_which_AI_search_topics_each_domain_owns_with_SE_Ranking_and_GPT.json)|
+|15473|[15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15473_Generate_competitor_SEO_topical_maps_with_Gemini_2.5_Flash__Olostep_and_Google_Sheets.json)|

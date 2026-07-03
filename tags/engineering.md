@@ -1,4 +1,4 @@
-# engineering : 7
+# engineering : 10
 
 |id|file|
 |----|----|
@@ -9,3 +9,6 @@
 |13698|[13698_Route_engineering_risks_with_Anthropic_multi-agents_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13698_Route_engineering_risks_with_Anthropic_multi-agents_and_Slack_alerts.json)|
 |13932|[13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13932_Manage_engineering_change_requests_via_webhooks_and_Slack_approvals.json)|
 |14980|[14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14980_Summarize_Japanese_AI_engineering_articles_from_Qiita_and_note_RSS_to_Slack.json)|
+|15898|[15898_Send_weekly_GitHub_digests_to_Telegram_with_Qwen_via_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15898_Send_weekly_GitHub_digests_to_Telegram_with_Qwen_via_OpenRouter.json)|
+|16251|[16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16251_Build_a_cost_engineering_RAG_with_Google_Drive__OpenAI__and_Pinecone.json)|
+|16549|[16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16549_Discover_and_score_engineering_candidates_with_Groq__GitHub__LinkedIn__Stack_Overflow__HN_and_Supabase.json)|

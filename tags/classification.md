@@ -1,4 +1,4 @@
-# classification : 42
+# classification : 46
 
 |id|file|
 |----|----|
@@ -44,3 +44,7 @@
 |14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
 |14318|[14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14318_Classify_invoices_and_route_them_to_Google_Drive_folders_with_easybits_and_Slack.json)|
 |14960|[14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14960_Classify_invoices_and_route_them_to_Google_Drive_with_easybits_and_Slack.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|15927|[15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json)|
+|16718|[16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16718_Classify_Salesforce_deal_complexity_and_notify_sales_with_Groq_and_Slack.json)|

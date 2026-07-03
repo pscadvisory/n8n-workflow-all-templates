@@ -1,4 +1,4 @@
-# attachments : 23
+# attachments : 29
 
 |id|file|
 |----|----|
@@ -25,3 +25,9 @@
 |14328|[14328_Extract_data_from_email_attachments_to_Airtable_with_DocuPipe_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14328_Extract_data_from_email_attachments_to_Airtable_with_DocuPipe_AI.json)|
 |14329|[14329_Extract_data_from_Gmail_attachments_to_Google_Sheets_using_DocuPipe.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14329_Extract_data_from_Gmail_attachments_to_Google_Sheets_using_DocuPipe.json)|
 |14978|[14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14978_Classify_and_route_email_attachments_with_easybits__Gmail_and_Google_Drive.json)|
+|15207|[15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json)|
+|15524|[15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15524_Archive_Outlook_email_attachments_to_DATEV_DMS_with_Slack_notifications.json)|
+|15612|[15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15612_Analyze_Mattermost_attachments_with_OpenAI_vision_for_AI_agents.json)|
+|15793|[15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15793_Archive_Outlook_email_attachments_to_OneDrive_with_SharePoint_logging.json)|
+|16129|[16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16129_Update_VNTANA_product_attributes_from_scheduled_Excel__.xlsx__attachments.json)|
+|16394|[16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16394_Extract_tracking_numbers_from_Gmail_PDF_attachments_to_Google_Sheets_with_okraPDF.json)|

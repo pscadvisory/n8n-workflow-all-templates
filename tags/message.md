@@ -1,4 +1,4 @@
-# message : 73
+# message : 74
 
 |id|file|
 |----|----|
@@ -75,3 +75,4 @@
 |13013|[13013_Route_Telegram_channel_posts_to_X__Threads__and_LinkedIn_using__mentions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/30/13013_Route_Telegram_channel_posts_to_X__Threads__and_LinkedIn_using__mentions.json)|
 |13332|[13332_Track_new_ranked_keywords_in_Google_Sheets_with_DataForSEO_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13332_Track_new_ranked_keywords_in_Google_Sheets_with_DataForSEO_and_Slack_alerts.json)|
 |14802|[14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14802_Send_personalized_birthday_and_anniversary_emails_with_Google_Sheets__Gemini__and_Gmail.json)|
+|15927|[15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15927_Transcribe_voice_messages_and_classify_intent_with_OpenAI_Whisper_and_GPT-4o-mini.json)|

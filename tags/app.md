@@ -1,4 +1,4 @@
-# app : 29
+# app : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |12927|[12927_Generate_and_post_Apple_App_Store_review_replies_with_Anthropic_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12927_Generate_and_post_Apple_App_Store_review_replies_with_Anthropic_Claude.json)|
 |13993|[13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json)|
 |14854|[14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14854_Publish_daily_gaming_guides_from_Reddit_using_Google_Gemini_to_your_web_app.json)|
+|15161|[15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15161_Check_new_app_reviews_and_create_ClickUp_tasks_with_DataForSEO.json)|
+|15166|[15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json)|

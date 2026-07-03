@@ -1,4 +1,4 @@
-# recordings : 13
+# recordings : 19
 
 |id|file|
 |----|----|
@@ -15,3 +15,9 @@
 |13871|[13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13871_Analyze_Zoom_phone_call_recordings_with_Gemini_and_log_results_to_Google_Sheets.json)|
 |13919|[13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13919_Turn_YouTube_meeting_recordings_into_Notion_notes_with_Claude__deAPI__and_Slack_alerts.json)|
 |14614|[14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json)|
+|15114|[15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15114_Turn_meeting_recordings_into_Jira__ClickUp__and_Linear_tasks_with_Whisper_and_Claude.json)|
+|15356|[15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15356_Turn_video_recordings_into_Twitter__X__threads_with_WayinVideo__GPT-4o-mini_and_Google_Sheets.json)|
+|15382|[15382_Turn_meeting_recordings_into_Slack_summaries_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15382_Turn_meeting_recordings_into_Slack_summaries_using_WayinVideo_and_GPT-4o-mini.json)|
+|15421|[15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15421_Convert_sales_call_recordings_into_HubSpot_CRM_notes_with_WayinVideo_and_GPT-4o-mini.json)|
+|15511|[15511_Turn_webinar_recordings_into_Salesforce_follow-up_emails_with_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15511_Turn_webinar_recordings_into_Salesforce_follow-up_emails_with_WayinVideo_and_GPT-4o-mini.json)|
+|15974|[15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json)|

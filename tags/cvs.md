@@ -1,4 +1,4 @@
-# cvs : 9
+# cvs : 15
 
 |id|file|
 |----|----|
@@ -11,3 +11,9 @@
 |13876|[13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json)|
 |13970|[13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13970_Screen_CVs_and_score_candidates_with_Gmail__Google_Drive__OpenAI__and_Sheets.json)|
 |14295|[14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14295_Screen_CVs_against_job_descriptions_with_Gmail__easybits__Airtable_and_Slack.json)|
+|15155|[15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15155_Screen_and_rank_CVs_with_GPT-4o__Google_Sheets__Gmail_and_Telegram.json)|
+|15293|[15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15293_Screen_CVs_for_multiple_roles_with_OpenRouter__Google_Sheets__Gmail_and_Calendly.json)|
+|15528|[15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15528_Create_a_master_CV_Google_Sheet_from_uploaded_CVs_with_easybits.json)|
+|15854|[15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15854_Score_and_triage_Indeed_CVs_with_Mistral_OCR__Groq__and_Google_Sheets.json)|
+|16030|[16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16030_Screen_and_score_candidate_CVs_with_Google_Gemini_and_Gmail.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|

@@ -1,4 +1,4 @@
-# builder : 14
+# builder : 18
 
 |id|file|
 |----|----|
@@ -16,3 +16,7 @@
 |9635|[9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json)|
 |11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
 |14912|[14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json)|
+|15243|[15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json)|
+|15270|[15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15270_Build_a_support_knowledge_base_from_historical_Gmail_emails_with_OpenAI_and_PostgreSQL.json)|
+|15930|[15930_Build_backlink_prospecting_lead_lists_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15930_Build_backlink_prospecting_lead_lists_with_Apify_and_Google_Sheets.json)|
+|16058|[16058_Send_daily_AI_vocabulary_lessons_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16058_Send_daily_AI_vocabulary_lessons_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|

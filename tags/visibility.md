@@ -1,4 +1,4 @@
-# visibility : 8
+# visibility : 12
 
 |id|file|
 |----|----|
@@ -10,3 +10,7 @@
 |12442|[12442_Analyze_brand_visibility_in_AI_SERPs_with_SE_Ranking_and_OpenAI_GPT-4.1_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12442_Analyze_brand_visibility_in_AI_SERPs_with_SE_Ranking_and_OpenAI_GPT-4.1_mini.json)|
 |13378|[13378_Track_brand_visibility_on_Perplexity_and_ChatGPT_with_BrowserAct_and_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13378_Track_brand_visibility_on_Perplexity_and_ChatGPT_with_BrowserAct_and_OpenRouter.json)|
 |13449|[13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13449_Track_AI_search_visibility_across_ChatGPT__Claude__DeepSeek_and_Perplexity.json)|
+|15654|[15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15654_Track_AI_brand_visibility_across_GPT__Gemini_and_Perplexity_in_Google_Sheets.json)|
+|16668|[16668_Monitor_AI_search_visibility_with_Talordata_SERP__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16668_Monitor_AI_search_visibility_with_Talordata_SERP__OpenAI__and_Google_Sheets.json)|
+|16741|[16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16741_Monitor_AI_brand_visibility_and_GEO_gaps_with_OpenAI__Gmail_and_Slack.json)|
+|16742|[16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16742_Monitor_AI_search_citations_and_competitors_with_OpenAI__Google_Sheets__and_Gmail.json)|

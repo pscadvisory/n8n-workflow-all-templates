@@ -1,4 +1,4 @@
-# db : 40
+# db : 41
 
 |id|file|
 |----|----|
@@ -42,3 +42,4 @@
 |8916|[8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json)|
 |9934|[9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json)|
 |11951|[11951_Send_AI-curated_weekly_news_digests_with_RSS__Vector_DB___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/19/11951_Send_AI-curated_weekly_news_digests_with_RSS__Vector_DB___GPT-4o.json)|
+|16528|[16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16528_Ingest_and_search_Cloudflare_R2_media_with_Gemini__Groq_Whisper__and_Supabase.json)|

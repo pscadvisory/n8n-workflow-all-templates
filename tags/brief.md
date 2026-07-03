@@ -1,4 +1,4 @@
-# brief : 13
+# brief : 20
 
 |id|file|
 |----|----|
@@ -15,3 +15,10 @@
 |9410|[9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json)|
 |12944|[12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json)|
 |13731|[13731_Send_a_personalized_WhatsApp_morning_brief_with_GPT-4o__Google_and_WATI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13731_Send_a_personalized_WhatsApp_morning_brief_with_GPT-4o__Google_and_WATI.json)|
+|15071|[15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15071_Summarize_financial_news_from_multiple_RSS_feeds_with_Gemini_and_deliver_to_Discord.json)|
+|15128|[15128_Get_a_morning_email_and_calendar_brief_with_Gmail__Google_Calendar__GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15128_Get_a_morning_email_and_calendar_brief_with_Gmail__Google_Calendar__GPT-4o-mini_and_Telegram.json)|
+|15339|[15339_Send_a_daily_Nifty_50_market_brief_using_Gemini_AI__Nifty_50_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15339_Send_a_daily_Nifty_50_market_brief_using_Gemini_AI__Nifty_50_API_and_Gmail.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|
+|16286|[16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|
+|16334|[16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json)|
+|16335|[16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json)|

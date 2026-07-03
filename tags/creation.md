@@ -1,4 +1,4 @@
-# creation : 142
+# creation : 144
 
 |id|file|
 |----|----|
@@ -144,3 +144,5 @@
 |13739|[13739_Convert_Google_Drive_PDFs_into_SEO_blog_HTML_using_OpenAI_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13739_Convert_Google_Drive_PDFs_into_SEO_blog_HTML_using_OpenAI_GPT-4.1.json)|
 |14037|[14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14037_Automate_LinkedIn_job_search__AI_scoring__and_resume_creation_with_OpenRouter__OpenAI__Google_Sheets___Docs.json)|
 |14554|[14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14554_Create_AI_Instagram_Reels_with_GPT-4.1__Veo3__Google_Sheets_and_Bloatato.json)|
+|15699|[15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15699_Automate_Video_Creation_from_Google_Sheets_to_YouTube_with_VideoApiHub.json)|
+|15895|[15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15895_Triage_VIP_Outlook_emails_using_Excel__GPT-4o_and_Microsoft_To_Do.json)|

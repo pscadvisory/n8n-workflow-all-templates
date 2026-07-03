@@ -1,4 +1,4 @@
-# keywords : 44
+# keywords : 50
 
 |id|file|
 |----|----|
@@ -46,3 +46,9 @@
 |13508|[13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13508_Find_competitor_keyword_gaps_and_log_opportunities_to_Notion_with_DataForSEO.json)|
 |13903|[13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13903_Filter_and_label_Gmail_emails_using_keyword-based_rules_and_Google_Sheets_logging.json)|
 |14017|[14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14017_Discover_YouTube_channels_from_keywords_and_save_leads_to_Google_Sheets.json)|
+|15193|[15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15193_Analyze_keywords_from_top_Upwork_talent_profiles_with_Apify_and_Google_Sheets.json)|
+|15243|[15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15243_Generate_a_Google_Ads_keyword_plan_from_seed_keywords_with_Keyword_Planner_and_OpenAI.json)|
+|15921|[15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15921_Research_SEO_keywords_from_a_seed_term_with_Keupera_and_n8n_data_tables.json)|
+|15971|[15971_Retrieve_Kuaishou_video_details_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15971_Retrieve_Kuaishou_video_details_from_keywords_with_JustOneAPI.json)|
+|16012|[16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16012_Research_Kuaishou_creator_profiles_from_keywords_with_JustOneAPI.json)|
+|16335|[16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json)|

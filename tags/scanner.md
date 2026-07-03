@@ -1,4 +1,4 @@
-# scanner : 9
+# scanner : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |12024|[12024_Automated_APK_security_scanning___PDF_reporting_with_MobSF__AI___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12024_Automated_APK_security_scanning___PDF_reporting_with_MobSF__AI___Google_Drive.json)|
 |14210|[14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14210_Log_LINE_invoice_photos_to_Google_Sheets_with_OCR.space_and_Gemini_AI.json)|
 |14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
+|15530|[15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15530_Scan_business_cards_to_Google_Sheets_and_iPhone_contacts_with_Telegram_and_easybits.json)|
+|15708|[15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15708_Scan_business_cards_from_Telegram_to_Google_Contacts_with_Mistral_OCR.json)|

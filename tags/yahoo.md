@@ -1,4 +1,4 @@
-# yahoo : 5
+# yahoo : 8
 
 |id|file|
 |----|----|
@@ -7,3 +7,6 @@
 |6489|[6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json)|
 |6726|[6726_Track_Stock_Prices_with_ScrapeGraphAI__Yahoo_Finance___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6726_Track_Stock_Prices_with_ScrapeGraphAI__Yahoo_Finance___Google_Sheets.json)|
 |7884|[7884_Daily_Swing_Trade_Ideas_with_GPT-4__Yahoo_Finance__Google_Sheets___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7884_Daily_Swing_Trade_Ideas_with_GPT-4__Yahoo_Finance__Google_Sheets___Telegram.json)|
+|15066|[15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15066_Generate_daily_investment_ideas_with_Yahoo_Finance_and_Google_Gemini.json)|
+|15068|[15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15068_Track_equity_sector_rotation_with_Google_Sheets__Yahoo_Finance__Groq_and_Gmail.json)|
+|15679|[15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15679_Generate_SENSEX_trading_signals_using_Gemini__Yahoo_Finance_and_Google_Sheets.json)|

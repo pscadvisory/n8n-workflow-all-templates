@@ -1,4 +1,4 @@
-# chats : 9
+# chats : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |10773|[10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10773_Generate_PII-Safe_Helpdocs_from_Crisp_Support_Chats_with_GPT-4.1-mini.json)|
 |12337|[12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12337_Create_a_daily_visual_journal_from_Discord_chats_with_GPT-4__DALL-E_and_Notion.json)|
 |13406|[13406_Manage_coupon_campaigns_and_customer_chats_with_WhatsApp_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13406_Manage_coupon_campaigns_and_customer_chats_with_WhatsApp_and_PostgreSQL.json)|
+|15491|[15491_Handle_WhatsApp_customer_chats_with_Evolution_API__Claude__Notion__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15491_Handle_WhatsApp_customer_chats_with_Evolution_API__Claude__Notion__and_Sheets.json)|
+|15659|[15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15659_Auto-reply_to_WhatsApp_with_OpenAI_and_escalate_complex_chats_to_Discord_via_Unipile.json)|
+|16039|[16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json)|

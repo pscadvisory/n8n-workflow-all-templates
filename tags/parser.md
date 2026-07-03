@@ -1,4 +1,4 @@
-# parser : 19
+# parser : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |7862|[7862_Extract_Invoice_Data_from_Google_Drive_to_Sheets_using_PDF.co_AI_Parser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7862_Extract_Invoice_Data_from_Google_Drive_to_Sheets_using_PDF.co_AI_Parser.json)|
 |10289|[10289_Unstructured_Resume_Parser_with_Thordata_Universal_API___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10289_Unstructured_Resume_Parser_with_Thordata_Universal_API___OpenAI_GPT-4.1-mini.json)|
 |11811|[11811_PDF_to_Markdown_Converter_with_LlamaCloud_Parser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11811_PDF_to_Markdown_Converter_with_LlamaCloud_Parser.json)|
+|16099|[16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16099_Parse_reference_letters_from_Gmail_with_easybits_and_Google_Sheets.json)|
+|16135|[16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16135_Groom_Nirvana_GTD_inbox_tasks_with_MCP_and_OpenAI_GPT-5-nano.json)|

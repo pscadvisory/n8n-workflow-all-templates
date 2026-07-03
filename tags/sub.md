@@ -1,4 +1,4 @@
-# sub : 16
+# sub : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |10370|[10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json)|
 |10524|[10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json)|
 |14863|[14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14863_Upload_images_to_Webflow_via_API_as_a_reusable_sub-workflow.json)|
+|15100|[15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15100_Generate_AI_images_with_Gemini_and_upload_them_to_WordPress__sub-workflow.json)|

@@ -1,4 +1,4 @@
-# sql : 28
+# sql : 32
 
 |id|file|
 |----|----|
@@ -30,3 +30,7 @@
 |14254|[14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14254_Query_Databricks_data_and_SQL_insights_via_Slack_with_Gemini_AI_agent.json)|
 |14319|[14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14319_Convert_CSV_XLSX_files_into_a_normalized_SQL_schema_with_GPT-4.json)|
 |14416|[14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14416_Monitor_SQL_data_quality_and_send_email_reports_with_Google_Sheets_logging.json)|
+|15222|[15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15222_Fetch_Telr_payment_reports_to_SQL_and_send_daily_email_summaries.json)|
+|15256|[15256_Send_weekly_SQL_Server_health_reports_via_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15256_Send_weekly_SQL_Server_health_reports_via_email.json)|
+|16294|[16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16294_Handle_order_status_webhooks_with_Microsoft_SQL_Server_and_email.json)|
+|16784|[16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16784_Send_staged_invoice_payment_reminders_with_Microsoft_SQL_and_Gmail.json)|

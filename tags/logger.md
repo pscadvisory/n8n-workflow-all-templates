@@ -1,4 +1,4 @@
-# logger : 10
+# logger : 16
 
 |id|file|
 |----|----|
@@ -12,3 +12,9 @@
 |13507|[13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json)|
 |13989|[13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13989_Route_and_log_incoming_emails_with_GPT-4__Excel_365_and_Telegram.json)|
 |14964|[14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14964_Monitor_workflow_errors_with_n8n_API__log_to_Google_Sheets__and_alert_via_Slack.json)|
+|15347|[15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15347_Log_errors_and_audit_events_with_n8n_Data_Tables.json)|
+|15990|[15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15990_Log_and_triage_inbound_calls_with_Twilio__Whisper__Claude__and_Google_Sheets.json)|
+|16303|[16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16303_Track_gold_price_changes_and_send_Slack_alerts_with_Gemini.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|
+|16477|[16477_Summarize_daily_Slack_standups_with_OpenAI__Notion__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16477_Summarize_daily_Slack_standups_with_OpenAI__Notion__and_Google_Sheets.json)|
+|16653|[16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16653_Capture_and_log_email_trade_instructions_with_Gmail__OpenAI__and_Google_Sheets.json)|

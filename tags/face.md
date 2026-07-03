@@ -1,4 +1,4 @@
-# face : 11
+# face : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |10644|[10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10644_Create___Auto-Publish_YouTube_Content_with_Gemini_AI__Face_Thumbnails___Human_Review.json)|
 |12338|[12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12338_Migrate_large_Hugging_Face_datasets_to_MongoDB_with_a_looping_subworkflow.json)|
 |13809|[13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json)|
+|15571|[15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15571_Classify_sentiment_of_incoming_text_using_Hugging_Face__Google_Sheets__and_Jira.json)|

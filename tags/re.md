@@ -1,4 +1,4 @@
-# re : 13
+# re : 17
 
 |id|file|
 |----|----|
@@ -15,3 +15,7 @@
 |14168|[14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14168_Summarize_and_answer_Re_amaze_support_emails_with_Gemini_and_SOP_knowledge_base.json)|
 |14217|[14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14217_Re-engage_old_clients_with_Claude_3.7_Sonnet__Gmail_and_Google_Sheets.json)|
 |14257|[14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14257_Track_AI_search_winners_and_uncover_topic_gaps_with_SE_Ranking_and_Google_Sheets.json)|
+|16077|[16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16077_Re-engage_stalled_HubSpot_deals_with_OpenAI__Gmail__Slack__and_Google_Sheets.json)|
+|16371|[16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16371_Detect_competitor_launch_signals_from_ads_with_OpenAI_and_Google_Sheets.json)|
+|16423|[16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json)|
+|16533|[16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16533_Re-engage_missed_property_viewings_with_Google_Calendar__Gemini__Gmail__and_WhatsApp.json)|

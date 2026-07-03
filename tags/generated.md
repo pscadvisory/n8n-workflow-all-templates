@@ -1,4 +1,4 @@
-# generated : 54
+# generated : 56
 
 |id|file|
 |----|----|
@@ -56,3 +56,5 @@
 |12841|[12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/28/12841_Send_AI-generated_stale_lead_nudges_from_Notion_CRM_to_Telegram_with_OpenAI.json)|
 |13896|[13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13896_Merge_Google_Drive_PDFs_with_dynamic_cover_pages_and_watermark_using_Autype.json)|
 |14545|[14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14545_Detect__Analyze_and_Humanize________AI-generated_text_using_Rephrasy.json)|
+|15364|[15364_Post_daily_AI-generated_Instagram_images_from_Google_Sheets_with_GPT-4.1_Nano_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15364_Post_daily_AI-generated_Instagram_images_from_Google_Sheets_with_GPT-4.1_Nano_and_Google_Gemini.json)|
+|15676|[15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json)|

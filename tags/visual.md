@@ -1,4 +1,4 @@
-# visual : 25
+# visual : 27
 
 |id|file|
 |----|----|
@@ -27,3 +27,5 @@
 |12357|[12357_Compare_products_and_generate_visual_scorecards_in_Telegram_with_BrowserAct_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/23/12357_Compare_products_and_generate_visual_scorecards_in_Telegram_with_BrowserAct_and_Gemini.json)|
 |13704|[13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13704_Generate_Shopify_product_images_using_AI_Agent_and_deAPI.json)|
 |13825|[13825_Generate_visual_diagrams_and_content_assets_from_ideas_with_Claude_and_NapkinAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13825_Generate_visual_diagrams_and_content_assets_from_ideas_with_Claude_and_NapkinAI.json)|
+|15883|[15883_Extract_TikTok_reaction_hooks_with_RenderIO_scene_detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15883_Extract_TikTok_reaction_hooks_with_RenderIO_scene_detection.json)|
+|16632|[16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16632_Detect_visual_regressions_with_Apify__Google_Gemini__Sheets_and_Linear.json)|

@@ -1,4 +1,4 @@
-# direct : 6
+# direct : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8203|[8203_Lead_Routing_System__Qualify___Direct_Typeform_Leads_to_HubSpot__Sheets___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8203_Lead_Routing_System__Qualify___Direct_Typeform_Leads_to_HubSpot__Sheets___Airtable.json)|
 |10299|[10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json)|
 |11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|
+|15775|[15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15775_Receive_and_process_incoming_direct_messages_in_Rocket.Chat.json)|

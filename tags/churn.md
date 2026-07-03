@@ -1,4 +1,4 @@
-# churn : 11
+# churn : 16
 
 |id|file|
 |----|----|
@@ -13,3 +13,8 @@
 |13969|[13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13969_Score_churn_risk_and_send_retention_emails_with_Google_Sheets_and_Gmail.json)|
 |14414|[14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14414_Segment_players_and_predict_churn_with_GPT-4o_and_reward_pricing_simulations.json)|
 |14882|[14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14882_Detect_churn_risk_from_competitor_tech_adoption_using_PredictLeads_and_Gmail.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|
+|15877|[15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15877_Detect_Mixpanel_churn_and_create_HubSpot__ClickUp__and_Slack_retention_alerts.json)|
+|16013|[16013_Score_Shopify_customer_churn_risk_and_sync_results_to_Klaviyo__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16013_Score_Shopify_customer_churn_risk_and_sync_results_to_Klaviyo__Slack__and_Gmail.json)|
+|16333|[16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16333_Recover_failed_Stripe_payments_with_GPT-4o__Gmail__Sheets__and_Slack.json)|
+|16716|[16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16716_Score_customer_health_and_churn_risk_with_Salesforce__Gemini__and_Gmail.json)|

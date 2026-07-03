@@ -1,4 +1,4 @@
-# hiring : 19
+# hiring : 23
 
 |id|file|
 |----|----|
@@ -21,3 +21,7 @@
 |13517|[13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13517_Automate_end-to-end_hiring_with_Keka__Google_Sheets__Gmail_and_GPT-4.json)|
 |14100|[14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14100_Monitor_CRM_hiring_spikes_and_send_Slack_alerts_with_HubSpot_and_PredictLeads.json)|
 |14101|[14101_Send_personalized_data_engineer_hiring_emails_with_PredictLeads__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14101_Send_personalized_data_engineer_hiring_emails_with_PredictLeads__OpenAI_and_Gmail.json)|
+|15378|[15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15378_Scrape_LinkedIn_hiring_posts_with_Apify_and_save_qualified_leads_to_Google_Sheets.json)|
+|15533|[15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15533_Track_LinkedIn_hiring_signals_with_Bright_Data__OpenAI__Airtable__HubSpot_and_Slack.json)|
+|16226|[16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16226_Track_customer_support_hiring_signals_with_Coresignal__Elasticsearch__and_HubSpot.json)|
+|16634|[16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16634_Scrape_Hacker_News_hiring_threads_with_OpenAI_GPT-4o-mini_and_Airtable.json)|

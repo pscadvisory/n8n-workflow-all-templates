@@ -1,4 +1,4 @@
-# pro : 56
+# pro : 61
 
 |id|file|
 |----|----|
@@ -58,3 +58,8 @@
 |13675|[13675_Digest_and_analyse_YouTube_videos_with_Apify_and_Gemini_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13675_Digest_and_analyse_YouTube_videos_with_Apify_and_Gemini_Pro.json)|
 |13981|[13981_Analyze_stocks_in_Telegram_with_Twelve_Data__GPT-4o_and_o3-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13981_Analyze_stocks_in_Telegram_with_Twelve_Data__GPT-4o_and_o3-mini.json)|
 |14574|[14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14574_Turn_book_PDFs_into_audio_with_OpenAI_and_Google_Drive.json)|
+|15164|[15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15164_Generate_AI-powered_pro_vs_con_debates_with_GPT-4o_and_Google_Sheets_tracking.json)|
+|15668|[15668_Extract_key_earnings_insights_from_Google_News_RSS_and_send_alerts_to_Slack_with_Gemini_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15668_Extract_key_earnings_insights_from_Google_News_RSS_and_send_alerts_to_Slack_with_Gemini_Pro.json)|
+|16654|[16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json)|
+|16655|[16655_Generate_daily_Etsy_sales_and_ledger_reports_via_Shop_Operations_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16655_Generate_daily_Etsy_sales_and_ledger_reports_via_Shop_Operations_API.json)|
+|16656|[16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16656_Sync_Etsy_customers_with_Meta_custom_audiences_using_hashed_emails.json)|

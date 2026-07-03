@@ -1,4 +1,4 @@
-# workspace : 42
+# workspace : 47
 
 |id|file|
 |----|----|
@@ -44,3 +44,8 @@
 |14142|[14142_Onboard_employees_automatically_with_Google_Workspace__Slack__Notion_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14142_Onboard_employees_automatically_with_Google_Workspace__Slack__Notion_and_Gmail.json)|
 |14431|[14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14431_Validate_QR_tickets_in_real_time_with_Google_Forms_and_Sheets.json)|
 |14500|[14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14500_Generate_and_email_event_e-tickets_with_QR_codes_using_Google_Workspace.json)|
+|15449|[15449_Automate_employee_onboarding_with_Groq__Gmail__Slack_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15449_Automate_employee_onboarding_with_Groq__Gmail__Slack_and_Google_Workspace.json)|
+|16088|[16088_Send_AI-powered_Slack_briefings_with_Google_Workspace_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16088_Send_AI-powered_Slack_briefings_with_Google_Workspace_and_Gemini.json)|
+|16268|[16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16268_Provision_new_hire_IT_accounts_with_Google_Workspace__Slack__and_Gmail.json)|
+|16403|[16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16403_Manage_employee_offboarding_with_Google_Workspace__Slack__HubSpot_and_Notion.json)|
+|16707|[16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16707_Score_and_advance_job_applicants_with_Airtable__Google_Workspace_and_GPT-4o.json)|

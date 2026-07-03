@@ -1,4 +1,4 @@
-# add : 71
+# add : 73
 
 |id|file|
 |----|----|
@@ -73,3 +73,5 @@
 |13621|[13621_Capture_vCard_QR_code_contacts_with_AllCodeRelay_and_add_them_to_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13621_Capture_vCard_QR_code_contacts_with_AllCodeRelay_and_add_them_to_KlickTipp.json)|
 |13632|[13632_Add_subtitles_to_YouTube_videos_and_save_them_to_Google_Drive_with_VideoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13632_Add_subtitles_to_YouTube_videos_and_save_them_to_Google_Drive_with_VideoDB.json)|
 |14304|[14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14304_Add__update__and_fetch_contacts_from_a_Notion_database_by_email.json)|
+|15085|[15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15085_Brevo_Contact_Manager____Import__Add_to_List__Send_Email_and_Track_Unsubscribes.json)|
+|15101|[15101_Create_daily_prayer_and_sunnah_fasting_reminders_in_Google_Calendar_using_Aladhan_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15101_Create_daily_prayer_and_sunnah_fasting_reminders_in_Google_Calendar_using_Aladhan_API.json)|

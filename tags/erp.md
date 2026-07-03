@@ -1,4 +1,4 @@
-# erp : 5
+# erp : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7315|[7315_Query_Business_Data_from_Cin7_ERP_with_OpenAI_Chatbot_via_Peliqan.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7315_Query_Business_Data_from_Cin7_ERP_with_OpenAI_Chatbot_via_Peliqan.json)|
 |7391|[7391_Query_Business_Data_from_Uniconta_ERP_with_OpenAI_Chatbot_via_Peliqan.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7391_Query_Business_Data_from_Uniconta_ERP_with_OpenAI_Chatbot_via_Peliqan.json)|
 |10531|[10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json)|
+|15573|[15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15573_Route_ERP_tasks_across_departments_with_GPT-4__Slack__Gmail_and_human_approval.json)|

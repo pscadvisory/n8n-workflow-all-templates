@@ -1,4 +1,4 @@
-# training : 13
+# training : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |9822|[9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json)|
 |11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
 |14454|[14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14454_Build_an_employee_training_video_knowledge_base_using_the_WayinVideo_summaries_API.json)|
+|15106|[15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json)|
+|15642|[15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15642_Convert_edited_Notion_pages_into_explainer_videos_with_Ozor_AI.json)|

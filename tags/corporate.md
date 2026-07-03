@@ -1,4 +1,4 @@
-# corporate : 4
+# corporate : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |9731|[9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json)|
 |11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
 |12031|[12031_Automate_corporate_tax_filing_for_SMEs_with_GPT-5.2-Pro__Gmail__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12031_Automate_corporate_tax_filing_for_SMEs_with_GPT-5.2-Pro__Gmail__and_Google_Drive.json)|
+|15336|[15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15336_Analyze_corporate_action_impact_from_NSE_RSS_with_Google_Sheets__Gemini__and_Gmail.json)|

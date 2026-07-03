@@ -1,4 +1,4 @@
-# memory : 47
+# memory : 53
 
 |id|file|
 |----|----|
@@ -49,3 +49,9 @@
 |14265|[14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14265_Create_AI_travel_journal_stories_from_WhatsApp_using_Claude_and_Google_Drive.json)|
 |14912|[14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json)|
 |15015|[15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15015_Search_your_travel_memories_with_Gmail__Google_Photos__GPT-4_and_Claude.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|15995|[15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15995_Extract_and_self-correct_meeting_action_items_with_OpenRouter_and_webhooks.json)|
+|16023|[16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16023_Reply_to_Telegram_text_and_voice_messages_with_an_OpenAI_GPT-4o-mini_chatbot_and_memory.json)|
+|16052|[16052_Run_a_multi-session_chat_agent_with_OpenAI_and_data_table_memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16052_Run_a_multi-session_chat_agent_with_OpenAI_and_data_table_memory.json)|
+|16094|[16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16094_Tutor_English_chat_messages_using_OpenRouter_with_Postgres_memory_and_log_to_Supabase.json)|
+|16117|[16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16117_Run_a_skills-based_knowledge_chatbot_with_Google_Sheets_and_GPT-4o-mini.json)|

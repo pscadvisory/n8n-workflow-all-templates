@@ -1,4 +1,4 @@
-# gohighlevel : 20
+# gohighlevel : 29
 
 |id|file|
 |----|----|
@@ -22,3 +22,12 @@
 |13136|[13136_Sync_Fathom_meeting_summaries_and_action_items_with_GoHighLevel_contacts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13136_Sync_Fathom_meeting_summaries_and_action_items_with_GoHighLevel_contacts.json)|
 |14169|[14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14169_Qualify_and_manage_voice_sales_calls_with_Claude__GPT-4o__Gemini__and_GoHighLevel.json)|
 |14364|[14364_Generate_client_contracts_automatically_using_Google_Docs__Drive__and_GoHighLevel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14364_Generate_client_contracts_automatically_using_Google_Docs__Drive__and_GoHighLevel.json)|
+|15103|[15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15103_Recover_missed_calls_and_book_HVAC_appointments_with_GoHighLevel__Twilio__Gemini.json)|
+|15104|[15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15104_Triage_HVAC_issues_and_AI_diagnosis_with_Gemini_Vision__GoHighLevel_and_WhatsApp.json)|
+|15536|[15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15536_Qualify_and_nurture_Typeform_leads_in_GoHighLevel_with_OpenAI__Calendly__Gmail_and_Slack.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|
+|15726|[15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15726_Sync_Stripe_payments_to_GoHighLevel_with_GPT-4o_email__Slack__and_Sheets_logging.json)|
+|15777|[15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15777_Book_HVAC_service_appointments_via_WhatsApp_with_GoHighLevel_and_Gemini.json)|
+|15939|[15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json)|
+|16090|[16090_Run_GoHighLevel_client_onboarding_with_Claude__Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16090_Run_GoHighLevel_client_onboarding_with_Claude__Gmail_and_Google_Drive.json)|
+|16337|[16337_Summarize_sales_calls_into_GoHighLevel_notes_with_Deepgram__Gemini__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16337_Summarize_sales_calls_into_GoHighLevel_notes_with_Deepgram__Gemini__and_Sheets.json)|

@@ -1,7 +1,8 @@
-# football : 3
+# football : 4
 
 |id|file|
 |----|----|
 |6602|[6602_Daily_Sync_of_NFL_Players_from_Sleeper_API_to_Airtable_for_Fantasy_Football.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6602_Daily_Sync_of_NFL_Players_from_Sleeper_API_to_Airtable_for_Fantasy_Football.json)|
 |6655|[6655_View_Fantasy_Football_Roster_Details_with_Sleeper_API_and_Telegram_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6655_View_Fantasy_Football_Roster_Details_with_Sleeper_API_and_Telegram_Chatbot.json)|
 |6671|[6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json)|
+|15675|[15675_Delay_football_goal_alerts_with_API-Football__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15675_Delay_football_goal_alerts_with_API-Football__Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# trend : 34
+# trend : 40
 
 |id|file|
 |----|----|
@@ -36,3 +36,9 @@
 |13818|[13818_Monitor_news_sentiment_trends_with_GPT-4o-mini__MrScraper__Slack_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13818_Monitor_news_sentiment_trends_with_GPT-4o-mini__MrScraper__Slack_and_Notion.json)|
 |13839|[13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13839_Aggregate_tech_trend_signals_from_RSS_feeds_into_Google_Sheets_and_Slack.json)|
 |15017|[15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15017_Spot_social_media_trends_and_generate_post_ideas_with_Claude_and_Google_Sheets.json)|
+|15203|[15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15203_Automate_TikTok_and_Instagram_trend_videos_with_Claude__Seedance_2.0_and_Blotato.json)|
+|15253|[15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15253_Score_daily_viral_YouTube_Shorts_ideas_using_Reddit__RSS__and_DeepSeek_AI.json)|
+|15475|[15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15475_Generate_competitive_product_roadmap_reports_with_Gemini_2.5_Flash__Olostep_and_Google_Drive.json)|
+|15529|[15529_Send_daily_TikTok_trend_digests_to_Telegram_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15529_Send_daily_TikTok_trend_digests_to_Telegram_using_WayinVideo_and_GPT-4o-mini.json)|
+|15808|[15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json)|
+|16362|[16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16362_Log_gold_and_silver_prices_and_email_Groq_insights_with_Google_Sheets.json)|

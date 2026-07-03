@@ -1,4 +1,4 @@
-# alpha : 8
+# alpha : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |12944|[12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12944_Create_a_daily_market_brief_from_Google_Sheets__Alpha_Vantage__Reddit__OpenAI__and_Slack.json)|
 |13651|[13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13651_Generate_AI_trading_alerts_from_CoinGecko_and_Alpha_Vantage_via_Slack__email_and_SMS.json)|
 |13701|[13701_Generate_institutional-grade_stock_price_targets_and_BUY_HOLD_SELL_signals_with_GPT-5__Gemini__Alpha_Vantage_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13701_Generate_institutional-grade_stock_price_targets_and_BUY_HOLD_SELL_signals_with_GPT-5__Gemini__Alpha_Vantage_and_Google_Sheets.json)|
+|15569|[15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json)|
+|15669|[15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15669_Generate_daily_stock_market_insights_with_Alpha_Vantage__Google_Gemini_AI_and_Slack.json)|

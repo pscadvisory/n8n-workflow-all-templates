@@ -1,4 +1,4 @@
-# predictor : 4
+# predictor : 6
 
 |id|file|
 |----|----|
@@ -6,3 +6,5 @@
 |12474|[12474_Score_HubSpot_deal_conversion_risk_with_OpenAI_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12474_Score_HubSpot_deal_conversion_risk_with_OpenAI_and_Slack_alerts.json)|
 |13687|[13687_Predict_construction_delays_with_Claude__OpenWeather_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13687_Predict_construction_delays_with_Claude__OpenWeather_and_Slack_alerts.json)|
 |13726|[13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/37/13726_Predict_customer_churn_daily_using_ML_or_LLM_models_and_notify_via_Slack_email.json)|
+|15073|[15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15073_Predict_deal_close_dates_and_update_Salesforce_with_Groq_and_Google_Sheets.json)|
+|15198|[15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15198_Predict_churn_risk_and_trigger_retention_actions_with_OpenAI_and_Google_Sheets.json)|

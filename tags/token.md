@@ -1,4 +1,4 @@
-# token : 27
+# token : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |10747|[10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json)|
 |12100|[12100_Compare_LLM_token_costs_across_350__models_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12100_Compare_LLM_token_costs_across_350__models_with_OpenRouter.json)|
 |12646|[12646_Track_monthly_OpenAI_token_usage_with_Google_Sheets_and_Gmail_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12646_Track_monthly_OpenAI_token_usage_with_Google_Sheets_and_Gmail_reports.json)|
+|15177|[15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15177_Track_AI_agent_token_costs_and_store_receipts_with_the_n8n_API_and_Data_Tables.json)|
+|15920|[15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15920_Email_weekly_AI_agent_cost_and_token_reports_with_Alephant_and_Gmail.json)|

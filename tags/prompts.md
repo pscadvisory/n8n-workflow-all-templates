@@ -1,4 +1,4 @@
-# prompts : 51
+# prompts : 58
 
 |id|file|
 |----|----|
@@ -53,3 +53,10 @@
 |13876|[13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13876_Screen_CVs_with_OpenAI_and_PostgreSQL_using_chained_prompts.json)|
 |14391|[14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14391_Generate_AI_videos_from_prompts_with_Seedance__Jira__Slack__and_Gmail.json)|
 |15034|[15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15034_Create_AI_coloring_book_pages_from_Google_Sheets_and_save_to_Google_Drive_with_Stable_Diffusion.json)|
+|16063|[16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16063_Generate_and_evaluate_AI_prompts_with_Gemini__OpenRouter__Groq__Cohere_and_Supabase.json)|
+|16115|[16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16115_Generate_Veo_3_short-form_videos_from_a_form_using_Groq_and_Google_Sheets.json)|
+|16330|[16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16330_Route_AI_prompts_between_Anthropic__Google_Gemini__Mistral_and_OpenAI.json)|
+|16419|[16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16419_Generate_YouTube_shorts_from_prompts_with_OpenAI__ElevenLabs_and_Pexels.json)|
+|16455|[16455_Generate_presentation_decks_from_prompts_with_Encelade.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16455_Generate_presentation_decks_from_prompts_with_Encelade.json)|
+|16488|[16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16488_Grade_system_prompts_in_Google_Sheets_with_a_Gemini_LLM_judge.json)|
+|16570|[16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16570_Evaluate_AI_prompts_with_OpenRouter_LLM-as-judge_and_Notion_reports.json)|

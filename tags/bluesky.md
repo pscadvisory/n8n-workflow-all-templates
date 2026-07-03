@@ -1,4 +1,4 @@
-# bluesky : 14
+# bluesky : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |12156|[12156_Track_BlueSky_post_engagement_metrics_in_Google_Sheets_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12156_Track_BlueSky_post_engagement_metrics_in_Google_Sheets_automatically.json)|
 |12159|[12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12159_Automate_follower_resource_distribution_on_BlueSky_with_keyword-triggered_DMs.json)|
 |12634|[12634_Curate_and_post_AI_news_to_X__Bluesky__Threads_and_more_with_GPT-5_mini_and_Cue.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12634_Curate_and_post_AI_news_to_X__Bluesky__Threads_and_more_with_GPT-5_mini_and_Cue.json)|
+|15678|[15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15678_Publish_daily_multi-platform_social_posts_from_live_web_research_with_GPT-5.5.json)|
+|16666|[16666_Create_social_posts_from_RSS_with_OpenAI__LinkedIn__X__and_Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16666_Create_social_posts_from_RSS_with_OpenAI__LinkedIn__X__and_Bluesky.json)|

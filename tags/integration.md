@@ -1,4 +1,4 @@
-# integration : 161
+# integration : 163
 
 |id|file|
 |----|----|
@@ -163,3 +163,5 @@
 |12070|[12070_Automate_employee_leave_approvals_with_GPT__Gmail___Calendar_integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/20/12070_Automate_employee_leave_approvals_with_GPT__Gmail___Calendar_integration.json)|
 |12733|[12733_Automate_satellite_data_analysis_and_regulatory_reporting_with_GPT-4_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12733_Automate_satellite_data_analysis_and_regulatory_reporting_with_GPT-4_and_Slack.json)|
 |14125|[14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14125_Audit_connected_integrations_and_email_pricing___limits_report_with_n8n_API__Claude_and_Gmail.json)|
+|15976|[15976_Normalize_and_validate_customer_data_with_Google_Sheets_highlights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15976_Normalize_and_validate_customer_data_with_Google_Sheets_highlights.json)|
+|16224|[16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16224_Coordinate_autonomous_UAV_missions_with_multi-agent_AI_and_Microsoft_Dynamics.json)|

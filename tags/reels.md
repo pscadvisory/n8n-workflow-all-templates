@@ -1,4 +1,4 @@
-# reels : 34
+# reels : 41
 
 |id|file|
 |----|----|
@@ -36,3 +36,10 @@
 |14658|[14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14658_Publish_Instagram_Reels_from_Notion_with_Claude_captions_and_UploadToUrl.json)|
 |14712|[14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14712_Generate_product_demo_highlight_reels_using_WayinVideo_Find_Moments_API.json)|
 |14825|[14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14825_Turn_top_Instagram_reels_into_7_new_scripts_using_Apify__OpenAI__Claude_and_Google_Sheets.json)|
+|15145|[15145_Generate_24s_engaging_conspiracy_doc_reels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15145_Generate_24s_engaging_conspiracy_doc_reels.json)|
+|15151|[15151_Generate_addictive_ASMR_Veo_3_reels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15151_Generate_addictive_ASMR_Veo_3_reels.json)|
+|15221|[15221_Instagram_AI_Tracker___Automate_Reels_Analysis___Growth.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15221_Instagram_AI_Tracker___Automate_Reels_Analysis___Growth.json)|
+|15328|[15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15328_Generate_YouTube__Reels__and_TikTok_scripts_from_one_topic_with_GPT-4o-mini__Google_Sheets__and_Gmail.json)|
+|15808|[15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15808_Generate_weekly_Instagram_Reels_ideas_from_Google_News_with_OpenAI_and_Notion.json)|
+|16148|[16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16148_Create_AI_video_reels_from_profile_photos_with_AtlasCloud_and_Blotato.json)|
+|16168|[16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16168_Create_AI_video_reels_from_images_with_GPT_Image_2__Seedance_and_Blotato.json)|

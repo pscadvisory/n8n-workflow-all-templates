@@ -1,4 +1,4 @@
-# extractor : 31
+# extractor : 38
 
 |id|file|
 |----|----|
@@ -33,3 +33,10 @@
 |14314|[14314_Classify_documents_with_easybits_Extractor_via_web_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/43/14314_Classify_documents_with_easybits_Extractor_via_web_form.json)|
 |14513|[14513_Send_invoice_approval_requests_to_Slack_using_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14513_Send_invoice_approval_requests_to_Slack_using_easybits_Extractor.json)|
 |14957|[14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14957_Benchmark_invoice_data_extraction_accuracy_with_easybits.json)|
+|15098|[15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15098_Catch_failed_invoice_extractions_with_easybits__Slack__and_Google_Drive.json)|
+|15229|[15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15229_Classify_documents_and_score_confidence_with_easybits_Extractor_and_Slack.json)|
+|15668|[15668_Extract_key_earnings_insights_from_Google_News_RSS_and_send_alerts_to_Slack_with_Gemini_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15668_Extract_key_earnings_insights_from_Google_News_RSS_and_send_alerts_to_Slack_with_Gemini_Pro.json)|
+|16097|[16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16097_Create_Google_Calendar_events_from_labeled_Gmail_confirmations_with_easybits_Extractor.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16331|[16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16331_Extract_invoice_data_from_Gmail_PDFs_to_Google_Sheets_with_OpenAI_and_Slack.json)|
+|16509|[16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16509_Extract_meeting_insights_and_ClickUp_tasks_with_ChatGPT__Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# summary : 96
+# summary : 106
 
 |id|file|
 |----|----|
@@ -98,3 +98,13 @@
 |13497|[13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13497_Sync_Toggl_Track_time_entries_with_Google_Sheets_detail_and_summary_tabs.json)|
 |13993|[13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13993_Send_weekly_GA4_WoW_email_reports_with_Gemini_AI_executive_summary.json)|
 |14007|[14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14007_Create_X_and_LinkedIn_posts_from_Reddit_threads_with_Gemini_and_human_review.json)|
+|15371|[15371_Run_weekly_standups_with_Groq_AI_summaries_via_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15371_Run_weekly_standups_with_Groq_AI_summaries_via_Telegram_and_Google_Sheets.json)|
+|15403|[15403_Summarize_daily_Gmail_emails_with_Gemini_and_send_to_Slack__WhatsApp_and_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15403_Summarize_daily_Gmail_emails_with_Gemini_and_send_to_Slack__WhatsApp_and_Docs.json)|
+|15569|[15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15569_Profile_investors_and_send_AI_investment_reports_with_Google_Sheets__Alpha_Vantage__Groq__Gmail_and_Slack.json)|
+|15850|[15850_Generate_portfolio_exposure_risk_summaries_with_Sheets__Gemini__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15850_Generate_portfolio_exposure_risk_summaries_with_Sheets__Gemini__Slack__and_Gmail.json)|
+|15928|[15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15928_Send_Taiwan_stock_pre-market_briefings_using_TWSE__CNYES__OpenAI_and_Telegram.json)|
+|15956|[15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15956_Send_PDF_document_summaries_with_CoreNexis_OCR__GPT-4.1-mini__GPT-4o-mini_and_Gmail.json)|
+|16098|[16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16098_Summarize_candidate_CVs_in_Slack_with_easybits_Extractor.json)|
+|16433|[16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16433_Send_end-of-day_ops_summaries_with_Google_Sheets__Gemini__Slack_and_Gmail.json)|
+|16477|[16477_Summarize_daily_Slack_standups_with_OpenAI__Notion__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16477_Summarize_daily_Slack_standups_with_OpenAI__Notion__and_Google_Sheets.json)|
+|16496|[16496_Track_Slack_EOD_updates_and_post_executive_summaries_with_Google_Sheets_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16496_Track_Slack_EOD_updates_and_post_executive_summaries_with_Google_Sheets_and_Gemini.json)|

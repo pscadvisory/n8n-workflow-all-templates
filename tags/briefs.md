@@ -1,4 +1,4 @@
-# briefs : 14
+# briefs : 22
 
 |id|file|
 |----|----|
@@ -16,3 +16,11 @@
 |10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
 |13519|[13519_Get_AI_meeting_briefs_from_Google_Calendar_with_SerpAPI__Azure_OpenAI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13519_Get_AI_meeting_briefs_from_Google_Calendar_with_SerpAPI__Azure_OpenAI_and_Slack.json)|
 |14762|[14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14762_Generate_UK_M_A_research__pitch_decks_and_briefs_from_Slack_using_Anthropic_and_Google_Docs_Slides.json)|
+|15058|[15058_Generate_blog_drafts_from_Tally_content_briefs_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15058_Generate_blog_drafts_from_Tally_content_briefs_with_OpenAI_and_Google_Docs.json)|
+|15819|[15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json)|
+|15934|[15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15934_Create_project_execution_briefs_from_meeting_transcripts_with_Claude.json)|
+|15950|[15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15950_Generate_structured_research_briefs_for_content_topics_with_OpenRouter.json)|
+|16195|[16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16195_Send_Calendly_sales_prep_briefs_with_HubSpot__Clearbit__OpenAI__Slack_and_Gmail.json)|
+|16286|[16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16286_Send_AI_interview_briefs_from_resumes_with_GPT-4o-mini__Google_Sheets_and_Gmail.json)|
+|16334|[16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16334_Prepare_daily_AI_meeting_briefs_from_Google_Calendar_with_GPT-4o_and_email.json)|
+|16335|[16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16335_Generate_SEO_content_briefs_from_keywords_with_SerpAPI__OpenAI__Google_Docs_and_Sheets.json)|

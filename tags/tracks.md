@@ -1,4 +1,4 @@
-# tracks : 4
+# tracks : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
 |12736|[12736_Create_lyric_posters_from_Spotify_tracks_with_Musixmatch_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12736_Create_lyric_posters_from_Spotify_tracks_with_Musixmatch_and_OpenAI.json)|
+|16055|[16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16055_Create_instrumental_tracks_from_song_URLs_with_StemSplit.json)|

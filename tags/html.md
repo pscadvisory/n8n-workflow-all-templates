@@ -1,4 +1,4 @@
-# html : 51
+# html : 57
 
 |id|file|
 |----|----|
@@ -53,3 +53,9 @@
 |14068|[14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14068_Track_student_attendance_from_CSV__email_parents__and_build_an_HTML_dashboard.json)|
 |14093|[14093_Generate_C_API_HTML_docs_from_Google_Drive_headers_with_GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14093_Generate_C_API_HTML_docs_from_Google_Drive_headers_with_GPT-4o_and_Gmail.json)|
 |14151|[14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14151_Compare_website_SEO_gaps_using_Google_Sheets__HTML_and_Gemini_AI.json)|
+|15246|[15246_Audit_Zoho_CRM_lead_data_quality_and_email_HTML_reports_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15246_Audit_Zoho_CRM_lead_data_quality_and_email_HTML_reports_with_Gmail.json)|
+|15406|[15406_Download_KSeF_invoices_to_NocoDB_and_email_formatted_HTML_copies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15406_Download_KSeF_invoices_to_NocoDB_and_email_formatted_HTML_copies.json)|
+|16010|[16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json)|
+|16027|[16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16027_Draft_and_approve_Gmail_replies_with_OpenAI_and_CustomJS.json)|
+|16409|[16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json)|
+|16587|[16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json)|

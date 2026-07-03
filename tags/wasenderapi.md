@@ -1,4 +1,4 @@
-# wasenderapi : 5
+# wasenderapi : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6452|[6452_WhatsApp_Support_Assistant_with_GPT-4_Mini___Google_Sheets_Data_Training.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6452_WhatsApp_Support_Assistant_with_GPT-4_Mini___Google_Sheets_Data_Training.json)|
 |6584|[6584_WhatsApp_Micro-CRM_with_Baserow___WasenderAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6584_WhatsApp_Micro-CRM_with_Baserow___WasenderAPI.json)|
 |6596|[6596_WhatsApp_Outbound_Messaging_with_Baserow___WasenderAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6596_WhatsApp_Outbound_Messaging_with_Baserow___WasenderAPI.json)|
+|15140|[15140_Check_WhatsApp_numbers_from_Google_Sheets_with_WasenderAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15140_Check_WhatsApp_numbers_from_Google_Sheets_with_WasenderAPI.json)|

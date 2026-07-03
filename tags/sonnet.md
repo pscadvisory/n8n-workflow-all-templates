@@ -1,4 +1,4 @@
-# sonnet : 24
+# sonnet : 29
 
 |id|file|
 |----|----|
@@ -26,3 +26,8 @@
 |14826|[14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14826_Route_and_triage_support_tickets_with_Claude_Sonnet_and_your_CRM.json)|
 |14912|[14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14912_Create_post_trip_journals_and_review_drafts_with_Claude_Sonnet_Vision.json)|
 |14932|[14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14932_Monitor_supply_chain_risk_news_with_Claude_Sonnet_4.5_and_Telegram_alerts.json)|
+|15790|[15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15790_Extract_and_classify_legal_documents_with_Claude_Sonnet_and_Google_Sheets.json)|
+|15939|[15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15939_Score_and_route_GoHighLevel_leads_with_Claude_Sonnet__Slack__and_Google_Sheets.json)|
+|16091|[16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16091_Extract_and_log_Gmail_invoices_with_Claude_Sonnet__Google_Sheets_and_Slack.json)|
+|16658|[16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16658_Generate_workflow_audit_docs_from_JSON_with_Claude_Sonnet_and_Notion.json)|
+|16748|[16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16748_Triage_and_deduplicate_GitHub_issues_with_Claude_Sonnet_4.5.json)|

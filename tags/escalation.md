@@ -1,4 +1,4 @@
-# escalation : 16
+# escalation : 22
 
 |id|file|
 |----|----|
@@ -18,3 +18,9 @@
 |13680|[13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13680_Route_and_escalate_student_advising_requests_with_OpenAI__Gmail_and_Slack.json)|
 |13916|[13916_Triage_and_escalate_ethics_disclosures_with_GPT-4o__policy_API_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/39/13916_Triage_and_escalate_ethics_disclosures_with_GPT-4o__policy_API_and_Slack.json)|
 |14164|[14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14164_Automate_service_order_fulfillment_with_Claude__Freshworks_CRM_and_SLA_escalation.json)|
+|15617|[15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15617_Handle_e-commerce_WhatsApp_support_with_Whapi__WooCommerce__RAG_and_Gmail_escalation.json)|
+|16039|[16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16039_Route_Chatwoot_customer_chats_to_AI_and_live_agents_with_Groq_and_Gemini.json)|
+|16378|[16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16378_Triage_construction_incidents_with_GPT-4o__Slack__Gmail_and_Google_Sheets.json)|
+|16393|[16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/63/16393_Detect_and_route_customer_escalations_with_Claude__Slack_and_Linear.json)|
+|16460|[16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16460_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets__and_Slack.json)|
+|16602|[16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16602_Recover_overdue_invoices_with_GPT-4o-mini__Gmail__Google_Sheets_and_Slack.json)|

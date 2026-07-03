@@ -1,4 +1,4 @@
-# translator : 13
+# translator : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |9943|[9943_Slack_Auto_Translator__JA___EN__with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9943_Slack_Auto_Translator__JA___EN__with_GPT-4o-mini.json)|
 |10187|[10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json)|
 |12748|[12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12748_Send_24-hour_Hacker_News_trends_to_Telegram_with_OpenRouter_AI_translation.json)|
+|16427|[16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16427_Translate_lab_report_PDFs_for_patients_with_Google_Drive__OpenAI_and_Gmail.json)|

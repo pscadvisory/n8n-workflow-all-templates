@@ -1,4 +1,4 @@
-# iam : 8
+# iam : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7598|[7598_IAM_Compliance_Automation__Enforce_MFA_and_Clean_Up_Access_Keys_in_AWS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7598_IAM_Compliance_Automation__Enforce_MFA_and_Clean_Up_Access_Keys_in_AWS.json)|
 |8510|[8510_Generate_AWS_IAM_Policies_via_Chat_Interface_with_GPT-4_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8510_Generate_AWS_IAM_Policies_via_Chat_Interface_with_GPT-4_Assistant.json)|
 |14409|[14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/44/14409_Route_IAM_events_with_GPT-4o-mini__forgeLLM__Slack__email__and_audit_logs.json)|
+|15321|[15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15321_Collect_SOC_2_AWS_IAM_evidence_to_Google_Sheets_with_Gmail_alerts.json)|

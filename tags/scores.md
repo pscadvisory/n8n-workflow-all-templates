@@ -1,4 +1,4 @@
-# scores : 6
+# scores : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8526|[8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json)|
 |13507|[13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13507_Match_job_descriptions_with_resumes_using_Google_Gemini_and_log_scores_to_Google_Sheets.json)|
 |14276|[14276_AI-powered_fuzzy_matching__and_assigns_confidence_scores..json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14276_AI-powered_fuzzy_matching__and_assigns_confidence_scores..json)|
+|15160|[15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15160_Check_bulk_domain_ranks_and_write_scores_to_Google_Sheets_with_DataForSEO.json)|

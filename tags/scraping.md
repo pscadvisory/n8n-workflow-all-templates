@@ -1,4 +1,4 @@
-# scraping : 73
+# scraping : 76
 
 |id|file|
 |----|----|
@@ -75,3 +75,6 @@
 |13637|[13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13637_Generate_rotating_user-agents_and_proxy_IPs_for_scraping_APIs.json)|
 |13685|[13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13685_Scrape_Reddit_posts_with_BrowserAct__summarize_with_Gemini__and_save_to_Google_Sheets.json)|
 |14516|[14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14516_Monitor_AWS_WAF-protected_product_prices_with_CapSolver__schedule__and_webhook.json)|
+|15381|[15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15381_Summarize_RSS_articles_and_publish_AI_images_to_WordPress_and_social_media.json)|
+|16209|[16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16209_Generate_Shopify_review_outreach_drafts_with_Apify__Hunter__GPT-4o_and_Gmail.json)|
+|16409|[16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16409_Scrape_product_prices_and_send_GPT-4o-mini_insights_to_Google_Sheets_and_Gmail.json)|

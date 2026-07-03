@@ -1,4 +1,4 @@
-# estate : 51
+# estate : 58
 
 |id|file|
 |----|----|
@@ -53,3 +53,10 @@
 |14134|[14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14134_Generate_real-estate_marketing_images_and_videos_with_OpenAI_and_Google_Drive.json)|
 |14137|[14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14137_Qualify_real_estate_leads_from_Typeform_to_Airtable_with_Gemini_and_smart_email_routing.json)|
 |14900|[14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14900_Analyze_real_estate_RSS_deals_with_Groq__Google_Sheets_and_Gmail.json)|
+|15191|[15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15191_Analyze_real_estate_deals_using_Google_Sheets__Groq_AI__and_Gmail.json)|
+|15300|[15300_Handle_Tamil_real_estate_voice_inquiries_with_OpenAI__Sarvam_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15300_Handle_Tamil_real_estate_voice_inquiries_with_OpenAI__Sarvam_AI_and_Google_Sheets.json)|
+|15431|[15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15431_Find_real_estate_deals_from_Facebook_groups_with_GPT-4o_and_Twilio_SMS_alerts.json)|
+|15510|[15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15510_Scrape_Idealista___Real_Estate_Property_Listings_with_ScrapeGraph_AI.json)|
+|16092|[16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16092_Qualify_real_estate_leads_and_send_instant_replies_with_OpenAI__Gmail__and_Google_Sheets.json)|
+|16274|[16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16274_Route_real_estate_buyer_and_seller_leads_with_Claude_and_Google_Sheets.json)|
+|16740|[16740_Capture_and_route_real_estate_leads_with_Google_Sheets__Gmail__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16740_Capture_and_route_real_estate_leads_with_Google_Sheets__Gmail__and_Slack.json)|

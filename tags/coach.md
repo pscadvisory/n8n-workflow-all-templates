@@ -1,4 +1,4 @@
-# coach : 11
+# coach : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |14020|[14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14020_Build_an_AI_confidence_coach_for_women_with_GPT-4o__Google_Sheets_and_Gmail.json)|
 |14165|[14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14165_Get_chess.com_game_reviews_by_email_using_Google_Gemini_or_other_LLMs.json)|
 |14858|[14858_Track_nutrition_and_fitness_via_webhook_with_OpenAI__Google_Sheets_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/48/14858_Track_nutrition_and_fitness_via_webhook_with_OpenAI__Google_Sheets_and_Slack_alerts.json)|
+|16610|[16610_Turn_Telegram_into_a_French_fitness_coach_with_Claude__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16610_Turn_Telegram_into_a_French_fitness_coach_with_Claude__OpenAI_and_Google_Sheets.json)|

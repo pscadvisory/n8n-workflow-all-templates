@@ -1,4 +1,4 @@
-# through : 19
+# through : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |11843|[11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json)|
 |12437|[12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12437_Find_AliExpress_affiliate_products_via_Telegram_with_OpenAI_and_Decodo.json)|
 |13590|[13590_Route_MCP_tool_calls_through_an_intelligent_gateway_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13590_Route_MCP_tool_calls_through_an_intelligent_gateway_with_Claude_AI.json)|
+|15316|[15316_Route_client_onboarding_webhook_events_through_RabbitMQ_to_Gmail_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15316_Route_client_onboarding_webhook_events_through_RabbitMQ_to_Gmail_alerts.json)|
+|16124|[16124_Send_transactional_SMS_with_the_OVHcloud_SMS_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16124_Send_transactional_SMS_with_the_OVHcloud_SMS_API.json)|

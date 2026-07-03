@@ -1,4 +1,4 @@
-# workflows : 113
+# workflows : 122
 
 |id|file|
 |----|----|
@@ -115,3 +115,12 @@
 |14990|[14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14990_Generate_n8n_workflows_from_chat_using_MCP_tools__Claude_and_Postgres.json)|
 |15037|[15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15037_Organize_and_back_up_n8n_workflows_to_Google_Drive_folders.json)|
 |15038|[15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15038_Organize_and_back_up_n8n_workflows_to_Google_Drive_as_consolidated_JSON.json)|
+|15274|[15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15274_Index_n8n_workflows_and_enable_semantic_AI_search_with_OpenAI_and_Supabase.json)|
+|15683|[15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15683_Back_up_self-hosted_workflows_to_Google_Drive_on_a_schedule.json)|
+|15724|[15724_Back_up_workflow_JSON_files_to_Google_Drive_using_the_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15724_Back_up_workflow_JSON_files_to_Google_Drive_using_the_n8n_API.json)|
+|15795|[15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15795_Deploy_n8n_workflows_with_GitHub-based_version_control.json)|
+|15918|[15918_Review_n8n_workflows_from_Slack_with_Claude_Opus_and_GitHub_skills.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15918_Review_n8n_workflows_from_Slack_with_Claude_Opus_and_GitHub_skills.json)|
+|16165|[16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16165_Build_and_operate_n8n_workflows_from_Claude_with_Gemini_and_MCP_tools.json)|
+|16191|[16191_Back_up_and_restore_n8n_Docker_workflows_and_credentials_with_GitHub_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16191_Back_up_and_restore_n8n_Docker_workflows_and_credentials_with_GitHub_and_SSH.json)|
+|16654|[16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16654_Manage_Etsy_OAuth_2.0_tokens_and_API_headers_between_workflows.json)|
+|16669|[16669_Back_up_and_restore_Docker_workflows_and_credentials_with_Google_Drive_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16669_Back_up_and_restore_Docker_workflows_and_credentials_with_Google_Drive_and_SSH.json)|

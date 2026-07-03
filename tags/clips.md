@@ -1,4 +1,4 @@
-# clips : 24
+# clips : 30
 
 |id|file|
 |----|----|
@@ -26,3 +26,9 @@
 |14614|[14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14614_Create_lead_nurture_video_clips_from_webinar_recordings_using_WayinVideo_AI_and_Google_Drive.json)|
 |14641|[14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/46/14641_Extract_customer_testimonial_clips_using_WayinVideo_AI_and_Google_Drive.json)|
 |14707|[14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/47/14707_Generate_multilingual_AI_video_clips_using_WayinVideo_and_Google_Drive.json)|
+|15106|[15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15106_Extract_sales_training_clips_from_Fireflies_calls_using_WayinVideo__Sheets_and_Slack.json)|
+|15118|[15118_Create_short_social_video_clips_from_webinars_with_WayinVideo__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15118_Create_short_social_video_clips_from_webinars_with_WayinVideo__Google_Sheets_and_Gmail.json)|
+|15146|[15146_Generate_AI_B-roll_clips_from_videos_with_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15146_Generate_AI_B-roll_clips_from_videos_with_Veo_3.json)|
+|15181|[15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15181_Turn_podcast_videos_into_TikTok_shorts_using_WayinVideo_and_PostPulse.json)|
+|15440|[15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15440_Turn_YouTube_videos_into_weekly_short_clips_with_captions_using_WayinVideo_and_GPT-4o-mini.json)|
+|16776|[16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16776_Generate_Telegram_image-to-video_clips_with_AtlasCloud_WAN_2.7_and_post_via_Blotato_to_TikTok__Instagram__Facebook.json)|

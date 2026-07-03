@@ -1,4 +1,4 @@
-# long : 21
+# long : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |13895|[13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13895_Automated_AI_Long_Video_Creator_______Multi-Platform_Upload_via_Postiz.json)|
 |14027|[14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json)|
 |14080|[14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14080_Repurpose_long-form_content_into_Instagram_and_LinkedIn_posts_with_OpenAI_and_Teams.json)|
+|15132|[15132_Turn_long_videos_into_social_shorts_with_RenderIO_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15132_Turn_long_videos_into_social_shorts_with_RenderIO_and_OpenAI.json)|
+|15158|[15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15158_Generate_long-form_SEO_GEO_blog_posts_with_Siah__WordPress_CMS_and_Google_Indexing_API.json)|

@@ -1,4 +1,4 @@
-# quotes : 15
+# quotes : 20
 
 |id|file|
 |----|----|
@@ -17,3 +17,8 @@
 |12638|[12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12638_Manage_supplier_quote_requests_and_follow-ups_with_Gmail__Sheets__GPT-4o-mini_and_WhatsApp.json)|
 |12994|[12994_Generate_and_send_AI-powered_sales_quotes_with_Gmail__OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12994_Generate_and_send_AI-powered_sales_quotes_with_Gmail__OpenAI_and_Supabase.json)|
 |14174|[14174_Generate_and_email_PDF_quotes_from_Airtable_via_Gmail_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14174_Generate_and_email_PDF_quotes_from_Airtable_via_Gmail_and_Google_Drive.json)|
+|15676|[15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15676_Generate_service_quotes_with_GPT-4.1-mini__Telegram_approval_and_Gmail.json)|
+|15702|[15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15702_Fetch_real-time_stock_quotes_to_Google_Sheets_with_OpenAI__Octagon_and_GitHub.json)|
+|15744|[15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15744_Fetch_live_commodity_quotes_with_Octagon__OpenAI__GPT-5.4_Mini__and_Google_Sheets.json)|
+|16587|[16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16587_Post_daily_motivational_quote_images_to_Telegram_with_Gemini_and_HTML_to_Image.json)|
+|16710|[16710_Send_multi-carrier_shipping_quotes_via_WhatsApp_with_Gemini_and_ShipEngine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16710_Send_multi-carrier_shipping_quotes_via_WhatsApp_with_Gemini_and_ShipEngine.json)|

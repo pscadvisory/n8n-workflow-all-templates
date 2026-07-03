@@ -1,4 +1,4 @@
-# weather : 56
+# weather : 59
 
 |id|file|
 |----|----|
@@ -58,3 +58,6 @@
 |12232|[12232_Send_daily_Malaysian_weather_alerts_with_Perplexity_AI__Firecrawl_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12232_Send_daily_Malaysian_weather_alerts_with_Perplexity_AI__Firecrawl_and_Telegram.json)|
 |12653|[12653_Monitor_multi-city_weather_with_OpenWeatherMap__GPT-4o-mini__and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/26/12653_Monitor_multi-city_weather_with_OpenWeatherMap__GPT-4o-mini__and_Discord.json)|
 |13411|[13411_Get_enriched_location__weather__and_timezone_data_using_free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/34/13411_Get_enriched_location__weather__and_timezone_data_using_free_APIs.json)|
+|15116|[15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15116_Generate_a_daily_AI_briefing_from_tasks__calendar__email__weather_and_news_with_OpenAI__WhatsApp_and_Email.json)|
+|15598|[15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/55/15598_Trigger_HVAC_upsell_campaigns_from_weather_data_and_handle_bookings_with_GoHighLevel__WhatsApp__WeatherAPI_and_Gemini.json)|
+|16535|[16535_Monitor_multi-city_courier_weather_risk_with_Open-Meteo__GPT-4o__Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16535_Monitor_multi-city_courier_weather_risk_with_Open-Meteo__GPT-4o__Gemini_and_Slack.json)|

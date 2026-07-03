@@ -1,4 +1,4 @@
-# meetings : 24
+# meetings : 33
 
 |id|file|
 |----|----|
@@ -26,3 +26,12 @@
 |13579|[13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13579_Schedule_client_meetings_via_web_forms_with_Google_Calendar__Zoom_and_multi_channel_notifications.json)|
 |14987|[14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/49/14987_Invite_the_Fireflies_recording_bot_to_meetings_from_a_one-click_form.json)|
 |15040|[15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15040_Create_LinkedIn_post_drafts_from_Fireflies_meetings_with_GPT-4o-mini__Drive_and_Slack.json)|
+|15094|[15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15094_Categorize_meetings_and_log_time_with_Fireflies__GPT-4o-mini__and_Google_Sheets.json)|
+|15099|[15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/50/15099_Send_client_recap_emails_after_Fireflies_meetings_using_GPT-4o-mini__Gmail_and_Sheets.json)|
+|15355|[15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/53/15355_Summarize_Zoom_meetings_with_GPT-4o__Whisper__Supabase_RAG_and_email_reports.json)|
+|15818|[15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15818_Summarize_Zoom_meetings_and_create_tasks_with_Claude__ClickUp__Calendar__Slack__and_Sheets.json)|
+|15819|[15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15819_Send_commercial_briefs_from_Google_Calendar_meetings_to_Pipedrive_via_Gmail.json)|
+|15874|[15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15874_Automate_Calendly_sales_meetings_with_HubSpot__Google__ClickUp_and_Slack.json)|
+|15974|[15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/59/15974_Transcribe_meetings_and_log_action_items_to_Notion_with_AssemblyAI_and_Gemini.json)|
+|16410|[16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16410_Log_Fireflies_meeting_transcripts_to_Google_Sheets_CRM.json)|
+|16566|[16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16566_Transcribe_and_analyze_sales_meetings_with_Deepgram__Gemini__GHL__Slack___Gmail.json)|

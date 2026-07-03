@@ -1,4 +1,4 @@
-# graph : 30
+# graph : 38
 
 |id|file|
 |----|----|
@@ -32,3 +32,11 @@
 |12495|[12495_Audit_SharePoint_Online_external_sharing_and_anonymous_links_with_Microsoft_Graph.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/24/12495_Audit_SharePoint_Online_external_sharing_and_anonymous_links_with_Microsoft_Graph.json)|
 |13366|[13366_Upload_videos_to_Facebook_Pages_and_Groups_with_Facebook_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/33/13366_Upload_videos_to_Facebook_Pages_and_Groups_with_Facebook_Graph_API.json)|
 |14027|[14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/40/14027_Get_long-lived_Facebook_Page_access_tokens_and_subscribe_Messenger_webhook_fields_via_Graph_API.json)|
+|15130|[15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15130_Reply_to_Instagram_DMs_with_keyword-based_affiliate_links_via_Meta_Graph_API.json)|
+|15206|[15206_Send_Instagram_auto_DMs_to_post_commenters_using_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15206_Send_Instagram_auto_DMs_to_post_commenters_using_Meta_Graph_API.json)|
+|15794|[15794_Create_Facebook_posts_and_images_with_Google_Gemini_and_Facebook_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/57/15794_Create_Facebook_posts_and_images_with_Google_Gemini_and_Facebook_Graph_API.json)|
+|16106|[16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16106_Sync_PostgreSQL_changes_to_SharePoint_lists_via_Microsoft_Graph_with_Teams_alerts.json)|
+|16110|[16110_Optimize_inactive_Microsoft_365_premium_licenses_with_Graph_and_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16110_Optimize_inactive_Microsoft_365_premium_licenses_with_Graph_and_Teams.json)|
+|16118|[16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16118_Clean_up_stale_Entra_B2B_guest_accounts_with_Microsoft_Graph__Teams__and_SharePoint.json)|
+|16194|[16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/61/16194_Handle_GDPR_data_subject_requests_with_Microsoft_Graph__SharePoint__and_Ollama.json)|
+|16231|[16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16231_Build_a_Slack_knowledge_graph_with_Claude__Neo4j_and_Google_Sheets.json)|

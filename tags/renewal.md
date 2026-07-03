@@ -1,4 +1,4 @@
-# renewal : 10
+# renewal : 15
 
 |id|file|
 |----|----|
@@ -12,3 +12,8 @@
 |13193|[13193_Send_subscription_renewal_reminders_via_Telegram_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13193_Send_subscription_renewal_reminders_via_Telegram_with_Supabase.json)|
 |13259|[13259_Send_subscription_renewal_reminders_with_Email_and_ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/32/13259_Send_subscription_renewal_reminders_with_Email_and_ClickUp.json)|
 |14155|[14155_Send_contract_renewal_reminders_from_HubSpot_via_Gmail_and_Slack_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14155_Send_contract_renewal_reminders_from_HubSpot_via_Gmail_and_Slack_alerts.json)|
+|15230|[15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15230_Classify_contracts_and_track_renewals_with_easybits__Google_Drive_and_Sheets.json)|
+|15231|[15231_Send_tiered_contract_renewal_Slack_alerts_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15231_Send_tiered_contract_renewal_Slack_alerts_from_Google_Sheets.json)|
+|15494|[15494_Send_PDF_renewal_invoices_for_expiring_domains_with_CraftMyPDF__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15494_Send_PDF_renewal_invoices_for_expiring_domains_with_CraftMyPDF__Gmail__and_Google_Sheets.json)|
+|15498|[15498_Send_multi-stage_SaaS_renewal_alerts_from_Google_Sheets_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/54/15498_Send_multi-stage_SaaS_renewal_alerts_from_Google_Sheets_to_Slack.json)|
+|16270|[16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16270_Monitor_contract_renewal_risk_with_HubSpot__Asana__Slack__and_Gmail.json)|

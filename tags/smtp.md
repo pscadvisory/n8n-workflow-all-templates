@@ -1,4 +1,4 @@
-# smtp : 15
+# smtp : 20
 
 |id|file|
 |----|----|
@@ -17,3 +17,8 @@
 |12982|[12982_Send_personalized_emails_from_Google_Sheets_via_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/29/12982_Send_personalized_emails_from_Google_Sheets_via_SMTP.json)|
 |14267|[14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14267_Send_AI_job_application_auto-replies_with_Gmail__OpenAI_GPT-4o_and_SMTP.json)|
 |14275|[14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/42/14275_Send_bulk_email_campaigns_with_Gmail_SMTP_and_Postgres_reputation-safe_timing.json)|
+|15630|[15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15630_Route_and_validate_B2B_form_leads_with_webhook_firewall_and_SMTP_emails.json)|
+|16010|[16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/60/16010_Send_a_daily_remote_developer_job_digest_from_RSS_feeds_using_SMTP_email.json)|
+|16296|[16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/62/16296_Send_scored_media_monitoring_digests_from_RSS_feeds_via_SMTP_email.json)|
+|16423|[16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16423_Send_re-engagement_emails_to_inactive_users_with_Supabase__Claude_and_SMTP.json)|
+|16507|[16507_Send_adaptive_daily_Supabase_product_pulse_emails_with_Claude_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16507_Send_adaptive_daily_Supabase_product_pulse_emails_with_Claude_and_SMTP.json)|

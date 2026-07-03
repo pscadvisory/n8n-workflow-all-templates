@@ -1,4 +1,4 @@
-# play : 11
+# play : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |12194|[12194_Find_the_best_Roblox_server_for_your_game_using_a_webhook_and_Roblox_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/21/12194_Find_the_best_Roblox_server_for_your_game_using_a_webhook_and_Roblox_API.json)|
 |12591|[12591_Generate_and_post_Google_Play_review_replies_with_Anthropic_Claude_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12591_Generate_and_post_Google_Play_review_replies_with_Anthropic_Claude_and_Google_Drive.json)|
 |13180|[13180_Triage_Slack_and_Gmail_requests_with_an_AI-powered_intake_layer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/31/13180_Triage_Slack_and_Gmail_requests_with_an_AI-powered_intake_layer.json)|
+|15166|[15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/51/15166_Send_Slack_alerts_for_new_app_reviews_from_Google_Play_and_App_Store_with_DataForSEO.json)|
+|15675|[15675_Delay_football_goal_alerts_with_API-Football__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/56/15675_Delay_football_goal_alerts_with_API-Football__Google_Sheets_and_Gmail.json)|

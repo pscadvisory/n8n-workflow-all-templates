@@ -1,4 +1,4 @@
-# part : 12
+# part : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |4050|[4050_AI_Chatbot_Call_Center__Demo_Call_Back__Production-Ready__Part_6.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4050_AI_Chatbot_Call_Center__Demo_Call_Back__Production-Ready__Part_6.json)|
 |4051|[4051_AI_Chatbot_Call_Center__Taxi_Booking_Support__Production-Ready__Part_7.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4051_AI_Chatbot_Call_Center__Taxi_Booking_Support__Production-Ready__Part_7.json)|
 |4052|[4052_AI_Chatbot_Call_Center__General_Exception_Flow__Production-Ready__Part_8.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4052_AI_Chatbot_Call_Center__General_Exception_Flow__Production-Ready__Part_8.json)|
+|16753|[16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16753_Send_DocuSign_envelopes_with_Supabase_contract_data.json)|
+|16754|[16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/67/16754_Process_signed_DocuSign_contracts_with_Supabase__Claude__Stripe__Outlook_and_Gmail.json)|

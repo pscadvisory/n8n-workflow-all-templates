@@ -1,4 +1,4 @@
-# bug : 15
+# bug : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |11697|[11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json)|
 |12205|[12205_Escalate_product_UAT_critical_bugs_with_OpenAI__Jira_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/22/12205_Escalate_product_UAT_critical_bugs_with_OpenAI__Jira_and_Slack.json)|
 |14553|[14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/45/14553_Triage_video_bug_support_tickets_using_WayinVideo_and_GPT-4o-mini_to_Google_Sheets.json)|
+|15876|[15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/58/15876_Notify_customers_of_resolved_Jira_bugs_with_Gmail__HubSpot__Slack_and_Sheets.json)|

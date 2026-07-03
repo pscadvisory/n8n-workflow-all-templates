@@ -1,4 +1,4 @@
-# open : 34
+# open : 38
 
 |id|file|
 |----|----|
@@ -36,3 +36,7 @@
 |12539|[12539_Fetch_reliable_FX_exchange_rates_with_Frankfurter_and_open.er-api.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/25/12539_Fetch_reliable_FX_exchange_rates_with_Frankfurter_and_open.er-api.json)|
 |12725|[12725_Verify_AI_draft_answers_with_Pearl_Hybrid_Intelligence_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/27/12725_Verify_AI_draft_answers_with_Pearl_Hybrid_Intelligence_and_OpenAI.json)|
 |13809|[13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/38/13809_Run_Hugging_Face_open-source_AI_models_via_webhook_in_n8n.json)|
+|16420|[16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/64/16420_Track_Etsy_competitor_listing_prices_with_Etsy_Open_API_alerts.json)|
+|16535|[16535_Monitor_multi-city_courier_weather_risk_with_Open-Meteo__GPT-4o__Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16535_Monitor_multi-city_courier_weather_risk_with_Open-Meteo__GPT-4o__Gemini_and_Slack.json)|
+|16638|[16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16638_Handle_clinic_appointments_via_MCP_tools_for_Vapi_and_Retell_voice_agents.json)|
+|16672|[16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/66/16672_Qualify_open_house_leads_and_send_AI_follow-ups_with_Google_Sheets_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# pulse : 7
+# pulse : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8061|[8061_Generate_Daily_Business_Digest_with_Notion__Gmail__Stripe__Calendar__and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8061_Generate_Daily_Business_Digest_with_Notion__Gmail__Stripe__Calendar__and_GPT-4o.json)|
 |8170|[8170_Weekly_Gratitude_Pulse__Automated_Appreciation_DMs_for_Slack___Discord_Communities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8170_Weekly_Gratitude_Pulse__Automated_Appreciation_DMs_for_Slack___Discord_Communities.json)|
 |8573|[8573_Forum_Pulse_for_Telegram__Community_Monitoring_with_Gemini___Groq_AI_Models.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8573_Forum_Pulse_for_Telegram__Community_Monitoring_with_Gemini___Groq_AI_Models.json)|
+|16507|[16507_Send_adaptive_daily_Supabase_product_pulse_emails_with_Claude_and_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/65/16507_Send_adaptive_daily_Supabase_product_pulse_emails_with_Claude_and_SMTP.json)|

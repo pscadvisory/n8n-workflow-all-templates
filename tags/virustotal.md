@@ -1,4 +1,4 @@
-# virustotal : 12
+# virustotal : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |13581|[13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/35/13581_Scan_Gmail_links_with_VirusTotal_and_send_alerts_to_WhatsApp__Teams__and_Sheets.json)|
 |13656|[13656_Analyze_domain_threats_via_Telegram_with_VirusTotal__AbuseCH__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/36/13656_Analyze_domain_threats_via_Telegram_with_VirusTotal__AbuseCH__and_Gemini_AI.json)|
 |14127|[14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/41/14127_Score_DNS_threats_with_VirusTotal__Abuse.ch__HashiCorp_Vault_and_Gemini.json)|
+|15207|[15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/52/15207_Scan_incoming_Gmail_attachments_for_threats_with_VirusTotal_and_GPT-4o-mini.json)|
